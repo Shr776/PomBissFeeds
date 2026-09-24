@@ -1,0 +1,39 @@
+0 3860 V 30000 = 89 B6 5A 99 06 E3 8D 76 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 = Fi17GNVE =  = 
+31 3845 H 30000 = 89 B6 5A 99 06 E3 8D 76 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 3.1E = 4:2:0 | HD | 1920x1080 =  = Africa Cup of Nations - Qualification = 
+130 11629 H 7200 = 89 B6 5A 99 06 E3 8D 76 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13E = 4:2:0 = LEUK_Fi01 =  = 
+99060 4085 H 7200 = 89 B6 5A 99 06 E3 8D 76 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 06E = 4:2:0 = Service-RTNC 1 =  = 
+31 4189 V 7200 = 89 B6 5A 99 06 E3 8D 76 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 3.1E = 4:2:0 | HD | 1920x1080 =  = Africa Cup of Nations, Qualification = Namibia Congo Eutelsat 3B _ C BAND @ 3.1E ( C BAND )
+130 12526 H 7199 = 12 14 AB D1 AB BA 2B 90 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13E = 4:2:0 | HD | 1920x1080 =  = Africa Cup of Nations U20 - Qualification - Round 1 = Algeria U20 Tunisia U20 Teams : Libya U20 Egypt U20 Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND )
+0 3890 H 7200 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 = EGCAF-ZANZIBAR MAIN =  = 
+130 11629 V 19200 = 89 B6 5A 99 06 E3 8D 76 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13.0E = 4:2:0 = VM5GVs1 AFCON 1 =  = 
+0 12602 H 7200 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4.2.0 = MRC004-MAIN =  = 
+130 11609 V 7200 = 89 B6 5A 99 06 E3 8D 76 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13.0E = 4:2:0 = ENC-007 =  = 
+0 11255 H 7200 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4.2.0 = ALG 006 Main =  = 
+0 12537 H 7200 = 89 B6 5A 99 06 E3 8D 76 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = HD = MRC-003 MAIN =  = 
+160 11190 H 7199 = 89 B6 5A 99 06 E3 8D 76 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 16.0E = 4:2:0 = TUN004 BCK =  = 
+160 10970 V 4799 = AB BA 26 8B DC AE 09 93 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 16.0E = 4:2:0 | HD | 1920x1080 =  =  = 
+160 10996 V 7498 = 77 93 52 5C 99 08 86 27 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 16.0E = 4:2:0 | HD | 1920x1080 =  =  = 
+130 11613 H 14400 = F3 0A 42 3F 2A 92 81 3D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:2 = Unname =  = 
+160 12594 H 7198 = B5 4D FD FF 6B C6 1E 4F = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 16.0E = 4:2:0 | HD | 1920x1080 =  = Basketball -Europe Euro league - Round 1 = Dubai Real Madrid Eutelsat 16A @ 16.0E ( KU-BAND )
+130 11647 H 7198 = AA AA BB 0F BB CC CC 53 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13E = 4:2:0 | HD | 1920x1080 =  =  = 
+130 11655 H 7198 = AA AA BB 0F BB CC CC 53 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13E = 4:2:0 | HD | 1920x1080 =  =  = 
+160 11176 H 9874 = AA AA BB 0F BB CC CC 53 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 16.0E = 4:2:2 | HD | 1920x1080 =  =  = 
+130 10841 H 7200 = 53 85 77 4F 1C 65 59 DA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = 13E = 4:2:0 | HD | 1920x1080 =  = Europe Euro league - Round 1 = Hapoel Tel Aviv Bayern Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND )
+130 11666 H 7198 = 57 98 FF EE ED 5C 6A B3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = 13E = 4:2:0 | HD | 1920x1080 =  = World Club World Championship - Qualification - Final = Sydney University Veszprem Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND )
+130 11084 V 14400 = 24 C1 9B 80 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 13.0E = 4:2:2 = AUT34-M02-M =  = 
+160 11128 H 9875 = 24 C1 9B 80 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 16.0E = 4:2:2 = 2Sat HOL318 Main MD1 M5 =  = 
+160 11140 H 9875 = 24 C1 9B 80 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 16.0E = 4:2:2 = NOR-044 - M6 - MAIN =  = 
+160 11163 H 9874 = 24 C1 9B 80 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 16.0E = 4:2:2 = ITA 415 UNL M8 Main =  = 
+130 11595 H 14400 = 24 C1 9B 80 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 13.0E = 4:2:2 = ITA-274 NTF MATCH 08 bup =  = 
+160 11152 H 9875 = 24 C1 9B 80 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 16.0E = 4:2:2 = E-94 - M07 B - MAIN =  = 
+160 12512 H 9873 = 24 C1 9B 80 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 16.0E = 4:2:0 | HD | 1920x1080 =  = UEFA Nations League = 
+130 11638 H 7199 = 12 34 AB F1 CD 20 26 13 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = 13E = 4:2:0 | HD | 1920x1080 =  =  = 
+130 11638 H 7199 = 12 34 AB F1 CD 20 26 13 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = 13E = 4:2:0 | HD | 1920x1080 =  = CRO Race 2026 = 
+1005 3800 H 7200 = CF A1 20 90 26 09 CA F9 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = 100.5E = 1920x1080 | 4:2:0 = 2026 CHONGQING main =  = 
+0 12698 H 7199 = 13 5E C3 34 FC A3 B1 50 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E =  = 4:2:0 = ENC 1 =  = 
+0 11059 H 7200 = 2D 9C 7B 44 4E 8F 13 F0 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E =  = 4:2:0 = IMG 2 EU =  = 
+0 3966 V 7200 = CE 27 7D 72 20 20 E4 24 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E =  = 4:2:0 =  =  = 
+0 4041 H 7200 = 13 5E C3 34 FC A3 B1 50 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E =  = 4.2.0 = Billie Jean King CUP =  = 
+0 11167 V 7200 = BA 50 F3 FD E5 CC 81 32 = Cricket Feeds @ 100.5°E 10°E 68°E.... =  = 4.2.0 = eNCA =  = 
+0 12548 V 4798 = 15 58 35 A2 71 42 63 16 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) =  = HD =  =  = 
+130 12538 H 9598 = B8 0D 7C 41 8E F9 5E E5 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = 13E = 4:2:0 | HD | 1920x1080 =  = Jumping World Cup = 
