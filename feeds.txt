@@ -1,3 +1,5 @@
+0 12717 V 14400 = F5 78 24 91 09 26 F1 20 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here =  = HD =  =  = 
+0 12534 V 7199 = F5 78 24 91 09 26 F2 21 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here =  = HD =  =  = 
 0 11662 H 7200 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 = M5 MRC006A Main =  = 
 130 10841 H 7200 = 53 85 77 4F 1C 65 59 DA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = 13E = 4:2:0 | HD | 1920x1080 =  = Europe Euro league - Round 1 = Hapoel Tel Aviv Bayern Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND )
 160 12594 H 7198 = B5 4D FD FF 6B C6 1E 4F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = 16.0E = 4:2:0 | HD | 1920x1080 =  = Basketball -Europe Euro league - Round 1 = Dubai Real Madrid Eutelsat 16A @ 16.0E ( KU-BAND )
@@ -5,7 +7,6 @@
 130 11666 H 7198 = 57 98 FF EE ED 5C 6A B3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = 13E = 4:2:0 | HD | 1920x1080 =  = World Club World Championship - Qualification - Final = Sydney University Veszprem Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND )
 130 12552 H 7200 = 24 09 DC 09 BA 20 26 00 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = 13E = 4:2:2 | HD | 1920x1080 =  = Germany DHB Pokal - 1/16-finals = Stuttgart Erlangen Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND )
 0 12552 H 9874 = AA BB CC 31 DD BB AA 42 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites =  = 4:2:0 = WSBK CREMONA =  = 
-160 11176 H 9874 = AA AA BB 0F BB CC CC 53 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 16.0E = 4:2:2 | HD | 1920x1080 =  =  = 
 130 11084 V 14400 = 24 C1 9B 80 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 13.0E = 4:2:2 = AUT34-M02-M =  = 
 160 11128 H 9875 = 24 C1 9B 80 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 16.0E = 4:2:2 = 2Sat HOL318 Main MD1 M5 =  = 
 160 11140 H 9875 = 24 C1 9B 80 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 16.0E = 4:2:2 = NOR-044 - M6 - MAIN =  = 
