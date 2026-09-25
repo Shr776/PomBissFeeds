@@ -1,3 +1,12 @@
+0 12609 V 9700 = EE 26 D0 E4 92 5E 60 50 = VOLLYBALL FEEDS All Satellites KU Band C band = Hotbird 13F/G = 4:2:0 = ITA349 CEV Milano =  = 
+0 10829 V 7199 = FF 26 D0 F5 92 5E 60 50 = VOLLYBALL FEEDS All Satellites KU Band C band = Hotbird 13F/G = 4:2:0 = ITA465 M =  = 
+0 10985 V 9601 = AB BA 26 8B DC AE 09 93 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16A = 4.2.0 = POL 030 = Women's Volleyball: LOTTO Volleyball Giants – Match: KS DevelopRes Rzeszów vs. Mladost Zagreb = 
+0 10829 V 7199 = FF 26 D0 F5 92 5E 60 50 = VOLLYBALL FEEDS All Satellites KU Band C band = Hotbird 13F/G = 4:2:0 = ITA465 M =  = 
+0 11609 V 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Hotbird 13F/G = 4:2:0 = Melbourne v North Melbourne = AFLW Women's - Melbourne vs North Melbourne = 
+0 12713 V 7198 = F1 95 25 AB 09 26 F1 20 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here =  = HD =  =  = 
+0 11247 H 7199 = 1E 83 F2 93 CA 53 9D BA = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10A = 4:2:0 = URC =  = 
+0 12648 V 7199 = F6 42 25 5D 09 26 F1 20 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16A = 4:2:0 = F641 DI FEM POISSYMAIN =  = 
+0 12678 H 7119 = AE 44 67 59 54 CD 33 54 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Hotbird 13F/G = 4:2:0 = Spare =  = 
 1005 3860 V 30000 = F1 BC F0 9D CD 04 94 65 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 100.5E = 4:2:0 = Fi09_GNVE = Africa Cup of Nations Qualification, = 
 0 11161 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16A = 4:2:0 = LEUK_Fi02 =  = 
 0 11639 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Hotbird 13F/G = 4:2:0 = LEUK_Fi01 =  = 
@@ -15,21 +24,14 @@
 30 3805 H  = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 3E =  = VM6GVs 1 AFCON Path 01 =  = 
 0 3820 V 30000 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Hotbird 13F/G = 4:2:0 = VM6GVs1 AFCON Path 01 = - = 
 0 11161 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16A = 4:2:0 = LEUK_Fi02 = CAF African Cup of Nations = Egypt Angola
-0 11609 V 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Hotbird 13F/G = 4:2:0 = Melbourne v North Melbourne = AFLW Women's - Melbourne vs North Melbourne = 
-0 12713 V 7198 = F1 95 25 AB 09 26 F1 20 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here =  = HD =  =  = 
-0 11247 H 7199 = 1E 83 F2 93 CA 53 9D BA = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10A = 4:2:0 = URC =  = 
-0 12648 V 7199 = F6 42 25 5D 09 26 F1 20 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16A = 4:2:0 = F641 DI FEM POISSYMAIN =  = 
+0 10867 H 7199 = AA BB 20 85 26 09 25 54 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Hotbird 13F/G = 4:2:0 = E-228 Main =  = 
+0 10973 V 9601 = AB BA 26 8B DC AE 09 93 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16A = 4.2.0 = POL-25 ENC1 = Nations League – Match: Poland vs. Bosnia and Herzegovina = 
+0 11128 V 14400 = 5C D2 FC 2A 07 BE 9B 60 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 7B/C = 4:2:0 = RAI ITA 645 A =  = 
 0 12628 V 2900 = BF DD CA 66 EE 08 44 3A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = HD =  =  = 
 0 11502 V 9875 = NO KEY = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = UKI-1324 BCK =  = 
 0 11502 V 9875 = DB 79 D0 23 8A A1 20 4B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = UKI-1324 BCK =  = 
 0 11502 V 9875 = DB 79 D0 23 8A A1 20 4B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = UKI-1324 BCK =  = 
 1005 4146 H 7200 = E7 2F FF 15 FD 09 26 2C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 100.5E = 4:2:0 = GCUK Enc 9 =  = 
-0 10867 H 7199 = AA BB 20 85 26 09 25 54 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Hotbird 13F/G = 4:2:0 = E-228 Main =  = 
-0 10973 V 9601 = AB BA 26 8B DC AE 09 93 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16A = 4.2.0 = POL-25 ENC1 = Nations League – Match: Poland vs. Bosnia and Herzegovina = 
-0 11128 V 14400 = 5C D2 FC 2A 07 BE 9B 60 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 7B/C = 4:2:0 = RAI ITA 645 A =  = 
-0 12609 V 9700 = EE 26 D0 E4 92 5E 60 50 = VOLLYBALL FEEDS All Satellites KU Band C band = Hotbird 13F/G = 4:2:0 = ITA349 CEV Milano =  = 
-0 10829 V 7199 = FF 26 D0 F5 92 5E 60 50 = VOLLYBALL FEEDS All Satellites KU Band C band = Hotbird 13F/G = 4:2:0 = ITA465 M =  = 
-0 10985 V 9601 = AB BA 26 8B DC AE 09 93 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16A = 4.2.0 = POL 030 = Women's Volleyball: LOTTO Volleyball Giants – Match: KS DevelopRes Rzeszów vs. Mladost Zagreb = 
 0 11058 H 7199 = 78 91 36 3F A2 08 D3 7D = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Hotbird 13F/G = 4:2:0 = IMG 1 EU =  = 
 90 3965 H 7120 = 3F 76 9E 53 72 45 87 3E = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = 9E = 4:2:0 = Global Feed =  = 
 0 12687 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Hotbird 13F/G = 4:2:0 = ONE FRIDAY FIGHT =  = 
