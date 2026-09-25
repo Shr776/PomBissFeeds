@@ -1,3 +1,5 @@
+130 12550 H 9875 = 11 22 33 66 44 22 11 77 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = 13.0E = 4.2.0 = WSBK CREMONA =  = 
+130 12696 H 7200 = 4C D8 B9 DD A2 09 87 32 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = 13.0E = 4.2.0 | 4:2:0 =  =  = 
 130 11666 H 7200 = 57 98 FF EE ED 5C 6A B3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = 13.0E = 4.2.0 = ORA - ANA =  = 
 0 3860 V 30000 = F1 BC F0 9D CD 04 94 65 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4:2:0 = Fi09_GNVE =  = 
 130 12525 H 7200 = 20 25 DE 23 AF 20 26 F5 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:2 = ENC 13 =  = 
