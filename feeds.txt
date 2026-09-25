@@ -1,3 +1,4 @@
+0 3860 V 30000 = F1 BC F0 9D CD 04 94 65 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4:2:0 = Fi09_GNVE =  = 
 0 3849 H 6666 = 24 FD 47 68 B5 70 A2 C7 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) =  = 4.2.0 = NACMIL =  = 
 1005 3994 V 7499 = 91 9F F3 23 E8 C3 19 C4 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = 100.5E = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 3 = Atlanta Falcons vs Green Bay Packers (@ Lambeau Field)
 0 11058 H 7199 = 78 91 36 3F A2 08 D3 7D = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = 4:2:0 = IMG 1 EU =  = 
