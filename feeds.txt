@@ -3,7 +3,7 @@
 0 11639 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 = LEUK_Fi01 =  = 
 130 10867 H 7200 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13E =  = GVA_Fi04 =  = 
 0 11622 V 29996 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 = VM5GVs1 AFCON 1 =  = 
-130 10839 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13E = 4:2:0 | HD | 1920x1080 =  = Africa Cup of Nations - Qualification - Round 1 = Niger Lesotho Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND )
+130 10839 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13.0E = 4:2:0 | HD | 1920x1080 =  = Africa Cup of Nations - Qualification - Round 1 = Niger Lesotho Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND )
 0 11623 V 30000 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 = VM5GVs4 AFCON 4 =  = 
 0 10857 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 = GVA_Fi05 =  = 
 160 11187 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 16.0E = 4:2:0 = EGY-017-main =  = 
@@ -11,21 +11,25 @@
 160 21555 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 16.0E = 4:2:0 =  =  = 
 0 11662 H 7200 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 | 4:2:2 = M5 MRC006A Main =  = 
 216 11582 H 7200 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 21.6E = 4:2:0 = MRC-003 MAIN =  = 
-0 11642 H 30000 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 01
-E = 4:2:0 = VM6GVs1 AFCON Path 01 = - = 
+130 11642 H 30000 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13.0E = 4:2:0 = VM6GVs1 AFCON Path 01 = Morocco vs. Gabon = 
 30 3805 H  = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 3E =  = VM6GVs 1 AFCON Path 01 =  = 
-0 10973 V 9601 = AB BA 26 8B DC AE 09 93 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 =  = 4.2.0 = POL-25 ENC1 = Nations League – Match: Poland vs. Bosnia and Herzegovina = 
-70 11128 V 14400 = 5C D2 FC 2A 07 BE 9B 60 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 7.0E = 4:2:0 = RAI ITA 645 A =  = 
+130 11642 H 30000 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13.0E = 4:2:0 = VM6GVs1 AFCON Path 01 = - = Morocco Gabon ID: VM6GVs2 AFCON Path 10 Teams : Burkina Faso Benin
+130 3820 V 30000 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13.0E = 4:2:0 = VM6GVs1 AFCON Path 01 = - = 
+160 11162 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 16.0E = 4:2:0 | HD | 1920x1080 =  = Teams : = Eutelsat 16A @ 16.0E ( KU-BAND )
 130 11609 V 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = 13.0E = 4:2:0 = Melbourne v North Melbourne = AFLW Women's - Melbourne vs North Melbourne = 
 0 12713 V 7198 = F1 95 25 AB 09 26 F1 20 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here =  = HD =  =  = 
-660 12628 V 2900 = BF DD CA 66 EE 08 44 3A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 66E = HD =  =  = 
+100 11247 H 7199 = 1E 83 F2 93 CA 53 9D BA = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = 10.0E = 4:2:0 = URC =  = 
+0 12628 V 2900 = BF DD CA 66 EE 08 44 3A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = HD =  =  = 
 0 11502 V 9875 = NO KEY = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = UKI-1324 BCK =  = 
 0 11502 V 9875 = DB 79 D0 23 8A A1 20 4B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = UKI-1324 BCK =  = 
 0 11502 V 9875 = DB 79 D0 23 8A A1 20 4B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = UKI-1324 BCK =  = 
 0 4146 H 7200 = E7 2F FF 15 FD 09 26 2C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4:2:0 = GCUK Enc 9 =  = 
+0 10867 H 7199 = AA BB 20 85 26 09 25 54 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4:2:0 = E-228 Main =  = 
+160 10973 V 9601 = AB BA 26 8B DC AE 09 93 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 16E = 4.2.0 = POL-25 ENC1 = Nations League – Match: Poland vs. Bosnia and Herzegovina = 
+70 11128 V 14400 = 5C D2 FC 2A 07 BE 9B 60 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 7.0E = 4:2:0 = RAI ITA 645 A =  = 
 0 12609 V 9700 = EE 26 D0 E4 92 5E 60 50 = VOLLYBALL FEEDS All Satellites KU Band C band =  = 4:2:0 = ITA349 CEV Milano =  = 
 0 10829 V 7199 = FF 26 D0 F5 92 5E 60 50 = VOLLYBALL FEEDS All Satellites KU Band C band =  = 4:2:0 = ITA465 M =  = 
-0 10985 V 9601 = AB BA 26 8B DC AE 09 93 = VOLLYBALL FEEDS All Satellites KU Band C band =  = 4.2.0 = POL 030 = Women's Volleyball: LOTTO Volleyball Giants – Match: KS DevelopRes Rzeszów vs. Mladost Zagreb = 
+160 10985 V 9601 = AB BA 26 8B DC AE 09 93 = VOLLYBALL FEEDS All Satellites KU Band C band = 16E = 4.2.0 = POL 030 = Women's Volleyball: LOTTO Volleyball Giants – Match: KS DevelopRes Rzeszów vs. Mladost Zagreb = 
 0 11058 H 7199 = 78 91 36 3F A2 08 D3 7D = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = 4:2:0 = IMG 1 EU =  = 
 90 3965 H 7120 = 3F 76 9E 53 72 45 87 3E = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = 9E = 4:2:0 = Global Feed =  = 
 130 12687 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = 13.0E = 4:2:0 = ONE FRIDAY FIGHT =  = 
@@ -41,13 +45,13 @@ E = 4:2:0 = VM6GVs1 AFCON Path 01 = - =
 0 3849 H 6666 = 24 FD 47 68 B5 70 A2 C7 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) =  = 4.2.0 = NACMIL =  = 
 1005 3994 V 7499 = 91 9F F3 23 E8 C3 19 C4 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = 100.5E = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 3 = Atlanta Falcons vs Green Bay Packers (@ Lambeau Field)
 0 12591 V 7199 = E7 2F FF 15 FD 09 26 2C = Athletics Marathons etc (10°E 7°E 100.5°E.... etc) =  = 4:2:0 = E342 FEED 1 =  = 
-0 11628 H 7199 = 93 D4 6D D4 60 F6 1E 74 = Gymnastics feed ... @ 7°E10°E100.5°E =  = 4:2:0 = ita390 =  = 
+10 11628 H 7199 = 93 D4 6D D4 60 F6 1E 74 = Gymnastics feed ... @ 7°E10°E100.5°E = 1E = 4:2:0 = ita390 =  = 
 0 11266 V 2400 = 20 26 FE 44 ED 19 97 9D = Miltary events Parade Games Veterans Day.... (BISS ENC.) =  =  =  =  = 
 100 11277 V 4798 = 20 26 FE 44 ED 19 97 9D = Miltary events Parade Games Veterans Day.... (BISS ENC.) = 10.0E = 4:2:0 = TF1 T50 Loutde =  = 
 100 11254 V 9798 = 20 26 FE 44 ED 19 97 9D = Miltary events Parade Games Veterans Day.... (BISS ENC.) = 10.0E = 4:2:0 = ORION FEED 1 =  = 
-0 11464 V 7200 = C9 F9 6C 2E 9A C9 5F C2 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W =  = 4.2.0 = No name =  = 
+20 11464 V 7200 = C9 F9 6C 2E 9A C9 5F C2 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = 2E = 4.2.0 = No name =  = 
 216 0200 H  = FE ED 25 10 09 20 26 4F = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = 21.6E =  =  =  = 
 0 11645 H 7199 = AA AA BB 0F BB CC CC 53 = RowingSailing =  = 4:2:0 = GVA_FI01 =  = 
 160 11186 H 9874 = AA AA BB 0F BB CC CC 53 = RowingSailing = 16.0E = 4:2:2 = ITA548 Feed B Complient Mai =  = 
 0 11599 H 5000 = C7 3F 4D 53 6E 50 35 F3 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) =  = 4.2.0 = AH BU =  = 
-0 11460 V 6800 = 09 00 00 09 09 20 26 4F = Turkish Feeds: SNG MEDYA except sports feeds (Türksat 2A3A4A @ 42°E) =  = 4:2:0 =  =  = 
+420 11460 V 6800 = 09 00 00 09 09 20 26 4F = Turkish Feeds: SNG MEDYA except sports feeds (Türksat 2A3A4A @ 42°E) = 42.0E = 4:2:0 =  =  = 
