@@ -1,21 +1,23 @@
-0 11058 H 7199 = 78 91 36 3F A2 08 D3 7D = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Hotbird 13F/G = 4:2:0 = IMG 1 EU =  = 
-90 3965 H 7120 = 3F 76 9E 53 72 45 87 3E = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = 9E = 4:2:0 = Global Feed =  = 
-0 12687 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Hotbird 13F/G = 4:2:0 = ONE FRIDAY FIGHT =  = 
-1005 4115 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 100.5E = 4:2:0 = ONE NIGHT FIGHT INNER CIRCLE =  = 
-1005 4115 H 7119 = NO KEY = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 100.5E = 4:2:0 | 4.2.0 = ONE NIGHT FIGHT INNER CIRCLE =  = 
-0 12636 V 7698 = AB CD 64 DC 12 AA BB 77 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = HD =  =  = 
-0 12628 V 2900 = BF DD CA 66 EE 08 44 3A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = HD =  =  = 
-0 11502 V 9875 = NO KEY = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = UKI-1324 BCK =  = 
-0 11502 V 9875 = DB 79 D0 23 8A A1 20 4B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = UKI-1324 BCK =  = 
-0 11502 V 9875 = DB 79 D0 23 8A A1 20 4B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = UKI-1324 BCK =  = 
-1005 4146 H 7200 = E7 2F FF 15 FD 09 26 2C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 100.5E = 4:2:0 = GCUK Enc 9 =  = 
-0 11461 V 15000 = D4 0C C7 A7 B2 72 A7 CB = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = ZB PATH 1 CLN BU =  = 
 0 12609 V 9700 = EE 26 D0 E4 92 5E 60 50 = VOLLYBALL FEEDS All Satellites KU Band C band = Hotbird 13F/G = 4:2:0 = ITA349 CEV Milano =  = 
 0 10829 V 7199 = FF 26 D0 F5 92 5E 60 50 = VOLLYBALL FEEDS All Satellites KU Band C band = Hotbird 13F/G = 4:2:0 = ITA465 M =  = 
 0 10985 V 9601 = AB BA 26 8B DC AE 09 93 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16A = 4.2.0 = POL 030 = Women's Volleyball: LOTTO Volleyball Giants – Match: KS DevelopRes Rzeszów vs. Mladost Zagreb = 
 0 10829 V 7199 = FF 26 D0 F5 92 5E 60 50 = VOLLYBALL FEEDS All Satellites KU Band C band = Hotbird 13F/G = 4:2:0 = ITA465 M =  = 
 130 10829 V 7200 = BB 26 D0 B1 92 5E 60 50 = VOLLYBALL FEEDS All Satellites KU Band C band = 13E = HD = ITA465 M =  = 
 0 12609 V 9700 = AB 26 D0 A1 92 5E 60 50 = VOLLYBALL FEEDS All Satellites KU Band C band = Hotbird 13F/G = 4:2:0 = ITA349 CEV Milano =  = 
+0 11138 V 7200 = 3A 13 63 B0 07 C2 E5 AE = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7B/C = 4:2:0 = RAI ITA 887 A = Men's European Volleyball Championship - = 
+0 12628 V 2900 = BF DD CA 66 EE 08 44 3A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = HD =  =  = 
+0 11502 V 9875 = NO KEY = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = UKI-1324 BCK =  = 
+0 11502 V 9875 = DB 79 D0 23 8A A1 20 4B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = UKI-1324 BCK =  = 
+0 11502 V 9875 = DB 79 D0 23 8A A1 20 4B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = UKI-1324 BCK =  = 
+1005 4146 H 7200 = E7 2F FF 15 FD 09 26 2C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 100.5E = 4:2:0 = GCUK Enc 9 =  = 
+0 11461 V 15000 = D4 0C C7 A7 B2 72 A7 CB = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.2 = ZB PATH 1 CLN BU =  = 
+0 11694 H 7199 = 1C A4 22 E2 A6 1D 3A FD = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Hotbird 13F/G = 4:2:0 | HD =  =  = 
+0 11058 H 7199 = 78 91 36 3F A2 08 D3 7D = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Hotbird 13F/G = 4:2:0 = IMG 1 EU =  = 
+90 3965 H 7120 = 3F 76 9E 53 72 45 87 3E = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = 9E = 4:2:0 = Global Feed =  = 
+0 12687 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Hotbird 13F/G = 4:2:0 = ONE FRIDAY FIGHT =  = 
+1005 4115 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 100.5E = 4:2:0 = ONE NIGHT FIGHT INNER CIRCLE =  = 
+1005 4115 H 7119 = NO KEY = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 100.5E = 4:2:0 | 4.2.0 = ONE NIGHT FIGHT INNER CIRCLE =  = 
+0 12636 V 7698 = AB CD 64 DC 12 AA BB 77 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = HD =  =  = 
 0 11609 V 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Hotbird 13F/G = 4:2:0 = Melbourne v North Melbourne = AFLW Women's - Melbourne vs North Melbourne = 
 0 12713 V 7198 = F1 95 25 AB 09 26 F1 20 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here =  = HD =  =  = 
 0 11247 H 7199 = 1E 83 F2 93 CA 53 9D BA = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10A = 4:2:0 = URC =  = 
