@@ -1,13 +1,3 @@
-0 11058 H 7199 = 78 91 36 3F A2 08 D3 7D = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = 4:2:0 = IMG 1 EU =  = 
-90 3965 H 7120 = 3F 76 9E 53 72 45 87 3E = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = 9E = 4:2:0 = Global Feed =  = 
-130 12687 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = 13.0E = 4:2:0 = ONE FRIDAY FIGHT =  = 
-0 4115 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = 4:2:0 = ONE NIGHT FIGHT INNER CIRCLE =  = 
-160 11161 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 16.0E = 4:2:0 = LEUK_Fi02 =  = 
-0 11639 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 = LEUK_Fi01 =  = 
-130 10867 H 7200 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13E =  = GVA_Fi04 =  = 
-1005 11161 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 100.5E = 4:2:0 = LEUK_Fi02 = Africa Cup of Nations Qualification, = 
-0 11622 V 29996 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 = VM5GVs1 AFCON 1 =  = 
-130 10839 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13E = 4:2:0 | HD | 1920x1080 =  = Africa Cup of Nations - Qualification - Round 1 = Niger Lesotho Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND )
 130 12525 H 7200 = 20 25 DE 23 AF 20 26 F5 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:2 = ENC 13 =  = 
 130 12680 H 9875 = CC D7 13 B6 27 2A 9B EC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:2 | HD = ENC-23 =  = 
 0 3992 V 9875 = CC D7 13 B6 27 2A 9B EC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4:2:2 | HD =  =  = 
@@ -15,6 +5,21 @@
 130 11067 H 7200 = 08 D2 51 2B 42 20 BB 1D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:0 = IMG 2 EU =  = 
 130 11655 H 7200 = AA AA BB 0F BB CC CC 53 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:0 = GVA_Fi02 =  = 
 100 11277 V 4798 = 20 26 FE 44 ED 19 97 9D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 10.0E = 4:2:0 = TF1 T50 Loutde =  = 
+100 11260 V 2400 = 20 26 FE 44 ED 19 97 9D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 10E = 4:2:0 = MEDEF RG =  = 
+100 11254 V 9798 = 20 26 FE 44 ED 19 97 9D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 10.0E = 4:2:0 = ORION FEED 1 =  = 
+660 12628 V 2900 = BF DD CA 66 EE 08 44 3A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 66E = HD =  =  = 
+0 11058 H 7199 = 78 91 36 3F A2 08 D3 7D = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = 4:2:0 = IMG 1 EU =  = 
+90 3965 H 7120 = 3F 76 9E 53 72 45 87 3E = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = 9E = 4:2:0 = Global Feed =  = 
+130 12687 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = 13.0E = 4:2:0 = ONE FRIDAY FIGHT =  = 
+0 4115 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = 4:2:0 = ONE NIGHT FIGHT INNER CIRCLE =  = 
+0 4115 H 7119 = NO KEY = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = 4:2:0 | 4.2.0 = ONE NIGHT FIGHT INNER CIRCLE =  = 
+160 11161 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 16.0E = 4:2:0 = LEUK_Fi02 =  = 
+0 11639 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 = LEUK_Fi01 =  = 
+130 10867 H 7200 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13E =  = GVA_Fi04 =  = 
+1005 11161 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 100.5E = 4:2:0 = LEUK_Fi02 = Africa Cup of Nations Qualification, = 
+0 11622 V 29996 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 = VM5GVs1 AFCON 1 =  = 
+130 10839 H 7199 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = 13E = 4:2:0 | HD | 1920x1080 =  = Africa Cup of Nations - Qualification - Round 1 = Niger Lesotho Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND )
+0 11623 V 30000 = F8 F4 F1 DD 86 B7 0F 4C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4:2:0 = VM5GVs4 AFCON 4 =  = 
 130 11066 V 14400 = 25 C1 9B 81 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 13.0E = 4:2:2 = E360 UNL-M1 M =  = 
 130 11084 V 14400 = 25 C1 9B 81 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 13.0E = 4:2:2 = E 363 UNL M2 M =  = 
 130 11190 V 14400 = 25 C1 9B 81 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 13.0E = 4:2:2 = HUNG022-2-ULNM03 = UEFA Nations League - Hungary vs Ukraine = 
@@ -34,10 +39,11 @@
 130 11666 H 7200 = 57 98 FF EE ED 5C 6A B3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = 13.0E = 4.2.0 = ORA - ANA =  = 
 0 3849 H 6666 = 24 FD 47 68 B5 70 A2 C7 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) =  = 4.2.0 = NACMIL =  = 
 1005 3994 V 7499 = 91 9F F3 23 E8 C3 19 C4 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = 100.5E = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 3 = Atlanta Falcons vs Green Bay Packers (@ Lambeau Field)
+0 11266 V 2400 = 20 26 FE 44 ED 19 97 9D = Miltary events Parade Games Veterans Day.... (BISS ENC.) =  =  =  =  = 
+100 11252 V 9800 = 20 26 FE 44 ED 19 97 9D = Miltary events Parade Games Veterans Day.... (BISS ENC.) = 10E = 4.2.0 =  =  = 
 0 11464 V 7200 = C9 F9 6C 2E 9A C9 5F C2 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W =  = 4.2.0 = No name =  = 
 216 0200 H  = FE ED 25 10 09 20 26 4F = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = 21.6E =  =  =  = 
 0 11645 H 7199 = AA AA BB 0F BB CC CC 53 = RowingSailing =  = 4:2:0 = GVA_FI01 =  = 
 160 11186 H 9874 = AA AA BB 0F BB CC CC 53 = RowingSailing = 16.0E = 4:2:2 = ITA548 Feed B Complient Mai =  = 
-0 11266 V 2400 = 20 26 FE 44 ED 19 97 9D = Miltary events Parade Games Veterans Day.... (BISS ENC.) =  =  =  =  = 
 0 11599 H 5000 = C7 3F 4D 53 6E 50 35 F3 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) =  = 4.2.0 = AH BU =  = 
 0 11460 V 6800 = 09 00 00 09 09 20 26 4F = Turkish Feeds: SNG MEDYA except sports feeds (Türksat 2A3A4A @ 42°E) =  = 4:2:0 =  =  = 
