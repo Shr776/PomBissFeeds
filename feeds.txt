@@ -1,16 +1,18 @@
-0 3860 V 30000 = F1 BC F0 9D CD 04 94 65 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4:2:0 = Fi09_GNVE =  = 
-130 12525 H 7200 = 20 25 DE 23 AF 20 26 F5 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:2 = ENC 13 =  = 
-130 12680 H 9875 = CC D7 13 B6 27 2A 9B EC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:2 = ENC-23 =  = 
-0 3992 V 9875 = CC D7 13 B6 27 2A 9B EC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4:2:2 =  =  = 
-130 11058 H 7200 = 6A 9A D7 DB 91 81 80 92 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:0 = IMG 1 EU =  = 
-130 11067 H 7200 = 08 D2 51 2B 42 20 BB 1D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:0 = IMG 2 EU =  = 
 130 11066 V 14400 = 25 C1 9B 81 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 13.0E = 4:2:2 = E360 UNL-M1 M =  = 
 130 11084 V 14400 = 25 C1 9B 81 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 13.0E = 4:2:2 = E 363 UNL M2 M =  = 
-0 11516 V 8000 = 46 D1 68 7F 85 22 74 1B = BOXING all satellites feeds (10E .....) =  = 4:2:0 =  =  = 
+130 11190 V 14400 = 25 C1 9B 81 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 13.0E = 4:2:2 = HUNG022-2-ULNM03 = UEFA Nations League - Hungary vs Ukraine = 
+130 11208 V 14400 = 25 C1 9B 81 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = 13.0E = 4:2:2 = YSM-012r UNL MD1 = UEFA Nations League - = 
+130 11609 V 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = 13.0E = 4:2:0 = Melbourne v North Melbourne = AFLW Women's - Melbourne vs North Melbourne = 
+130 12525 H 7200 = 20 25 DE 23 AF 20 26 F5 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:2 = ENC 13 =  = 
+130 12680 H 9875 = CC D7 13 B6 27 2A 9B EC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:2 | HD = ENC-23 =  = 
+0 3992 V 9875 = CC D7 13 B6 27 2A 9B EC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4:2:2 | HD =  =  = 
+130 11058 H 7200 = 6A 9A D7 DB 91 81 80 92 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:0 = IMG 1 EU =  = 
+130 11067 H 7200 = 08 D2 51 2B 42 20 BB 1D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = 13.0E = 4:2:0 = IMG 2 EU =  = 
 130 12550 H 9875 = 11 22 33 66 44 22 11 77 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = 13.0E = 4.2.0 = WSBK CREMONA =  = 
 130 12696 H 7200 = 4C D8 B9 DD A2 09 87 32 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = 13.0E = 4.2.0 | 4:2:0 =  =  = 
 130 11666 H 7200 = 57 98 FF EE ED 5C 6A B3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = 13.0E = 4.2.0 = ORA - ANA =  = 
 0 3849 H 6666 = 24 FD 47 68 B5 70 A2 C7 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) =  = 4.2.0 = NACMIL =  = 
 1005 3994 V 7499 = 91 9F F3 23 E8 C3 19 C4 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = 100.5E = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 3 = Atlanta Falcons vs Green Bay Packers (@ Lambeau Field)
 0 11058 H 7199 = 78 91 36 3F A2 08 D3 7D = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = 4:2:0 = IMG 1 EU =  = 
+0 11599 H 5000 = C7 3F 4D 53 6E 50 35 F3 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) =  = 4.2.0 = AH BU =  = 
 0 11460 V 6800 = 09 00 00 09 09 20 26 4F = Turkish Feeds: SNG MEDYA except sports feeds (Türksat 2A3A4A @ 42°E) =  = 4:2:0 =  =  = 
