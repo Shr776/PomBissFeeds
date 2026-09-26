@@ -1,4 +1,3 @@
-0 12583 V 7200 = CC CE 42 DC DF D7 7F 35 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Hotbird 13F/G = 4:2:0 = B 123 DGI =  = 
 0 11066 V 14400 = 26 C1 9B 82 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 =  = 4:2:2 = UKI-1462-M1-MAIN =  = 
 0 11190 V 14400 = 26 C1 9B 82 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 =  = 4:2:2 = HOL311-2-UNL-M3 =  = 
 0 11502 V 9875 = DC EB AF 76 E3 10 39 2C = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 =  = 4.2.2 = UKI-1324 BCK =  = 
@@ -6,6 +5,10 @@
 0 11594 H 14400 = 26 C1 9B 82 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Hotbird 13F/G = 4.2.2 = ITA198 NTF M5 Main =  = 
 0 11208 V 14400 = 26 C1 9B 82 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 =  = 4:2:2 = ISL-RKS-002-M04-MAIN =  = 
 0 11084 V 14400 = 26 C1 9B 82 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Hotbird 13F/G = 4:2:2 = UNL MD1 M2 BUL006 main =  = 
+0 11633 H 14400 = 26 C1 9B 82 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Hotbird 13F/G = 4:2:2 = SLQ-008 M10 BU =  = 
+0 11612 H 14400 = 26 C1 9B 82 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Hotbird 13F/G = 4:2:2 = BUL007 UNL M6 Main =  = 
+1005 3860 V 30000 = 12 34 AB F1 CD 20 26 13 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 100.5E = 4:2:0 =  =  = 
+0 12583 V 7200 = CC CE 42 DC DF D7 7F 35 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Hotbird 13F/G = 4:2:0 = B 123 DGI =  = 
 1005 3860 V 30000 = F1 BC F0 9D CD 04 94 65 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 100.5E = 4:2:0 = Fi09_GNVE = Africa Cup of Nations Qualification = 
 1005 3944 V 7200 = AB 25 D7 A7 8C 43 65 34 = BOXING all satellites feeds (10E .....) = AsiaSat 100.5E = 4:2:0 = Boxing ENC-23 =  = 
 0 12654 V 7200 = AB 25 D7 A7 8C 43 65 34 = BOXING all satellites feeds (10E .....) = Eutelsat 16A = 4:2:0 = Boxing ENC-23 =  = 
