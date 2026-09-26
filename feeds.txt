@@ -1,3 +1,8 @@
+0 12696 H 7200 = CA DD B0 57 E9 0E 6F 66 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = Hotbird 13F/G = 4:2:0 = ENC 1 = Billie Jean King Cup 2026 = 
+1005 3966 V 7200 = CA DD B0 57 E9 0E 6F 66 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = AsiaSat 100.5E = 4:2:0 =  = Billie Jean King Cup 2026 = 
+0 12550 H 9875 = 11 22 33 66 44 22 11 77 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Hotbird 13F/G = 4.2.0 = WSBK CREMONA =  = 
+1005 3944 V 7200 = AB 25 D7 A7 8C 43 65 34 = BOXING all satellites feeds (10E .....) = AsiaSat 100.5E = 4:2:0 = Boxing ENC-23 =  = 
 0 11066 V 14400 = 26 C1 9B 82 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 =  = 4:2:2 = UKI-1462-M1-MAIN =  = 
 0 3857 H 6666 = 21 CF 89 79 89 E2 29 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) =  = 4.2.0 = ONCAT =  = 
 0 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Hotbird 13F/G = 4:2:0 = IMG 1 EU =  = 
+20 11464 V 7200 = C9 F9 6C 2E 9A C9 5F C2 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = 2E = 4.2.0 = No name =  = 
