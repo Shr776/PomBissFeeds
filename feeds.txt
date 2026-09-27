@@ -1,3 +1,4 @@
+70 11133 V 7200 = DA 07 A1 82 07 C3 D6 A0 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:0 = RaiITA645A =  =  = 2026-09-27 13:32
 420 11480 V 7498 = E4 EE 1F F1 89 37 27 E7 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unname =  =  = 2026-09-27 12:57
 130 11666 H 7200 = 57 98 FF EE ED 5C 6A B3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = ORA - ANA = Club World Championship - 9th-10th places = Sydney University Los Angeles = 2026-09-27 11:25
 130 12583 V 7200 = 56 88 79 57 2C B6 5E 40 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = B 123 DGI = EHF Euro Cup Women - =  = 2026-09-27 12:44
