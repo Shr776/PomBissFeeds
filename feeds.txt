@@ -1,4 +1,10 @@
+70 11133 V 7200 = DA 07 A1 82 07 C3 D6 A0 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:0 = RaiITA645A =  =  = 2026-09-27 18:05
+70 11124 V 7200 = CD 75 E9 2B 07 C2 4F 18 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:0 = TUR139-Main =  =  = 2026-09-27 18:46
+19 11508 V 17141 = FB C6 37 F8 93 14 A2 49 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = BulgariaSat 1 ( 1.9E ) = 4:2:0 = NFL INT PAL SVC 6 =  =  = 2026-09-27 10:05
+1005 3966 V 7500 = 12 28 16 50 A1 3B 1C F8 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 5 =  =  = 2026-09-27 18:17
 420 11678 V 7500 = 75 13 55 DD 3C DD 99 B2 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-09-27 17:51
+100 3885 V  = EB 54 4F 8E D0 B1 DA 5B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-09-27 18:03
+70 11103 V 7200 = A1 B2 C3 16 D4 E5 F6 AF = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 7C ( 7E ) = 4.2.2 = POL-058_ch1 =  =  = 2026-09-27 18:07
 130 11088 V 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Sydney Swans v Brisbane Lions =  =  = 2026-09-27 09:30
 130 11618 V 7119 = B1 23 B4 88 56 B7 89 96 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-09-27 17:45
 130 10857 H 7199 = 20 26 EA 30 EA 09 27 1A = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = World Club Friendly = Shanghai Shenhua (CHN) Zenit (RUS) Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-09-27 15:33
@@ -6,7 +12,6 @@
 160 12536 H 7200 = 16 AA 24 E4 F6 BD 2C DF = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 16D ( 16E ) = 4.2.0 = Main E-285 =  =  = 2026-09-27 17:38
 130 12696 H 7200 = 3A E2 E7 03 57 BF DE F4 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 1 = Billie Jean King Cup 2026 =  = 2026-09-27 11:22
 1005 3946 H 7200 = 3A E2 E7 03 57 BF DE F4 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = Billie Jean King Cup 2026 =  = 2026-09-27 17:09
-70 11133 V 7200 = DA 07 A1 82 07 C3 D6 A0 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:0 = RaiITA645A =  =  = 2026-09-27 16:52
 130 11066 V 14400 = 27 C1 9B 83 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = LTU-001-M1 -Main =  =  = 2026-09-27 09:26
 130 11190 V 14400 = 27 C1 9B 83 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = E-95 Domestic =  =  = 2026-09-27 11:28
 130 11083 V 14397 = 27 C1 9B 83 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 | HD | 1920x1080 =  = UEFA Nations League - League B - Round 2 = Austria Kosovo Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-09-27 11:36
@@ -28,7 +33,6 @@
 420 11480 V 7498 = E4 EE 1F F1 89 37 27 E7 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unname =  =  = 2026-09-27 12:57
 130 11666 H 7200 = 57 98 FF EE ED 5C 6A B3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = ORA - ANA = Club World Championship - 9th-10th places = Sydney University Los Angeles = 2026-09-27 11:25
 130 12583 V 7200 = 56 88 79 57 2C B6 5E 40 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = B 123 DGI = EHF Euro Cup Women - =  = 2026-09-27 12:44
-19 11508 V 17141 = FB C6 37 F8 93 14 A2 49 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = BulgariaSat 1 ( 1.9E ) = 4:2:0 = NFL INT PAL SVC 6 =  =  = 2026-09-27 10:05
 130 11068 H 7199 = 33 77 55 FF CA 12 12 EE = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-09-27 04:27
 160 10998 V 7500 = 77 93 52 5C 99 08 86 27 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.0 = POL019 TVN KRK = Message from Poland =  = 2026-09-27 17:48
 160 12545 V 4800 = 15 58 35 A2 71 42 63 16 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.0 = Polsat Sport = Message from Poland =  = 2026-09-27 17:50
