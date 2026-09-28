@@ -18,6 +18,6 @@
 1005 4147 H 7200 = NO KEY = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = AsiaSat 5 ( 100.5E ) = 4:2:0 = TXout-1 RXout-9 =  =  = 2026-09-28 15:15
 70 11607 H 7199 = 20 26 AA F0 DD 20 26 23 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 7C ( 7E ) = 4:2:0 = EN8000 =  =  = 2026-09-28 18:27
 1005 3975 V 7500 = 70 9B B7 C2 D1 FE 4C 1B = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-09-28 02:52
-192 11561 V 7200 = D9 51 AB D5 CA 34 78 76 = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4.2.0 =  = 2026 World Grand Prix - 28 Sep/4 Oct 2026 - Mattioli Arena, Leicester =  = 2026-09-28 20:33
 420 11462 V 7200 = F8 9D 28 BD BA CE 09 91 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-09-28 23:07
+192 11561 V 7200 = D9 51 AB D5 CA 34 78 76 = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4.2.0 =  = 2026 World Grand Prix - 28 Sep/4 Oct 2026 - Mattioli Arena, Leicester =  = 2026-09-28 20:33
 160 10971 V 4799 = AB BA 26 8B DC AE 09 93 = Biathlon Triathlon Pentathlon FEEDS = Eutelsat 16D ( 16E ) = 4:2:0 | HD | 1920x1080 =  = WORLD TRIATHLON =  = 2026-09-28 15:33
