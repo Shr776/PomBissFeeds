@@ -1,10 +1,15 @@
-130 12583 V 7200 = 69 DD E1 27 2A 51 8F 0A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = B 123 DGI = EHF Europa League Men - HCB Karvina vs TTH Holstebro =  = 2026-09-29 18:00
+130 12583 V 7200 = 69 DD E1 27 2A 51 8F 0A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF ELM M4 KAR-HOL = EHF Europa League Men - HCB Karvina vs TTH Holstebro =  = 2026-09-29 18:00
 130 12591 V 7200 = AD 84 0A 3B 12 18 FC 26 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = D-408 ENC2 =  =  = 2026-09-29 18:01
-1005 3860 V 30000 = CC F9 5E 23 EE DD A3 6E = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi12_GNVE =  =  = 2026-09-29 17:53
-130 12679 H 7200 = BA 23 DE BB 81 CD 72 C0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = LAT-002 = BKT EuroCup - =  = 2026-09-29 17:50
+130 10829 V 7200 = 31 02 F1 24 24 AD FA CB = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = BIH-003-1 = EHF Europa League Men - =  = 2026-09-29 18:08
+130 10848 V 7200 = 11 FA E6 F1 81 FA E6 61 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ROU-050 = EHF Europa League Men - =  = 2026-09-29 18:11
+130 10838 V 7200 = 91 1F 32 E2 FA E6 AD 8D = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF ELM KAR TTH =  =  = 2026-09-29 18:13
 130 11068 H 7199 = 45 41 44 CA A4 5F 31 34 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-09-29 07:35
 160 12513 H 9874 = DE 81 BC 1B 8D BE 82 CD = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:2 = Service1 =  =  = 2026-09-29 14:38
 130 11636 V 7200 = CC F9 5E 23 EE DD A3 6E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = QL60 LEUK_Fi01 =  =  = 2026-09-29 16:03
+130 10847 V 7200 = 11 FA E6 F1 81 FA E6 61 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.0 = ROU-050 =  =  = 2026-09-29 18:07
+130 12679 H 7200 = BA 23 DE BB 81 CD 72 C0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = LAT-002 = BKT EuroCup - =  = 2026-09-29 17:50
+216 11580 H 4937 = 03 9E 9A 3B 21 AC 13 E0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = Grapefruit =  =  = 2026-09-29 18:03
+1005 3860 V 30000 = CC F9 5E 23 EE DD A3 6E = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi12_GNVE =  =  = 2026-09-29 17:53
 130 11065 V 14400 = 29 C1 9B 85 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = ROU-015 - 1 - UNLM1 = UEFA Nations League - Moldova vs Faroe Islands =  = 2026-09-29 11:44
 160 11129 H 9874 = 29 C1 9B 85 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = M02 - MAIN =  =  = 2026-09-29 12:29
 130 11208 V 14400 = 29 C1 9B 85 AB 9A 09 4E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = HOL-110-1-UNLM5 = UEFA Nations League - Luxembourg vs Iceland =  = 2026-09-29 13:25
