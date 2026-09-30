@@ -1,3 +1,4 @@
+-475 3849 H 6666 = 2F 07 C8 FE 23 12 F7 2C = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-09-30 01:22
 130 11612 V 9874 = 10 AD 67 24 C7 96 E3 40 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = ITA548 UWCL M1 Main =  =  = 2026-09-30 14:16
 130 11623 V 9875 = C2 C6 64 EC 26 8E B5 69 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = SWE-043 - M02 - MAIN = UEFA Champions League Women - Bollkubben Hacken vs Juventus Women =  = 2026-09-30 14:20
 130 11635 V 9874 = A7 E9 2A BA 17 11 FF 27 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-09-30 14:22
@@ -40,7 +41,6 @@
 192 11460 V 6799 = NO KEY = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Astra 1N/1P ( 19.2E ) = 4:2:2 =  =  =  = 2026-09-30 18:14
 100 11167 V 7199 = E1 01 FC DE 26 13 8A C3 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-09-30 13:55
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-09-30 01:37
--475 3849 H 6666 = 2F 07 C8 FE 23 12 F7 2C = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-09-30 01:22
 100 3905 H  = EB 54 4F 8E D0 B1 DA 5B = BOXING all satellites feeds (10E .....) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-09-30 00:26
 360 11644 V 7201 = E0 21 3F 40 D6 FA 6C 3C = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 36D ( 36E ) = 4:2:0 = SAU-031B =  =  = 2026-09-30 19:17
 360 11653 V 7201 = DF 65 45 89 15 96 8B 36 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 36D ( 36E ) = 4:2:0 = E-276 MAIN =  =  = 2026-09-30 19:20
