@@ -1,5 +1,9 @@
 160 11190 H 7199 = 17 C0 46 1D 7E 96 08 1C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 | HD | 1920x1080 =  = Africa Cup of Nations - Qualification - Round 2 = Eritrea South Africa Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-09-30 15:23
 1005 3860 V 30000 = 17 C0 46 1D 7E 96 08 1C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi11_GNVE = Africa Cup of Nations - Qualification - Round 2 =  = 2026-09-30 16:01
+1005 3860 V 30000 = CC F9 5E 23 EE DD A3 6E = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = QL60 LEUK_Fi01 =  =  = 2026-09-30 16:06
+130 11618 H 7199 = 12 14 AB D1 AB BA 2B 90 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Service 01 =  =  = 2026-09-30 16:30
+160 12523 H 9875 = 4A D6 C8 E8 F0 61 4B 9C = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4.2.2 = E-94 - M05 - MAIN =  =  = 2026-09-30 16:18
+160 12512 H 9873 = DE 81 BC 1B 8D BE 82 CD = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4:2:0 | HD | 1920x1080 =  = UEFA Champions League Women = OL Lyonnes W Chelsea W Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-09-30 16:19
 130 11067 H 7200 = D5 34 8B 94 DD F8 44 19 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-09-30 10:59
 70 11140 V 5000 = F8 62 B1 0B 07 C4 72 3D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:0 = RAiITA909 =  =  = 2026-09-30 14:59
 130 11635 V 9874 = A7 E9 2A BA 17 11 FF 27 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-09-30 14:22
@@ -9,4 +13,5 @@
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-09-30 01:37
 -475 3849 H 6666 = 2F 07 C8 FE 23 12 F7 2C = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-09-30 01:22
 100 3905 H  = EB 54 4F 8E D0 B1 DA 5B = BOXING all satellites feeds (10E .....) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-09-30 00:26
+160 11180 H 7199 = 9D 4B 62 4A C2 22 CC B0 = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 16D ( 16E ) = 4:2:0 | HD | 1920x1080 =  = WORLD AQUATICS SWIMMING WORLD CUP 2026 BAKU 2026 =  = 2026-09-30 16:09
 130 11066 V 4936 = 4F 0E C3 20 F2 C1 92 45 = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = WAHT ENC55 =  =  = 2026-09-30 03:34
