@@ -1,3 +1,8 @@
+130 11068 H 7199 = 11 A3 7F 33 3F 36 BA 2F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-01 16:30
+216 11580 H 4937 = 01 A1 D7 79 E3 35 ED 05 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = Grapefruit =  =  = 2026-10-01 18:18
+48 11085 V 4800 = 10 12 09 2B 32 12 22 66 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Astra 4A ( 4.8E ) = 4.2.0 = SNG MK2 =  =  = 2026-10-01 18:25
+100 3890 H  = EB 54 4F 8E D0 B1 DA 5B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-01 18:41
+130 11638 H 7199 = AF DA F8 81 F0 D5 F5 BA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA340 A =  =  = 2026-10-01 21:36
 130 11065 V 14400 = 01 C1 9B 5D AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = AZE-013_MAIN_CHAIN = UEFA Nations League - Azerbaigian vs Liechtenstein =  = 2026-10-01 12:13
 130 11655 H 9874 = 3B 06 81 C2 8F 61 DA CA = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = E399 - UNL M4 VBR MAIN =  =  = 2026-10-01 12:43
 130 11208 V 14400 = 01 C1 9B 5D AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = ITA 689 M06 M =  =  = 2026-10-01 13:31
@@ -13,13 +18,11 @@
 216 0200 H  = FE ED 01 EC 10 20 26 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-10-01 19:33
 420 11122 V 7200 = B1 28 57 30 07 C4 66 31 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-01 19:39
 100 10769 H 7200 = A2 3B CD AA 9E 3A BC 94 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 10B ( 10E ) = 4.2.0 = ARM004 =  =  = 2026-10-01 20:39
-130 12707 H 7199 = BC 6C C6 EE EF 60 D3 22 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 1 =  =  = 2026-10-01 19:16
+400 11217 H 14400 = CA 01 BE 89 10 26 DC 12 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Express AM7 ( 40E ) = 4:2:2 = ZDF DSNG =  =  = 2026-10-01 21:18
 130 11668 H 7199 = 57 98 FF EE ED 5C 6A B3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ORA - ANA =  =  = 2026-10-01 12:56
 0 11063 V 2899 = NO KEY = Handbal Biss Feed 10°E 16°E 3E  100.5°E =  =  = Unname =  =  = 2026-10-01 18:50
-130 11068 H 7199 = 11 A3 7F 33 3F 36 BA 2F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-01 16:30
-216 11580 H 4937 = 01 A1 D7 79 E3 35 ED 05 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = Grapefruit =  =  = 2026-10-01 18:18
-48 11085 V 4800 = 10 12 09 2B 32 12 22 66 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Astra 4A ( 4.8E ) = 4.2.0 = SNG MK2 =  =  = 2026-10-01 18:25
-100 3890 H  = EB 54 4F 8E D0 B1 DA 5B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-01 18:41
+215 11650 H 6666 = 53 10 31 94 24 1B E9 28 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 21B ( 21.5E ) = HD =  =  =  = 2026-10-01 21:07
+130 12707 H 7199 = BC 6C C6 EE EF 60 D3 22 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 1 =  =  = 2026-10-01 19:16
 130 11630 H 7199 = 50 A7 98 8F 34 78 5A 06 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = LEUK_Fi01 =  =  = 2026-10-01 17:39
 1005 3860 V 30000 = 50 A7 98 8F 34 78 5A 06 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi11_GNVE =  =  = 2026-10-01 17:40
 130 10842 H 9874 = 85 82 C9 D0 8B 81 99 A5 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-23 =  =  = 2026-10-01 12:50
