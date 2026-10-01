@@ -1,6 +1,7 @@
-130 11068 H 7199 = 11 A3 7F 33 3F 36 BA 2F = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-01 16:30
+216 11580 H 4937 = 01 A1 D7 79 E3 35 ED 05 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = Grapefruit =  =  = 2026-10-01 18:18
 130 11630 H 7199 = 50 A7 98 8F 34 78 5A 06 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = LEUK_Fi01 =  =  = 2026-10-01 17:39
 1005 3860 V 30000 = 50 A7 98 8F 34 78 5A 06 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi11_GNVE =  =  = 2026-10-01 17:40
+130 11068 H 7199 = 11 A3 7F 33 3F 36 BA 2F = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-01 16:30
 130 11624 V 9874 = F7 60 D4 2B FA EF 8D 76 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = SWE-043 - M02 - MAIN =  =  = 2026-10-01 14:13
 130 11611 V 9875 = 22 88 3D E7 43 24 89 F0 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = AUT34M01 M = UEFA Champions League Women - =  = 2026-10-01 14:14
 130 11635 V 9874 = 1B 4E 1E 87 49 30 86 FF = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = UKI1980 M4 Main =  =  = 2026-10-01 16:12
