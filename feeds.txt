@@ -12,6 +12,7 @@
 160 11152 H 9874 = 01 C1 9B 5D AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = UKI_1371_M04_Main =  =  = 2026-10-01 16:23
 216 0200 H  = FE ED 01 EC 10 20 26 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-10-01 19:33
 420 11122 V 7200 = B1 28 57 30 07 C4 66 31 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-01 19:39
+100 10769 H 7200 = A2 3B CD AA 9E 3A BC 94 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 10B ( 10E ) = 4.2.0 = ARM004 =  =  = 2026-10-01 20:39
 130 12707 H 7199 = BC 6C C6 EE EF 60 D3 22 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 1 =  =  = 2026-10-01 19:16
 130 11668 H 7199 = 57 98 FF EE ED 5C 6A B3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ORA - ANA =  =  = 2026-10-01 12:56
 0 11063 V 2899 = NO KEY = Handbal Biss Feed 10°E 16°E 3E  100.5°E =  =  = Unname =  =  = 2026-10-01 18:50
