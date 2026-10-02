@@ -1,3 +1,7 @@
+130 11067 H 7200 = EC 49 EC 21 52 14 6B D1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-02 10:27
+130 10810 H 7200 = E4 BB CB 6A 15 FE DE F1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Enc 9 =  =  = 2026-10-02 10:33
+130 11635 V 9875 = 90 E1 B3 24 A5 16 13 CE = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 315 MAIN =  =  = 2026-10-02 12:59
+130 12609 V 7199 = AB 50 98 93 BB FE 32 EB = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Sky Arc. =  =  = 2026-10-02 18:00
 160 12545 H 7199 = AB CD 74 EC 32 CD BA B9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = SAU-033-Main =  =  = 2026-10-02 15:20
 130 11684 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ONE Friday Fights Path A =  =  = 2026-10-02 15:55
 160 11188 H 7199 = E5 4D 32 64 18 FF E0 F7 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = GVA_Fi01 =  =  = 2026-10-02 15:30
@@ -9,14 +13,13 @@
 160 11128 H 9875 = 02 C1 9B 5E AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = BEL-095 - 2 - UNLM4 =  =  = 2026-10-02 14:29
 130 11613 H 14400 = 02 C1 9B 5E AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = HUN022-UNLM08 B = UEFA Nations League - Hungary vs Georgia =  = 2026-10-02 14:29
 160 11152 H 9875 = 02 C1 9B 5E AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = F634-UNLM7-SAT MAIN =  =  = 2026-10-02 14:43
-130 11067 H 7200 = EC 49 EC 21 52 14 6B D1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-02 10:27
-130 10810 H 7200 = E4 BB CB 6A 15 FE DE F1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Enc 9 =  =  = 2026-10-02 10:33
-130 11635 V 9875 = 90 E1 B3 24 A5 16 13 CE = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 315 MAIN =  =  = 2026-10-02 12:59
 130 11611 V 9875 = 01 1F 9C BC 72 F8 78 E2 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SLO-008 Tx 2 = European Championships in Ljubljana, Slovenia =  = 2026-10-02 12:52
 1005 3985 V 7499 = 6F 59 F5 BD 81 5F 9D 7D = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 4 = Pittsburgh Steelers vs Cleveland Browns (@ Huntington Bank Field) = 2026-10-02 03:32
 1005 3807 V 9875 = 47 ED 43 77 C1 70 D2 03 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-02 03:16
-1005 3992 V 7200 = AA BB 66 CB 72 92 83 87 = WATER MOTORSPORTS POWERBOATS RACING 10°E 7°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = F1H2O-1 =  =  = 2026-10-02 10:42
-160 12509 H 7199 = 89 00 BC 45 68 5C D7 9B = WATER MOTORSPORTS POWERBOATS RACING 10°E 7°E = Eutelsat 16D ( 16E ) = 4:2:0 = AZE-014 =  =  = 2026-10-02 16:56
 260 11127 V 4400 = 11 1A 26 51 65 99 65 63 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = SNG 05 - Main =  =  = 2026-10-02 14:59
 260 11132 V 4400 = 44 4C 11 A1 75 92 67 6E = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = SNG 02 - Chain A =  =  = 2026-10-02 16:14
+260 11154 V 4400 = 89 81 17 21 76 33 88 31 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = Main =  =  = 2026-10-02 17:06
+260 11149 V 4400 = 88 81 11 1A 66 33 11 AA = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = UAE074-B =  =  = 2026-10-02 17:36
+1005 3992 V 7200 = AA BB 66 CB 72 92 83 87 = WATER MOTORSPORTS POWERBOATS RACING 10°E 7°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = F1H2O-1 =  =  = 2026-10-02 10:42
+160 12509 H 7199 = 89 00 BC 45 68 5C D7 9B = WATER MOTORSPORTS POWERBOATS RACING 10°E 7°E = Eutelsat 16D ( 16E ) = 4:2:0 = AZE-014 =  =  = 2026-10-02 16:56
 160 12510 H 7200 = 89 00 BC 45 68 5C D7 9B = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 16D ( 16E ) = 4.2.0 = AZE-014 =  =  = 2026-10-02 10:21
