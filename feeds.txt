@@ -1,4 +1,6 @@
-100 11246 H 7200 = 1E 83 F2 93 CA 53 9D BA = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 = URC =  =  = 2026-10-02 21:13
+160 12545 H 7199 = AB CD 74 EC 32 CD BA B9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = SAU-033-Main =  =  = 2026-10-02 15:20
+130 11684 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ONE Friday Fights Path A =  =  = 2026-10-02 15:55
+130 11058 H 7199 = 22 67 AD 36 CB 34 21 20 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-02 22:20
 130 11609 V 7119 = A7 7C 18 3B EF 11 1D 1D = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-02 21:41
 130 11633 H 14400 = 02 C1 9B 5E AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = POL-142 NTF M09 EU BACKUP =  =  = 2026-10-02 13:33
 130 11595 H 14400 = 02 C1 9B 5E AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = HOL311-2-UNL-M06 =  =  = 2026-10-02 13:42
@@ -26,8 +28,6 @@
 160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Eutelsat 16D ( 16E ) = 4:2:0 = POL 030 =  =  = 2026-10-02 18:38
 20 12631 V 7199 = CA 1C 57 3D 13 A5 DC 94 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Astra 2E/2F/2G ( 28.2E ) = HD = BSB Donington =  =  = 2026-10-02 18:55
 160 12527 H 7199 = 50 A7 98 8F 34 78 5A 06 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = LEUK_Fi01 =  =  = 2026-10-02 18:43
-160 12545 H 7199 = AB CD 74 EC 32 CD BA B9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = SAU-033-Main =  =  = 2026-10-02 15:20
-130 11684 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ONE Friday Fights Path A =  =  = 2026-10-02 15:55
 160 11188 H 7199 = E5 4D 32 64 18 FF E0 F7 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = GVA_Fi01 =  =  = 2026-10-02 15:30
 1005 3800 H 7199 = CF A1 20 90 26 09 CA F9 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = 2026 CHONGQING main = FIFA Matchday - CFA Team China International Football Competitions Chongqing 2026 = China PR vs Palestine = 2026-10-02 14:57
 130 11067 H 7200 = EC 49 EC 21 52 14 6B D1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-02 10:27
