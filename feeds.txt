@@ -1,3 +1,5 @@
+100 11246 H 7200 = 1E 83 F2 93 CA 53 9D BA = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 = URC =  =  = 2026-10-02 21:13
+130 11609 V 7119 = A7 7C 18 3B EF 11 1D 1D = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-02 21:41
 130 11633 H 14400 = 02 C1 9B 5E AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = POL-142 NTF M09 EU BACKUP =  =  = 2026-10-02 13:33
 130 11595 H 14400 = 02 C1 9B 5E AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = HOL311-2-UNL-M06 =  =  = 2026-10-02 13:42
 130 11208 V 14400 = 02 C1 9B 5E AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = YSM-012-1-M5 MAIN = UEFA Nations League - Bosnia-Herzegovina vs Sweden =  = 2026-10-02 14:18
@@ -12,11 +14,10 @@
 160 10973 V 9601 = AB BA 26 8B DC AE 10 9A = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4.2.0 = POL-10 ENC1 = Nations League - match: Poland - Romania =  = 2026-10-02 20:10
 420 10974 V 7500 = 1C EC 96 9E E5 11 C5 BB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-10-02 18:38
 130 11068 H 7200 = EC 49 EC 21 52 14 6B D1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-02 19:19
+160 12536 H 7199 = C6 F0 59 0F 65 F2 1C 73 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = LEUK_Fi08 =  =  = 2026-10-02 19:26
 160 12520 H 7200 = 28 B8 DF BF B4 52 E1 E7 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = Fi08 LEUK =  =  = 2026-10-02 19:55
 160 12655 H 9875 = 27 09 DE 0E BB 58 41 54 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-02 19:34
 160 12718 H 4998 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-02 19:30
-130 11067 H 7200 = EC 49 EC 21 52 14 6B D1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-02 10:27
-160 12536 H 7199 = C6 F0 59 0F 65 F2 1C 73 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 = LEUK_Fi08 =  =  = 2026-10-02 19:26
 130 10810 H 7200 = E4 BB CB 6A 15 FE DE F1 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Enc 9 =  =  = 2026-10-02 10:33
 130 11611 V 9875 = 01 1F 9C BC 72 F8 78 E2 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SLO-008 Tx 2 = European Championships in Ljubljana, Slovenia =  = 2026-10-02 12:52
 160 12527 H 7199 = 47 06 62 AF 0D B1 43 01 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Eutelsat 16D ( 16E ) = 4:2:0 = GVA_Fi02 =  =  = 2026-10-02 19:09
@@ -29,6 +30,7 @@
 130 11684 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ONE Friday Fights Path A =  =  = 2026-10-02 15:55
 160 11188 H 7199 = E5 4D 32 64 18 FF E0 F7 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = GVA_Fi01 =  =  = 2026-10-02 15:30
 1005 3800 H 7199 = CF A1 20 90 26 09 CA F9 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = 2026 CHONGQING main = FIFA Matchday - CFA Team China International Football Competitions Chongqing 2026 = China PR vs Palestine = 2026-10-02 14:57
+130 11067 H 7200 = EC 49 EC 21 52 14 6B D1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-02 10:27
 1005 3985 V 7499 = 6F 59 F5 BD 81 5F 9D 7D = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 4 = Pittsburgh Steelers vs Cleveland Browns (@ Huntington Bank Field) = 2026-10-02 03:32
 420 11038 V 7199 = 13 57 AB 15 CD 24 68 59 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = Türksat 3A/4A/5B/6A ( 42E ) = HD = Live Broadcasting Line 1 =  =  = 2026-10-02 20:57
 216 0200 H  = FE ED 02 ED 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-10-02 18:51
