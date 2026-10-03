@@ -1,13 +1,17 @@
-130 11618 V 7200 = 1A 17 96 C7 37 FE FF 34 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = Fi01 ACB =  =  = 2026-10-03 13:40
-48 11085 V 4800 = AB CD EF 67 45 67 89 35 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Astra 4A ( 4.8E ) = 4.2.0 = SNG MK2 =  =  = 2026-10-03 18:05
 160 11164 H 9875 = 03 C1 9B 5F AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = SUI76-1 UNLM3 main = UEFA Nations League - =  = 2026-10-03 14:54
 192 11502 V 9875 = 44 8C 13 E3 33 72 60 05 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Astra 1N/1P ( 19.2E ) = 4.2.2 = UKI-1324 SKOPJE A =  =  = 2026-10-03 17:55
-160 11188 H 7199 = 8A 25 4A F9 32 18 86 D0 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = GVA_Fi05 =  =  = 2026-10-03 17:15
+130 12534 H 7200 = 20 AC AB 77 26 16 1D 59 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4.2.0 = ATLAS-SAT SNG 1 =  =  = 2026-10-03 18:51
+130 11618 V 7200 = 1A 17 96 C7 37 FE FF 34 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = Fi01 ACB =  =  = 2026-10-03 13:40
+48 11085 V 4800 = AB CD EF 67 45 67 89 35 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Astra 4A ( 4.8E ) = 4.2.0 = SNG MK2 =  =  = 2026-10-03 18:05
+216 11475 H 4937 = 3A 5C 6C 02 D9 50 E7 10 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = Grapefruit =  =  = 2026-10-03 18:39
+160 12718 H 4938 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = HD =  =  =  = 2026-10-03 18:43
 130 10829 V 7199 = 73 AD 01 21 CE 21 CF BE = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = LB Main =  =  = 2026-10-03 14:53
 130 12601 V 7199 = 12 87 B0 49 20 2E C8 16 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = D510 FEED1 =  =  = 2026-10-03 15:20
 130 10838 V 7199 = 95 0D DE 80 18 05 87 A4 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-GYO-GLO =  =  = 2026-10-03 17:00
 130 11629 H 7199 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = Live Broadcasting Line 1 =  =  = 2026-10-03 17:01
 130 10847 V 7199 = 5E A5 31 34 80 A1 95 B6 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-MET-NYK =  =  = 2026-10-03 17:11
+130 12593 V 7199 = BA B0 74 DE 23 DE 58 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = F560 BEIN METZ =  =  = 2026-10-03 18:32
+160 11188 H 7199 = 8A 25 4A F9 32 18 86 D0 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = GVA_Fi05 =  =  = 2026-10-03 17:15
 160 12655 H 9875 = 03 10 DE F1 DE 49 74 9B = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FBL Leipzig = German Frauen-Bundesliga - =  = 2026-10-03 16:42
 160 12643 H 9875 = 03 10 DE F1 DE 49 74 9B = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Koln = German Frauen-Bundesliga - =  = 2026-10-03 17:09
 130 11590 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = aflw = AFLW Women's - Brisbane Lions vs Gold Coast SUNS =  = 2026-10-03 10:37
