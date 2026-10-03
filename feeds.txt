@@ -1,12 +1,12 @@
-1005 3804 H 7119 = B2 C5 D3 4A E6 F4 A7 81 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = HD | 1920x1080i | 4:2:0 =  = ONE Fight Night 48 =  = 2026-10-03 04:38
-160 10997 V 10000 = 77 93 52 5C 99 08 86 27 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4.2.0 = POL027 = Combat Sports: King's Arena 4 =  = 2026-10-03 19:14
-130 11068 H 7200 = 22 67 AD 36 CB 34 21 20 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-10-03 22:08
-130 11609 V 7199 = 22 67 AD 36 CB 34 21 20 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = WSHT ENC 53 =  =  = 2026-10-03 22:53
 1005 3807 V 9875 = 59 F8 1B 6C 26 B4 38 12 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-03 02:51
 130 10841 H 9875 = FF 6C 23 8E 78 FF 15 8C = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.2 | 4:2:2 =  =  =  = 2026-10-03 09:23
 130 11634 V 9875 = 90 E1 B3 24 A5 16 13 CE = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.0 = ITA 315 MAIN =  =  = 2026-10-03 13:50
 130 10842 H 9874 = A6 89 B0 DF F5 41 7B B1 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-23 =  =  = 2026-10-03 22:27
 130 12678 H 7500 = F1 07 45 3D E6 CB AD 5E = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 3 =  =  = 2026-10-03 23:54
+1005 3804 H 7119 = B2 C5 D3 4A E6 F4 A7 81 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = HD | 1920x1080i | 4:2:0 =  = ONE Fight Night 48 =  = 2026-10-03 04:38
+160 10997 V 10000 = 77 93 52 5C 99 08 86 27 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4.2.0 = POL027 = Combat Sports: King's Arena 4 =  = 2026-10-03 19:14
+130 11068 H 7200 = 22 67 AD 36 CB 34 21 20 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-10-03 22:08
+130 11609 V 7199 = 22 67 AD 36 CB 34 21 20 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = WSHT ENC 53 =  =  = 2026-10-03 22:53
 70 11095 V 7200 = 15 58 35 A2 71 42 63 16 = BOXING all satellites feeds (10E .....) = Eutelsat 7C ( 7E ) = 4.2.2 = POL-103_ch1 = Rocky Boxing Night in Koszalin - heavyweight: Kacper Meyna - Victor Ramirez =  = 2026-10-03 22:34
 100 11257 H 7500 = A5 A7 11 5D DC 22 10 0E = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-03 01:13
 -475 3849 H 6666 = 09 BE 5A 21 B6 BD AB 1E = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-10-03 20:49
