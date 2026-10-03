@@ -1,6 +1,8 @@
+1005 3807 V 9875 = 59 F8 1B 6C 26 B4 38 12 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-03 02:51
+130 10841 H 9875 = FF 6C 23 8E 78 FF 15 8C = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.2 | 4:2:2 =  =  =  = 2026-10-03 09:23
 130 10810 H 7200 = E4 BB CB 6A 15 FE DE F1 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Enc 9 =  =  = 2026-10-03 08:59
 1005 3804 H 7119 = B2 C5 D3 4A E6 F4 A7 81 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = HD | 1920x1080i | 4:2:0 =  = ONE Fight Night 48 =  = 2026-10-03 04:38
-1005 3807 V 9875 = 59 F8 1B 6C 26 B4 38 12 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-03 02:51
 100 11257 H 7500 = A5 A7 11 5D DC 22 10 0E = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-03 01:13
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-03 00:07
+160 12510 H 7200 = 7B 89 60 64 A6 6C 42 54 = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 16D ( 16E ) = 4.2.0 = AZE-014 =  =  = 2026-10-03 09:40
 130 12678 H 7200 = AA BB 66 CB 72 92 83 87 = WATER MOTORSPORTS POWERBOATS RACING 10°E 7°E = HotBird 13F/13G ( 13E ) = 4.2.0 = F1H2O-1 =  =  = 2026-10-03 09:21
