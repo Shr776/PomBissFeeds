@@ -16,6 +16,7 @@
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-03 00:07
 160 10964 V 4800 = AB BA 26 8B DC AE 10 9A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-077 ENC-1 = Message from Poland =  = 2026-10-03 13:54
 160 10976 V 4800 = AB BA 26 8B DC AE 10 9A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.2 = POL11_HARM = Message from Poland =  = 2026-10-03 13:56
+160 10970 V 4800 = AB BA 26 8B DC AE 10 9A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.0 = POL-033 out1 = Message from Poland =  = 2026-10-03 14:13
 160 10982 V 4800 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-55 ENC1 = District League - match: ŁKS Łęknica - Cargovia Kargowa =  = 2026-10-03 13:34
 260 11135 V 8800 = 60 30 52 E2 58 44 17 B3 = Camel Race Feeds = Badr 4/5/6/7 ( 26E ) = 4.2.0 = ADM SNG 06 =  =  = 2026-10-03 12:53
 80 11464 V 7200 = 9A B8 8E E0 67 1B 66 E8 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = 8E = 4.2.0 = No name =  =  = 2026-10-03 10:11
