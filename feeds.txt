@@ -1,13 +1,17 @@
-130 11616 H 7200 = 12 14 AB D1 AB BA 2B 90 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.0 = ORA - ANA =  =  = 2026-10-03 16:01
+130 10829 V 7199 = 73 AD 01 21 CE 21 CF BE = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = LB Main =  =  = 2026-10-03 14:53
+130 12601 V 7199 = 12 87 B0 49 20 2E C8 16 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = D510 FEED1 =  =  = 2026-10-03 15:20
+130 10838 V 7199 = 95 0D DE 80 18 05 87 A4 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-GYO-GLO =  =  = 2026-10-03 17:00
+130 11629 H 7199 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = Live Broadcasting Line 1 =  =  = 2026-10-03 17:01
+130 11590 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = aflw = AFLW Women's - Brisbane Lions vs Gold Coast SUNS =  = 2026-10-03 10:37
+420 12722 V 7199 = F4 94 03 8B 10 26 F2 28 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD = BORDEAUX LNR UK =  =  = 2026-10-03 15:04
+420 12713 V 7199 = F4 94 03 8B 10 26 F1 27 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD = BORDEAUX SOS =  =  = 2026-10-03 15:06
+130 11647 H 7119 = 13 CC AA 89 22 E5 78 7F = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-03 17:00
+160 12655 H 9875 = 03 10 DE F1 DE 49 74 9B = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FBL Leipzig = German Frauen-Bundesliga - =  = 2026-10-03 16:42
+130 11616 H 7200 = 12 14 AB D1 AB BA 2B 90 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4.2.0 = ORA - ANA =  =  = 2026-10-03 16:01
 130 10810 H 7200 = E4 BB CB 6A 15 FE DE F1 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Enc 9 =  =  = 2026-10-03 08:59
 420 12535 V 7200 = 1C B9 CA 9F FD F4 35 26 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-03 15:13
 100 11258 V 7199 = F8 9D 03 98 10 BD 26 F3 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Eutelsat 10B ( 10E ) = 4:2:0 = MAIN =  =  = 2026-10-03 15:16
 70 11124 V 5000 = 7B 12 A9 36 07 C4 31 FC = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Eutelsat 7C ( 7E ) = 4:2:0 = ITA 646 B = Giro Dell'Emilia =  = 2026-10-03 15:56
-130 10829 V 7199 = 73 AD 01 21 CE 21 CF BE = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = LB Main =  =  = 2026-10-03 14:53
-130 12601 V 7199 = 12 87 B0 49 20 2E C8 16 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = D510 FEED1 =  =  = 2026-10-03 15:20
-130 11590 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = aflw = AFLW Women's - Brisbane Lions vs Gold Coast SUNS =  = 2026-10-03 10:37
-420 12722 V 7199 = F4 94 03 8B 10 26 F2 28 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD = BORDEAUX LNR UK =  =  = 2026-10-03 15:04
-420 12713 V 7199 = F4 94 03 8B 10 26 F1 27 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD = BORDEAUX SOS =  =  = 2026-10-03 15:06
 130 11655 H 7119 = 11 0F 52 72 2E FF 23 50 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-03 14:24
 130 11655 H 7119 = 11 0F 52 72 2E FF 23 50 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4.2.0 | SD = BT_SES_2_SDI =  =  = 2026-10-03 15:02
 160 11164 H 9875 = 03 C1 9B 5F AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = SUI76-1 UNLM3 main = UEFA Nations League - =  = 2026-10-03 14:54
@@ -19,14 +23,18 @@
 1005 3804 H 7119 = B2 C5 D3 4A E6 F4 A7 81 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = HD | 1920x1080i | 4:2:0 =  = ONE Fight Night 48 =  = 2026-10-03 04:38
 100 11257 H 7500 = A5 A7 11 5D DC 22 10 0E = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-03 01:13
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-03 00:07
+260 12628 V 5000 = FE DD AC 87 D5 AD 50 D2 = Egypt Feeds: ERTU HD2HD4_AAAz_A etc except sports feeds..7E10E30.5E etc = Badr 4/5/6/7 ( 26E ) = HD = OB-HD3 =  =  = 2026-10-03 16:43
+260 11135 V 8800 = 60 30 52 E2 58 44 17 B3 = Camel Race Feeds = Badr 4/5/6/7 ( 26E ) = 4.2.0 = ADM SNG 06 =  =  = 2026-10-03 12:53
+260 11153 V 8800 = 88 3A 25 E7 15 55 65 CF = Camel Race Feeds = Badr 4/5/6/7 ( 26E ) =  = SNG 05 -Main =  =  = 2026-10-03 16:37
+130 11059 H 7199 = 99 E7 35 B5 8F D4 67 CA = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = Dunhill Championship =  =  = 2026-10-03 16:20
+160 10982 V 4800 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-55 ENC1 = District League - match: ŁKS Łęknica - Cargovia Kargowa =  = 2026-10-03 13:34
+160 12656 V 7200 = D1 02 AC 7F DC 03 10 EF = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-102 MAIN = Women's football: ORLEN Ekstraliga - match: Górnik Łęczna - GKS Katowice =  = 2026-10-03 14:40
+160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = TVP POL-32  ENC 1 =  =  = 2026-10-03 16:14
 160 12510 H 7200 = 7B 89 60 64 A6 6C 42 54 = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 16D ( 16E ) = 4.2.0 = AZE-014 =  =  = 2026-10-03 09:40
 160 12520 H 4936 = A3 CD FE 6E 69 DD 01 47 = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-10-03 15:52
 160 12538 H 4936 = A3 CD FE 6E 69 DD 01 47 = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4.2.0 = MTVA SNG HUNGARY =  =  = 2026-10-03 15:30
 1005 4146 H 7200 = 26 CC DD CF 10 02 BA CC = Concert feed = AsiaSat 5 ( 100.5E ) = 4:2:0 = MYSVTP-1-1 =  =  = 2026-10-03 15:25
-160 10982 V 4800 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-55 ENC1 = District League - match: ŁKS Łęknica - Cargovia Kargowa =  = 2026-10-03 13:34
-160 12656 V 7200 = D1 02 AC 7F DC 03 10 EF = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-102 MAIN = Women's football: ORLEN Ekstraliga - match: Górnik Łęczna - GKS Katowice =  = 2026-10-03 14:40
 160 10964 V 4800 = AB BA 26 8B DC AE 10 9A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-077 ENC-1 = Message from Poland =  = 2026-10-03 13:54
 160 10976 V 4800 = AB BA 26 8B DC AE 10 9A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.2 = POL11_HARM = Message from Poland =  = 2026-10-03 13:56
 160 10970 V 4800 = AB BA 26 8B DC AE 10 9A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.0 = POL-033 out1 = Message from Poland =  = 2026-10-03 14:13
-260 11135 V 8800 = 60 30 52 E2 58 44 17 B3 = Camel Race Feeds = Badr 4/5/6/7 ( 26E ) = 4.2.0 = ADM SNG 06 =  =  = 2026-10-03 12:53
 80 11464 V 7200 = 9A B8 8E E0 67 1B 66 E8 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = 8E = 4.2.0 = No name =  =  = 2026-10-03 10:11
