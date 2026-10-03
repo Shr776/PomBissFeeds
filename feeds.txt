@@ -1,22 +1,13 @@
+1005 3804 H 7119 = B2 C5 D3 4A E6 F4 A7 81 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = HD | 1920x1080i | 4:2:0 =  = ONE Fight Night 48 =  = 2026-10-03 04:38
+160 10997 V 10000 = 77 93 52 5C 99 08 86 27 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4.2.0 = POL027 = Combat Sports: King's Arena 4 =  = 2026-10-03 19:14
+130 11068 H 7200 = 22 67 AD 36 CB 34 21 20 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-10-03 22:08
+130 11609 V 7199 = 22 67 AD 36 CB 34 21 20 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = WSHT ENC 53 =  =  = 2026-10-03 22:53
 1005 3807 V 9875 = 59 F8 1B 6C 26 B4 38 12 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-03 02:51
 130 10841 H 9875 = FF 6C 23 8E 78 FF 15 8C = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.2 | 4:2:2 =  =  =  = 2026-10-03 09:23
 130 11634 V 9875 = 90 E1 B3 24 A5 16 13 CE = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.0 = ITA 315 MAIN =  =  = 2026-10-03 13:50
 130 10842 H 9874 = A6 89 B0 DF F5 41 7B B1 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-23 =  =  = 2026-10-03 22:27
 130 12678 H 7500 = F1 07 45 3D E6 CB AD 5E = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 3 =  =  = 2026-10-03 23:54
-1005 3804 H 7119 = B2 C5 D3 4A E6 F4 A7 81 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = HD | 1920x1080i | 4:2:0 =  = ONE Fight Night 48 =  = 2026-10-03 04:38
-160 10997 V 10000 = 77 93 52 5C 99 08 86 27 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4.2.0 = POL027 = Combat Sports: King's Arena 4 =  = 2026-10-03 19:14
-130 11068 H 7200 = 22 67 AD 36 CB 34 21 20 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-10-03 22:08
-130 11609 V 7199 = 22 67 AD 36 CB 34 21 20 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = WSHT ENC 53 =  =  = 2026-10-03 22:53
 70 11095 V 7200 = 15 58 35 A2 71 42 63 16 = BOXING all satellites feeds (10E .....) = Eutelsat 7C ( 7E ) = 4.2.2 = POL-103_ch1 = Rocky Boxing Night in Koszalin - heavyweight: Kacper Meyna - Victor Ramirez =  = 2026-10-03 22:34
-130 11590 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = aflw = AFLW Women's - Brisbane Lions vs Gold Coast SUNS =  = 2026-10-03 10:37
-420 12722 V 7199 = F4 94 03 8B 10 26 F2 28 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD = BORDEAUX LNR UK =  =  = 2026-10-03 15:04
-420 12713 V 7199 = F4 94 03 8B 10 26 F1 27 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD = BORDEAUX SOS =  =  = 2026-10-03 15:06
-130 11647 H 7119 = 13 CC AA 89 22 E5 78 7F = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-03 17:00
-420 11066 V 7199 = F5 77 03 6F 10 26 F1 27 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-03 19:53
-1105 11057 V 7199 = F0 08 03 FB 10 F5 77 7C = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = ChinaSat 10 ( 110.5E ) = HD =  =  =  = 2026-10-03 19:56
-130 11656 H 7119 = 98 76 D2 E0 F1 14 14 19 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-03 20:05
-160 12638 V 7200 = F4 86 03 7D 10 26 F1 27 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:2 =  = TOP 14 - Castres vs Toulouse =  = 2026-10-03 21:31
-130 11646 H 7119 = 87 87 1A 28 A1 44 44 29 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-03 21:42
 100 11257 H 7500 = A5 A7 11 5D DC 22 10 0E = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-03 01:13
 -475 3849 H 6666 = 09 BE 5A 21 B6 BD AB 1E = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-10-03 20:49
 31 11662 H 7200 = FE ED 04 EF 10 20 26 56 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 3C ( 3.1E ) = 4:2:0 = MRC004-MAIN =  =  = 2026-10-03 20:02
