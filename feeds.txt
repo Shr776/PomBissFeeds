@@ -3,5 +3,8 @@
 130 11646 H 7199 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = AFLW 2026 =  =  = 2026-10-04 07:44
 1005 3807 V 9875 = 12 AB 99 56 93 B2 4E 93 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-04 02:49
 130 11655 H 7199 = 22 67 AD 36 CB 34 21 20 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = UFC RMC PRI =  =  = 2026-10-04 00:18
+360 12564 H 7200 = 03 10 BA CD CA 1F ED D6 = JUDO  KARATE FEEDS = Eutelsat 36D ( 36E ) = 4.2.0 = AZE-014 =  =  = 2026-10-04 10:48
+360 12573 H 7200 = 10 03 1F 32 AA B2 1A 76 = JUDO  KARATE FEEDS = Eutelsat 36D ( 36E ) = 4.2.0 = Serv 1080i =  =  = 2026-10-04 10:50
+420 11144 V 4999 = 86 FA E8 68 07 C4 4E 19 = Biathlon Triathlon Pentathlon FEEDS = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-04 10:32
 130 12687 H 7199 = AA BB 66 CB 72 92 83 87 = WATER MOTORSPORTS POWERBOATS RACING 10°E 7°E = HotBird 13F/13G ( 13E ) = 4:2:0 = F1H2O-1 =  =  = 2026-10-04 07:46
 130 11632 V 4936 = 6C 8E 74 6E D3 3A C2 CF = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = WAHT ENC55 =  =  = 2026-10-04 00:58
