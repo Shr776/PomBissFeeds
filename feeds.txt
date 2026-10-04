@@ -1,3 +1,10 @@
+1005 4104 H 7499 = F0 8F F2 71 C7 8A 3B 8C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 3 = American Football — NFL London Games 2026/27 Matchweek 4 = Indianapolis Colts vs Washington Commanders (@ Tottenham Hotspur Stadium) = 2026-10-04 16:41
+1005 3965 V 7500 = F9 D9 6D 3F 34 C9 A0 9D = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-10-04 20:38
+1005 3985 V 7500 = 52 2C 19 97 3D 38 56 CB = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-10-04 20:39
+1005 3974 V 7500 = 93 C7 E9 43 FC 49 B7 FC = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 2 =  =  = 2026-10-04 20:40
+130 10847 V 7199 = A1 DA 65 E0 E8 D9 FA BB = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = DNK 103 A =  =  = 2026-10-04 17:31
+130 10839 V 7199 = 98 01 5E F7 D7 FC A4 77 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 07 =  =  = 2026-10-04 17:37
+160 12509 V 4998 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-04 20:17
 216 11475 H 4937 = 0C 0A 48 5E 87 79 18 18 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = Grapefruit =  =  = 2026-10-04 17:59
 130 11062 V 7199 = EA 0A BA AE 21 F7 34 4C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi01 ACB =  =  = 2026-10-04 20:01
 70 11141 V 7200 = 49 C3 39 45 07 C5 04 D0 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = ITA81 =  =  = 2026-10-04 19:50
@@ -21,9 +28,6 @@
 130 3948 H 9875 = 45 7B DF 9F 3A 3E 7A F2 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:2 | 4.2.2 =  =  =  = 2026-10-04 16:19
 130 10842 H 9874 = 85 82 C9 D0 8B 81 99 A5 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-23 =  =  = 2026-10-04 18:20
 160 11188 H 7199 = 24 22 09 4F C9 E0 81 2A = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = GVA_Fi05 =  =  = 2026-10-04 17:47
-130 10847 V 7199 = A1 DA 65 E0 E8 D9 FA BB = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = DNK 103 A =  =  = 2026-10-04 17:31
-130 10839 V 7199 = 98 01 5E F7 D7 FC A4 77 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 07 =  =  = 2026-10-04 17:37
-1005 4104 H 7499 = F0 8F F2 71 C7 8A 3B 8C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 3 = American Football — NFL London Games 2026/27 Matchweek 4 = Indianapolis Colts vs Washington Commanders (@ Tottenham Hotspur Stadium) = 2026-10-04 16:41
 160 12612 H 7198 = AA AA 04 58 10 BB BB 86 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 16D ( 16E ) = 4:2:0 | HD | 1920x1080 =  = World Friendly International = Comoros Senegal Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-04 12:40
 30 3805 V  = AA AA 04 58 10 BB BB 86 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-10-04 16:19
 48 11481 V 11243 = BD 04 CA 8B 10 F1 61 62 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = Astra 4A ( 4.8E ) = HD = 2Sat HOL161 Main =  =  = 2026-10-04 13:23
