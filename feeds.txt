@@ -1,3 +1,4 @@
+130 11064 V 14400 = 04 C1 9B 60 AB 9A 10 55 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-10-04 09:31
 30 4020 H 30000 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 3B ( 3E ) = 4:2:2 =  =  =  = 2026-10-04 00:45
 130 11646 H 7199 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = AFLW 2026 =  =  = 2026-10-04 07:44
 1005 3807 V 9875 = 12 AB 99 56 93 B2 4E 93 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-04 02:49
