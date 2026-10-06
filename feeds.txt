@@ -1,19 +1,5 @@
-130 10866 H 7200 = 95 4F FA DE 12 02 DF F3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = DNK 103 A =  =  = 2026-10-06 17:46
-130 10843 H 7200 = 98 01 5E F7 D7 FC A4 77 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-06 17:52
-130 10857 H 7200 = 51 8D 09 E7 DD 45 A2 C4 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = POL-058_ch1 =  =  = 2026-10-06 17:53
-130 12525 H 7200 = 94 52 AF 95 FE 36 50 84 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF ELM HAM H v RK N UL =  =  = 2026-10-06 17:56
-130 10857 H 7200 = 51 8D 09 E7 DD 45 A2 C4 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = POL-058_ch1 =  =  = 2026-10-06 17:56
-130 12534 H 7199 = 78 2D 30 D5 1F 95 DD 91 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Europe European League = Bergischer Savehof Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-06 17:58
-130 10839 H 7200 = CA CE 18 B0 9A 12 0F BB = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF Schaffhausen =  =  = 2026-10-06 18:01
-130 12544 H 7199 = 98 01 5E F7 D7 FC A4 77 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-06 19:48
-130 11082 H 7199 = DE DE 05 C1 20 AA 1E E8 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 415 EHF EL Men M11 MAIN =  =  = 2026-10-06 19:55
-130 11091 H 7199 = 2F EB 18 32 37 1C F7 4A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 6 =  =  = 2026-10-06 19:57
-130 12553 H 7199 = 61 5A FE B9 EC 94 DA 5A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF EL MEN PGM ST RAPHAEL =  =  = 2026-10-06 20:01
-130 11100 H 7199 = 59 8A 12 F5 EA 62 1A 66 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ISL-RKS-002 -3-MAIN =  =  = 2026-10-06 20:21
-130 10848 H 7200 = 21 AF 98 68 00 67 F4 5B = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = backup =  =  = 2026-10-06 20:49
-130 11627 V 7200 = 91 5D 65 53 1A EA 81 85 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF_ELM_GRA_HCB =  =  = 2026-10-06 21:45
-130 11618 V 7200 = 91 11 A6 48 12 BC 1D EB = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Encoder 7 =  =  = 2026-10-06 21:52
-130 11675 V 7200 = A8 80 15 3D ED 7F CA 36 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Enc 08 =  =  = 2026-10-06 21:55
+130 11109 H 7199 = DC 18 A7 9B 60 BD 12 2F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SINTRA 1 MN =  =  = 2026-10-06 22:04
+130 11609 V 7200 = 35 D7 0E 1A 3B 8F C8 92 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF-ELM-TTH-SLB =  =  = 2026-10-06 22:06
 130 11648 H 7200 = 12 14 AB D1 AB BA 2B 90 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4.2.0 | 1920x1080 | HD =  =  =  = 2026-10-06 15:17
 130 11655 H 7199 = 12 14 AB D1 AB BA 2B 90 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = FINALnU 20 =  =  = 2026-10-06 15:55
 100 3886 H  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-06 16:43
