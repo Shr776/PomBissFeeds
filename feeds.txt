@@ -1,3 +1,4 @@
 70 11124 V 5000 = 0C 11 92 AF 07 C3 EF B9 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Eutelsat 7C ( 7E ) = 4:2:0 = RAI ITA 887 A = Tre Valli Varesine =  = 2026-10-06 10:25
 130 11066 V 14400 = 06 C1 9B 62 AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = KAZ008M M1 = UEFA Nations League - Kazakhstan vs Faroe Islands =  = 2026-10-06 09:54
 1005 3966 V 7500 = 54 C5 4C 65 56 58 E6 94 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-10-06 00:02
+160 10971 V 4799 = AB BA 26 8B DC AE 10 9A = Miltary events Parade Games Veterans Day.... (BISS ENC.) = Eutelsat 16D ( 16E ) = 4:2:0 | HD | 1920x1080 =  = Ministerstwa Obrony Narodowej. [ Ministry of National Defence of the Republic of Poland ] =  = 2026-10-06 11:20
