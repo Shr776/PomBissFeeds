@@ -1,24 +1,33 @@
+130 10866 H 7200 = 95 4F FA DE 12 02 DF F3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = DNK 103 A =  =  = 2026-10-06 17:46
+130 10843 H 7200 = 98 01 5E F7 D7 FC A4 77 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-06 17:52
+130 10857 H 7200 = 51 8D 09 E7 DD 45 A2 C4 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = POL-058_ch1 =  =  = 2026-10-06 17:53
+130 12525 H 7200 = 94 52 AF 95 FE 36 50 84 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF ELM HAM H v RK N UL =  =  = 2026-10-06 17:56
+130 10857 H 7200 = 51 8D 09 E7 DD 45 A2 C4 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = POL-058_ch1 =  =  = 2026-10-06 17:56
+130 12534 H 7199 = 78 2D 30 D5 1F 95 DD 91 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Europe European League = Bergischer Savehof Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-06 17:58
+130 10839 H 7200 = CA CE 18 B0 9A 12 0F BB = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF Schaffhausen =  =  = 2026-10-06 18:01
+160 11178 H 4936 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = YSM-015BU =  =  = 2026-10-06 17:22
+160 12647 H 7200 = 78 DF FD 54 87 12 3A D3 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-10-06 17:57
+420 10983 V 7500 = FC D7 40 13 1B CC 66 4D = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 112 MAIN =  =  = 2026-10-06 12:49
+420 11587 V 7500 = C7 70 1E 55 D7 C9 D6 76 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR139-Backup =  =  = 2026-10-06 15:38
+192 11594 V 7500 = A5 70 1E 33 D7 C9 D6 76 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Astra 1N/1P ( 19.2E ) = 4.2.2 =  =  =  = 2026-10-06 17:44
 160 11127 H 9874 = 06 C1 9B 62 AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 =  =  =  = 2026-10-06 14:13
 160 11152 H 9874 = 06 C1 9B 62 AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 | HD | 1920x1080 =  = UEFA Nations League = Teams :Scotland Slovenia Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-06 14:38
 160 11164 H 9875 = 06 C1 9B 62 AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = SUI76-1 UNLM4 main =  =  = 2026-10-06 14:50
 160 11140 H 9874 = 06 C1 9B 62 AB 9A 10 55 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = UKI1965 Match05 Backup =  =  = 2026-10-06 14:55
 160 12537 H 7199 = 06 10 BC D2 AE 89 76 AD = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 | HD | 1920x1080 =  = Europe Euro U21 - Qualification = Germany U21 Georgia U21 Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-06 17:06
-70 11124 V 5000 = 0C 11 92 AF 07 C3 EF B9 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Eutelsat 7C ( 7E ) = 4:2:0 = RAI ITA 887 A = Tre Valli Varesine =  = 2026-10-06 10:25
-130 11629 H 7199 = C0 2A 4B 35 FA 87 6E EF = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = BEL 69 =  =  = 2026-10-06 14:10
-130 11611 V 9875 = 01 1F 9C BC 72 F8 78 E2 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SLO-008 Tx 2 =  =  = 2026-10-06 16:54
 130 11648 H 7200 = 12 14 AB D1 AB BA 2B 90 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4.2.0 | 1920x1080 | HD =  =  =  = 2026-10-06 15:17
 130 11655 H 7199 = 12 14 AB D1 AB BA 2B 90 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = FINALnU 20 =  =  = 2026-10-06 15:55
 100 3886 H  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-06 16:43
-420 10983 V 7500 = FC D7 40 13 1B CC 66 4D = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 112 MAIN =  =  = 2026-10-06 12:49
-420 11587 V 7500 = C7 70 1E 55 D7 C9 D6 76 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR139-Backup =  =  = 2026-10-06 15:38
 420 11478 V 6800 = 42 45 00 87 00 42 45 87 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.0 = TUR 123 B =  =  = 2026-10-06 13:15
 1005 3800 H 7198 = CF A1 20 90 26 09 CA F9 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-06 14:33
+70 11124 V 5000 = 0C 11 92 AF 07 C3 EF B9 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Eutelsat 7C ( 7E ) = 4:2:0 = RAI ITA 887 A = Tre Valli Varesine =  = 2026-10-06 10:25
+130 11629 H 7199 = C0 2A 4B 35 FA 87 6E EF = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = BEL 69 =  =  = 2026-10-06 14:10
 1005 3966 V 7500 = 54 C5 4C 65 56 58 E6 94 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-10-06 00:02
+1005 3975 V 7200 = 03 10 BA CD CA 1F ED D6 = JUDO  KARATE FEEDS = AsiaSat 5 ( 100.5E ) = 4:2:0 = SNG 2 BAKU MEDIA CENTER =  =  = 2026-10-06 17:19
 130 10834 V 9700 = FF FF D1 CF 00 6E 84 F2 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-SWE-VLH-GEN =  =  = 2026-10-06 16:50
 130 10815 H 9700 = FF AC D1 7C 00 6E 84 F2 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4.2.0 = CHL-SWE-RBK-HCD =  =  = 2026-10-06 16:50
 130 10815 H 9700 = FF AC D1 7C 00 6E 84 F2 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-SWE-RBK-HCD =  =  = 2026-10-06 16:52
 130 10826 H 9700 = FF CB D1 9B 00 6E 84 F2 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4.2.0 = CHL-CZE-LIB-FHC =  =  = 2026-10-06 16:52
-130 10845 H 9700 = FF AE D1 7E 00 6E 84 F2 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4.2.0 = CHL-HIT-THE-ROOF-03 =  =  = 2026-10-06 17:00
+130 10845 V 9700 = FF AE D1 7E 00 6E 84 F2 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4.2.0 = CHL-HIT-THE-ROOF-03 =  =  = 2026-10-06 17:00
 420 11460 V 6800 = 10 00 00 10 10 20 26 56 = Turkish Feeds: SNG MEDYA except sports feeds (Türksat 2A3A4A @ 42°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.0 = SNG_2 A =  =  = 2026-10-06 13:00
 160 10971 V 4799 = AB BA 26 8B DC AE 10 9A = Miltary events Parade Games Veterans Day.... (BISS ENC.) = Eutelsat 16D ( 16E ) = 4:2:0 | HD | 1920x1080 =  = Ministerstwa Obrony Narodowej. [ Ministry of National Defence of the Republic of Poland ] =  = 2026-10-06 11:20
-1005 3975 V 7200 = 03 10 BA CD CA 1F ED D6 = JUDO  KARATE FEEDS = AsiaSat 5 ( 100.5E ) = 4:2:0 = SNG 2 BAKU MEDIA CENTER =  =  = 2026-10-06 17:19
