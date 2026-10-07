@@ -1,6 +1,11 @@
+1005 4165 H 7198 = 21 21 BC FE 35 13 BC 04 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-07 14:18
+1005 4147 H 7199 = 34 2E B1 13 12 BD 34 03 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-07 14:19
 130 11058 H 7200 = 4E 6B 44 FD FD B3 73 23 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-07 11:08
 130 11058 H 7200 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = WWE NXT =  = 2026-10-07 04:00
 192 11817 V 31428 = DF 85 5A BE 0F BE 99 66 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = Astra 1N/1P ( 19.2E ) = HD | 4.2.0 = Astra 1 Service 5 = NFL RedZone =  = 2026-10-07 01:09
+130 11038 H 4938 = 74 86 84 7E B1 7F D2 02 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = HotBird 13F/13G ( 13E ) = 4:2:0 = EBU 1 ENC =  =  = 2026-10-07 14:37
+260 12629 V 6998 = FE ED AB 96 CB 07 42 14 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | SD = ERTU SD1 2 =  =  = 2026-10-07 14:23
+260 11640 V 3599 = AE DF 05 92 55 EF 01 45 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = OB-HD1 =  =  = 2026-10-07 14:27
 160 11135 H 7199 = 66 51 82 39 70 01 E3 54 = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 16D ( 16E ) = 4:2:0 | HD | 1920x1080 =  = WORLD AQUATICS SWIMMING WORLD CUP 2026 =  = 2026-10-07 13:09
 130 10834 V 9700 = E8 4F FF 36 DD 10 07 F4 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-FIN = Champions Hockey League - Tappara vs Storhamar =  = 2026-10-07 12:22
 130 10820 H 7200 = 55 FF AA FE CD 07 10 E4 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Encoder 1 = SBS Golf =  = 2026-10-07 10:18
