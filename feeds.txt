@@ -1,4 +1,6 @@
 130 11058 H 7200 = 4E 6B 44 FD FD B3 73 23 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-07 11:08
+130 11590 H 4938 = EC 16 1E 20 92 F2 20 A4 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-07 12:45
 130 11058 H 7200 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = WWE NXT =  = 2026-10-07 04:00
 192 11817 V 31428 = DF 85 5A BE 0F BE 99 66 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = Astra 1N/1P ( 19.2E ) = HD | 4.2.0 = Astra 1 Service 5 = NFL RedZone =  = 2026-10-07 01:09
+130 10834 V 9700 = E8 4F FF 36 DD 10 07 F4 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-FIN = Champions Hockey League =  = 2026-10-07 12:22
 130 10820 H 7200 = 55 FF AA FE CD 07 10 E4 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Encoder 1 = SBS Golf =  = 2026-10-07 10:18
