@@ -1,3 +1,5 @@
+130 11058 H 7200 = A1 96 C6 FD 78 CF CD 14 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-07 17:05
+130 10810 H 7200 = 57 A0 00 F7 86 85 FB 06 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = AMP V02 = EHF Champions League - Paris Saint-Germain vs RK Celje Pivovarna Laško =  = 2026-10-07 19:56
 130 12687 H 7200 = 07 F1 01 F9 AC 8F 03 3E = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 =  = BKT EuroCup - =  = 2026-10-07 17:25
 160 12657 H 7199 = BB EE 78 21 AC AE DA 34 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:2 = TKS.TRT.M14 A =  =  = 2026-10-07 17:58
 160 11191 H 4936 = CE 2A F1 E9 48 05 55 A2 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = HUN-013 Line 1 =  =  = 2026-10-07 18:41
@@ -5,10 +7,11 @@
 100 10753 V 7199 = D8 9A F7 69 7E C1 AB EA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-07 18:50
 160 12611 H 7200 = 06 10 20 36 26 AB FE CF = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = TORTONA_SARTHE_MAIN =  =  = 2026-10-07 18:58
 160 12593 H 7200 = CD AE 78 F3  AC 51 A1 9E = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = LTU-005 main =  =  = 2026-10-07 19:01
+192 11478 V 6799 = NO KEY = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Astra 1N/1P ( 19.2E ) = 4:2:2 =  =  =  = 2026-10-07 19:40
+160 12620 H 7200 = 06 10 20 36 26 AB FE CF = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = ITA633_A =  =  = 2026-10-07 19:48
 420 10974 V 7500 = 59 F2 88 D3 4B 9C AB 92 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = ATV SNG 1 MAIN =  =  = 2026-10-07 18:18
 130 11091 H 7199 = 95 DF A2 16 22 10 9C CE = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF CLM IFK K v GOG =  =  = 2026-10-07 17:44
 130 11100 H 7199 = 3C AD 81 6A 36 06 EA 26 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF CL MEN - HC KRIENS LUZERN =  =  = 2026-10-07 18:11
-130 11058 H 7200 = A1 96 C6 FD 78 CF CD 14 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-07 17:05
 1005 4165 H 7198 = 21 21 BC FE 35 13 BC 04 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-07 14:18
 1005 4147 H 7199 = 34 2E B1 13 12 BD 34 03 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-07 14:19
 1005 4025 V 7199 = A3 45 E4 CC 22 9C BC 7A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-07 15:56
@@ -17,14 +20,15 @@
 130 10834 V 9700 = E8 4F FF 36 DD 10 07 F4 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-FIN = Champions Hockey League - Tappara vs Storhamar =  = 2026-10-07 12:22
 130 12597 V 9700 = E8 4F FD 34 DD 10 07 F4 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-GER-KOL-HBF =  =  = 2026-10-07 18:21
 130 10846 V 9700 = E8 4F FE 35 ED 10 07 04 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-GER-MAN-TYC =  =  = 2026-10-07 18:31
-260 11601 H 3501 = A1 09 DF 89 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = ISH-SNG01-E01 =  =  = 2026-10-07 17:51
-130 11038 H 4938 = 74 86 84 7E B1 7F D2 02 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = HotBird 13F/13G ( 13E ) = 4:2:0 = EBU 1 ENC =  =  = 2026-10-07 14:37
-160 10976 V 4800 = AB BA 26 8B DC AE 10 9A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.2 = POL - 054 Kielce = Message from Poland =  = 2026-10-07 17:50
+130 12585 V 9700 = E8 4F FA 31 BD 10 07 D4 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-AUT-RBS-BER = Champions Hockey League - =  = 2026-10-07 19:28
 260 12629 V 6998 = FE ED AB 96 CB 07 42 14 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | SD = ERTU SD1 2 =  =  = 2026-10-07 14:23
 260 11640 V 3599 = AE DF 05 92 55 EF 01 45 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = OB-HD1 =  =  = 2026-10-07 14:27
 260 11640 V 3599 = AE DF 05 92 55 EF 01 45 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = OB-HD1 =  =  = 2026-10-07 15:14
 260 11645 V 4199 = AE DF 05 92 55 EF 01 45 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_MAIN =  =  = 2026-10-07 15:51
-260 12629 V 7401 = AE DF 05 92 55 EF 01 45 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 =  =  =  = 2026-10-07 19:02
+260 12629 V 7401 = AE DF 05 92 55 EF 01 45 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = unnamed-1 =  =  = 2026-10-07 19:02
+260 11601 H 3501 = A1 09 DF 89 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = ISH-SNG01-E01 =  =  = 2026-10-07 17:51
+130 11038 H 4938 = 74 86 84 7E B1 7F D2 02 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = HotBird 13F/13G ( 13E ) = 4:2:0 = EBU 1 ENC =  =  = 2026-10-07 14:37
+160 10976 V 4800 = AB BA 26 8B DC AE 10 9A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.2 = POL - 054 Kielce = Message from Poland =  = 2026-10-07 17:50
 130 10802 H 7200 = A7 C9 1F 8F 4B 28 D6 49 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 BISS-1 = BWF WORLD TOUR - Artic Open 2026, Vantaa (Finland) =  = 2026-10-07 15:32
 130 10820 H 7200 = 55 FF AA FE CD 07 10 E4 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Encoder 1 = SBS Golf =  = 2026-10-07 10:18
 130 11058 H 7200 = 4E 6B 44 FD FD B3 73 23 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  = DP Tour Golf =  = 2026-10-07 15:21
