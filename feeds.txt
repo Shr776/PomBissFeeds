@@ -1,9 +1,6 @@
-130 11061 V 7199 = 13 11 AA CE CC 20 23 0F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E115 G19 Via 1 Main =  =  = 2026-10-07 20:07
 160 12603 H 7199 = E5 6C BF 10 12 22 AC E0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = YSM-012 MAIN =  =  = 2026-10-07 20:43
 160 12511 V 7200 = F5 D3 F1 B9 A7 E7 3A C8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = A1PRO Via1 = Basketball Champions League - Murcia vs Varese =  = 2026-10-07 21:40
 160 12630 V 7199 = A1 23 B1 75 67 C6 73 A0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = D-331 TX1 =  =  = 2026-10-07 22:59
-130 11058 H 7200 = A1 96 C6 FD 78 CF CD 14 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-07 17:05
-130 11058 H 7200 = A1 96 C6 FD 78 CF CD 14 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-07 21:12
 130 11091 H 7199 = 95 DF A2 16 22 10 9C CE = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF CLM IFK K v GOG =  =  = 2026-10-07 17:44
 130 11100 H 7199 = 3C AD 81 6A 36 06 EA 26 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF CL MEN - HC KRIENS LUZERN =  =  = 2026-10-07 18:11
 130 10810 H 7200 = 57 A0 00 F7 86 85 FB 06 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = AMP V02 = EHF Champions League - Paris Saint-Germain vs RK Celje Pivovarna Laško =  = 2026-10-07 20:02
