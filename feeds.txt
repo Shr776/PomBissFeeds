@@ -1,7 +1,8 @@
 130 10838 V 7200 = 8C 10 D9 75 C2 14 E3 B9 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = YSM-016 MAIN = EHF Champions League - HC Vardar 1961 vs Orlen Wisla Plock =  = 2026-10-08 19:43
 130 10848 V 7199 = 95 4F FA DE 12 02 DF F3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = DNK 103 A =  =  = 2026-10-08 19:51
 130 12611 V 7199 = 98 DF 1E 95 D7 89 0A 6A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-ZAG-AAH =  =  = 2026-10-08 19:53
-130 10848 V 7199 = 95 4F FA DE 12 02 DF F3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = DNK 103 A =  =  = 2026-10-08 19:56
+130 12583 V 7199 = 33 0A 33 70 71 AF 50 70 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = E379 MAIN =  =  = 2026-10-08 20:02
+130 10848 V 7199 = 95 4F FA DE 12 02 DF F3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = DNK 103 A =  =  = 2026-10-08 20:20
 215 10988 H 7201 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = hd | 4:2:0 = UAE-065 =  =  = 2026-10-08 19:42
 130 11067 H 7200 = DE 05 B9 9C DA 0E 43 2B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-08 10:56
 130 11059 V 4936 = 54 DB 8B BA BC 84 C0 00 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GVA_Fi02 =  =  = 2026-10-08 14:37
@@ -23,6 +24,7 @@
 1005 4147 H 7199 = AB A5 C1 11 43 21 2A 8E = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-08 11:49
 1005 4034 V 7199 = 21 3C BA 17 23 12 8E C3 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-08 11:50
 1005 4025 V 7199 = D3 21 BA AE 21 AB 43 0F = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-08 15:23
+160 10983 V 9600 = 11 11 11 33 11 11 22 44 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Eutelsat 16D ( 16E ) = 4:2:0 = POL49 EN1 Bielsko =  =  = 2026-10-08 20:21
 216 0200 H  = FE ED 08 F3 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-10-08 18:32
 400 11155 V 4400 = 65 6A 99 68 18 77 75 04 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Express AM7 ( 40E ) = 4.2.0 = Main =  =  = 2026-10-08 17:23
 400 11128 V 4400 = 25 1C 34 75 18 35 55 A2 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Express AM7 ( 40E ) = 4.2.0 = B U =  =  = 2026-10-08 17:31
