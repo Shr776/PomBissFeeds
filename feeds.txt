@@ -1,13 +1,17 @@
+130 11668 H 9600 = 9A 15 12 C1 4F 99 4F 37 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4.2.0 = NLEMG HOL270-1 =  =  = 2026-10-08 16:38
+100 3895 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-08 14:47
+100 3890 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-08 16:15
 1005 4147 H 7199 = AB A5 C1 11 43 21 2A 8E = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-08 11:49
 1005 4034 V 7199 = 21 3C BA 17 23 12 8E C3 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-08 11:50
 1005 4025 V 7199 = D3 21 BA AE 21 AB 43 0F = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-08 15:23
-100 3895 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-08 14:47
 420 10983 V 7500 = DF 49 91 B9 A3 9F E2 24 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = ATV SNG 1 MAIN =  =  = 2026-10-08 14:46
 130 11067 H 7200 = DE 05 B9 9C DA 0E 43 2B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-08 10:56
 130 11059 V 4936 = 54 DB 8B BA BC 84 C0 00 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GVA_Fi02 =  =  = 2026-10-08 14:37
-130 12582 V 7199 = 6E 3C 34 DE A5 CE 87 FA = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 JUNIOR BISS-1 =  =  = 2026-10-08 15:50
 260 11645 V 3598 = AE DF 05 92 55 EF 02 46 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = EGY-HD22 =  =  = 2026-10-08 14:34
 260 12629 V 7401 = AE DF 05 92 55 EF 02 46 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = OB-HD3 =  =  = 2026-10-08 15:40
+260 11640 V 3600 = AE DF 05 92 55 EF 02 46 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 =  =  =  = 2026-10-08 16:31
+260 11645 V 4201 = AE DF 05 92 55 EF 02 46 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_MAIN =  =  = 2026-10-08 16:59
+130 12582 V 7199 = 6E 3C 34 DE A5 CE 87 FA = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 JUNIOR BISS-1 =  =  = 2026-10-08 15:50
 400 11144 V 4400 = 25 5C 11 92 18 32 77 C1 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Express AM7 ( 40E ) = 4.2.0 = SNG 02 - Chain A =  =  = 2026-10-08 14:19
 400 11139 V 4400 = 33 5B 19 A7 98 66 67 65 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Express AM7 ( 40E ) = 4.2.0 = Main =  =  = 2026-10-08 15:04
 70 11108 V 1985 = 78 01 70 E9 04 70 01 75 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 7C ( 7E ) = 4.2.0 = Service 01 =  =  = 2026-10-08 14:32
