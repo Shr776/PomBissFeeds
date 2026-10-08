@@ -1,19 +1,29 @@
+130 11067 H 7200 = DE 05 B9 9C DA 0E 43 2B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-08 10:56
+130 11059 V 4936 = 54 DB 8B BA BC 84 C0 00 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GVA_Fi02 =  =  = 2026-10-08 14:37
+130 11655 H 7200 = CA 03 A0 6D 4A 40 29 B3 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.0 = E380 WBSC Main =  =  = 2026-10-08 17:45
+130 12601 V 7199 = DE 61 8E CD 9F D2 0C 7D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = D510 FEED1 =  =  = 2026-10-08 17:57
+130 12611 V 7199 = 98 DF 1E 95 D7 89 0A 6A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-08 18:01
+160 11126 H 7200 = 56 E3 A0 D9 9E 8B 2F 58 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = UAE074-M =  =  = 2026-10-08 17:41
+420 10983 V 7500 = DF 49 91 B9 A3 9F E2 24 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = ATV SNG 1 MAIN =  =  = 2026-10-08 14:46
+420 10975 V 7500 = 25 34 57 B0 9F BB 5B B5 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = ATV SNG 4 MAIN =  =  = 2026-10-08 17:16
 130 11668 H 9600 = 9A 15 12 C1 4F 99 4F 37 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4.2.0 = NLEMG HOL270-1 =  =  = 2026-10-08 16:38
 100 3895 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-08 14:47
 100 3890 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-08 16:15
 1005 4147 H 7199 = AB A5 C1 11 43 21 2A 8E = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-08 11:49
 1005 4034 V 7199 = 21 3C BA 17 23 12 8E C3 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-08 11:50
 1005 4025 V 7199 = D3 21 BA AE 21 AB 43 0F = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-08 15:23
-420 10983 V 7500 = DF 49 91 B9 A3 9F E2 24 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = ATV SNG 1 MAIN =  =  = 2026-10-08 14:46
-130 11067 H 7200 = DE 05 B9 9C DA 0E 43 2B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-08 10:56
-130 11059 V 4936 = 54 DB 8B BA BC 84 C0 00 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GVA_Fi02 =  =  = 2026-10-08 14:37
+216 0200 H  = FE ED 08 F3 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-10-08 17:55
+400 11155 V 4400 = 65 6A 99 68 18 77 75 04 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Express AM7 ( 40E ) = 4.2.0 = Main =  =  = 2026-10-08 17:23
+400 11128 V 4400 = 25 1C 34 75 18 35 55 A2 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Express AM7 ( 40E ) = 4.2.0 = B U =  =  = 2026-10-08 17:31
+100 11683 V 10000 = AD F4 20 C1 CC BA 11 97 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 10B ( 10E ) = 4.2.0 = AlkASS QAT38 M =  =  = 2026-10-08 17:44
+260 11601 H 3501 = B1 09 DF 99 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = ISH-SNG01-E01 =  =  = 2026-10-08 17:51
+130 11072 V 4936 = 6C 8E 74 6E D3 3A C2 CF = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = WSHT ENC54 =  =  = 2026-10-08 01:15
+130 11656 H 7199 = CA 03 A0 6D 4A 40 29 B3 = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = E380 WBSC Main =  =  = 2026-10-08 17:46
+1005 3992 V 7200 = 43 C8 71 7C 5C 12 4F BD = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = AsiaSat 5 ( 100.5E ) = 4:2:2 | SD =  =  =  = 2026-10-08 17:06
 260 11645 V 3598 = AE DF 05 92 55 EF 02 46 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = EGY-HD22 =  =  = 2026-10-08 14:34
 260 12629 V 7401 = AE DF 05 92 55 EF 02 46 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = OB-HD3 =  =  = 2026-10-08 15:40
 260 11640 V 3600 = AE DF 05 92 55 EF 02 46 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 =  =  =  = 2026-10-08 16:31
 260 11645 V 4201 = AE DF 05 92 55 EF 02 46 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_MAIN =  =  = 2026-10-08 16:59
 130 12582 V 7199 = 6E 3C 34 DE A5 CE 87 FA = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 JUNIOR BISS-1 =  =  = 2026-10-08 15:50
-400 11144 V 4400 = 25 5C 11 92 18 32 77 C1 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Express AM7 ( 40E ) = 4.2.0 = SNG 02 - Chain A =  =  = 2026-10-08 14:19
-400 11139 V 4400 = 33 5B 19 A7 98 66 67 65 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Express AM7 ( 40E ) = 4.2.0 = Main =  =  = 2026-10-08 15:04
 70 11108 V 1985 = 78 01 70 E9 04 70 01 75 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 7C ( 7E ) = 4.2.0 = Service 01 =  =  = 2026-10-08 14:32
 130 10820 H 7200 = NO KEY = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Encoder 1 = ARAMCO KOREA Championship =  = 2026-10-08 09:08
-130 11072 V 4936 = 6C 8E 74 6E D3 3A C2 CF = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = WSHT ENC54 =  =  = 2026-10-08 01:15
