@@ -10,7 +10,7 @@
 1005 3840 H 29998 = 18 3F A8 FF 35 C9 FE FC = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-09 06:39
 1005 3966 V 7499 = 54 C5 4C 65 56 58 E6 94 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 5 = Tampa Bay Buccaneers vs Dallas Cowboys (@ AT&T Stadium) = 2026-10-09 03:51
 130 11058 H 7200 = 45 78 D8 95 73 23 A1 37 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = sd | 4:2:0 = IMG 1 EU =  =  = 2026-10-09 00:45
-130 11655 H 7200 = CA 03 A0 6D 4A 40 29 B3 = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = HotBird 13F/13G ( 13E ) = 4.2.0 = E380 WBSC Main =  =  = 2026-10-09 12:59
+130 11655 H 7200 = CA 03 A0 6D 4A 40 29 B3 = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = HotBird 13F/13G ( 13E ) = 4.2.0 = E380 WBSC Main =  =  = 2026-10-09 13:08
+130 10819 H 7198 = 55 FF AA FE CD 09 10 E6 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = ARAMCO KOREA Championship =  = 2026-10-09 13:07
 130 10800 H 7200 = 3E 8B FA C3 61 7C 29 06 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4.2.0 = BWF WF-A C1 BISS-1 =  =  = 2026-10-09 12:59
 160 11135 H 7200 = D1 39 6B 75 02 75 B3 2A = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-10-09 08:59
-130 10819 H 7198 = 55 FF AA FE CD 09 10 E6 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = ARAMCO KOREA Championship =  = 2026-10-09 07:02
