@@ -1,10 +1,15 @@
+130 11067 H 7200 = F5 1B 1A 2A 4F 2A 6A E3 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-09 13:00
+130 11618 V 8020 = 5B 97 02 F4 2C C0 B6 A2 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:2 = Fi11_GNVE_magazine =  =  = 2026-10-09 17:00
+420 11131 V 7199 = EB 1E 91 9A 07 C5 51 1D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Türksat 3A/4A/5B/6A ( 42E ) = HD = RAI ITA 645 A =  =  = 2026-10-09 18:38
+160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16D ( 16E ) = 4.2.0 = POL 030 =  =  = 2026-10-09 15:44
+160 11123 H 4936 = AE BE 49 B5 22 CD EF DE = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16D ( 16E ) = 4:2:0 = HUN-013 Line 1 =  =  = 2026-10-09 18:19
+420 11460 V 6800 = 42 97 00 D9 00 42 97 D9 = VOLLYBALL FEEDS All Satellites KU Band C band = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-125-A =  =  = 2026-10-09 18:35
+100 3905 V  = 67 46 86 33 71 35 32 D8 = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-09 18:25
+160 12654 H 9600 = 9A A4 28 66 64 13 04 7B = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Eutelsat 16D ( 16E ) = 4:2:0 = NLEMG HOL270-1 =  =  = 2026-10-09 18:02
 420 10984 V 7500 = 91 D7 BE 26 DE 3F 52 6F = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) =  = unname =  =  = 2026-10-09 17:46
 420 10974 V 7500 = A2 1C EE AC E5 A5 99 23 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) =  = TUR-143A =  =  = 2026-10-09 17:47
 130 12606 V 14240 = BC 87 D3 16 99 A3 FE 3A = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:2 = WEQ - GREECE v ENGLAND MAIN =  =  = 2026-10-09 17:31
 160 12637 H 7199 = 12 34 AB F1 CD 20 26 13 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 16D ( 16E ) = 4:2:0 = CRO-004 Main - CRO-ICE WWCQ =  =  = 2026-10-09 17:46
-100 3900 V  = 67 46 86 33 71 35 32 D8 = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-09 17:09
-130 11067 H 7200 = F5 1B 1A 2A 4F 2A 6A E3 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-09 13:00
-130 11618 V 8020 = 5B 97 02 F4 2C C0 B6 A2 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:2 = Fi11_GNVE_magazine =  =  = 2026-10-09 17:00
 100 3895 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-09 15:24
 100 3885 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-09 15:33
 100 3905 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-09 16:41
@@ -13,7 +18,6 @@
 1005 3966 H 7119 = 29 9E 8A 51 FF 92 35 C6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD =  =  =  = 2026-10-09 14:52
 130 11088 V 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight 174 =  =  = 2026-10-09 15:52
 1005 4164 V 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD = X20-02 SDI Enc 4 =  =  = 2026-10-09 16:10
-160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16D ( 16E ) = 4.2.0 = POL 030 =  =  = 2026-10-09 15:44
 1005 3807 V 9875 = 85 2A 38 E7 1E DE 4E 4A = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-09 06:36
 915 3827 V 7498 = A5 A3 A1 E9 B4 A5 C5 1E = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Measat 3/3A/3B ( 91.5E ) = 4.2.0 =  =  =  = 2026-10-09 06:45
 130 12550 H 9875 = AF AD 57 B3 58 96 68 56 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-09 12:53
@@ -25,9 +29,11 @@
 1005 3756 H 7500 = 89 27 CD 7D 3E 59 1B B2 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-5 =  =  = 2026-10-09 12:36
 1005 3840 H 29998 = 18 3F A8 FF 35 C9 FE FC = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-09 06:39
 1005 3966 V 7499 = 54 C5 4C 65 56 58 E6 94 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 5 = Tampa Bay Buccaneers vs Dallas Cowboys (@ AT&T Stadium) = 2026-10-09 03:51
-160 12618 H 4936 = 20 10 20 50 25 20 26 6B = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Eutelsat 16D ( 16E ) = 4:2:0 = YSM-016 MAIN =  =  = 2026-10-09 17:53
 100 11300 H 9600 = B8 0D 7C 41 8E F9 5E E5 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Eutelsat 10B ( 10E ) = 4.2.0 = SUI 067 =  =  = 2026-10-09 16:01
 0 11464 V 7200 = AB 41 41 2D BC 58 66 7A = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W =  = 4.2.0 = No name =  =  = 2026-10-09 17:08
+216 11022 V 4440 = FE ED 09 F4 10 20 26 56 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Eutelsat 21C ( 21.6E ) = 4:2:0 = MRC004-BU =  =  = 2026-10-09 18:25
+420 11039 V 7200 = 13 57 AB 15 CD 24 68 59 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-09 18:24
+160 12618 H 4936 = 20 10 20 50 25 20 26 6B = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Eutelsat 16D ( 16E ) = 4:2:0 = YSM-016 MAIN =  =  = 2026-10-09 17:53
 400 11133 V 4400 = 33 5B 19 A7 98 66 67 65 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Express AM7 ( 40E ) = 4.2.0 | hd = SNG 02 - Chain A =  =  = 2026-10-09 14:29
 260 11154 V 4400 = 25 5C 11 92 18 32 77 C1 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = Backup =  =  = 2026-10-09 14:56
 260 11127 V 4400 = 25 1C 34 75 18 35 55 A2 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = Main =  =  = 2026-10-09 16:57
