@@ -1,5 +1,9 @@
 130 11058 H 7200 = 45 78 D8 95 73 23 A1 37 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = sd | 4:2:0 = IMG 1 EU =  =  = 2026-10-09 00:45
 1005 3966 H 7119 = 29 9E 8A 51 FF 92 35 C6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD =  =  =  = 2026-10-09 14:52
+130 11088 V 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight 174 =  =  = 2026-10-09 15:52
+160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16D ( 16E ) = 4.2.0 = POL 030 =  =  = 2026-10-09 15:44
+100 3895 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-09 15:24
+100 3885 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-09 15:33
 1005 3807 V 9875 = 85 2A 38 E7 1E DE 4E 4A = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-09 06:36
 915 3827 V 7498 = A5 A3 A1 E9 B4 A5 C5 1E = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Measat 3/3A/3B ( 91.5E ) = 4.2.0 =  =  =  = 2026-10-09 06:45
 130 12550 H 9875 = AF AD 57 B3 58 96 68 56 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-09 12:53
@@ -12,6 +16,7 @@
 1005 3756 H 7500 = 89 27 CD 7D 3E 59 1B B2 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-5 =  =  = 2026-10-09 12:36
 1005 3840 H 29998 = 18 3F A8 FF 35 C9 FE FC = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-09 06:39
 1005 3966 V 7499 = 54 C5 4C 65 56 58 E6 94 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 5 = Tampa Bay Buccaneers vs Dallas Cowboys (@ AT&T Stadium) = 2026-10-09 03:51
+100 11300 H 9600 = B8 0D 7C 41 8E F9 5E E5 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Eutelsat 10B ( 10E ) = 4.2.0 = SUI 067 =  =  = 2026-10-09 16:01
 400 11133 V 4400 = 33 5B 19 A7 98 66 67 65 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Express AM7 ( 40E ) = 4.2.0 | hd = SNG 02 - Chain A =  =  = 2026-10-09 14:29
 260 11154 V 4400 = 25 5C 11 92 18 32 77 C1 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = Backup =  =  = 2026-10-09 14:56
 130 10838 H 7500 = B1 A8 C3 1C DA 6A 4A 8E = Darts Tournaments 10°E7°E1°W = HotBird 13F/13G ( 13E ) = 4:2:0 = NLFLEV_HOL-090 CH-A =  =  = 2026-10-09 14:02
