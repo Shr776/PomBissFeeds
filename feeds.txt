@@ -1,6 +1,14 @@
-70 11102 V 7200 = 15 58 35 A2 71 42 63 16 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) =  = POL-058_ch1 =  =  = 2026-10-10 21:56
+130 11609 V 7200 = 10 10 20 40 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main = Liga Portugal 2 - Tondela vs Torreense =  = 2026-10-10 12:50
+160 12545 H 7200 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4.2.0 = Main E-285 =  =  = 2026-10-10 15:47
+160 11126 H 7199 = AB BA 20 85 26 10 10 46 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 = E-73 =  =  = 2026-10-10 19:10
+130 10866 H 7200 = AA BB 20 85 26 10 09 3F = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main = Liga Portugal 2 =  = 2026-10-10 22:30
 1005 3840 H 30001 = 32 F4 55 7B A9 F6 2C CB = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) =  = OVERON 2 =  = FC Barcelona vs Getafe CF = 2026-10-10 20:01
 1005 3840 H 30001 = DC 72 6D BB 22 62 A3 27 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = hd | 1920x1080i | 4:2:2 = OVERON 1 = Spain - LALIGA EA SPORTS Matchday 8 = Real Madrid vs Villarreal CF = 2026-10-10 21:54
+100 3905 V  = 67 46 86 33 71 35 32 D8 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-10 22:22
+130 11646 H 7119 = C6 63 2A 53 3A 15 15 64 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch Prem Rugby - Leiceste =  =  = 2026-10-10 19:58
+130 11646 H 7119 = F2 F2 77 5B 77 A7 A7 C5 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Premiership Rugby - Saracens vs Bristol =  = 2026-10-10 20:02
+420 10956 H 7199 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-10 22:12
+70 11102 V 7200 = 15 58 35 A2 71 42 63 16 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) =  = POL-058_ch1 = Bogdanka Cup =  = 2026-10-10 21:56
 130 10866 H 7200 = 65 ED 31 83 CE 01 C9 98 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-GYO-MET = EHF Champions League Women - =  = 2026-10-10 15:10
 130 10859 H 5000 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = EHF-CLW-GYO-MET = EHF Champions League Women - =  = 2026-10-10 16:51
 130 11091 H 7200 = 1D 87 B0 54 01 7E CE 4D = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-BRE-KOV = EHF Champions League Women - Brest Bretagne Handball vs FTC-Toyota Kovács =  = 2026-10-10 17:18
@@ -23,8 +31,6 @@
 192 11471 V 8020 = F8 D2 10 DA 10 CC 21 FD = BELGIAN FOOTBALL @ 7°E 10°E = Astra 1N/1P ( 19.2E ) = hd | 4:2:2 | HD = BEL68 - Enc 2 CER BRU - AND =  =  = 2026-10-10 19:46
 192 11499 V 7500 = F8 D2 10 DA 10 CC 21 FD = BELGIAN FOOTBALL @ 7°E 10°E = Astra 1N/1P ( 19.2E ) = hd | 4:2:2 = HOL309 DAZN BU =  =  = 2026-10-10 20:24
 192 11481 V 7500 = F8 D2 10 DA 10 CC 21 FD = BELGIAN FOOTBALL @ 7°E 10°E = Astra 1N/1P ( 19.2E ) = hd | 4:2:2 = HOL322 TX1 =  =  = 2026-10-10 20:24
-130 11646 H 7119 = C6 63 2A 53 3A 15 15 64 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch Prem Rugby - Leiceste =  =  = 2026-10-10 19:58
-130 11646 H 7119 = F2 F2 77 5B 77 A7 A7 C5 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Premiership Rugby - Saracens vs Bristol =  = 2026-10-10 20:02
 420 10956 V 7500 = A1 E7 90 18 EC A2 A2 30 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-062 A =  =  = 2026-10-10 13:15
 192 11561 V 7200 = 03 41 30 74 09 02 02 0D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Astra 1N/1P ( 19.2E ) = 4:2:2 | HD = MMG-D185 HD Encoder 2 = BBL Basketball - Chemnitz vs Bayern =  = 2026-10-10 16:27
 192 11561 V 7200 = 03 41 30 74 09 02 02 0D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Astra 1N/1P ( 19.2E ) = 4:2:2 | HD = MMG-D185 HD Encoder 2 = BBL Basketball - Chemnitz vs Bayern =  = 2026-10-10 17:38
@@ -46,9 +52,6 @@
 160 12606 H 29997 = E6 4F 01 36 A3 6B 83 91 = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 16D ( 16E ) = 4:2:2 | HD | 1920x1080 =  = Saudi ArabiaSaudi Professional League - Round 8 = Al Hilal Al Ittihad Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-10 19:15
 160 12638 H 7200 = 20 26 AB F1 BA 20 26 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = POL-102 MAIN = xtb KSW 122 =  = 2026-10-10 19:01
 160 12638 H 7200 = 20 26 AB F1 BA 20 26 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = POL-102 MAIN = xtb KSW 122 =  = 2026-10-10 19:11
-130 11609 V 7200 = 10 10 20 40 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main = Liga Portugal 2 - Tondela vs Torreense =  = 2026-10-10 12:50
-160 12545 H 7200 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4.2.0 = Main E-285 =  =  = 2026-10-10 15:47
-160 11126 H 7199 = AB BA 20 85 26 10 10 46 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 = E-73 =  =  = 2026-10-10 19:10
 216 11668 H 6666 = CD 44 AB BC 52 99 4D 38 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 21C ( 21.6E ) = 4:2:0 = Bein Chelsea v Bournemouth =  =  = 2026-10-10 17:04
 1005 3905 V 7120 = 0D F3 C1 C1 45 25 A2 0C = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-10 17:10
 100 3900 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-10 14:19
@@ -66,6 +69,8 @@
 70 11124 V 5000 = E2 4A DE 0A 07 C5 87 53 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Eutelsat 7C ( 7E ) = 4:2:0 = ITA 646 A = Il Lombardia 2026 =  = 2026-10-10 12:39
 100 11247 H 7500 = A5 D1 C6 3C 26 79 3A D9 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-10 01:27
 130 12582 V 4800 = FE ED 09 F4 10 20 26 56 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M5 MRC006A Main =  =  = 2026-10-10 00:02
+160 12629 V 7199 = 10 10 DF FF EA 51 59 94 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 16D ( 16E ) = HD =  =  =  = 2026-10-10 22:05
+100 11259 V 9875 = F2 A3 D1 66 E6 89 BB 2A = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 10B ( 10E ) = 4.2.2 =  =  =  = 2026-10-10 22:20
 130 12588 V 4800 = FE ED 09 F4 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Maim =  =  = 2026-10-10 00:05
 216 11580 H 5000 = FE ED 10 FB 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) = 4:2:0 | HD = FLY HD2 MOD1 =  =  = 2026-10-10 19:36
 216 11595 H 5000 = FE ED 10 FB 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) = 4:2:0 = M5 MRC006A Main =  =  = 2026-10-10 21:48
