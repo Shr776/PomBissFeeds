@@ -1,3 +1,6 @@
+160 12638 H 7200 = 20 26 AB F1 BA 20 26 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = POL-102 MAIN = xtb KSW 122 =  = 2026-10-10 19:01
+160 12638 H 7200 = 20 26 AB F1 BA 20 26 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = POL-102 MAIN = xtb KSW 122 =  = 2026-10-10 19:11
+130 11080 V 7200 = 77 11 5A E2 A2 35 29 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-10-10 23:10
 130 11067 H 7200 = 72 4C 9D 5B B4 34 52 3A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-10 11:40
 130 11636 V 7200 = A8 D0 F7 6F 98 74 C2 CE = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-10 16:38
 130 11694 H 7200 = 11 AA 26 E1 BB CC 10 97 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 452 TRIESTE =  =  = 2026-10-10 18:13
@@ -52,8 +55,6 @@
 1130 11290 H 9600 = BC 06 20 E2 26 10 10 46 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Palapa D ( 113E ) = 4.2.2 = AREZZO_CREMONES_CAM1 =  =  = 2026-10-10 18:01
 360 11170 V 7200 = BC 06 20 E2 26 10 10 46 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 36D ( 36E ) = 4.2.2 = ITA832 =  =  = 2026-10-10 19:33
 160 12606 H 29997 = E6 4F 01 36 A3 6B 83 91 = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 16D ( 16E ) = 4:2:2 | HD | 1920x1080 =  = Saudi ArabiaSaudi Professional League - Round 8 = Al Hilal Al Ittihad Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-10 19:15
-160 12638 H 7200 = 20 26 AB F1 BA 20 26 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = POL-102 MAIN = xtb KSW 122 =  = 2026-10-10 19:01
-160 12638 H 7200 = 20 26 AB F1 BA 20 26 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = POL-102 MAIN = xtb KSW 122 =  = 2026-10-10 19:11
 216 11668 H 6666 = CD 44 AB BC 52 99 4D 38 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 21C ( 21.6E ) = 4:2:0 = Bein Chelsea v Bournemouth =  =  = 2026-10-10 17:04
 1005 3905 V 7120 = 0D F3 C1 C1 45 25 A2 0C = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-10 17:10
 100 3900 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-10 14:19
