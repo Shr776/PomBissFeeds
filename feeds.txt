@@ -1,3 +1,5 @@
+420 11067 V 7500 = F1 85 E7 5D 6D 44 41 F2 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 136A =  =  = 2026-10-10 13:21
+420 10956 V 7500 = A1 E7 90 18 EC A2 A2 30 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-062 A =  =  = 2026-10-10 13:15
 130 11609 V 7200 = 10 10 20 40 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main = Liga Portugal 2 - Tondela vs Torreense =  = 2026-10-10 12:50
 130 10811 H 7200 = 13 4D FE 5E BC CA AC 32 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Enc 9 = UCI BMX Racing World Cup Chongli China =  = 2026-10-10 07:24
 130 11611 V 9873 = 69 F7 50 B0 7B 78 47 3A = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = Fi11_GNVE = UCI Gravel World Championships Nannup, Western Australia =  = 2026-10-10 07:35
