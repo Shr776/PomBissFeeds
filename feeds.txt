@@ -1,9 +1,8 @@
-160 12638 H 7200 = 20 26 AB F1 BA 20 26 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = POL-102 MAIN = xtb KSW 122 =  = 2026-10-10 19:01
-160 12638 H 7200 = 20 26 AB F1 BA 20 26 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = POL-102 MAIN = xtb KSW 122 =  = 2026-10-10 19:11
-130 11068 H 7199 = 77 11 5A E2 A2 35 29 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-10 22:53
-130 11080 V 7200 = 77 11 5A E2 A2 35 29 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-10-10 23:10
 160 10986 V 9600 = AB BA 26 8B DC AE 10 9A = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:2 = POL-141 ENC1 =  =  = 2026-10-10 21:18
 192 11414 H 7200 = 03 41 30 74 09 02 02 0D = BOXING all satellites feeds (10E .....) = Astra 1N/1P ( 19.2E ) = HD | 4.2.2 = Betamobil D-123 Path1 = SES Boxing =  = 2026-10-10 22:41
+160 12638 H 7200 = 20 26 AB F1 BA 20 26 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = POL-102 MAIN = xtb KSW 122 =  = 2026-10-10 19:01
+160 12638 H 7200 = 20 26 AB F1 BA 20 26 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = POL-102 MAIN = xtb KSW 122 =  = 2026-10-10 19:11
+130 11080 V 7200 = 77 11 5A E2 A2 35 29 00 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-10-10 23:10
 130 11609 V 7200 = 10 10 20 40 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main = Liga Portugal 2 - Tondela vs Torreense =  = 2026-10-10 12:50
 160 12545 H 7200 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4.2.0 = Main E-285 =  =  = 2026-10-10 15:47
 160 11126 H 7199 = AB BA 20 85 26 10 10 46 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 = E-73 =  =  = 2026-10-10 19:10
