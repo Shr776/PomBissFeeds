@@ -4,6 +4,7 @@
 1005 3840 H 29998 = 40 10 F6 46 28 E5 1E 2B = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-10 03:23
 100 11247 H 7500 = A5 D1 C6 3C 26 79 3A D9 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-10 01:27
 130 12582 V 4800 = FE ED 09 F4 10 20 26 56 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M5 MRC006A Main =  =  = 2026-10-10 00:02
+160 11134 H 7200 = 46 DA D3 F3 27 6A 0E 9F = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-10-10 09:17
 130 10820 H 7200 = 55 FF AA FE CD
 10
 10
