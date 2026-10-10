@@ -1,3 +1,12 @@
+130 11067 H 7200 = 72 4C 9D 5B B4 34 52 3A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-10 11:40
+130 11636 V 7200 = A8 D0 F7 6F 98 74 C2 CE = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-10 16:38
+130 11694 H 7200 = 11 AA 26 E1 BB CC 10 97 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 452 TRIESTE =  =  = 2026-10-10 18:13
+130 11636 V 7200 = A8 D0 F7 6F 98 74 C2 CE = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-10 18:39
+130 11058 H 7199 = 4E 6B 44 FD FD B3 73 23 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-10 20:35
+130 11058 H 7199 = 4E 6B 44 FD FD B3 73 23 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-10 20:46
+130 11068 H 7199 = 77 11 5A E2 A2 35 29 00 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-10 22:53
+160 10986 V 9600 = AB BA 26 8B DC AE 10 9A = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:2 = POL-141 ENC1 =  =  = 2026-10-10 21:18
+192 11414 H 7200 = 03 41 30 74 09 02 02 0D = BOXING all satellites feeds (10E .....) = Astra 1N/1P ( 19.2E ) = HD | 4.2.2 = Betamobil D-123 Path1 = SES Boxing =  = 2026-10-10 22:41
 130 11609 V 7200 = 10 10 20 40 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main = Liga Portugal 2 - Tondela vs Torreense =  = 2026-10-10 12:50
 160 12545 H 7200 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4.2.0 = Main E-285 =  =  = 2026-10-10 15:47
 160 11126 H 7199 = AB BA 20 85 26 10 10 46 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 = E-73 =  =  = 2026-10-10 19:10
@@ -14,19 +23,12 @@
 130 11091 H 7200 = 1D 87 B0 54 01 7E CE 4D = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-BRE-KOV = EHF Champions League Women - Brest Bretagne Handball vs FTC-Toyota Kovács =  = 2026-10-10 17:18
 160 12646 H 5000 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 16D ( 16E ) = 4.2.0 = EHF =  =  = 2026-10-10 18:59
 130 11082 H 7200 = DF E0 FA B9 63 20 00 83 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-SZE-SPO = EHF Champions League - OTP Bank - PICK Szeged vs Sporting Clube de Portugal =  = 2026-10-10 21:28
-160 10986 V 9600 = AB BA 26 8B DC AE 10 9A = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:2 = POL-141 ENC1 =  =  = 2026-10-10 21:18
 130 11187 V 9875 = 24 21 F6 3B DE EA 7E 46 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = Fi11_GNVE =  =  = 2026-10-10 19:48
 130 11199 V 9875 = E0 64 AC F0 27 6F 8C 22 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = Fi12_GNVE =  =  = 2026-10-10 20:13
 130 11635 V 9875 = 4A A9 95 78 8B 22 2C D9 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = GVA_Fi05 =  =  = 2026-10-10 21:04
 130 11069 H 7199 = 72 4C 9D 5B B4 34 52 3A = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-10 20:15
 130 11058 H 7199 = 72 4C 9D 5B B4 34
 54 3C = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-10 20:48
-130 11067 H 7200 = 72 4C 9D 5B B4 34 52 3A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-10 11:40
-130 11636 V 7200 = A8 D0 F7 6F 98 74 C2 CE = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-10 16:38
-130 11694 H 7200 = 11 AA 26 E1 BB CC 10 97 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 452 TRIESTE =  =  = 2026-10-10 18:13
-130 11636 V 7200 = A8 D0 F7 6F 98 74 C2 CE = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-10 18:39
-130 11058 H 7199 = 4E 6B 44 FD FD B3 73 23 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-10 20:35
-130 11058 H 7199 = 4E 6B 44 FD FD B3 73 23 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-10 20:46
 192 11490 V 7500 = F8 D2 10 DA 10 CC 21 FD = BELGIAN FOOTBALL @ 7°E 10°E = Astra 1N/1P ( 19.2E ) = hd | 4:2:2 = BEL68 - Enc 2 CER BRU - AND =  =  = 2026-10-10 16:10
 192 11471 V 8020 = F8 D2 10 DA 10 CC 21 FD = BELGIAN FOOTBALL @ 7°E 10°E = Astra 1N/1P ( 19.2E ) = hd | 4:2:2 | HD = BEL68 - Enc 2 CER BRU - AND =  =  = 2026-10-10 19:46
 192 11499 V 7500 = F8 D2 10 DA 10 CC 21 FD = BELGIAN FOOTBALL @ 7°E 10°E = Astra 1N/1P ( 19.2E ) = hd | 4:2:2 = HOL309 DAZN BU =  =  = 2026-10-10 20:24
@@ -71,6 +73,7 @@
 130 12582 V 4800 = FE ED 09 F4 10 20 26 56 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M5 MRC006A Main =  =  = 2026-10-10 00:02
 160 12629 V 7199 = 10 10 DF FF EA 51 59 94 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 16D ( 16E ) = HD =  =  =  = 2026-10-10 22:05
 100 11259 V 9875 = F2 A3 D1 66 E6 89 BB 2A = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 10B ( 10E ) = 4.2.2 =  =  =  = 2026-10-10 22:20
+48 11587 V 4800 = 03 41 30 74 09 02 01 0C = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Astra 4A ( 4.8E ) = HD | 4.2.2 = DEARD-UHDE-11 = TANZ-WM LIVE AUS LEIPZIG =  = 2026-10-10 22:32
 130 12588 V 4800 = FE ED 09 F4 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Maim =  =  = 2026-10-10 00:05
 216 11580 H 5000 = FE ED 10 FB 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) = 4:2:0 | HD = FLY HD2 MOD1 =  =  = 2026-10-10 19:36
 216 11595 H 5000 = FE ED 10 FB 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) = 4:2:0 = M5 MRC006A Main =  =  = 2026-10-10 21:48
