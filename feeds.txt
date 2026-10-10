@@ -1,34 +1,47 @@
+130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 = AFLW 2026 =  =  = 2026-10-10 11:20
+420 11066 V 7199 = F4 86 10 8A 1F EE D2 DF = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-10 16:11
+100 11254 H 7200 = 1E 83 F2 93 CA 53 9D BA = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 = URC =  =  = 2026-10-10 16:34
+130 11061 V 7120 = 1E 2D 64 AF 64 CE CE 00 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Premiership Rugby - Northampton vs Bath =  = 2026-10-10 16:59
+192 11817 V 31428 = NO KEY = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 1N/1P ( 19.2E ) = 4:2:0 = Astra 1 Service 5 = English Premier League - Chelsea vs AFC Bournemouth =  = 2026-10-10 12:08
+130 11647 H 7120 = A2 A5 36 7D DE 32 93 A3 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch West Brom v Birmingham =  =  = 2026-10-10 14:49
+130 11070 V 7120 = 0D F3 C1 C1 45 25 A2 0C = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = Pitch Bolton  v Stoke =  =  = 2026-10-10 16:55
+100 3900 V  = 67 46 86 33 71 35 32 D8 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-10 16:51
+130 10866 H 7200 = 65 ED 31 83 CE 01 C9 98 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-GYO-MET = EHF Champions League Women - =  = 2026-10-10 15:10
+130 10859 H 5000 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = EHF-CLW-GYO-MET = EHF Champions League Women - =  = 2026-10-10 16:51
+1005 3840 H 29998 = 40 10 F6 46 28 E5 1E 2B = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-10 03:23
+100 3905 V  = 67 46 86 33 71 35 32 D8 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-10 14:57
+1005 3840 H 29998 = A3 86 81 AA 24 39 FB 58 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 3 =  =  = 2026-10-10 15:03
+30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 3B ( 3E ) = 4:2:0 = beIN SPORTS =  =  = 2026-10-10 16:41
+100 11263 H 7200 = BC 06 20 E2 26 10 10 46 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4.2.2 =  =  =  = 2026-10-10 15:39
+100 11263 H 7200 = BC 06 20 E2 26 10 10 46 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4.2.2 | HD =  =  =  = 2026-10-10 16:09
+1100 11000 H 9600 = BC 06 20 E2 26 10 10 46 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = JCSAT 110A ( 110E ) = 4:2:2 = ITA CAM1 =  =  = 2026-10-10 16:17
+100 11041 V 9598 = NO KEY = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = HD | 4:2:2 = ITA_609_A =  =  = 2026-10-10 16:39
+130 11067 H 7200 = 72 4C 9D 5B B4 34 52 3A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-10 11:40
+130 11636 V 7200 = A8 D0 F7 6F 98 74 C2 CE = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-10 16:38
+100 3900 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-10 14:19
+100 3895 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-10 16:30
+420 10956 V 7500 = A1 E7 90 18 EC A2 A2 30 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-062 A =  =  = 2026-10-10 13:15
+192 11561 V 7200 = 03 41 30 74 09 02 02 0D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Astra 1N/1P ( 19.2E ) = 4:2:2 | HD = MMG-D185 HD Encoder 2 = BBL Basketball - Chemnitz vs Bayern =  = 2026-10-10 16:27
+192 11490 V 7500 = F8 D2 10 DA 10 CC 21 FD = BELGIAN FOOTBALL @ 7°E 10°E = Astra 1N/1P ( 19.2E ) = hd | 4:2:2 = BEL68 - Enc 2 CER BRU - AND =  =  = 2026-10-10 16:10
 130 11609 V 7200 = 10 10 20 40 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main = Liga Portugal 2 - Tondela vs Torreense =  = 2026-10-10 12:50
 160 12545 H 7200 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4.2.0 = Main E-285 =  =  = 2026-10-10 15:47
-20 12642 H 7199 = 10 10 BD DD BB 95 14 64 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-10 14:26
-20 12515 H 7198 = 10 10 BD DD BB 95 14 64 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-10 14:39
-192 11574 V 7200 = 03 41 30 74 09 02 02 0D = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4:2:2 | HD = DEARD-UHDE-11 = German Regionalliga Nordost - Jena vs Magdeburg II =  = 2026-10-10 15:41
-100 11263 H 7200 = BC 06 20 E2 26 10 10 46 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4.2.2 =  =  =  = 2026-10-10 15:39
 1005 3808 V 9873 = 43 2E D7 48 A9 2A E3 B6 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-10 03:35
 130 11590 H 7200 = CB B1 ED 69 11 FD 55 63 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.0 | HD = TVS UE1 HD Sendeweg1 =  =  = 2026-10-10 10:50
 130 12550 H 9875 = BE B1 2E 9D AC A2 4E 9C = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-10 11:37
 1005 3991 V 9875 = BE B1 2E 9D AC A2 4E 9C = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 4:2:0 = WSBK ESTORIL =  =  = 2026-10-10 15:27
-130 10866 H 7200 = 65 ED 31 83 CE 01 C9 98 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-GYO-MET = EHF Champions League Women - =  = 2026-10-10 15:10
-1005 3840 H 29998 = 40 10 F6 46 28 E5 1E 2B = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-10 03:23
-100 3905 V  = 67 46 86 33 71 35 32 D8 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-10 14:57
-1005 3840 H 29998 = A3 86 81 AA 24 39 FB 58 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 3 =  =  = 2026-10-10 15:03
-192 11817 V 31428 = NO KEY = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 1N/1P ( 19.2E ) = 4:2:0 = Astra 1 Service 5 = English Premier League - Chelsea vs AFC Bournemouth =  = 2026-10-10 12:08
-130 11647 H 7120 = A2 A5 36 7D DE 32 93 A3 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch West Brom v Birmingham =  =  = 2026-10-10 14:49
 1005 3951 H 15000 = 4F 2D 04 80 B1 2B 82 5E = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-1 =  =  = 2026-10-10 12:00
 1005 3951 H 15000 = C3 8F 94 E6 B3 87 9D D7 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-2 =  =  = 2026-10-10 12:01
 1005 3751 H 15000 = C3 8F 94 E6 B3 87 9D D7 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-2 =  =  = 2026-10-10 14:47
-100 3900 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-10 14:19
 420 11067 V 7500 = F1 85 E7 5D 6D 44 41 F2 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 136A =  =  = 2026-10-10 13:21
-420 10956 V 7500 = A1 E7 90 18 EC A2 A2 30 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-062 A =  =  = 2026-10-10 13:15
 130 10811 H 7200 = 13 4D FE 5E BC CA AC 32 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Enc 9 = UCI BMX Racing World Cup Chongli China =  = 2026-10-10 07:24
 130 11611 V 9873 = 69 F7 50 B0 7B 78 47 3A = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = Fi11_GNVE = UCI Gravel World Championships Nannup, Western Australia =  = 2026-10-10 07:35
 70 11124 V 5000 = E2 4A DE 0A 07 C5 87 53 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Eutelsat 7C ( 7E ) = 4:2:0 = ITA 646 A = Il Lombardia 2026 =  = 2026-10-10 12:39
-130 11067 H 7200 = 72 4C 9D 5B B4 34 52 3A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-10 11:40
-130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 = AFLW 2026 =  =  = 2026-10-10 11:20
 100 11247 H 7500 = A5 D1 C6 3C 26 79 3A D9 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-10 01:27
 130 12582 V 4800 = FE ED 09 F4 10 20 26 56 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M5 MRC006A Main =  =  = 2026-10-10 00:02
-160 11190 H 4936 = AE BE 49 B5 22 CD EF DE = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4.2.0 = MTVA SNG HUNGARY =  =  = 2026-10-10 15:18
+160 10973 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL 48 ENC1 =  =  = 2026-10-10 16:42
 130 12525 H 7200 = D4 A9 2E AB 7F 1B 86 20 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4.2.0 = BWF WF-A C1 BISS-1 =  =  = 2026-10-10 11:00
+130 12583 V 7200 = 8C E4 35 A5 7D 98 F1 06 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 JUNIOR BISS-1 = World Junior Championship =  = 2026-10-10 16:05
+160 11190 H 4936 = AE BE 49 B5 22 CD EF DE = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4.2.0 = MTVA SNG HUNGARY =  =  = 2026-10-10 15:18
 0 11464 V 7200 = AB 41 41 2D BC 58 66 7A = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W =  = 4.2.0 = No name =  =  = 2026-10-10 10:37
 160 11134 H 7200 = 46 DA D3 F3 27 6A 0E 9F = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-10-10 09:17
 130 10820 H 7200 = 55 FF AA FE CD
