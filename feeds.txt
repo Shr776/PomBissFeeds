@@ -8,4 +8,5 @@
 1005 3808 V 9873 = 5A 22 88 04 9A B3 AD FA = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-11 04:57
 1005 3840 H 29998 = A3 8F 17 49 44 FE F7 39 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-11 03:09
 30 12120 H 30000 = A4 2B 31 00 A4 C2 31 97 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Eutelsat 3B ( 3E ) = 4:2:0 | 4:2:2 = Enc4A PLE SVC1 PRI 2475 =  =  = 2026-10-11 01:26
+130 12525 H 7200 = 9F 2C 6B 36 4D 8A 17 EE = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 BISS-1 = BWF WORLD TOUR - Artic Open 2026, Vantaa (Finland) =  = 2026-10-11 10:56
 130 10820 H 7200 = 55 FF AA FE CD 11 10 EE = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Encoder 1 = ARAMCO KOREA Championship =  = 2026-10-11 07:29
