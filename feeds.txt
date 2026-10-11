@@ -1,7 +1,9 @@
+1005 3840 H 29998 = A3 8F 17 49 44 FE F7 39 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-11 03:09
+100 3905 V  = 67 46 86 33 71 35 32 D8 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-11 16:40
+1005 3840 H 29998 = F9 4D 82 C8 B7 A5 92 EE = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 2 =  =  = 2026-10-11 19:19
+1005 3840 H 30001 = 12 9A 7C 28 B3 67 BC D6 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 1 = Spain - LALIGA EA SPORTS Matchday 8 = R. Racing Club vs Valencia CF = 2026-10-11 21:45
+100 3895 V  = 67 46 86 33 71 35 32 D8 = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-11 21:24
 130 10800 H 7200 = A4 AA E5 33 44 8C 40 10 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-11 20:56
-130 11068 H 7199 = 72 4C 9D 5B B4 34
-56 3E = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-11 09:55
-130 11058 H 7200 = 72 4C 9D 5B B4 34 60 48 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) =  = IMG 1 EU =  =  = 2026-10-11 20:52
 1005 4004 V 7499 = 33 19 95 E1 A1 4E C0 AF = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 3 = American Football — NFL London Games 2026/27 Matchweek 5 = Philadelphia Eagles vs Jacksonville Jaguars (@ Tottenham Hotspur Stadium) = 2026-10-11 17:04
 1005 3984 V 7500 = 5E 3D 8E 29 99 76 B0 BF = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-10-11 20:27
 1005 3966 V 7500 = D7 12 AF 98 0F FC EA F5 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-10-11 20:34
@@ -12,7 +14,9 @@
 1005 3992 V 9875 = AD 19 50 16 5D E2 FE 3D = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | HD = WSBK Estoril = Motul FIM Superbike World Championship =  = 2026-10-11 13:00
 130 12550 H 9875 = BE B1 2E 9D AC A2 4E 9C = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-11 13:06
 130 12679 H 7500 = F1 07 45 3D E6 CB AD 5E = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 3 =  =  = 2026-10-11 20:09
-130 11058 H 7199 = 72 4C 9D 5B B4 34 60 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-11 20:02
+130 11068 H 7199 = 72 4C 9D 5B B4 34
+56 3E = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-11 09:55
+130 11058 H 7199 = 72 4C 9D 5B B4 34 60 48 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-11 20:02
 160 12555 H 7199 = AA AA 11 65 10 BB BB 86 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD | 1920x1080 =  = Portuga lLiga Portugal 2 - Round 7 = Lusitania FC Chaves Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-11 12:57
 130 11061 V 7199 = 10 10 20 40 26 CC CC BE = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Portugal Liga Portugal 2 - Round 7 = SC Farense Feirense Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-11 15:57
 160 12537 H 7200 = 11 10 20 41 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4.2.0 = Main E-285 =  =  = 2026-10-11 19:56
@@ -24,9 +28,6 @@
 100 11244 H 3600 = 34 34 34 9C 12 12 12 36 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 10B ( 10E ) = 4.2.0 = ITA 168 =  =  = 2026-10-11 16:46
 130 11070 V 7200 = D1 FE C4 93 B0 B8 BC 24 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = POR 21 = Liga Solverde - AA Sao Mamede vs FC Porto =  = 2026-10-11 18:37
 420 11460 V 6800 = 42 97 00 D9 00 42 97 D9 = VOLLYBALL FEEDS All Satellites KU Band C band = Türksat 3A/4A/5B/6A ( 42E ) = 4:2:2 =  =  =  = 2026-10-11 19:24
-1005 3840 H 29998 = A3 8F 17 49 44 FE F7 39 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-11 03:09
-100 3905 V  = 67 46 86 33 71 35 32 D8 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-11 16:40
-1005 3840 H 29998 = F9 4D 82 C8 B7 A5 92 EE = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 2 =  =  = 2026-10-11 19:19
 420 11683 V 7500 = 3C D3 27 36 4C 8F AD 88 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = tur 141 a =  =  = 2026-10-11 16:19
 420 11624 V 7500 = E7 85 C6 32 14 CE C5 A7 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-143A =  =  = 2026-10-11 19:17
 160 10975 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = Fal1 Enc1 =  =  = 2026-10-11 12:30
@@ -60,8 +61,11 @@
 750 4165 V 7500 = 10 AD 46 03 3C 83 DA 99 = BOXING all satellites feeds (10E .....) = ABS 2/2A ( 75E ) =  = PATH-A ALDEA_INC_CH PRIIMARY =  =  = 2026-10-11 02:23
 1005 4165 H 7198 = CB AA FA 6F DC 14 FA EA = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-11 05:06
 30 12120 H 30000 = A4 2B 31 00 A4 C2 31 97 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Eutelsat 3B ( 3E ) = 4:2:0 | 4:2:2 = Enc4A PLE SVC1 PRI 2475 =  =  = 2026-10-11 01:26
-160 11128 H 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-011 = Betclic 2. Liga - match: Zawisza Bydgoszcz - Znicz Pruszków =  = 2026-10-11 20:49
+216 11595 H 5000 = FE ED 11 FC 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) = 4:2:0 | HD = FLY HD2 MOD1 =  =  = 2026-10-11 21:38
 70 11095 V 7200 = 15 58 35 A2 71 42 63 16 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 7C ( 7E ) = 4.2.2 = POL-059_ch1 = Dancing with the Stars Poland. Taniec z gwiazdami. =  = 2026-10-11 20:07
+192 11561 V 7200 = 11 10 BE DF AA 69 41 54 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Astra 1N/1P ( 19.2E ) = 4:2:0 = D535 ESGQ =  =  = 2026-10-11 21:31
+160 11128 H 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-011 = Betclic 2. Liga - match: Zawisza Bydgoszcz - Znicz Pruszków =  = 2026-10-11 20:49
+160 10973 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = POL 030 = Betclic 1. Liga - match: Odra Opole - Miedź Legnica =  = 2026-10-11 21:19
 216 11022 V 4440 = FE ED 11 FC 10 20 26 56 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Eutelsat 21C ( 21.6E ) = 4:2:0 = MRC002-Backup =  =  = 2026-10-11 17:00
 420 10997 H 7500 = AA BB CC 31 DD 11 FF ED = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA-MAIN =  =  = 2026-10-11 18:51
 260 12630 V 7500 = FE ED DB C6 CA ED 01 B8 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = Cleopatra =  =  = 2026-10-11 17:17
