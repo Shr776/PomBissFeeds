@@ -1,7 +1,8 @@
 130 11068 H 7199 = 72 4C 9D 5B B4 34
-56 3E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-11 08:15
-130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's  Sydney Swans VS Carlton =  = 2026-10-11 07:50
+56 3E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-11 09:55
 130 10830 V 7200 = 4F EA C1 FA 34 45 41 BA = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Enc 9 = UCI BMX Racing World Cup Chongli China =  = 2026-10-11 07:22
+130 11186 V 7200 = 4C 91 AD 8A 95 FE D6 69 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi15_GNVE =  =  = 2026-10-11 09:50
+130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's  Sydney Swans VS Carlton =  = 2026-10-11 07:50
 750 4165 V 7500 = 10 AD 46 03 3C 83 DA 99 = BOXING all satellites feeds (10E .....) = ABS 2/2A ( 75E ) =  = PATH-A ALDEA_INC_CH PRIIMARY =  =  = 2026-10-11 02:23
 1005 4165 H 7198 = CB AA FA 6F DC 14 FA EA = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-11 05:06
 1005 3808 V 9873 = 5A 22 88 04 9A B3 AD FA = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-11 04:57
