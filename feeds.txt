@@ -1,11 +1,3 @@
-130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's  Sydney Swans VS Carlton =  = 2026-10-11 07:50
-130 11646 H 7119 = 88 CC 14 68 27 EA AE BF = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-11 18:31
-420 11066 V 7199 = F4 94 11 99 1F EE D1 DE = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-11 18:54
-70 11058 V 7200 = F4 94 11 99 1F EE D2 DF = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 =  = TOP14 - Toulouse vs Bayonne =  = 2026-10-11 22:40
-100 11244 H 3600 = 34 34 34 9C 12 12 12 36 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 10B ( 10E ) = 4.2.0 = ITA 168 =  =  = 2026-10-11 16:46
-130 11070 V 7200 = D1 FE C4 93 B0 B8 BC 24 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = POR 21 = Liga Solverde - AA Sao Mamede vs FC Porto =  = 2026-10-11 18:37
-420 11460 V 6800 = 42 97 00 D9 00 42 97 D9 = VOLLYBALL FEEDS All Satellites KU Band C band = Türksat 3A/4A/5B/6A ( 42E ) = 4:2:2 =  =  =  = 2026-10-11 19:24
-70 11103 V 7200 = 15 58 35 A2 71 42 63 16 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = POL-058_ch1 = Bogdanka Cup - Lublin vs PGE =  = 2026-10-11 22:25
 160 10975 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = Fal1 Enc1 =  =  = 2026-10-11 12:30
 20 12702 V 7200 = 11 10 DB FC ED 75 36 98 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-11 13:40
 100 3900 V  = 67 46 86 33 71 35 32 D8 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-11 16:26
@@ -14,6 +6,17 @@
 100 3900 V  = 67 46 86 33 71 35 32 D8 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-11 19:04
 192 11588 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4:2:2 | HD = SNG = German Regionalliga - Chemnitz vs Erfurt =  = 2026-10-11 19:12
 20 12702 V 7200 = 11 10 DB FC ED 75 36 98 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) =  = DMC =  =  = 2026-10-11 22:11
+100 3900 V  = 67 46 86 33 71 35 32 D8 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-11 23:18
+100 11246 H 7500 = A5 D1 C6 3C 26 79 3A D9 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-10-11 23:18
+750 11583 H 3750 = A4 56 A1 9B 23 B6 78 51 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-11 18:00
+130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's  Sydney Swans VS Carlton =  = 2026-10-11 07:50
+130 11646 H 7119 = 88 CC 14 68 27 EA AE BF = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-11 18:31
+420 11066 V 7199 = F4 94 11 99 1F EE D1 DE = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-11 18:54
+70 11058 V 7200 = F4 94 11 99 1F EE D2 DF = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 =  = TOP14 - Toulouse vs Bayonne =  = 2026-10-11 22:40
+100 11244 H 3600 = 34 34 34 9C 12 12 12 36 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 10B ( 10E ) = 4.2.0 = ITA 168 =  =  = 2026-10-11 16:46
+130 11070 V 7200 = D1 FE C4 93 B0 B8 BC 24 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = POR 21 = Liga Solverde - AA Sao Mamede vs FC Porto =  = 2026-10-11 18:37
+420 11460 V 6800 = 42 97 00 D9 00 42 97 D9 = VOLLYBALL FEEDS All Satellites KU Band C band = Türksat 3A/4A/5B/6A ( 42E ) = 4:2:2 =  =  =  = 2026-10-11 19:24
+70 11103 V 7200 = 15 58 35 A2 71 42 63 16 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = POL-058_ch1 = Bogdanka Cup - Lublin vs PGE =  = 2026-10-11 22:25
 1005 3840 H 29998 = A3 8F 17 49 44 FE F7 39 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-11 03:09
 100 3905 V  = 67 46 86 33 71 35 32 D8 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-11 16:40
 1005 3840 H 29998 = F9 4D 82 C8 B7 A5 92 EE = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 2 =  =  = 2026-10-11 19:19
@@ -43,7 +46,6 @@
 48 11480 V 8020 = F8 D3 10 DB 11 CC 41 1E = BELGIAN FOOTBALL @ 7°E 10°E = Astra 4A ( 4.8E ) = HD =  =  =  = 2026-10-11 19:53
 420 11683 V 7500 = 3C D3 27 36 4C 8F AD 88 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = tur 141 a =  =  = 2026-10-11 16:19
 420 11624 V 7500 = E7 85 C6 32 14 CE C5 A7 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-143A =  =  = 2026-10-11 19:17
-750 11583 H 3750 = A4 56 A1 9B 23 B6 78 51 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-11 18:00
 420 11499 V 7199 = 2B 1A 3D 82 5A 4D 21 C8 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-11 12:27
 130 11647 H 7119 = 19 43 FE 5A 32 32 56 BA = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = England Championship - Round 9 = Southampton Portsmouth Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-11 13:58
 216 11667 H 6666 = BB 4C 55 5C 45 74 18 D1 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 21C ( 21.6E ) = 4.2.0 = Bein Liverpool v Man City =  =  = 2026-10-11 17:02
