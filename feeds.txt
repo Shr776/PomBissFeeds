@@ -1,4 +1,5 @@
+750 4165 V 7500 = 10 AD 46 03 3C 83 DA 99 = BOXING all satellites feeds (10E .....) = ABS 2/2A ( 75E ) =  = PATH-A ALDEA_INC_CH PRIIMARY =  =  = 2026-10-11 02:23
+1005 4165 H 7198 = CB AA FA 6F DC 14 FA EA = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-11 05:06
 1005 3808 V 9873 = 5A 22 88 04 9A B3 AD FA = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-11 04:57
 1005 3840 H 29998 = A3 8F 17 49 44 FE F7 39 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-11 03:09
-750 4165 V 7500 = 10 AD 46 03 3C 83 DA 99 = BOXING all satellites feeds (10E .....) = ABS 2/2A ( 75E ) =  = PATH-A ALDEA_INC_CH PRIIMARY =  =  = 2026-10-11 02:23
 30 12120 H 30000 = A4 2B 31 00 A4 C2 31 97 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Eutelsat 3B ( 3E ) = 4:2:0 | 4:2:2 = Enc4A PLE SVC1 PRI 2475 =  =  = 2026-10-11 01:26
