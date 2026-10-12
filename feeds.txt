@@ -1,3 +1,4 @@
+130 11088 V 7199 = 03 6F 8E 00 8C 4F 24 FF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE =  =  = 2026-10-12 14:14
 160 11125 H 7199 = C2 C6 05 8D 2A E3 C0 CD = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = UZB UpLink 001 =  =  = 2026-10-12 13:08
 1005 4033 V 7500 = E2 D4 AF 65 56 D9 72 A1 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = NFL INT PAL SVC 7 =  =  = 2026-10-12 00:29
 1005 4024 V 7500 = 58 20 AD 25 AC 5D 23 2C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 5 =  =  = 2026-10-12 00:32
