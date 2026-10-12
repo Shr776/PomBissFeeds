@@ -18,7 +18,6 @@
 1005 4181 V 7200 = F6 12 FD 05 88 2D 41 F6 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = QAT037 M =  =  = 2026-10-12 18:31
 30 10978 H 7500 = 9B 98 3A 6D 3D 88 B7 7C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 3B ( 3E ) = hd | 4:2:0 = WDL Doha WF =  =  = 2026-10-12 18:50
 160 12594 H 7199 = F1 A6 D3 6A B8 E7 29 C8 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4:2:2 = E333 M =  =  = 2026-10-12 18:34
-130 11058 H 7199 = 72 4C 9D 5B B4 34 61 49 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-12 18:08
 130 10802 H 7199 = 8F 3B C3 8D F0 6B E0 3B = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-12 18:05
 420 11478 V 6800 = 42 45 00 87 00 42 45 87 = VOLLYBALL FEEDS All Satellites KU Band C band = Türksat 3A/4A/5B/6A ( 42E ) =  =  =  =  = 2026-10-12 17:59
 216 11580 H 5000 = FE ED 12 FD 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) = 4:2:2 | 4:2:0 = MCR 005 MAIN =  =  = 2026-10-12 22:43
