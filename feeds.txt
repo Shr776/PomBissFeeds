@@ -1,10 +1,11 @@
-100 3890 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-12 16:58
-160 11125 H 7199 = C2 C6 05 8D 2A E3 C0 CD = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = UZB UpLink 001 =  =  = 2026-10-12 13:08
-160 11134 H 7199 = 5F 56 C5 7A 53 E9 A6 E2 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = UAE074-B =  =  = 2026-10-12 15:23
-1005 3993 V 7200 = 5F 56 C5 7A 53 E9 A6 E2 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = UAE074-B =  =  = 2026-10-12 15:26
-160 11144 H 7200 = 7A EF 03 6C 2A 91 11 CC = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = OMAN  2 =  =  = 2026-10-12 15:28
-1005 3860 V 30000 = C2 C6 05 8D 2A E3 C0 CD = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = UZB UpLink 001 =  =  = 2026-10-12 16:24
+420 11478 V 6800 = 42 45 00 87 00 42 45 87 = VOLLYBALL FEEDS All Satellites KU Band C band = Türksat 3A/4A/5B/6A ( 42E ) =  =  =  =  = 2026-10-12 17:59
+216 10988 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main SAUDI065 =  =  = 2026-10-12 17:47
+160 11162 H 7200 = AC 7C 0B 33 68 AB 91 A4 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = SAU-033-Main =  =  = 2026-10-12 17:37
+1005 3862 V 30001 = AC 7C 0B 33 68 AB 91 A4 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = SAU-033-Main = Asia - AFC Champions League Elite (Matchday 2) = Al Nassr Club vs PFC Neftchi = 2026-10-12 17:41
+750 11583 H 3750 = C4 5D 91 B2 B5 7A 63 92 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-12 17:34
 130 11088 V 7199 = 03 6F 8E 00 8C 4F 24 FF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE =  =  = 2026-10-12 14:14
 1005 4033 V 7500 = E2 D4 AF 65 56 D9 72 A1 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = NFL INT PAL SVC 7 =  =  = 2026-10-12 00:29
 1005 4024 V 7500 = 58 20 AD 25 AC 5D 23 2C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 5 =  =  = 2026-10-12 00:32
 1005 3975 V 7499 = FD E8 43 28 DD 28 88 8D = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 2 = American Football — NFL 2026/27 Matchweek 5 = Baltimore Ravens vs Atlanta Falcons (@ Mercedes-Benz Stadium) = 2026-10-12 03:46
+260 11644 V 7500 = FE ED DB C6 CA ED 02 B9 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = C OB-HD1 =  =  = 2026-10-12 17:26
+260 12630 V 7500 = FE ED DB C6 CA ED 02 B9 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = Cleopatra =  =  = 2026-10-12 17:30
