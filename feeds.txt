@@ -63,6 +63,8 @@ D8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7째E10째E16째E62째E100.5�
 130 11058 H 7199 = 72 4C 9D 5B B4 34 61 49 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7째E 10째E-100.5째E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-13 00:11
 1005 3966 V 7500 = 5C B2 E5 F3 A2 67 E0 E9 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-10-13 00:00
 216 11580 H 5000 = FE ED 13 FE 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) = 4:2:0 = M52-MRC032-UNI1 M =  =  = 2026-10-13 21:45
+216 11595 H 5000 = FE ED 13 FE 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) = 4:2:0 = M5 MRC006A Main =  =  = 2026-10-13 23:25
+-300 11567 V 4800 = 13 57 AB 15 CD 24 68 59 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Hispasat 30W-5/6 ( 30W ) =  = G19 MAIN =  =  = 2026-10-13 23:11
 130 11628 H 7200 = 57 73 94 5E 3A 28 44 A6 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE =  =  = 2026-10-13 15:21
 30 11665 H 7200 = 57 73 94 5E 3A 28 44 A6 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Eutelsat 3B ( 3E ) =  = MRC 003 MAIN =  =  = 2026-10-13 21:31
 90 12703 H 4166 = 13 10 20 43 26 AB CD 9E = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = Eutelsat 9B ( 9E ) = 4:2:0 =  =  =  = 2026-10-13 19:43
