@@ -6,7 +6,19 @@
 30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 3B ( 3E ) = hd | 4:2:0 = beIN SPORTS =  =  = 2026-10-13 17:27
 130 11058 H 7199 = 74 61 12 E7 87 75 45 41 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = E459 VIA1 =  =  = 2026-10-13 18:53
 130 11087 V 9875 = 11 1F 49 79 73 14 F1 78 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-10-13 18:54
+130 11067 H 7200 = 87 67 76 64 13 45 31 89 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR-069_main = UEFA Champions League - Galatasaray vs Barcellona =  = 2026-10-13 19:09
+160 12612 H 7200 = A3 F7 B1 4B D9 E6 24 E3 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = hd | 4:2:0 = ROM - RMA Real Madrid MD-1 =  =  = 2026-10-13 19:24
+160 12629 V 7200 = 20 10 20 50 25 20 26 6b = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4:2:0 = YSM-012 MAIN =  =  = 2026-10-13 19:33
+130 11105 H 17140 = BA DA 58 EC 79 CA BA FD = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UKI 510 Chelsea main =  =  = 2026-10-13 19:33
+160 12629 H 7199 = C8 D2 A5 3F F1 B7 39 E1 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4:2:2 = E-333B =  =  = 2026-10-13 20:01
+100 3885 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-13 16:34
+100 3890 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:2 =  =  =  = 2026-10-13 17:04
+100 3895 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-13 19:58
+750 11583 H 3750 = AA 1D 66 2D 56 9B 01 F2 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-13 16:17
+130 11695 H 7200 = 4E 5B 29 D2 6D D1 9A 8D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) =  = TUR 136 A = Eurocup Basketball - Bahcesehir College Istanbul vs Manresa =  = 2026-10-13 19:15
+160 12638 H 7200 = 13 10 20 43 26 FE AB CF = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = DOLOMITI_NINERS_MAIN =  =  = 2026-10-13 19:31
 100 11259 V 9875 = 69 91 11 0B 72 95 22 29 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 10B ( 10E ) = 4.2.0 = D413 Ger Japan WF =  =  = 2026-10-13 18:41
+100 11283 H 7199 = 08 75 72 EF 54 4E 4C EE = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 10B ( 10E ) = 4:2:0 = SLO-008 Tx 1 =  =  = 2026-10-13 19:32
 1005 3886 V 7200 = CF 93 86 E8 89 A7 6B 9B = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = QAT_039 B_ =  =  = 2026-10-13 15:25
 160 12657 H 7199 = D2 1F 74 65 AF 5E CD DA = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = OMAN_ 1 =  =  = 2026-10-13 15:35
 160 12537 H 7200 = 5A 37 DE 6F EF E2 65 36 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = hd | 4:2:0 = SAU-030-B =  =  = 2026-10-13 17:32
@@ -16,23 +28,21 @@
 216 10997 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SAU-015 =  =  = 2026-10-13 18:25
 100 11282 H 7200 = 08 75 72 EF 54 4E 4C EE = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 10B ( 10E ) = 4.2.0 = SLO-008 Tx 1 =  =  = 2026-10-13 18:04
 420 11131 V 7199 = B0 75 6D 92 07 C6 96 63 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 18:25
-130 12535 H 7200 = 54 D1 29 4E 6C 89 A2 97 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-HAM-SRA = EHF Europa League - =  = 2026-10-13 17:49
-130 12525 H 7200 = 22 A1 BF 82 56 77 81 4E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = NOTV2-ENC3 = EHF Europa League - =  = 2026-10-13 17:51
-130 12543 H 7200 = 59 CF 6A 92 12 A2 D4 88 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-VFL-PEL = EHF Europa League - =  = 2026-10-13 17:55
-130 10847 H 7200 = 51 CF 39 59 61 71 DA AC = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-KAR-SLB = EHF Europa League - =  = 2026-10-13 18:02
-130 10857 H 7200 = 91 51 65 47 2D 7F CA 76 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = POL-058_ch1 = EHF Europa League - =  = 2026-10-13 18:04
-130 10867 H 7200 = FB 98 A9 3C 80 F7 F3 6A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-CHA-KAD = EHF Europa League - =  = 2026-10-13 18:07
+130 12535 H 7200 = 54 D1 29 4E 6C 89 A2 97 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-HAM-SRA = EHF European League - Hammarby Handboll vs Saint Raphael Var Handball =  = 2026-10-13 17:49
+130 12525 H 7200 = 22 A1 BF 82 56 77 81 4E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = NOTV2-ENC3 = EHF European League - Elverum Håndball vs RK Nexe =  = 2026-10-13 17:51
+130 12543 H 7200 = 59 CF 6A 92 12 A2 D4 88 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-VFL-PEL = EHF European League - VfL Gummersbach vs HC Eurofarm Pelister =  = 2026-10-13 17:55
+130 10847 H 7200 = 51 CF 39 59 61 71 DA AC = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-KAR-SLB = EHF European League - HCB Karvina vs Sport Lisboa e Benfica =  = 2026-10-13 18:02
+130 10857 H 7200 = 91 51 65 47 2D 7F CA 76 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | sD = POL-058_ch1 = EHF European League - PGE Wybrzeze Gdansk vsDicorpebal Logroño La Rioja =  = 2026-10-13 18:04
+130 10867 H 7200 = FB 98 A9 3C 80 F7 F3 6A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-CHA-KAD = EHF Europa League - Chambery Savoie Mont Blanc Handball vs Kadetten Schaffhausen =  = 2026-10-13 18:07
 130 11628 H 7200 = 57 73 94 5E 3A 28 44 A6 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE =  =  = 2026-10-13 15:21
 100 11305 V 7199 = A3 1B 4F 0D 2D 7C 9E 47 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 10B ( 10E ) = 4:2:0 = SINTRA 1 MN =  =  = 2026-10-13 17:51
-100 3885 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-13 16:34
-100 3890 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:2 =  =  =  = 2026-10-13 17:04
 420 10956 V 7500 = 5B B5 54 64 A4 42 92 78 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR122A =  =  = 2026-10-13 14:12
 420 10965 V 7500 = 2E 3D 4A B5 4C 30 E1 5D = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-147M =  =  = 2026-10-13 17:02
 765 4026 H 7199 = NO KEY = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) =  =  =  =  = 2026-10-13 16:54
-750 11583 H 3750 = AA 1D 66 2D 56 9B 01 F2 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-13 16:17
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-13 03:08
 130 11058 H 7199 = 72 4C 9D 5B B4 34 61 49 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-13 00:11
 1005 3966 V 7500 = 5C B2 E5 F3 A2 67 E0 E9 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-10-13 00:00
+90 12703 H 4166 = 13 10 20 43 26 AB CD 9E = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = Eutelsat 9B ( 9E ) = 4:2:0 =  =  =  = 2026-10-13 19:43
 420 11144 V 4999 = 12 39 B5 00 07 C6 82 4F = ITALY Feeds RAI  Mediaset (News Sports News TV Shows NOT Live Sports ie NOT Italian Football) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 18:29
 420 11150 V 4999 = 79 40 B3 6C 07 C6 83 50 = ITALY Feeds RAI  Mediaset (News Sports News TV Shows NOT Live Sports ie NOT Italian Football) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 18:30
 130 12597 V 9699 = E8 4F FA 31 FD 10 13 20 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Europe Champions League - Round 6 = Pardubice Vaxjo Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-13 16:47
