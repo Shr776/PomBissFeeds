@@ -1,11 +1,21 @@
+765 4026 H 7199 = NO KEY = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) =  =  =  =  = 2026-10-13 16:54
+130 11628 H 7200 = 57 73 94 5E 3A 28 44 A6 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE =  =  = 2026-10-13 15:21
+160 12546 H 7200 = AA BB CC 31 DD AA BB 42 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4.2.0 = E-267-BUP =  =  = 2026-10-13 16:53
+100 3885 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-13 16:34
 130 11087 V 9875 = F1 F9 34 1E 28 16 D3 11 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE =  =  = 2026-10-13 10:36
 130 11592 H 9875 = 2E 43 6D DE 25 4D 27 99 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE =  =  = 2026-10-13 13:45
 160 12545 H 7199 = NO KEY = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = sd | 4:2:0 = via 1 BETIS us OPORTO =  =  = 2026-10-13 15:54
+130 11105 H 15000 = FA C2 78 34 61 2C AF 3C = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = Canal Plus Test =  =  = 2026-10-13 16:08
+160 12593 H 7200 = D7 E2 0F C8 55 E7 FA 36 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4.2.0 = TLCAT-002-01 =  =  = 2026-10-13 16:20
+750 11583 H 3750 = AA 1D 66 2D 56 9B 01 F2 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-13 16:17
 1005 3886 V 7200 = CF 93 86 E8 89 A7 6B 9B = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = QAT_039 B_ =  =  = 2026-10-13 15:25
 160 12657 H 7199 = D2 1F 74 65 AF 5E CD DA = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = OMAN_ 1 =  =  = 2026-10-13 15:35
-130 11628 H 7200 = 57 73 94 5E 3A 28 44 A6 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE =  =  = 2026-10-13 15:21
 420 10956 V 7500 = 5B B5 54 64 A4 42 92 78 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR122A =  =  = 2026-10-13 14:12
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-13 03:08
 130 11058 H 7199 = 72 4C 9D 5B B4 34 61 49 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-13 00:11
 1005 3966 V 7500 = 5C B2 E5 F3 A2 67 E0 E9 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-10-13 00:00
+130 12597 V 9699 = E8 4F FA 31 FD 10 13 20 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Europe Champions League - Round 6 = Pardubice Vaxjo Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-13 16:47
+130 12609 V 9699 = E8 4F FA 31 ED 10 13 10 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Europe Champions League - Round 6 = Nitra Rogle Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-13 16:51
+130 10802 H 7200 = 7B 3E 9A 53 1F 42 C6 27 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = DNK47 ENC1 = BWF WORLD TOUR - VICTOR Denmark Open 2026 =  = 2026-10-13 16:40
+130 10810 H 7200 = 63 DA 5F 9C 28 B1 C9 A2 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = DNK47 ENC3 = BWF WORLD TOUR - VICTOR Denmark Open 2026 =  = 2026-10-13 16:42
 130 11072 V 4936 = 6C 8E 74 6E D3 3A C2 CF = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = WSHT ENC55 = MLB Cleveland Guardians Vs Tampa Bay Rays =  = 2026-10-13 03:13
