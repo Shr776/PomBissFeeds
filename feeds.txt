@@ -1,3 +1,6 @@
+130 11628 H 7200 = 57 73 94 5E 3A 28 44 A6 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE =  =  = 2026-10-13 14:41
+160 12545 H 7199 = C3 2A B3 A0 11 BA EC B7 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 = via 2 betis oporto =  =  = 2026-10-13 14:44
+420 10956 V 7500 = 5B B5 54 64 A4 42 92 78 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR122A =  =  = 2026-10-13 14:12
 130 11087 V 9875 = F1 F9 34 1E 28 16 D3 11 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE =  =  = 2026-10-13 10:36
 130 11592 H 9875 = 2E 43 6D DE 25 4D 27 99 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE =  =  = 2026-10-13 13:45
 160 11126 H 7200 = DE AA 82 0A 3A 17 56 A7 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = TBS Adhoc Encoder 11 = AFC Champions League Elite - Newcastle Jets vs Gamba Osaka =  = 2026-10-13 10:54
