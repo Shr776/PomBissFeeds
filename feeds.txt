@@ -1,3 +1,19 @@
+130 12535 H 7200 = 54 D1 29 4E 6C 89 A2 97 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-HAM-SRA = EHF European League - Hammarby Handboll vs Saint Raphael Var Handball =  = 2026-10-13 17:49
+130 12525 H 7200 = 22 A1 BF 82 56 77 81 4E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = NOTV2-ENC3 = EHF European League - Elverum Håndball vs RK Nexe =  = 2026-10-13 17:51
+130 12543 H 7200 = 59 CF 6A 92 12 A2 D4 88 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-VFL-PEL = EHF European League - VfL Gummersbach vs HC Eurofarm Pelister =  = 2026-10-13 17:55
+130 10847 H 7200 = 51 CF 39 59 61 71 DA AC = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-KAR-SLB = EHF European League - HCB Karvina vs Sport Lisboa e Benfica =  = 2026-10-13 18:02
+130 10857 H 7200 = 91 51 65 47 2D 7F CA 76 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | sD = POL-058_ch1 = EHF European League - PGE Wybrzeze Gdansk vsDicorpebal Logroño La Rioja =  = 2026-10-13 18:04
+130 10867 H 7200 = FB 98 A9 3C 80 F7 F3 6A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-CHA-KAD = EHF Europa League - Chambery Savoie Mont Blanc Handball vs Kadetten Schaffhausen =  = 2026-10-13 18:07
+130 12552 H 7200 = 95 A3 12 4A EA D2 FC B8 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-LIM-IRU = EHF European League - Limoges Handball vs IRUDEK Bidasoa Irun =  = 2026-10-13 20:14
+130 10839 H 7200 = 93 58 10 FB 1F 75 DD 71 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = backup = EHF European League - CSM Bucuresti vs HC Izvidac =  = 2026-10-13 20:30
+130 10811 H 7199 = FE 45 12 55 68 DE 01 47 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ISL-RKS-002-BUP =  =  = 2026-10-13 21:01
+420 10997 H 7199 = FC 7E FE 78 EC 94 D9 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 21:03
+420 10974 H 7199 = 52 7A 1E EA 34 5F 1C AF = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 21:17
+420 10956 H 7199 = 5C 8A C9 AF 15 05 1D 37 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 22:26
+420 10965 H 7199 = 23 13 A6 DC 1B 79 1B AF = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD = D535 EHF Flensburg =  =  = 2026-10-13 22:29
+420 10983 H 7199 = FE 45 12 55 68 DE 01 47 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 22:31
+420 11024 H 7199 = 36 17 57 A4 61 AC 20 2D = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 22:37
+420 11015 H 7199 = 23 E1 E0 E4 52 0D A1 00 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 22:40
 130 12679 H 7119 = 99 2B 23 E7 5A 3C 24 BA = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-13 21:48
 1005 3840 H 30001 = DC 67 34 77 AA 21 3C 07 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OCC 1 = CONMEBOL – Copa Sudamericana (1st Leg Semifinals) = Boca Juniors vs Vasco da Gama = 2026-10-13 21:45
 750 11583 H 3750 = AA 1D 66 2D 56 9B 01 F2 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-13 16:17
@@ -24,17 +40,6 @@ D8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5�
 160 12629 H 7199 = C8 D2 A5 3F F1 B7 39 E1 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4:2:2 = E-333B =  =  = 2026-10-13 20:01
 160 12620 H 7199 = E4 B9 C2 5F A7 D1 53 CB = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4:2:2 = E333M =  =  = 2026-10-13 20:52
 420 11478 V 6800 = 42 45 00 87 00 42 45 87 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 143 A =  =  = 2026-10-13 21:29
-130 12535 H 7200 = 54 D1 29 4E 6C 89 A2 97 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-HAM-SRA = EHF European League - Hammarby Handboll vs Saint Raphael Var Handball =  = 2026-10-13 17:49
-130 12525 H 7200 = 22 A1 BF 82 56 77 81 4E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = NOTV2-ENC3 = EHF European League - Elverum Håndball vs RK Nexe =  = 2026-10-13 17:51
-130 12543 H 7200 = 59 CF 6A 92 12 A2 D4 88 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-VFL-PEL = EHF European League - VfL Gummersbach vs HC Eurofarm Pelister =  = 2026-10-13 17:55
-130 10847 H 7200 = 51 CF 39 59 61 71 DA AC = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-KAR-SLB = EHF European League - HCB Karvina vs Sport Lisboa e Benfica =  = 2026-10-13 18:02
-130 10857 H 7200 = 91 51 65 47 2D 7F CA 76 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | sD = POL-058_ch1 = EHF European League - PGE Wybrzeze Gdansk vsDicorpebal Logroño La Rioja =  = 2026-10-13 18:04
-130 10867 H 7200 = FB 98 A9 3C 80 F7 F3 6A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-CHA-KAD = EHF Europa League - Chambery Savoie Mont Blanc Handball vs Kadetten Schaffhausen =  = 2026-10-13 18:07
-130 12552 H 7200 = 95 A3 12 4A EA D2 FC B8 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-LIM-IRU = EHF European League - Limoges Handball vs IRUDEK Bidasoa Irun =  = 2026-10-13 20:14
-130 10839 H 7200 = 93 58 10 FB 1F 75 DD 71 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = backup = EHF European League - CSM Bucuresti vs HC Izvidac =  = 2026-10-13 20:30
-130 10811 H 7199 = FE 45 12 55 68 DE 01 47 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ISL-RKS-002-BUP =  =  = 2026-10-13 21:01
-420 10997 H 7199 = FC 7E FE 78 EC 94 D9 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 21:03
-420 10974 H 7199 = 52 7A 1E EA 34 5F 1C AF = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 21:17
 420 11496 V 9874 = DA CB F3 98 11 13 10 34 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 20:51
 20 12702 V 7200 = 13 10 BA DD AE 79 21 48 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) =  = D-473 Stuttgart =  =  = 2026-10-13 20:41
 420 10956 V 7500 = 5B B5 54 64 A4 42 92 78 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR122A =  =  = 2026-10-13 14:12
