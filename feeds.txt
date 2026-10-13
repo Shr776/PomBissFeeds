@@ -1,3 +1,4 @@
+1005 3840 H 30001 = DC 67 34 77 AA 21 3C 07 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OCC 1 = CONMEBOL – Copa Sudamericana (1st Leg Semifinals) = Boca Juniors vs Vasco da Gama = 2026-10-13 21:45
 130 12535 H 7200 = 54 D1 29 4E 6C 89 A2 97 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-HAM-SRA = EHF European League - Hammarby Handboll vs Saint Raphael Var Handball =  = 2026-10-13 17:49
 130 12525 H 7200 = 22 A1 BF 82 56 77 81 4E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = NOTV2-ENC3 = EHF European League - Elverum Håndball vs RK Nexe =  = 2026-10-13 17:51
 130 12543 H 7200 = 59 CF 6A 92 12 A2 D4 88 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-VFL-PEL = EHF European League - VfL Gummersbach vs HC Eurofarm Pelister =  = 2026-10-13 17:55
@@ -15,7 +16,6 @@
 420 11024 H 7199 = 36 17 57 A4 61 AC 20 2D = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 22:37
 420 11015 H 7199 = 23 E1 E0 E4 52 0D A1 00 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-13 22:40
 130 12679 H 7119 = 99 2B 23 E7 5A 3C 24 BA = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-13 21:48
-1005 3840 H 30001 = DC 67 34 77 AA 21 3C 07 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OCC 1 = CONMEBOL – Copa Sudamericana (1st Leg Semifinals) = Boca Juniors vs Vasco da Gama = 2026-10-13 21:45
 750 11583 H 3750 = AA 1D 66 2D 56 9B 01 F2 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-13 16:17
 130 11695 H 7200 = 4E 5B 29 D2 6D D1 9A
 D8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) =  = TUR 136 A = Eurocup Basketball - Bahcesehir College Istanbul vs Manresa =  = 2026-10-13 19:15
