@@ -1,4 +1,14 @@
+130 12707 H 7199 = DC 67 34 77 AA 21 3C 07 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-14 00:18
+1005 3840 H 30000 = 54 32 AD 33 C7 87 32 80 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-14 23:26
+1005 3840 H 30000 = DC 65 DA 1B 22 11 33 66 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-14 23:54
 130 11067 H 7199 = 7B 3F 9A 54 2D 8E 14 CF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-14 22:37
+130 10866 H 7199 = 35 A0 00 D5 86 75 4F 4A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-SES-BHC =  =  = 2026-10-14 17:57
+130 12535 H 7199 = 3A 15 81 D0 78 D1 87 D0 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = D535_EHF_CLM_MDG_KCE =  =  = 2026-10-14 17:59
+130 10848 H 7200 = 36 AF A1 86 31 95 AE 74 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-AAH-ZAG = EHF Champions League - =  = 2026-10-14 19:43
+130 10857 H 7200 = 45 8F C1 95 57 99 A0 90 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-VES-PAR = EHF Champions League  - =  = 2026-10-14 19:49
+130 11091 H 7199 = 81 5F 2B 0B B6 79 A5 D4 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-KOL-LUZ =  =  = 2026-10-14 19:55
+130 12552 H 7200 = 66 5A 11 D1 E3 71 A0 F4 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = CLM R04 M6 =  =  = 2026-10-14 21:36
+130 12543 H 7200 = 36 6A F1 91 15 F1 08 0E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-14 21:41
 130 10810 H 7200 = 20 26 01 47 41 DE AC CB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Service-1 = Baskeball Champions League- Trabzonspor vs Sabah =  = 2026-10-14 19:55
 160 12654 V 7200 = B9 15 F3 C1 F4 A7 8E 29 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  = BKT EuroCup - Aris Thessaloniki vs Baglietto Derthona Tortona =  = 2026-10-14 20:02
 160 12646 V 7200 = B9 15 F3 C1 F4 A7 8E 29 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  = BKT EuroCup - Aris Thessaloniki vs Baglietto Derthona Tortona =  = 2026-10-14 20:06
@@ -11,16 +21,6 @@
 160 12603 H 7200 = 20 26 04 4A 10 A4 D1 85 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = YSM-012 MAIN = Baskeball Champions League - Spartak vs Hapoel Holon =  = 2026-10-14 21:13
 160 12511 V 7200 = 14 10 20 44 26 C1 F6 DD = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = CHOLET MAIN = Baskeball Champions League - Cholet vs Vechta =  = 2026-10-14 21:21
 130 11628 H 7200 = 13 11 AA CE CC 20 23 0F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = E115 G19 Via 1 Main =  =  = 2026-10-14 21:27
-130 10866 H 7199 = 35 A0 00 D5 86 75 4F 4A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-SES-BHC =  =  = 2026-10-14 17:57
-130 12535 H 7199 = 3A 15 81 D0 78 D1 87 D0 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = D535_EHF_CLM_MDG_KCE =  =  = 2026-10-14 17:59
-130 10848 H 7200 = 36 AF A1 86 31 95 AE 74 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-AAH-ZAG = EHF Champions League - =  = 2026-10-14 19:43
-130 10857 H 7200 = 45 8F C1 95 57 99 A0 90 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-VES-PAR = EHF Champions League  - =  = 2026-10-14 19:49
-130 11091 H 7199 = 81 5F 2B 0B B6 79 A5 D4 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-KOL-LUZ =  =  = 2026-10-14 19:55
-130 12552 H 7200 = 66 5A 11 D1 E3 71 A0 F4 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = CLM R04 M6 =  =  = 2026-10-14 21:36
-130 12543 H 7200 = 36 6A F1 91 15 F1 08 0E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-14 21:41
-130 11105 H 17140 = FA C2 78 34 61 2C AF 3C = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = Canal Plus Anfield Main =  =  = 2026-10-14 17:20
-130 11086 V 9875 = 71 12 63 E6 48 D3 02 1D = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-10-14 18:05
-160 12612 H 7200 = A3 F7 B1 4B D9 E6 24 E3 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = hd | 4:2:0 = ROM - RMA Real Madrid MD-1 =  =  = 2026-10-14 21:31
 420 10956 V 7500 = A6 BD 4C AF ED 3B 87 AF = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 114 B =  =  = 2026-10-14 14:27
 420 10965 V 7500 = D5 4A CE ED 50 99 90 79 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = tur 141 a =  =  = 2026-10-14 16:50
 420 10974 V 7500 = BD E3 BD 5D 28 76 1A B8 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-125-A =  =  = 2026-10-14 21:19
@@ -32,10 +32,11 @@
 1005 3862 V 30001 = DB 10 E5 D0 E6 C6 5B 07 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = KUW-001 Main = Asia - AFC Champions League Two (Matchday 2) = Kuwait SC vs Al Khaldiya SC = 2026-10-14 18:39
 1005 3860 V 30000 = 00 3C A3 DF 54 0A 50 AE = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 | hd =  =  =  = 2026-10-14 20:48
 215 10994 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-10-14 18:30
+130 11105 H 17140 = FA C2 78 34 61 2C AF 3C = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = Canal Plus Anfield Main =  =  = 2026-10-14 17:20
+130 11086 V 9875 = 71 12 63 E6 48 D3 02 1D = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-10-14 18:05
 130 11604 H 9873 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = Fi16_GNVE = 2026 TISSOT UCI TRACK WORLD CHAMPIONSHIPS Shanghai =  = 2026-10-14 09:45
 1005 3808 V 9875 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = UCI-M = 2026 TISSOT UCI TRACK WORLD CHAMPIONSHIPS Shanghai =  = 2026-10-14 14:14
 130 11058 H 7200 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = WWE NXT =  = 2026-10-14 04:27
-130 12707 H 7199 = DC 67 34 77 AA 21 3C 07 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-14 00:18
 130 11617 H 7200 = BD FA 41 F8 8D F5 70 F2 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE = Futsal, Africa Cup of Nations - =  = 2026-10-14 19:05
 130 11617 H 7200 = BD FA 41 F8 8D F5 70 F2 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE = Futsal, Africa Cup of Nations - =  = 2026-10-14 20:49
 130 11665 H 7200 = 57 73 94 5E 3A 28 44 A6 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC 003 MAIN = Futsal, Africa Cup of Nations - =  = 2026-10-14 21:44
