@@ -1,26 +1,38 @@
+1130 11305 V 7200 = A3 1B 4F 0D 2D 7C 9E 47 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Palapa D ( 113E ) = 4.2.0 = SINTRA 1 MN =  =  = 2026-10-14 21:00
+90 12632 H 7200 = 14 10 FD 21 BA 75 61 90 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 9B ( 9E ) =  = DMC =  =  = 2026-10-14 20:53
+1005 4007 H 7200 = 9D 81 6B 89 7B EC CA 31 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-14 15:57
+160 11126 H 7199 = DB 10 E5 D0 E6 C6 5B 07 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = KUW-001 Backup =  =  = 2026-10-14 16:51
+160 11136 H 7199 = 00 3C A3 DF 54 0A 50 AE = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = hd | 4:2:0 =  =  =  = 2026-10-14 18:00
+1005 3862 V 30001 = DB 10 E5 D0 E6 C6 5B 07 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = KUW-001 Main = Asia - AFC Champions League Two (Matchday 2) = Kuwait SC vs Al Khaldiya SC = 2026-10-14 18:39
+1005 3860 V 30000 = 00 3C A3 DF 54 0A 50 AE = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 | hd =  =  =  = 2026-10-14 20:48
 130 10810 H 7200 = 20 26 01 47 41 DE AC CB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Service-1 = Baskeball Champions League- Trabzonspor vs Sabah =  = 2026-10-14 19:55
+160 12654 V 7200 = B9 15 F3 C1 F4 A7 8E 29 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  = BKT EuroCup - Aris Thessaloniki vs Baglietto Derthona Tortona =  = 2026-10-14 20:02
+160 12646 V 7200 = B9 15 F3 C1 F4 A7 8E 29 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  = BKT EuroCup - Aris Thessaloniki vs Baglietto Derthona Tortona =  = 2026-10-14 20:06
+160 12629 V 7200 = 14 01 D3 E8 C1 20 26 07 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = Program 31 = Baskeball Champions League - Bilbao Basket vs Slavia Praha =  = 2026-10-14 20:12
+160 12548 H 7200 = AB 11 DC 98 57 EF 19 5F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = E-229 Main = BKT EuroCup - Tenerife vs Maxima Roma =  = 2026-10-14 20:26
+130 11695 H 7199 = 4E 5B 29 D2 6D D1 9A D8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR122A =  =  = 2026-10-14 20:31
+160 12656 H 7200 = 13 10 20 43 26 FE AB CF = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = VENEZIA_ANKARA_MAIN =  =  = 2026-10-14 20:46
+160 12593 H 7200 = 14 10 AD D1 FE 20 26 44 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = D-331 TX1 =  =  = 2026-10-14 20:47
 130 10866 H 7199 = 35 A0 00 D5 86 75 4F 4A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-SES-BHC =  =  = 2026-10-14 17:57
 130 12535 H 7199 = 3A 15 81 D0 78 D1 87 D0 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = D535_EHF_CLM_MDG_KCE =  =  = 2026-10-14 17:59
 130 10848 H 7200 = 36 AF A1 86 31 95 AE 74 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-AAH-ZAG = EHF Champions League - =  = 2026-10-14 19:43
 130 10857 H 7200 = 45 8F C1 95 57 99 A0 90 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-VES-PAR = EHF Champions League  - =  = 2026-10-14 19:49
 130 11091 H 7199 = 81 5F 2B 0B B6 79 A5 D4 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-KOL-LUZ =  =  = 2026-10-14 19:55
-1005 4007 H 7200 = 9D 81 6B 89 7B EC CA 31 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-14 15:57
-160 11126 H 7199 = DB 10 E5 D0 E6 C6 5B 07 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = KUW-001 Backup =  =  = 2026-10-14 16:51
-160 11136 H 7199 = 00 3C A3 DF 54 0A 50 AE = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = hd | 4:2:0 =  =  =  = 2026-10-14 18:00
-1005 3862 V 30001 = DB 10 E5 D0 E6 C6 5B 07 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = KUW-001 Main = Asia - AFC Champions League Two (Matchday 2) = Kuwait SC vs Al Khaldiya SC = 2026-10-14 18:39
 215 10994 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-10-14 18:30
 130 11105 H 17140 = FA C2 78 34 61 2C AF 3C = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = Canal Plus Anfield Main =  =  = 2026-10-14 17:20
 130 11086 V 9875 = 71 12 63 E6 48 D3 02 1D = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-10-14 18:05
-420 10956 V 7500 = A6 BD 4C AF ED 3B 87 AF = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 114 B =  =  = 2026-10-14 14:27
-420 10965 V 7500 = D5 4A CE ED 50 99 90 79 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = tur 141 a =  =  = 2026-10-14 16:50
 130 11604 H 9873 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = Fi16_GNVE = 2026 TISSOT UCI TRACK WORLD CHAMPIONSHIPS Shanghai =  = 2026-10-14 09:45
 1005 3808 V 9875 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = UCI-M = 2026 TISSOT UCI TRACK WORLD CHAMPIONSHIPS Shanghai =  = 2026-10-14 14:14
 130 11058 H 7200 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = WWE NXT =  = 2026-10-14 04:27
 130 12707 H 7199 = DC 67 34 77 AA 21 3C 07 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-14 00:18
 130 11617 H 7200 = BD FA 41 F8 8D F5 70 F2 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE = Futsal, Africa Cup of Nations - =  = 2026-10-14 19:05
+130 11617 H 7200 = BD FA 41 F8 8D F5 70 F2 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE = Futsal, Africa Cup of Nations - =  = 2026-10-14 20:49
+160 11179 H 4936 = CE BD F1 7C 48 05 59 A6 = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-14 20:34
+420 11462 V 7200 = FE 89 DA 61 15 BC 10 E1 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-14 20:18
+420 11471 V 7199 = F1 61 DA 2C 15 BC 10 E1 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-14 20:19
+420 11480 V 7199 = F3 19 DA E6 15 BC 10 E1 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-14 20:21
+420 11085 V 4999 = A1 B2 C3 16 D4 E5 D6 8F = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-14 20:12
 420 11150 V 4999 = 08 E3 B0 9B 07 C6 B2 7F = ITALY Feeds RAI  Mediaset (News Sports News TV Shows NOT Live Sports ie NOT Italian Football) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-14 19:03
-30 11640 V 2399 = FE ED AD 98 11 06 10 27 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 3B ( 3E ) = 4.2.0 = Unname =  =  = 2026-10-14 15:36
-260 12607 V 3615 = F4 24 51 69 58 68 34 F4 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Badr 4/5/6/7 ( 26E ) = HD =  =  =  = 2026-10-14 18:55
 70 12703 H 4166 = 14 10 CD F1 AB 20 26 F1 = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = Eutelsat 7C ( 7E ) = 4:2:0 =  =  =  = 2026-10-14 18:40
 130 10827 H 9700 = D1 01 4E 20 84 FF CE 51 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-FIN-SAI-PLZ =  =  = 2026-10-14 13:40
 130 10846 V 9700 = D1 01 4E 20 84 FF CF 52 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-SUI-HCD-LIB =  =  = 2026-10-14 13:44
