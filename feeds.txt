@@ -1,6 +1,8 @@
 1005 4007 H 7200 = 9D 81 6B 89 7B EC CA 31 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-14 15:57
-750 11583 H 3750 = D3 7C 45 94 B7 8A 01 42 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-14 15:17
+160 11126 H 7199 = DB 10 E5 D0 E6 C6 5B 07 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = KUW-001 Backup =  =  = 2026-10-14 16:51
 420 10956 V 7500 = A6 BD 4C AF ED 3B 87 AF = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 114 B =  =  = 2026-10-14 14:27
+420 10965 V 7500 = D5 4A CE ED 50 99 90 79 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = tur 141 a =  =  = 2026-10-14 16:50
+750 11583 H 3750 = D3 7C 45 94 B7 8A 01 42 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-14 15:17
 130 11067 H 7200 = 7B 3F 9A 54 2D 8E 14 CF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-14 10:02
 130 11591 H 9874 = 69 07 4D BD 3C 05 1C 5D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-14 12:30
 130 11616 H 7199 = ED 9C 58 E1 44 D8 35 51 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi12_GNVE =  =  = 2026-10-14 14:16
