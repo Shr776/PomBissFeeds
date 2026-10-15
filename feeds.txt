@@ -1,9 +1,20 @@
 1005 3866 H 7200 = 4C 77 D3 96 9D 7E 56 71 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = TLCAT-002-01 =  =  = 2026-10-15 11:52
+160 12528 H 7200 = 4C 77 D3 96 9D 7E 56 71 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = TLCAT-002-01 =  =  = 2026-10-15 12:10
+160 12537 H 7200 = C5 ED 58 0A B5 1F 84 58 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-10-15 12:16
+1005 3985 V 7198 = C5 ED 58 0A B5 1F 84 58 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-15 12:18
+160 12638 H 7200 = BC 05 32 F3 48 F6 B1 EF = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = MYASTRKL-M =  =  = 2026-10-15 12:23
+1005 3947 H 7199 = E2 52 1D 51 F7 7A 1A 8B = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-15 12:27
+1005 3964 H 7198 = BC 05 32 F3 48 F6 B1 EF = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 = MYASTRKL-M =  =  = 2026-10-15 12:28
+1005 3808 H 7200 = 81 64 F7 DC B5 C1 A5 1B = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = 2026 AFC A =  =  = 2026-10-15 12:28
+160 11181 H 7200 = 81 64 F7 DC B5 C1 A5 1B = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = 2026 AFC A =  =  = 2026-10-15 12:31
+160 12629 H 7200 = E2 52 1D 51 F7 7A 1A 8B = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = AFC CL2 2026 MAIN =  =  = 2026-10-15 12:42
+160 11188 H 7199 = 3F E9 22 4A 97 66 21 1E = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-15 12:51
 130 12698 H 7199 = 54 32 AD 33 C7 87 32 80 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-15 00:13
 130 12707 H 7199 = DC 65 DA 1B 22 11 33 66 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-15 00:14
 100 11282 H 7500 = A5 A7 11 5D DC 22 10 0E = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-10-15 01:12
 -475 4007 H 10000 = DC 65 DA 1B 22 11 33 66 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-10-15 02:55
 -475 3857 H 6666 = 70  A4 D8 A1 9A A6 6A AA = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 = ATLIND =  =  = 2026-10-15 03:33
-130 11068 H 7200 = 7B 3F 9A 54 2D 8E 14 CF = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Golf Asian Tour =  = 2026-10-15 00:06
+130 11068 H 7200 = 7B 3F 9A 54 2D 8E 14 CF = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Golf Asian Tour SKM MACAO OPEN 2026 =  = 2026-10-15 00:06
 1005 4004 H 7199 = 7B 3F 9A 54 2D 8E 14 CF = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = ENC-1 = Golf Asian Tour = SJM Macao Open 2026 — Macau = 2026-10-15 11:58
-130 10802 H 7200 = D5 8A 2F 8E 91 B7 E3 2B = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = DNK47 ENC1 = BWF WORLD TOUR - VICTOR Denmark Open 2026 =  = 2026-10-15 10:12
+1005 4008 H 7199 = 7B 3F 9A 54 2D 8E 14 CF = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-15 12:30
+130 10802 H 7200 = D5 8A 2F 8E 91 B7 E3 2B = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = DNK47 ENC1 = BWF WORLD TOUR - VICTOR Denmark Open 2026 =  = 2026-10-15 12:17
