@@ -1,5 +1,7 @@
-750 11583 H 3750 = A2 1B 32 EF C7 90 D1 28 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-15 17:55
 130 10830 V 7199 = 31 37 B8 20 9D 00 26 C3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-GOG-KRI =  =  = 2026-10-15 17:46
+130 10820 H 7199 = 33 0A 33 70 71 AF 50 70 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = backup =  =  = 2026-10-15 18:35
+750 11583 H 3750 = A2 1B 32 EF C7 90 D1 28 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-15 17:55
+360 11692 V 4899 = AB BA 15 7A 10 20 26 56 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 36D ( 36E ) = 4.2.0 = Main =  =  = 2026-10-15 18:22
 130 12583 V 7198 = 6E 3C 34 DE A5 CE 87 FA = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-15 15:22
 1005 4033 V 7200 = 6E 3C 34 DE A5 CE 87 FA = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = World_M_2 =  =  = 2026-10-15 15:43
 130 10866 H 7200 = 48 05 64 B1 31 F3 C7 EB = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.0 = M5 MRC006A Main =  =  = 2026-10-15 16:38
@@ -27,6 +29,8 @@
 100 11282 H 7500 = A5 A7 11 5D DC 22 10 0E = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-10-15 01:12
 -475 4007 H 10000 = DC 65 DA 1B 22 11 33 66 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-10-15 02:55
 -475 3857 H 6666 = 70  A4 D8 A1 9A A6 6A AA = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 = ATLIND =  =  = 2026-10-15 03:33
+130 11079 V 7199 = 5D FC 76 CF 95 3F BD 91 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE =  =  = 2026-10-15 18:59
+130 11080 V 7200 = NO KEY = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4.2.0 = Fi19 GNVE =  =  = 2026-10-15 18:59
 1005 3860 V 30000 = A4 BF 55 B8 51 A9 D8 D2 = Water Sports (Swimming Water Polo: Various Satellites) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi20_GNVE =  =  = 2026-10-15 16:01
 130 11068 H 7200 = 7B 3F 9A 54 2D 8E 14 CF = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Golf Asian Tour SKM MACAO OPEN 2026 =  = 2026-10-15 00:06
 1005 4004 H 7199 = 7B 3F 9A 54 2D 8E 14 CF = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = ENC-1 = Golf Asian Tour = SJM Macao Open 2026 — Macau = 2026-10-15 11:58
