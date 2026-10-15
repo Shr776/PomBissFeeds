@@ -1,3 +1,7 @@
+130 12583 V 7198 = 6E 3C 34 DE A5 CE 87 FA = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-15 15:22
+1005 4033 V 7200 = 6E 3C 34 DE A5 CE 87 FA = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = World_M_2 =  =  = 2026-10-15 15:43
+1005 3946 V 9875 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = UCI-M = 2026 TISSOT UCI TRACK WORLD CHAMPIONSHIPS Shanghai =  = 2026-10-15 15:41
+130 11105 H 14400 = BA FA 85 39 46 DA FA 1A = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = ROU-038 - FEED 1 =  =  = 2026-10-15 15:30
 1005 3866 H 7200 = 4C 77 D3 96 9D 7E 56 71 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = TLCAT-002-01 =  =  = 2026-10-15 11:52
 160 12528 H 7200 = 4C 77 D3 96 9D 7E 56 71 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = TLCAT-002-01 =  =  = 2026-10-15 12:10
 160 12537 H 7200 = C5 ED 58 0A B5 1F 84 58 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-10-15 12:16
