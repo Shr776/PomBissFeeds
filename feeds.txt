@@ -1,3 +1,4 @@
+130 12550 H 9875 = 52 13 AB 10 DE 12 34 24 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.0 = WSBK JEREZ =  =  = 2026-10-16 11:38
 130 11186 V 7119 = 37 8A 32 F3 CE 26 AA 9E = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch EFL Burnley v Wolves =  =  = 2026-10-16 22:21
 100 3895 V  = 03 91 FB 8F FD 7F 02 7E = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = SD | 4:2:0 =  =  =  = 2026-10-16 22:01
 160 11126 H 7200 = 20 26 AB F1 EF 17 10 16 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4.2.0 = Premier Gloucester =  =  = 2026-10-16 20:21
@@ -32,7 +33,6 @@
 1005 3773 H 7500 = F8 E0 A2 7A 97 A7 03 41 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-1 =  =  = 2026-10-16 12:10
 1005 4189 V 9875 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = 2026 TISSOT UCI TRACK WORLD CHAMPIONSHIPS Shanghai =  = 2026-10-16 11:53
 130 11622 H 9875 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4.2.0 = Fi16GNVE =  =  = 2026-10-16 11:55
-130 12550 H 9875 = 52 13 AB 10 DE 12 34 24 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.0 = WSBK JEREZ =  =  = 2026-10-16 11:38
 1005 3966 V 7499 = E9 0A 03 F6 A3 B6 E3 3C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 6 = Seattle Seahawks vs Denver Broncos (@ Empower Field at Mile High) = 2026-10-16 03:52
 130 12707 H 7199 = D4 3A CC DA B6 75 4A 75 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-16 01:55
 -475 3935 H 10000 = NO KEY = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-16 02:51
