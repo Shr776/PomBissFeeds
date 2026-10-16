@@ -1,6 +1,8 @@
-100 3895 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-16 15:26
-1005 3953 V 7200 = 58 33 FB 86 BD 34 12 03 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) = 4:2:0 = Tri Series Main =  =  = 2026-10-16 15:02
 1005 3964 H 7119 = A9 C0 FB 64 94 64 F5 ED = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-16 14:57
+130 11694 H 7120 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight 175 = ONE Friday Fights 175 =  = 2026-10-16 16:11
+1005 3966 V 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD = X20-02 SDI Enc 4 = ONE Friday Fights 175 =  = 2026-10-16 16:45
+100 3905 V  = 03 91 FB 8F FD 7F 02 7E = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-16 16:32
+1005 3953 V 7200 = 58 33 FB 86 BD 34 12 03 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) = 4:2:0 = Tri Series Main =  =  = 2026-10-16 15:02
 1005 3866 H 7200 = 20 26 10 56 17 CC DD C0 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = C-1 =  =  = 2026-10-16 12:00
 192 12266 H 31428 = F1 07 45 3D E6 CB AD 5E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Astra 1N/1P ( 19.2E ) = 4:2:0 =  =  =  = 2026-10-16 14:49
 130 11061 V 7200 = D0 DF 9C 4B 35 69 FF 9D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = M5 MRC006A Main =  =  = 2026-10-16 14:35
