@@ -1,6 +1,10 @@
 160 10996 V 7500 = 77 93 52 5C 99 08 86 27 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) =  = POL070 TVN24 POZ =  =  = 2026-10-16 10:23
 160 11190 H 7200 = 97 06 41 DE F8 A0 5E F6 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) =  = E393 MAIN =  =  = 2026-10-16 10:26
 160 11190 H 7200 = 97 06 41 DE F8 A0 5E F6 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) =  = E393 MAIN =  =  = 2026-10-16 10:58
+1005 3866 H 7200 = 20 26 10 56 17 CC DD C0 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = C-1 =  =  = 2026-10-16 12:00
+1005 4189 V 9875 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = 2026 TISSOT UCI TRACK WORLD CHAMPIONSHIPS Shanghai =  = 2026-10-16 11:53
+130 11622 H 9875 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4.2.0 = Fi16GNVE =  =  = 2026-10-16 11:55
+130 12550 H 9875 = 52 13 AB 10 DE 12 34 24 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.0 = WSBK JEREZ =  =  = 2026-10-16 11:38
 1005 3840 H 29998 = 17 16 6A 97 24 AB 98 67 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-16 07:34
 1005 3966 V 7499 = E9 0A 03 F6 A3 B6 E3 3C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 6 = Seattle Seahawks vs Denver Broncos (@ Empower Field at Mile High) = 2026-10-16 03:52
 130 12707 H 7199 = D4 3A CC DA B6 75 4A 75 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-16 01:55
