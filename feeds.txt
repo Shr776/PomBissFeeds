@@ -1,5 +1,9 @@
-1005 3773 H 7500 = F8 E0 A2 7A 97 A7 03 41 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-1 =  =  = 2026-10-16 12:10
+1005 3964 H 7119 = A9 C0 FB 64 94 64 F5 ED = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-16 14:57
 1005 3866 H 7200 = 20 26 10 56 17 CC DD C0 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = C-1 =  =  = 2026-10-16 12:00
+192 12266 H 31428 = F1 07 45 3D E6 CB AD 5E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Astra 1N/1P ( 19.2E ) = 4:2:0 =  =  =  = 2026-10-16 14:49
+130 11061 V 7200 = D0 DF 9C 4B 35 69 FF 9D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = M5 MRC006A Main =  =  = 2026-10-16 14:35
+130 11070 V 7200 = D1 A6 7B F2 56 9A B0 A0 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = M00-MRC007-Main =  =  = 2026-10-16 14:36
+1005 3773 H 7500 = F8 E0 A2 7A 97 A7 03 41 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-1 =  =  = 2026-10-16 12:10
 1005 4189 V 9875 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = 2026 TISSOT UCI TRACK WORLD CHAMPIONSHIPS Shanghai =  = 2026-10-16 11:53
 130 11622 H 9875 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4.2.0 = Fi16GNVE =  =  = 2026-10-16 11:55
 130 12550 H 9875 = 52 13 AB 10 DE 12 34 24 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.0 = WSBK JEREZ =  =  = 2026-10-16 11:38
@@ -7,6 +11,7 @@
 1005 3966 V 7499 = E9 0A 03 F6 A3 B6 E3 3C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 6 = Seattle Seahawks vs Denver Broncos (@ Empower Field at Mile High) = 2026-10-16 03:52
 130 12707 H 7199 = D4 3A CC DA B6 75 4A 75 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-16 01:55
 -475 3935 H 10000 = NO KEY = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-16 02:51
+130 10865 H 7500 = B1 A8 C3 1C DA 6A 4A 8E = Darts Tournaments 10°E7°E1°W = HotBird 13F/13G ( 13E ) = 4:2:0 = NLFLEV_HOL-090 CH-A =  =  = 2026-10-16 14:07
 130 10802 H 7200 = 4C 9E 1B 05 6A 83 FD EA = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = DNK47 ENC1 = BWF WORLD TOUR - VICTOR Denmark Open 2026 =  = 2026-10-16 12:12
 130 10810 H 7200 = F1 B4 9E 43 72 C5 8A C1 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = DNK47 ENC3 = BWF WORLD TOUR - VICTOR Denmark Open 2026 =  = 2026-10-16 12:15
 1005 3992 V 7500 = A2 13 87 3C F6 2B 89 AA = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 = LPGA Shanghai-M =  =  = 2026-10-16 10:43
