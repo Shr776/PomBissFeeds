@@ -1,9 +1,9 @@
+160 10975 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) =  = Fal1 Enc1 =  =  = 2026-10-16 17:35
 1005 3964 H 7119 = A9 C0 FB 64 94 64 F5 ED = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-16 14:57
 130 11694 H 7120 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight 175 = ONE Friday Fights 175 =  = 2026-10-16 16:11
 1005 3966 V 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD = X20-02 SDI Enc 4 = ONE Friday Fights 175 =  = 2026-10-16 16:45
 100 3905 V  = 03 91 FB 8F FD 7F 02 7E = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-16 16:32
 1005 3953 V 7200 = 58 33 FB 86 BD 34 12 03 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) = 4:2:0 = Tri Series Main =  =  = 2026-10-16 15:02
-1005 3866 H 7200 = 20 26 10 56 17 CC DD C0 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = C-1 =  =  = 2026-10-16 12:00
 192 12266 H 31428 = F1 07 45 3D E6 CB AD 5E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Astra 1N/1P ( 19.2E ) = 4:2:0 =  =  =  = 2026-10-16 14:49
 130 11061 V 7200 = D0 DF 9C 4B 35 69 FF 9D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = M5 MRC006A Main =  =  = 2026-10-16 14:35
 130 11070 V 7200 = D1 A6 7B F2 56 9A B0 A0 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = M00-MRC007-Main =  =  = 2026-10-16 14:36
@@ -21,3 +21,4 @@
 1005 3992 V 7500 = A2 13 87 3C F6 2B 89 AA = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 = LPGA Shanghai-M =  =  = 2026-10-16 10:43
 400 11145 V 4400 = 11 5C 33 A0 18 32 88 D2 = JUDO  KARATE FEEDS = Express AM7 ( 40E ) = 4.2.0 = SNG 07- CHAIN B =  =  = 2026-10-16 10:41
 160 10996 V 7500 = 77 93 52 5C 99 08 86 27 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) =  = POL070 TVN24 POZ =  =  = 2026-10-16 10:23
+70 12708 H 4166 = 16 10  AB D1 20 26 CD 13 = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = Eutelsat 7C ( 7E ) = 4:2:0 =  =  =  = 2026-10-16 18:01
