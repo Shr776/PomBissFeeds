@@ -1,4 +1,9 @@
+160 10996 V 7500 = 77 93 52 5C 99 08 86 27 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) =  = POL070 TVN24 POZ =  =  = 2026-10-16 10:23
+160 11190 H 7200 = 97 06 41 DE F8 A0 5E F6 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) =  = E393 MAIN =  =  = 2026-10-16 10:26
+160 11190 H 7200 = 97 06 41 DE F8 A0 5E F6 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) =  = E393 MAIN =  =  = 2026-10-16 10:58
 1005 3840 H 29998 = 17 16 6A 97 24 AB 98 67 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-16 07:34
 1005 3966 V 7499 = E9 0A 03 F6 A3 B6 E3 3C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 6 = Seattle Seahawks vs Denver Broncos (@ Empower Field at Mile High) = 2026-10-16 03:52
 130 12707 H 7199 = D4 3A CC DA B6 75 4A 75 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-16 01:55
 -475 3935 H 10000 = NO KEY = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-16 02:51
+1005 3992 V 7500 = A2 13 87 3C F6 2B 89 AA = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 = LPGA Shanghai-M =  =  = 2026-10-16 10:43
+400 11145 V 4400 = 11 5C 33 A0 18 32 88 D2 = JUDO  KARATE FEEDS = Express AM7 ( 40E ) = 4.2.0 = SNG 07- CHAIN B =  =  = 2026-10-16 10:41
