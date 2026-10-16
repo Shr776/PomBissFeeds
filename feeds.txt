@@ -37,7 +37,7 @@
 1005 3966 V 7499 = E9 0A 03 F6 A3 B6 E3 3C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 6 = Seattle Seahawks vs Denver Broncos (@ Empower Field at Mile High) = 2026-10-16 03:52
 130 12707 H 7199 = D4 3A CC DA B6 75 4A 75 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-16 01:55
 -475 3935 H 10000 = NO KEY = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-16 02:51
-160 12528 H 7200 = 8E E8 08 78 F6 C5 B2 6D = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-10-16 21:59
+31 11662 H 7200 = 88 E8 08 78 F6 C5 B2 6D = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Eutelsat 3C ( 3.1E ) = 4:2:0 = MRC-003 MAIN =  =  = 2026-10-16 22:59
 160 10984 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = TVP POL-32  ENC 1 =  =  = 2026-10-16 21:00
 160 11602 H 3500 = D3 09 DF BB BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 16D ( 16E ) = 4.2.0 = ENC1 =  =  = 2026-10-16 18:10
 30 11596 H 3500 = A2
