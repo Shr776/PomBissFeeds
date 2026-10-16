@@ -1,11 +1,15 @@
-160 10975 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) =  = Fal1 Enc1 =  =  = 2026-10-16 17:35
-160 10980 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) =  = F7-2 4.5MH =  =  = 2026-10-16 19:08
+192 12266 H 31428 = F1 07 45 3D E6 CB AD 5E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Astra 1N/1P ( 19.2E ) = 4:2:0 =  =  =  = 2026-10-16 18:13
+160 11102 H 7199 = FB EA 1B 00 EC AF 5B F6 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 = SNG 022 MAIN =  =  = 2026-10-16 19:59
 750 11583 H 3750 = 70 21 86 17 DA CB 43 E8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-16 18:24
 420 10983 V 7500 = 81 7A 72 6D 1E 8F 56 03 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-10-16 19:02
+130 11071 V 7199 = EF A8 15 AC D4 3A 41 4F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 390 MAIN =  =  = 2026-10-16 19:57
+160 10975 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) =  = Fal1 Enc1 =  =  = 2026-10-16 17:35
+160 10980 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) =  = F7-2 4.5MH =  =  = 2026-10-16 19:08
+20 12702 V 7200 = 16 10 DE 04 AB 29 71 45 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-16 19:55
 130 11061 V 7200 = D0 DF 9C 4B 35 69 FF 9D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = M5 MRC006A Main =  =  = 2026-10-16 14:35
 130 11070 V 7200 = D1 A6 7B F2 56 9A B0 A0 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = M00-MRC007-Main =  =  = 2026-10-16 14:36
 130 11079 V 7200 = D0 DF 9C 4B 35 69 FF 9D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = MRC004-MAIN =  =  = 2026-10-16 18:39
-192 12266 H 31428 = F1 07 45 3D E6 CB AD 5E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Astra 1N/1P ( 19.2E ) = 4:2:0 =  =  =  = 2026-10-16 18:13
+130 11089 V 7199 = D0 DF 9C 4B 35 69 FF 9D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MCR 005 MAIN =  =  = 2026-10-16 19:53
 70 11103 V 7200 = 15 58 35 A2 71 42 63 16 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 | HD = POL-058_ch1 = Bogdanka Cup - Lublin vs PGE =  = 2026-10-16 18:08
 1005 3964 H 7119 = A9 C0 FB 64 94 64 F5 ED = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-16 14:57
 130 11694 H 7120 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight 175 = ONE Friday Fights 175 =  = 2026-10-16 16:11
