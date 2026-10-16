@@ -1,3 +1,5 @@
+100 3895 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-16 15:26
+1005 3953 V 7200 = 58 33 FB 86 BD 34 12 03 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) = 4:2:0 = Tri Series Main =  =  = 2026-10-16 15:02
 1005 3964 H 7119 = A9 C0 FB 64 94 64 F5 ED = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-16 14:57
 1005 3866 H 7200 = 20 26 10 56 17 CC DD C0 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = C-1 =  =  = 2026-10-16 12:00
 192 12266 H 31428 = F1 07 45 3D E6 CB AD 5E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Astra 1N/1P ( 19.2E ) = 4:2:0 =  =  =  = 2026-10-16 14:49
