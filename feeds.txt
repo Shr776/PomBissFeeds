@@ -1,3 +1,5 @@
+160 12615 H 25736 = A2 5B 2D 2A A4 DA 2E AC = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:2 = o2 boxing =  =  = 2026-10-17 17:00
+160 10986 V 9600 = AB BA 26 8B DC AE 10 9A = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:2 = POL-111 =  =  = 2026-10-17 20:16
 31 10987 H 7500 = 12 BC 17 E5 10 BA DA A4 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 3C ( 3.1E ) = 4.2.0 = INTER DIRTY EPCR AL ROCHELL =  =  = 2026-10-17 20:02
 70 11026 H 7200 = F2 59 26 71 10 17 F2 19 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = F259 LNR UK =  =  = 2026-10-17 22:09
 70 10961 H 14400 = F5 60 26 7B 10 17 F1 18 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = F560 =  =  = 2026-10-17 22:12
@@ -53,8 +55,6 @@
 130 10858 H 7200 = 92 87 73 8C 01 7E CF 4E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) =  = EHF-CLW-ESB-BBH =  =  = 2026-10-17 18:14
 192 0134 H  = D1 85 20 76 26 10 17 4D = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Astra 1N/1P ( 19.2E ) =  =  =  =  = 2026-10-17 18:37
 216 11667 H 6666 = F8 05 D7 D4 F1 4A BD F8 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = hand inh CAEN =  =  = 2026-10-17 18:53
-160 12615 H 25736 = A2 5B 2D 2A A4 DA 2E AC = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:2 = o2 boxing =  =  = 2026-10-17 17:00
-160 10986 V 9600 = AB BA 26 8B DC AE 10 9A = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:2 = POL-111 =  =  = 2026-10-17 20:16
 420 11478 V 6800 = 42 45 00 87 00 42 45 87 = VOLLYBALL FEEDS All Satellites KU Band C band = Türksat 3A/4A/5B/6A ( 42E ) = 4:2:2 =  =  =  = 2026-10-17 16:16
 420 11460 V 6800 = 42 97 00 D9 00 42 97 D9 = VOLLYBALL FEEDS All Satellites KU Band C band = Türksat 3A/4A/5B/6A ( 42E ) = 4:2:2 =  =  =  = 2026-10-17 18:28
 100 11305 V 7199 = CA CA 20 B4 20 CA CA B4 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 10B ( 10E ) = 4:2:0 = E-228 Main =  =  = 2026-10-17 19:10
