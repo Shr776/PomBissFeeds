@@ -2,6 +2,12 @@
 70 11026 H 7200 = F2 59 26 71 10 17 F2 19 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = F259 LNR UK =  =  = 2026-10-17 22:09
 70 10961 H 14400 = F5 60 26 7B 10 17 F1 18 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = F560 =  =  = 2026-10-17 22:12
 70 10999 H 7200 = F0 08 F5 ED 60 F2 59 AB = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = UPLINK ADVALEM =  =  = 2026-10-17 23:01
+160 11190 H 7199 = 20 26 AB F1 EF 17 10 16 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = World Bath =  =  = 2026-10-17 23:18
+160 12646 V 7200 = 34 BB 12 01 BB 34 BB AA = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = Bath v Montpellier = European Rugby Champions Cup =  = 2026-10-17 23:29
+160 12639 V 7200 = 34 AA 12 F0 AA 34 AA 88 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = Munster v Racing 92 = European Rugby =  = 2026-10-17 23:36
+0 11498 V 7498 = FC D2 17 E5 10 CC 11 ED = BELGIAN FOOTBALL @ 7°E 10°E =  = HD =  =  =  = 2026-10-17 21:53
+48 11489 V 7498 = FC D2 17 E5 10 CC 11 ED = BELGIAN FOOTBALL @ 7°E 10°E = Astra 4A ( 4.8E ) = HD =  =  =  = 2026-10-17 21:57
+0 10964 V 8020 = FC D2 17 E5 10 CC 11 ED = BELGIAN FOOTBALL @ 7°E 10°E =  = HD =  =  =  = 2026-10-17 23:06
 160 12645 H 9874 = 17 10 AB D2 AD 20 26 F3 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = D366_RTL_DIGI_Path1 =  =  = 2026-10-17 17:43
 160 12656 H 7200 = FF AB 89 33 9E AE 7D C9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4.2.0 = NLEMG HOL309 =  =  = 2026-10-17 18:28
 100 11256 H 7199 = AB CD 23 9B 45 99 81 5F = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-17 18:42
@@ -16,8 +22,6 @@
 70 11081 V 7500 = BC 07 20 E3 26 17 10 4D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = ASCOLI SERIE B MAIN =  =  = 2026-10-17 16:00
 100 11247 H 7199 = BC 07 20 E3 26 17 10 4D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:2 = ITA81 =  =  = 2026-10-17 16:34
 100 3895 V  = 03 91 FB 8F FD 7F 02 7E = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = SD | 4:2:0 =  =  =  = 2026-10-17 22:08
-0 11498 V 7498 = FC D2 17 E5 10 CC 11 ED = BELGIAN FOOTBALL @ 7°E 10°E =  = HD =  =  =  = 2026-10-17 21:53
-48 11489 V 7498 = FC D2 17 E5 10 CC 11 ED = BELGIAN FOOTBALL @ 7°E 10°E = Astra 4A ( 4.8E ) = HD =  =  =  = 2026-10-17 21:57
 1005 3840 H 29998 = 78 DB 61 B4 05 68 CB 38 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-17 03:40
 1005 3840 H 30001 = 75 8C BB BC C0 0C BF 8B = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = hd | 1920x1080i | 4:2:2 = OVERON 3 = Spain - LALIGA EA SPORTS Matchday 9 = RCD Espanyol vs Atlético de Madrid = 2026-10-17 15:27
 100 3905 V  = 03 91 FB 8F FD 7F 02 7E = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-17 17:42
