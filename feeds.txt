@@ -1,12 +1,15 @@
+31 10987 H 7500 = 12 BC 17 E5 10 BA DA A4 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 3C ( 3.1E ) = 4.2.0 = INTER DIRTY EPCR AL ROCHELL =  =  = 2026-10-17 20:02
+70 11026 H 7200 = F2 59 26 71 10 17 F2 19 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = F259 LNR UK =  =  = 2026-10-17 22:09
+70 10961 H 14400 = F5 60 26 7B 10 17 F1 18 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = F560 =  =  = 2026-10-17 22:12
+70 10999 H 7200 = F0 08 F5 ED 60 F2 59 AB = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = UPLINK ADVALEM =  =  = 2026-10-17 23:01
 160 12645 H 9874 = 17 10 AB D2 AD 20 26 F3 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = D366_RTL_DIGI_Path1 =  =  = 2026-10-17 17:43
 160 12656 H 7200 = FF AB 89 33 9E AE 7D C9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4.2.0 = NLEMG HOL309 =  =  = 2026-10-17 18:28
 100 11256 H 7199 = AB CD 23 9B 45 99 81 5F = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-17 18:42
 1005 3944 V 7199 = AB CD 23 9B 45 99 81 5F = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD =  = Cage Warriors =  = 2026-10-17 19:15
 130 11058 H 7199 = 3A 86 67 27 E7 97 87 05 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-17 22:24
-31 10987 H 7500 = 12 BC 17 E5 10 BA DA A4 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 3C ( 3.1E ) = 4.2.0 = INTER DIRTY EPCR AL ROCHELL =  =  = 2026-10-17 20:02
-70 11026 H 7200 = F2 59 26 71 10 17 F2 19 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = F259 LNR UK =  =  = 2026-10-17 22:09
-70 10961 H 14400 = F5 60 26 7B 10 17 F1 18 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = F560 =  =  = 2026-10-17 22:12
+130 11610 V 7200 = 3A 86 67 27 E7 97 87 05 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-10-17 22:39
 130 10857 H 7199 = AA BB 20 85 26 10 17 4D = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Portugal Taça de Portugal - 1/32-finals = Academica Amarante Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-17 22:09
+1130 11305 V 7200 = 4D 6A B3 6A F2 9E C1 51 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Palapa D ( 113E ) = 4.2.0 = SINTRA 1 MN =  =  = 2026-10-17 22:36
 100 11289 H 9600 = BC 07 20 E3 26 17 10 4D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4.2.2 = ITA727ENC2 =  =  = 2026-10-17 14:26
 100 11300 H 9600 = BC 07 20 E3 26 17 10 4D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4.2.2 = ITA727ENC 1 =  =  = 2026-10-17 14:27
 1105 11052 V 9598 = BC 07 20 E3 26 17 10 4D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = ChinaSat 10 ( 110.5E ) = HD =  =  =  = 2026-10-17 14:36
@@ -73,9 +76,10 @@
 130 11617 H 7200 = D9 EC 49 0E EE A1 7C 0B = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = HotBird 13F/13G ( 13E ) = 4:2:0 = GVA_Fi07 = AFC Challenge League - Al Arabi vs Homs Al Fidaa =  = 2026-10-17 13:01
 160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-141 ENC1 =  =  = 2026-10-17 11:46
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-17 02:27
-130 10865 H 7500 = B1 A8 C3 1C DA 6A 4A 8E = Darts Tournaments 10°E7°E1°W = HotBird 13F/13G ( 13E ) = 4:2:0 = NLFLEV_HOL-090 CH-A =  =  = 2026-10-17 22:24
 130 11617 H 7199 = 88 E8 08 78 F6 C5 B2 6D = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE =  =  = 2026-10-17 00:06
 160 12528 H 7200 = 7C 09 3D C2 49 5A A8 4B = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-10-17 22:11
+130 11617 H 7198 = 7C 09 3D C2 49 5A A8 4B = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Futsal = Egypt Angola vs Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-17 22:26
+130 10865 H 7500 = B1 A8 C3 1C DA 6A 4A 8E = Darts Tournaments 10°E7°E1°W = HotBird 13F/13G ( 13E ) = 4:2:0 = NLFLEV_HOL-090 CH-A =  =  = 2026-10-17 22:24
 90 0021 H  = 17 10 20 47 26 AB CD 9E = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = Eutelsat 9B ( 9E ) =  =  =  =  = 2026-10-17 21:45
 70 11123 V 7200 = 70 07 5E D5 07 C4 B1 7C = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 7C ( 7E ) =  = Rai ITA77A =  =  = 2026-10-17 14:40
 420 12521 V 4798 = FE ED 10 FB 15 19 97 C5 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-17 19:42
