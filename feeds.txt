@@ -1,3 +1,4 @@
+130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-17 02:27
 160 12615 H 25736 = A2 5B 2D 2A A4 DA 2E AC = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:2 = o2 boxing =  =  = 2026-10-17 17:00
 160 10986 V 9600 = AB BA 26 8B DC AE 10 9A = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:2 = POL-111 =  =  = 2026-10-17 20:16
 31 10987 H 7500 = 12 BC 17 E5 10 BA DA A4 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 3C ( 3.1E ) = 4.2.0 = INTER DIRTY EPCR AL ROCHELL =  =  = 2026-10-17 20:02
@@ -79,7 +80,6 @@
 20 12631 V 7199 = AA 1C C7 8D 13 35 DC 24 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-17 14:14
 130 11617 H 7200 = D9 EC 49 0E EE A1 7C 0B = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = HotBird 13F/13G ( 13E ) = 4:2:0 = GVA_Fi07 = AFC Challenge League - Al Arabi vs Homs Al Fidaa =  = 2026-10-17 13:01
 160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-141 ENC1 =  =  = 2026-10-17 11:46
-130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-17 02:27
 130 11617 H 7199 = 88 E8 08 78 F6 C5 B2 6D = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE =  =  = 2026-10-17 00:06
 160 12528 H 7200 = 7C 09 3D C2 49 5A A8 4B = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-10-17 22:11
 130 11617 H 7198 = 7C 09 3D C2 49 5A A8 4B = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Futsal = Egypt Angola vs Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-17 22:26
