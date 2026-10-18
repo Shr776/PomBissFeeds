@@ -1,3 +1,5 @@
+130 12679 H 7500 = F1 07 45 3D E6 CB AD 5E = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = ENC 3 = NASCAR Timberland PRO 200 =  = 2026-10-18 04:08
+0 11534 H 7200 = 88 22 55 FF 66 24 57 E1 = BOXING all satellites feeds (10E .....) =  = 4:2:0 | HD =  = Bare Knuckle Fighting =  = 2026-10-18 04:02
 130 11058 H 7199 = 3A 86 67 27 E7 97 87 05 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-18 03:21
 -70 4050 H 17142 = 85 5F 54 38 A1 65 48 4E = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Nilesat 201/301 ( 7W ) = 4:2:2 = AEW WRESTLEDREAM PRI =  =  = 2026-10-18 01:54
 -70 4050 H 17142 = 85 5F 54 38 A1 65 48 4E = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Nilesat 201/301 ( 7W ) = 4:2:2 | 4:2:0 = AEW WRESTLEDREAM PRI =  =  = 2026-10-18 03:12
