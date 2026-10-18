@@ -1,18 +1,23 @@
-160 10973 V 9599 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:2 =  =  =  = 2026-10-18 12:54
-130 11058 H 7199 = 72 4C 9D 5B B4 34
-69 51 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-18 18:56
+160 12595 H 9875 = 18 10 FD 25 EA 17 89 8A = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Union Berlin = German Frauen-Bundesliga - Union Berlin vs Nurnberg =  = 2026-10-18 15:10
+160 12695 H 9875 = 18 10 FD 25 EA 17 89 8A = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Union Berlin = German Frauen-Bundesliga - Union Berlin vs Nurnberg =  = 2026-10-18 15:48
+100 3900 V  = 03 91 FB 8F FD 7F 02 7E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-18 16:32
+160 12656 H 9874 = 18 10 FD 25 EA 17 89 8A = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Werder Bremen =  =  = 2026-10-18 17:48
+100 3900 V  = 03 91 FB 8F FD 7F 02 7E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-18 19:02
+20 12702 V 7199 = 18 10 DE 06 AF 50 14 13 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-18 19:47
+160 12595 H 9875 = 18 10 FD 25 EA 17 89 8A = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Union Berlin = German Frauen-Bundesliga - Union Berlin vs Nurnberg =  = 2026-10-18 19:56
 1005 3840 H 30000 = 8F C3 4D 9F 67 6F CF A5 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-18 14:05
 100 3905 V  = 03 91 FB 8F FD 7F 02 7E = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-18 14:57
 1005 3840 H 30000 = 63 D6 CF 08 F2 24 02 18 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 | hd = OVERON 2 =  =  = 2026-10-18 18:44
+100 3905 V  = 03 91 FB 8F FD 7F 02 7E = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-18 19:49
+750 11472 V 7500 = FC D3 18 E7 10 CC 31 0D = BELGIAN FOOTBALL @ 7°E 10°E = ABS 2/2A ( 75E ) = 4:2:2 = HOL322 TX1 =  =  = 2026-10-18 15:16
+750 10983 V 7500 = FC D3 18 E7 10 CC 31 0D = BELGIAN FOOTBALL @ 7°E 10°E = ABS 2/2A ( 75E ) = 4:2:2 = BEL095 MAIN WES - ANT =  =  = 2026-10-18 19:31
 -8 11591 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Thor 5/6/7 ( 0.8W ) = HD | 4.2.0 = AFLW = AFLW Women's GWS GIANTS VS Hawthorn =  = 2026-10-18 06:53
 160 12630 V 7199 = 34 AA 12 F0 AA 34 AA 88 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-18 15:33
 30 10978 H 7500 = 11 BA 18 E3 10 BC CA 96 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 3B ( 3E ) = 4:2:0 = INTER Dirty SAT UK =  =  = 2026-10-18 15:42
 192 12266 H 31428 = 20 26 AB F1 EF 17 10 16 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Astra 1N/1P ( 19.2E ) = 4:2:0 = MM5-SVC1 = European Rugby Champions Cup - Pau vs Leicester Tigers =  = 2026-10-18 15:51
 160 12611 H 7200 = 20 26 AB F1 EF 17 10 16 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4.2.0 | 4.2.2 =  =  =  = 2026-10-18 18:07
-160 12595 H 9875 = 18 10 FD 25 EA 17 89 8A = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Union Berlin = German Frauen-Bundesliga - Union Berlin vs Nurnberg =  = 2026-10-18 15:10
-160 12695 H 9875 = 18 10 FD 25 EA 17 89 8A = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Union Berlin = German Frauen-Bundesliga - Union Berlin vs Nurnberg =  = 2026-10-18 15:48
-100 3900 V  = 03 91 FB 8F FD 7F 02 7E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-18 16:32
-160 12656 H 9874 = 18 10 FD 25 EA 17 89 8A = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Werder Bremen =  =  = 2026-10-18 17:48
+160 11179 H 7199 = 20 26 AB F1 EF 17 10 16 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = ENC 2 =  =  = 2026-10-18 19:13
+100 11257 H 7199 = 6A 94 A3 A1 DB 64 0E 4D = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 = EPCR =  =  = 2026-10-18 19:24
 130 11058 H 7200 = 72 4C 9D 5B B4 34 69 51 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = Eredivisie : =  = 2026-10-18 08:53
 130 11058 H 7200 = 72 4C 9D 5B B4 34 70 58 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Eredivisie : FC Groningen vs AJAX =  = 2026-10-18 14:02
 160 12631 H 11243 = 18 10 BA E2 DE F1 61 30 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = Eutelsat 16D ( 16E ) = 4:2:2 | HD = 2Sat HOL161 =  =  = 2026-10-18 17:45
@@ -41,7 +46,6 @@
 20 12631 V 7199 = AA 1C C7 8D 13 35 DC 24 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-18 16:11
 30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 3B ( 3E ) = 4:2:0 = beIN SPORTS =  =  = 2026-10-18 15:09
 19 11085 V 7199 = 2D 5A 89 10 5D A5 0D 0F = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = BulgariaSat 1 ( 1.9E ) = HD =  =  =  = 2026-10-18 15:20
-750 11472 V 7500 = FC D3 18 E7 10 CC 31 0D = BELGIAN FOOTBALL @ 7°E 10°E = ABS 2/2A ( 75E ) = 4:2:2 = HOL322 TX1 =  =  = 2026-10-18 15:16
 1005 3773 H 7500 = 82 08 E4 6E 92 1D 88 37 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-1 =  =  = 2026-10-18 10:33
 1005 3755 H 7500 = 88 D7 0E 6D 68 13 C8 43 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-18 12:41
 1005 3765 H 7499 = E3 51 23 57 C4 E0 20 C4 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = CSL-5 = China - China Super League Matchday 28 = Beijing Guoan vs Qingdao West Coast = 2026-10-18 14:05
@@ -49,11 +53,14 @@
 420 10983 V 7500 = 5D 2E D5 60 4F F7 F8 3E = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR122B =  =  = 2026-10-18 12:40
 420 10967 V 7500 = 2D 43 86 F6 7F 81 3A 3A = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4:2:2 = TKS.TRT.M17 - A =  =  = 2026-10-18 13:51
 130 11213 V 7198 = AB CD 12 8A 34 EF FF 22 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = France Premiere Ligue Women - Round 5 = Marseille W Fleury 91 W Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-18 13:02
+160 10973 V 9599 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:2 =  =  =  = 2026-10-18 12:54
 130 11622 V 9873 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = Fi16GNVE = 2026 TISSOT UCI TRACK WORLD CHAMPIONSHIPS Shanghai =  = 2026-10-18 06:27
 0 11534 H 7200 = 88 22 55 FF 66 24 57 E1 = BOXING all satellites feeds (10E .....) =  = 4:2:0 | HD =  = Bare Knuckle Fighting =  = 2026-10-18 04:02
 130 11058 H 7199 = 3A 86 67 27 E7 97 87 05 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-18 03:21
 -70 4050 H 17142 = 85 5F 54 38 A1 65 48 4E = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Nilesat 201/301 ( 7W ) = 4:2:2 = AEW WRESTLEDREAM PRI =  =  = 2026-10-18 01:54
 -70 4050 H 17142 = 85 5F 54 38 A1 65 48 4E = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Nilesat 201/301 ( 7W ) = 4:2:2 | 4:2:0 = AEW WRESTLEDREAM PRI =  =  = 2026-10-18 03:12
+160 11125 H 4936 = CE BD F1 7C 48 05 59 A6 = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-18 11:03
+160 11189 H 4936 = CE BD F1 7C 48 05 59 A6 = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 = MTVA SNG HUNGARY =  =  = 2026-10-18 19:07
 130 11668 H 7199 = F8 8A 11 93 AD 00 81 2E = Gymnastics feed ... @ 7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = trampoline gymnastics =  = 2026-10-18 12:20
 1005 4115 H 7200 = F8 8A 11 93 AD 00 81 2E = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Dentsu FIG WGYM Cottbus. = trampoline gymnastics =  = 2026-10-18 16:33
 130 4068 H 7200 = F8 8A 11 93 AD 00 81 2E = Gymnastics feed ... @ 7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = trampoline gymnastics =  = 2026-10-18 18:46
@@ -69,5 +76,4 @@
 160 10962 H 3332 = DE FC 19 F3 83 22 7A 1F = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4:2:0 =  = Regular NEWS Feed fixed Camera =  = 2026-10-18 13:08
 130 12525 H 7200 = 9E 3C 8B 65 14 FA 72 80 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = DNK83_ENC1 = BWF WORLD TOUR - VICTOR Denmark Open 2026 =  = 2026-10-18 13:08
 130 11610 V 9873 = E0 D6 31 E7 0A 48 75 C7 = Biathlon Triathlon Pentathlon FEEDS = HotBird 13F/13G ( 13E ) = 4:2:0 = D565 MCHN B UP =  =  = 2026-10-18 11:32
-160 11125 H 4936 = CE BD F1 7C 48 05 59 A6 = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-18 11:03
 130 11635 V 9800 = E7 CA FC AD 49 15 65 C3 = Athletics Marathons etc (10°E 7°E 100.5°E.... etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA864 = Wizz Air Rome Half Marathon by Brooks 2026 =  = 2026-10-18 09:19
