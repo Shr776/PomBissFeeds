@@ -1,3 +1,9 @@
+160 10973 V 9599 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:2 =  =  =  = 2026-10-18 12:54
+130 11058 H 7199 = 72 4C 9D 5B B4 34
+69 51 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-18 18:56
+1005 3840 H 30000 = 8F C3 4D 9F 67 6F CF A5 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-18 14:05
+100 3905 V  = 03 91 FB 8F FD 7F 02 7E = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-18 14:57
+1005 3840 H 30000 = 63 D6 CF 08 F2 24 02 18 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 | hd = OVERON 2 =  =  = 2026-10-18 18:44
 -8 11591 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Thor 5/6/7 ( 0.8W ) = HD | 4.2.0 = AFLW = AFLW Women's GWS GIANTS VS Hawthorn =  = 2026-10-18 06:53
 160 12630 V 7199 = 34 AA 12 F0 AA 34 AA 88 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-18 15:33
 30 10978 H 7500 = 11 BA 18 E3 10 BC CA 96 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 3B ( 3E ) = 4:2:0 = INTER Dirty SAT UK =  =  = 2026-10-18 15:42
@@ -36,8 +42,6 @@
 30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 3B ( 3E ) = 4:2:0 = beIN SPORTS =  =  = 2026-10-18 15:09
 19 11085 V 7199 = 2D 5A 89 10 5D A5 0D 0F = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = BulgariaSat 1 ( 1.9E ) = HD =  =  =  = 2026-10-18 15:20
 750 11472 V 7500 = FC D3 18 E7 10 CC 31 0D = BELGIAN FOOTBALL @ 7°E 10°E = ABS 2/2A ( 75E ) = 4:2:2 = HOL322 TX1 =  =  = 2026-10-18 15:16
-1005 3840 H 30000 = 8F C3 4D 9F 67 6F CF A5 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-18 14:05
-100 3905 V  = 03 91 FB 8F FD 7F 02 7E = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-18 14:57
 1005 3773 H 7500 = 82 08 E4 6E 92 1D 88 37 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-1 =  =  = 2026-10-18 10:33
 1005 3755 H 7500 = 88 D7 0E 6D 68 13 C8 43 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-18 12:41
 1005 3765 H 7499 = E3 51 23 57 C4 E0 20 C4 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = CSL-5 = China - China Super League Matchday 28 = Beijing Guoan vs Qingdao West Coast = 2026-10-18 14:05
@@ -45,20 +49,20 @@
 420 10983 V 7500 = 5D 2E D5 60 4F F7 F8 3E = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR122B =  =  = 2026-10-18 12:40
 420 10967 V 7500 = 2D 43 86 F6 7F 81 3A 3A = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4:2:2 = TKS.TRT.M17 - A =  =  = 2026-10-18 13:51
 130 11213 V 7198 = AB CD 12 8A 34 EF FF 22 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = France Premiere Ligue Women - Round 5 = Marseille W Fleury 91 W Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-18 13:02
-160 10973 V 9599 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:2 =  =  =  = 2026-10-18 12:54
 130 11622 V 9873 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = Fi16GNVE = 2026 TISSOT UCI TRACK WORLD CHAMPIONSHIPS Shanghai =  = 2026-10-18 06:27
 0 11534 H 7200 = 88 22 55 FF 66 24 57 E1 = BOXING all satellites feeds (10E .....) =  = 4:2:0 | HD =  = Bare Knuckle Fighting =  = 2026-10-18 04:02
 130 11058 H 7199 = 3A 86 67 27 E7 97 87 05 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-18 03:21
 -70 4050 H 17142 = 85 5F 54 38 A1 65 48 4E = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Nilesat 201/301 ( 7W ) = 4:2:2 = AEW WRESTLEDREAM PRI =  =  = 2026-10-18 01:54
 -70 4050 H 17142 = 85 5F 54 38 A1 65 48 4E = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Nilesat 201/301 ( 7W ) = 4:2:2 | 4:2:0 = AEW WRESTLEDREAM PRI =  =  = 2026-10-18 03:12
+130 11668 H 7199 = F8 8A 11 93 AD 00 81 2E = Gymnastics feed ... @ 7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = trampoline gymnastics =  = 2026-10-18 12:20
+1005 4115 H 7200 = F8 8A 11 93 AD 00 81 2E = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Dentsu FIG WGYM Cottbus. = trampoline gymnastics =  = 2026-10-18 16:33
+130 4068 H 7200 = F8 8A 11 93 AD 00 81 2E = Gymnastics feed ... @ 7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = trampoline gymnastics =  = 2026-10-18 18:46
 260 11152 V 8800 = 33 5B 19 A7 98 66 67 65 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = SNG 02 - Chain A =  =  = 2026-10-18 14:46
 260 11127 V 4400 = 25 5C 11 92 18 32 77 C1 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = hd | 4:2:0 = Main =  =  = 2026-10-18 14:59
 400 11133 V 4400 = 25 1C 34 75 18 35 55 A2 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Express AM7 ( 40E ) = 4.2.0 = SNG 01 - Chain B =  =  = 2026-10-18 18:23
 90 0194 H  = AB 18 CD 90 10 20 26 56 = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = Eutelsat 9B ( 9E ) =  =  =  =  = 2026-10-18 17:42
 160 12604 H 4936 = 20 10 20 50 25 20 26 6B = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-18 16:52
 216 11582 H 7200 = FE ED 17 02 10 20 26 56 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Eutelsat 21C ( 21.6E ) = 4:2:0 = MRC002-Main =  =  = 2026-10-18 17:17
-130 11668 H 7199 = F8 8A 11 93 AD 00 81 2E = Gymnastics feed ... @ 7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = trampoline gymnastics =  = 2026-10-18 12:20
-1005 4115 H 7200 = F8 8A 11 93 AD 00 81 2E = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Dentsu FIG WGYM Cottbus. = trampoline gymnastics =  = 2026-10-18 16:33
 160 11188 H 7199 = D1 02 AC 7F DC 18 10 04 = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4:2:2 = POL-102 Main =  =  = 2026-10-18 13:22
 160 10973 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4:2:2 = POL-141 ENC1 =  =  = 2026-10-18 15:29
 130 10865 H 7500 = B1 A8 C3 1C DA 6A 4A 8E = Darts Tournaments 10°E7°E1°W = HotBird 13F/13G ( 13E ) = 4:2:0 = NLFLEV_HOL-090 CH-A =  =  = 2026-10-18 14:07
