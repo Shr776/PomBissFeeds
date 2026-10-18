@@ -1,3 +1,6 @@
+750 11472 V 7500 = FC D3 18 E7 10 CC 31 0D = BELGIAN FOOTBALL @ 7°E 10°E = ABS 2/2A ( 75E ) = 4:2:2 = HOL322 TX1 =  =  = 2026-10-18 15:16
+160 12695 H 9875 = 18 10 FD 25 EA 17 89 8A = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Union Berlin = German Frauen-Bundesliga - Union Berlin vs Nurnberg =  = 2026-10-18 15:10
+30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 3B ( 3E ) = 4:2:0 = beIN SPORTS =  =  = 2026-10-18 15:09
 1005 3840 H 30000 = 8F C3 4D 9F 67 6F CF A5 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-18 14:05
 100 3905 V  = 03 91 FB 8F FD 7F 02 7E = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-18 14:57
 1005 3773 H 7500 = 82 08 E4 6E 92 1D 88 37 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-1 =  =  = 2026-10-18 10:33
