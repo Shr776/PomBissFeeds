@@ -1,14 +1,22 @@
+420 10956 V 7500 = 5C 40 EF 8B 73 FE CA 3B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-10-18 12:36
+130 11675 H 7199 = A9 D4 E7 64 C2 F1 38 EB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 BACKUP =  =  = 2026-10-18 12:55
+130 11058 H 7200 = 72 4C 9D 5B B4 34 69 51 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-18 08:53
+160 10973 V 9599 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:2 =  =  =  = 2026-10-18 12:54
+1005 3773 H 7500 = 82 08 E4 6E 92 1D 88 37 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-1 =  =  = 2026-10-18 10:33
+1005 3755 H 7500 = 88 D7 0E 6D 68 13 C8 43 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-18 12:41
+420 10983 V 7500 = 5D 2E D5 60 4F F7 F8 3E = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR122B =  =  = 2026-10-18 12:40
 130 12679 H 7500 = F1 07 45 3D E6 CB AD 5E = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = ENC 3 = NASCAR Timberland PRO 200 =  = 2026-10-18 04:08
 160 11161 H 7199 = 42 1A 93 EF 7E F1 EF 5E = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Eutelsat 16D ( 16E ) = 4:2:0 = E393 BACKUP =  =  = 2026-10-18 10:52
-1005 3773 H 7500 = 82 08 E4 6E 92 1D 88 37 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-1 =  =  = 2026-10-18 10:33
-130 11068 H 7199 = 7B 3F 9A 54 2D 8E 14 CF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-18 00:21
-130 11058 H 7200 = 72 4C 9D 5B B4 34 69 51 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-18 08:53
+130 11634 H 14399 = AB 18 10 D3 CC 20 26 12 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = MOTO3 JUNIR =  = 2026-10-18 12:27
+1005 3979 V 9875 = A3 D2 4E C3 CB 43 ED FB = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | HD = WSBK JEREZ = Motul FIM Superbike World Championship =  = 2026-10-18 12:35
+765 4026 H 7199 = NO KEY = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) =  =  =  =  = 2026-10-18 11:09
 -8 11591 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Thor 5/6/7 ( 0.8W ) = HD | 4.2.0 = AFLW = AFLW Women's GWS GIANTS VS Hawthorn =  = 2026-10-18 06:53
 130 11622 V 9873 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = Fi16GNVE = 2026 TISSOT UCI TRACK WORLD CHAMPIONSHIPS Shanghai =  = 2026-10-18 06:27
 0 11534 H 7200 = 88 22 55 FF 66 24 57 E1 = BOXING all satellites feeds (10E .....) =  = 4:2:0 | HD =  = Bare Knuckle Fighting =  = 2026-10-18 04:02
 130 11058 H 7199 = 3A 86 67 27 E7 97 87 05 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-18 03:21
 -70 4050 H 17142 = 85 5F 54 38 A1 65 48 4E = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Nilesat 201/301 ( 7W ) = 4:2:2 = AEW WRESTLEDREAM PRI =  =  = 2026-10-18 01:54
 -70 4050 H 17142 = 85 5F 54 38 A1 65 48 4E = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Nilesat 201/301 ( 7W ) = 4:2:2 | 4:2:0 = AEW WRESTLEDREAM PRI =  =  = 2026-10-18 03:12
+130 11668 H 7199 = F8 8A 11 93 AD 00 81 2E = Gymnastics feed ... @ 7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = trampoline gymnastics =  = 2026-10-18 12:20
 130 11610 V 9873 = E0 D6 31 E7 0A 48 75 C7 = Biathlon Triathlon Pentathlon FEEDS = HotBird 13F/13G ( 13E ) = 4:2:0 = D565 MCHN B UP =  =  = 2026-10-18 11:32
 160 11125 H 4936 = CE BD F1 7C 48 05 59 A6 = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-18 11:03
 130 11635 V 9800 = E7 CA FC AD 49 15 65 C3 = Athletics Marathons etc (10°E 7°E 100.5°E.... etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA864 = Wizz Air Rome Half Marathon by Brooks 2026 =  = 2026-10-18 09:19
