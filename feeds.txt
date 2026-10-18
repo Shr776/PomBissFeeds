@@ -1,3 +1,5 @@
+130 11068 H 7199 = 7B 3F 9A 54 2D 8E 14 CF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-18 00:21
+130 11058 H 7200 = 72 4C 9D 5B B4 34 69 51 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-18 08:53
 -8 11591 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Thor 5/6/7 ( 0.8W ) = HD | 4.2.0 = AFLW = AFLW Women's GWS GIANTS VS Hawthorn =  = 2026-10-18 06:53
 130 11622 V 9873 = 79 BD 8E C4 58 A1 C5 BE = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = Fi16GNVE = 2026 TISSOT UCI TRACK WORLD CHAMPIONSHIPS Shanghai =  = 2026-10-18 06:27
 130 12679 H 7500 = F1 07 45 3D E6 CB AD 5E = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = ENC 3 = NASCAR Timberland PRO 200 =  = 2026-10-18 04:08
@@ -5,4 +7,3 @@
 130 11058 H 7199 = 3A 86 67 27 E7 97 87 05 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-18 03:21
 -70 4050 H 17142 = 85 5F 54 38 A1 65 48 4E = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Nilesat 201/301 ( 7W ) = 4:2:2 = AEW WRESTLEDREAM PRI =  =  = 2026-10-18 01:54
 -70 4050 H 17142 = 85 5F 54 38 A1 65 48 4E = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Nilesat 201/301 ( 7W ) = 4:2:2 | 4:2:0 = AEW WRESTLEDREAM PRI =  =  = 2026-10-18 03:12
-130 11068 H 7199 = 7B 3F 9A 54 2D 8E 14 CF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-18 00:21
