@@ -1,5 +1,7 @@
+100 3895 V  = 03 91 FB 8F FD 7F 02 7E = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = SD | 4:2:0 =  =  =  = 2026-10-19 22:05
 130 12707 H 7500 = 65 87 AB 97 AB 47 85 77 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC 3 =  =  = 2026-10-19 20:46
 130 12698 H 7500 = 85 45 DA A4 DA 36 54 64 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 4 =  =  = 2026-10-19 21:08
+1005 4133 H 7499 = 85 45 DA A4 DA 36 54 64 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | HD = ENC 4 = ATP 250 World Tour Super Series =  = 2026-10-19 22:01
 130 10848 V 7199 = 23 DD AE AE FB 19 10 24 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 04 =  =  = 2026-10-19 20:42
 130 11061 V 7200 = D3 86 B7 10 0F 24 0D 40 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main =  =  = 2026-10-19 17:33
 130 11070 V 7200 = D3 86 B7 10 0F 24 0D 40 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-10-19 17:40
@@ -11,7 +13,6 @@
 750 11583 H 3750 = A1 5B 25 21 C3 60 D4 F7 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-19 20:34
 160 12547 H 7199 = BC 35 AC 9D 62 CB 22 4F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = hd | 4:2:0 = FEED D STU ATM Rueda Pren =  =  = 2026-10-19 19:03
 160 12648 H 7199 = AB C1 BA 26 C1 C1 2A AC = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = hd | 4:2:0 = E-457 =  =  = 2026-10-19 20:20
-100 3905 V  = 03 91 FB 8F FD 7F 02 7E = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = SD | 4:2:0 =  =  =  = 2026-10-19 19:47
 215 10985 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-10-19 18:00
 215 10985 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 = SAU-015 =  =  = 2026-10-19 18:58
 215 11005 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 = SAU041 =  =  = 2026-10-19 19:40
