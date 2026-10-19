@@ -1,3 +1,6 @@
+216 11689 H 7500 = AB BA 20 85 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main =  =  = 2026-10-19 19:24
+160 12595 H 9875 = 19 10 BA E3 DE 51 12 41 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4.2.0 = FFBL FC Bayern =  =  = 2026-10-19 19:07
+130 12547 H 7199 = BC 35 AC 9D 62 CB 22 4F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = FEED D STU ATM Rueda Pren =  =  = 2026-10-19 19:03
 215 10985 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-10-19 18:00
 215 10985 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 = SAU-015 =  =  = 2026-10-19 18:58
 750 10964 V 7500 = 69 A1 C8 D2 17 CA 7B 5C = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = ABS 2/2A ( 75E ) = 4:2:2 = TUR122A =  =  = 2026-10-19 18:15
