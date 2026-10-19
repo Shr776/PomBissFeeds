@@ -1,21 +1,28 @@
+130 12707 H 7500 = 65 87 AB 97 AB 47 85 77 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC 3 =  =  = 2026-10-19 20:46
+130 10848 V 7199 = 23 DD AE AE FB 19 10 24 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 04 =  =  = 2026-10-19 20:42
+130 11061 V 7200 = D3 86 B7 10 0F 24 0D 40 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main =  =  = 2026-10-19 17:33
+130 11070 V 7200 = D3 86 B7 10 0F 24 0D 40 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-10-19 17:40
+130 11089 V 7199 = D3 86 B7 10 0F 24 0D 40 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MCR 005 MAIN =  =  = 2026-10-19 20:37
+130 11080 V 7199 = D3 86 B7 10 0F 24 0D 40 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC004-MAIN =  =  = 2026-10-19 20:41
+160 11105 H 3600 = AA 26 CB 9B 14 EB 35 34 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = SNG 022 MAIN =  =  = 2026-10-19 20:35
+216 11689 H 7500 = AB BA 20 85 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main =  =  = 2026-10-19 19:24
+420 10974 V 7500 = BA 5B 47 5C 3A 58 E9 7B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-10-19 19:33
+750 11583 H 3750 = A1 5B 25 21 C3 60 D4 F7 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-19 20:34
+160 12547 H 7199 = BC 35 AC 9D 62 CB 22 4F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = hd | 4:2:0 = FEED D STU ATM Rueda Pren =  =  = 2026-10-19 19:03
+160 12648 H 7199 = AB C1 BA 26 C1 C1 2A AC = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = hd | 4:2:0 = E-457 =  =  = 2026-10-19 20:20
 100 3905 V  = 03 91 FB 8F FD 7F 02 7E = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = SD | 4:2:0 =  =  =  = 2026-10-19 19:47
 215 10985 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-10-19 18:00
 215 10985 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 = SAU-015 =  =  = 2026-10-19 18:58
 215 11005 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 = SAU041 =  =  = 2026-10-19 19:40
-216 11689 H 7500 = AB BA 20 85 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main =  =  = 2026-10-19 19:24
-420 10974 V 7500 = BA 5B 47 5C 3A 58 E9 7B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-10-19 19:33
 160 12595 H 9875 = 19 10 BA E3 DE 51 12 41 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4.2.0 = FFBL FC Bayern =  =  = 2026-10-19 19:07
-160 12547 H 7199 = BC 35 AC 9D 62 CB 22 4F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = hd | 4:2:0 = FEED D STU ATM Rueda Pren =  =  = 2026-10-19 19:03
 750 10964 V 7500 = 69 A1 C8 D2 17 CA 7B 5C = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = ABS 2/2A ( 75E ) = 4:2:2 = TUR122A =  =  = 2026-10-19 18:15
-130 11058 H 7200 = 72 4C 9D 5B B4 34 72 5A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-19 14:21
-130 11061 V 7200 = D3 86 B7 10 0F 24 0D 40 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main =  =  = 2026-10-19 17:33
-130 11070 V 7200 = D3 86 B7 10 0F 24 0D 40 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-10-19 17:40
-130 10848 V 7199 = 23 DD AE AE FB 19 10 24 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 04 =  =  = 2026-10-19 17:53
+130 11058 H 7200 = 72 4C 9D 5B B4 34 72 5A = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-19 14:21
 30 4032 V 7200 = AB CD 12 8A 33 56 76 FF = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-10-19 10:17
 1005 3953 V 7200 = FF AA 88 31 81 CC AC F9 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) = 4:2:0 = Tri Series Main =  =  = 2026-10-19 13:56
 1005 3840 H 29998 = B4 60 4A 5E AA 78 69 8B = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-19 07:14
 100 11257 H 7500 = C5 D9 A4 42 4A 66 8D 3D = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-19 02:55
 130 11591 H 7199 = A9 09 1C CE 33 53 7A 00 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi19 GNVE =  =  = 2026-10-19 20:01
+31 0200 H  = A9 09 1C CE 33 53 7A 00 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Eutelsat 3C ( 3.1E ) =  =  =  =  = 2026-10-19 20:37
 260 12602 H 5000 = 20 77 20 B7 77 20 77 0E = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4.2.0 = KUW-003 MAIN =  =  = 2026-10-19 18:49
 160 10986 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4:2:0 = TVP POL-32  ENC 1 =  =  = 2026-10-19 18:20
 160 11137 H 4936 = 20 10 20 50 25 20 26 6B = SERBIASRBIJA FOOTBALL (all Satellites) = Eutelsat 16D ( 16E ) = 4:2:0 =  = Serbian Women's Super League = ŽFK Crvena zvezda Spartak = 2026-10-19 16:20
