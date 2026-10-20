@@ -8,7 +8,10 @@
 130 11072 V 4820 = DC D1 DC 89 36 76 24 D0 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = F634 FEED B2 =  =  = 2026-10-20 15:50
 1005 3967 V 7498 = 88 93 F7 12 5D CC 49 72 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-20 02:30
 130 11058 H 7200 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = Monday Night RAW =  = 2026-10-20 02:02
+360 12632 V 3600 = NO KEY = Egyptian Football @10°E30.5°E Etc.. = Eutelsat 36D ( 36E ) = HD = EGY-HD22 =  =  = 2026-10-20 17:16
+260 12627 V 4199 = FE ED AD 98 DC 0A 02 E8 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_MAIN =  =  = 2026-10-20 17:16
 130 12584 V 7199 = 4C 9A 1E 04 73 B2 D6 FB = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-20 16:49
+130 12592 V 7199 = 8F 2B 5D 17 91 A7 E3 1B = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-20 17:03
 160 12656 H 7200 = 19 10 CE F7 AE 98 76 BC = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4:2:0 = Slava Ukraini =  =  = 2026-10-20 14:08
 160 10970 V 4800 = AB BA 26 8B DC AE 10 9A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.0 = POL-077 ENC-1 =  =  = 2026-10-20 14:42
 160 10996 V 7500 = 77 93 52 5C 99 08 86 27 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.0 = POL023 TVN24 WAW P2 =  =  = 2026-10-20 14:45
