@@ -1,3 +1,5 @@
+130 12525 H 7200 = EC CE 10 CA 20 20 26 66 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = BB Rostock = BKT EuroCup - =  = 2026-10-20 21:06
+750 11583 H 3750 = C5 61 0B 31 D2 3B 87 94 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = Grapefruit =  =  = 2026-10-20 21:11
 215 10985 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-10-20 17:53
 215 10994 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-10-20 18:07
 100 3905 V  = 03 91 FB 8F FD 7F 02 7E = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-20 18:28
@@ -9,16 +11,8 @@
 130 11072 V 4820 = DC D1 DC 89 36 76 24 D0 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = F634 FEED B2 =  =  = 2026-10-20 15:50
 130 11087 V 9874 = DC D1 DC 89 36 76 24 D0 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = LEUK_Fi01 =  =  = 2026-10-20 18:48
 160 12656 H 7200 = AB C1 BA 26 C1 C1 2A AC = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = hd | 4:2:0 = E-457 =  =  = 2026-10-20 19:11
+160 12555 H 7200 = BC 35 AC 9D 62 CB 22 4F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = hd | 4:2:0 = FEED D STU ATM Prev Terr Ju =  =  = 2026-10-20 19:12
 30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 3B ( 3E ) = hd | 4:2:0 = beIN SPORTS =  =  = 2026-10-20 20:50
-130 12601 V 7200 = 20 26 F4 3A 51 A1 CC BE = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Baskeball Champions League - Falco KC vs Vilpas =  = 2026-10-20 18:09
-130 11082 H 7199 = F9 C4 A6 63 D2 B8 31 BB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E399 MAIN =  =  = 2026-10-20 19:08
-130 12687 H 7200 = 20 B1 02 D3 AC 9F 01 4C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 =  = BKT EuroCup - Balkan Botevgrad vs Lietkabelis Panevezys =  = 2026-10-20 19:13
-130 12679 H 7200 = 4E 5B 29 D2 6D D1 9A D8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Service-1 =  =  = 2026-10-20 19:23
-130 12593 V 7199 = A1 A9 20 6A 26 DE FA FE = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = CZE-012 Main_BCL_PCE-UNI =  =  = 2026-10-20 19:33
-130 10848 V 7200 = 45 FA 20 5F 26 20 01 47 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR 143 A =  =  = 2026-10-20 19:41
-130 12611 V 7199 = FE BC 20 DA 26 00 10 36 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-20 20:02
-160 12532 H 4936 = 89 48 AF 80 A4 06 3B E5 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-20 20:09
-160 12638 H 7200 = 20 10 DE 0E BC 94 67 B7 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = D-322 TX1 =  =  = 2026-10-20 20:47
 130 11628 H 7199 = D4 A7 B1 2C C1 E8 35 DE = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main =  =  = 2026-10-20 17:34
 130 11638 H 7199 = D4 A7 B1 2C C1 E8 35 DE = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-10-20 17:36
 130 11655 H 7199 = D4 A7 B1 2C C1 E8 35 DE = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC 005 MAIN =  =  = 2026-10-20 20:37
@@ -29,7 +23,7 @@
 130 11058 H 7200 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = Monday Night RAW =  = 2026-10-20 02:02
 360 12632 V 3600 = NO KEY = Egyptian Football @10°E30.5°E Etc.. = Eutelsat 36D ( 36E ) = HD = EGY-HD22 =  =  = 2026-10-20 17:16
 260 12627 V 4199 = FE ED AD 98 DC 0A 02 E8 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_MAIN =  =  = 2026-10-20 17:16
-260 12632 V 3600 = FE ED AD 98 DC 0A 02 E8 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4.2.0 = Cleopatra =  =  = 2026-10-20 18:27
+260 12632 V 3600 = FE ED AD 98 DC 0A 02 E8 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4.2.0 | HD =  =  =  = 2026-10-20 18:27
 260 12627 V 3600 = FE ED AD 98 DC 0A 02 EB = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4.2.0 | HD = OB-HD1 =  =  = 2026-10-20 21:02
 420 11122 V 7199 = BD 5E 4A 65 07 C5 53 1F = Water Sports (Swimming Water Polo: Various Satellites) = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA_907_A =  =  = 2026-10-20 19:20
 160 12511 V 7198 = 20 10 20 50 25 20 26 6B = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-20 20:26
