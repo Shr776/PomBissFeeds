@@ -1,3 +1,6 @@
+1005 3840 H 30000 = 98 D4 34 A0 FB CA D5 9A = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = AsiaSat 5 ( 100.5E ) = 4.2.2 =  =  =  = 2026-10-21 18:10
+130 12707 H 7199 = 98 7B CE E1 45 22 11 78 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-21 23:28
+130 11694 H 7199 = 98 D4 34 A0 FB CA D5 9A = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-21 23:37
 130 11628 H 7199 = D5 E1 94 4A A2 44 10 F6 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main =  =  = 2026-10-21 17:36
 130 11637 H 7199 = D5 E1 94 4A A2 44 10 F6 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-10-21 17:37
 130 11655 H 7199 = D5 E1 94 4A A2 44 10 F6 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MCR 005 MAIN =  =  = 2026-10-21 20:50
@@ -40,7 +43,6 @@
 130 12601 V 7200 = FF AE D1 7E 02 1E 02 22 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA832 = Champions League Volleyball- Asterix Avo vs OTP Banka Branik =  = 2026-10-21 18:46
 130 12592 V 7198 = FF BC D1 8C 02 1E 02 22 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Europe Champions League - Qualification - Quarter-finals = Fino Kaposvar SE Napredak Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-21 19:01
 215 10995 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = hd | 4:2:0 = SAU-039 B =  =  = 2026-10-21 18:32
-1005 3840 H 30000 = 98 D4 34 A0 FB CA D5 9A = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = AsiaSat 5 ( 100.5E ) = 4.2.2 =  =  =  = 2026-10-21 18:10
 100 3890 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-21 16:34
 100 3885 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-21 16:40
 130 11067 H 7200 = D8 A2 4F C9 61 E3 9B DF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-21 15:28
