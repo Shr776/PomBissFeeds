@@ -1,5 +1,9 @@
 130 11072 V 4938 = B0 97 59 A0 92 D2 01 65 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = FEED B =  =  = 2026-10-21 15:34
+160 12546 H 7200 = DE 42 A4 C4 B3 44 DE D5 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = hd | 4:2:0 = E-413 MAIN =  =  = 2026-10-21 16:49
+100 3890 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-21 16:34
+100 3885 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-21 16:40
 130 11067 H 7200 = D8 A2 4F C9 61 E3 9B DF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-21 15:28
+160 12626 H 17140 = AA BB 21 86 10 CC 70 4C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:2 = 2Sat HOL161 BU =  =  = 2026-10-21 16:29
 30 4040 V 7200 = 65 41 12 B8 33 56 76 FF = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = Ranji Trophy-2026 DF-1 Main =  =  = 2026-10-21 10:29
 1005 3953 V 7200 = CC AA 99 0F 91 DD AC 1A = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) = 4:2:0 = Tri Series Main =  =  = 2026-10-21 14:45
 130 12707 H 7199 = 54 3A DF 6D B7 88 77 B6 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-21 00:56
