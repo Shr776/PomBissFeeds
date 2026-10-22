@@ -1,11 +1,17 @@
+130 11686 H 7199 = 75 A7 E6 02 42 7D 37 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = POWERSLAP PATH A P =  =  = 2026-10-22 15:55
+130 11086 V 9875 = B0 97 59 A0 92 D2 01 65 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = LEUK_Fi01 =  =  = 2026-10-22 01:07
+100 11270 H 17136 = BB AA 54 B9 46 8C CA 9C = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 10B ( 10E ) = hd | 4:2:0 = FEED 2 =  =  = 2026-10-22 15:40
 19 12656 H 7200 = 19 10 CE F7 AE 98 76 BC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = BulgariaSat 1 ( 1.9E ) = 4:2:0 = D233 =  =  = 2026-10-22 12:38
+1005 3860 V 30000 = 27 2C A9 FC 49 E7 57 87 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = GVA_Fi02 =  =  = 2026-10-22 15:27
+100 11251 H 17139 = BB AA 54 B9 46 8C CA 9C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 10B ( 10E ) = 4.2.0 = FEED1 =  =  = 2026-10-22 15:33
 765 4026 H 7199 = NO KEY = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) =  =  =  =  = 2026-10-22 12:03
 765 4026 H 7200 = BB AA 88 ED 78 55 51 1E = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) =  =  =  =  = 2026-10-22 12:18
-130 11086 V 9875 = B0 97 59 A0 92 D2 01 65 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = LEUK_Fi01 =  =  = 2026-10-22 01:07
 -475 4160 V 10000 = 98 D4 34 A0 FB CA D5 9A = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-22 00:01
 -475 3849 H 6666 = C9 60 2A 53 0E 06 BE D2 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-10-22 00:16
 -475 4042 H 7500 = CB 67 E1 13 2A DC B8 BE = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-22 00:18
 -475 4059 H 7500 = AD 66 78 8B A1 CB DD 49 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-22 00:20
+30 4018 V 7200 = 12 56 CA 32 D3 BA BE 4B = Kabaddi World Cup 2016 (100.5E  68.5E) = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-10-22 15:11
+30 3991 V 7200 = 58 67 DA 99 DA 78 12 64 = Kabaddi World Cup 2016 (100.5E  68.5E) = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-10-22 15:17
 130 12583 V 7200 = 3E 7C 6A 24 28 F4 B1 CD = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 =  = BWF WORLD TOUR - YONEX French Open 2026 =  = 2026-10-22 12:59
 130 11651 H 14400 = 70 8F 72 71 D2 E7 19 D2 = Junior Eurovision Song Contest  FEEDS  NO CHAT = HotBird 13F/13G ( 13E ) = 4:2:2 = MLT-001 MAIN =  =  = 2026-10-22 11:45
 160 11185 H 14400 = 70 8F 72 71 D2 E7 19 D2 = Junior Eurovision Song Contest  FEEDS  NO CHAT = Eutelsat 16D ( 16E ) = 4:2:2 = ITA 689 M03 M =  =  = 2026-10-22 12:19
