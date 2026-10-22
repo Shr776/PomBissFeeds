@@ -1,8 +1,14 @@
-160 12633 V 14396 = F5 77 40 AC 17 22 F1 2A = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-22 21:03
+-475 4160 V 10000 = 98 D4 34 A0 FB CA D5 9A = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-22 00:01
+-475 3849 H 6666 = C9 60 2A 53 0E 06 BE D2 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-10-22 00:16
+-475 4042 H 7500 = CB 67 E1 13 2A DC B8 BE = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-22 00:18
+-475 4059 H 7500 = AD 66 78 8B A1 CB DD 49 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-22 00:20
+1005 3840 H 30001 = FC 65 32 93 AC 67 89 9C = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OCC 1 = CONMEBOL – Copa Libertadores (2nd Leg Semifinal) = Flamengo vs Estudiantes de la Plata = 2026-10-22 21:44
 130 10866 H 7200 = D6 E0 58 0E 7F 0F A7 35 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-22 17:30
 130 10857 H 7200 = D6 E0 58 0E 7F 0F A7 35 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-22 17:33
 130 10839 H 7200 = D6 E0 58 0E 7F 0F A7 35 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC004-MAIN = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-22 20:35
 130 10848 H 7200 = D6 E0 58 0E 7F 0F A7 35 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MCR 005 MAIN = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-22 20:37
+130 11081 H 7200 = D6 E0 58 0E 7F 0F A7 35 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi15_GNVE =  =  = 2026-10-22 21:21
+160 12633 V 14396 = F5 77 40 AC 17 22 F1 2A = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-22 21:03
 1130 11305 V 7200 = CA CA 20 B4 20 CA CA B4 = VOLLYBALL FEEDS All Satellites KU Band C band = Palapa D ( 113E ) = 4.2.0 = E-73 =  =  = 2026-10-22 20:27
 130 10820 H 7200 = B3 91 CD 11 CF 18 3A 21 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-SZE-GOG = EHF Champions League  - =  = 2026-10-22 17:26
 130 10829 V 7199 = 8C C7 15 68 9A 10 E2 8C = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-MTM-PLO =  =  = 2026-10-22 17:26
@@ -21,19 +27,15 @@
 70 10998 H 7200 = B0 26 AB 81 CD 20 27 14 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = hd | 4:2:0 =  =  =  = 2026-10-22 19:20
 420 11487 V 6799 = 72 82 00 F4 00 72 82 F4 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Türksat 3A/4A/5B/6A ( 42E ) = 4:2:2 | HD | 1920x1080 =  = Europe Europa League - League phase - Round 3 = Besiktas Crystal Palace D7 1A 1B BF BB 62 B1 0C = 2026-10-22 19:55
 420 11462 V 7199 = NO KEY = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-22 19:02
-160 12598 V 4938 = 20 10 20 50 25 20 26 6B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 =  = Europe Conference League - League phase - Round 2 = Crvena zvezda FC Copenhagen = 2026-10-22 19:18
 160 12622 H 4937 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = YSM-016 MAIN =  =  = 2026-10-22 18:59
 130 11686 H 7199 = 75 A7 E6 02 42 7D 37 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = POWERSLAP PATH A P =  =  = 2026-10-22 15:55
 260 11149 V 4400 = 11 1B 14 40 58 22 26 A0 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Badr 4/5/6/7 ( 26E ) = 4:2:0 = SNG 07 - CHAIN A =  =  = 2026-10-22 16:42
 765 4026 H 7199 = NO KEY = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) =  =  =  =  = 2026-10-22 12:03
 765 4026 H 7200 = BB AA 88 ED 78 55 51 1E = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) =  =  =  =  = 2026-10-22 12:18
--475 4160 V 10000 = 98 D4 34 A0 FB CA D5 9A = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-22 00:01
--475 3849 H 6666 = C9 60 2A 53 0E 06 BE D2 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-10-22 00:16
--475 4042 H 7500 = CB 67 E1 13 2A DC B8 BE = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-22 00:18
--475 4059 H 7500 = AD 66 78 8B A1 CB DD 49 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-22 00:20
+160 12614 H 9874 = 1C 5D 6E E7 B8 FB A7 5A = Gymnastics feed ... @ 7°E10°E100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = HOL318 main =  =  = 2026-10-22 20:49
+1005 3860 V 30000 = 1C 5D 6E E7 B8 FB A7 5A = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi11_GNVE =  =  = 2026-10-22 21:47
 160 12511 V 7198 = 20 10 20 50 25 20 26 6B = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-22 21:10
 0 11493 V 14999 = 81 EF D5 45 51 B2 44 47 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All =  = HD = Unname =  =  = 2026-10-22 21:06
-160 12614 H 9874 = 1C 5D 6E E7 B8 FB A7 5A = Gymnastics feed ... @ 7°E10°E100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = HOL318 main =  =  = 2026-10-22 20:49
 30 12720 H 5000 = A1 23 B2 76 34 C3 45 3C = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 3B ( 3E ) = 4.2.2 = DMI SNG4 =  =  = 2026-10-22 16:05
 260 11129 V 8800 = 66 6B 3A 0B 58 88 85 65 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:2 = UAE074-M =  =  = 2026-10-22 17:00
 260 11154 V 4400 = 66 6B 3A 0B 58 77 75 44 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = SNG 02 - Chain B =  =  = 2026-10-22 17:19
