@@ -1,12 +1,14 @@
-100 3905 V  = B3 3B 95 83 A9 D9 5C DE = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-22 17:43
+19 12656 H 7200 = 19 10 CE F7 AE 98 76 BC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = BulgariaSat 1 ( 1.9E ) = 4:2:0 = D233 =  =  = 2026-10-22 12:38
+1005 3860 V 30000 = 27 2C A9 FC 49 E7 57 87 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = GVA_Fi02 =  =  = 2026-10-22 15:27
+130 10838 V 7199 = E0 1F FA F9 BD 10 22 EF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-22 17:38
+130 10838 V 7199 = E0 1F FA F9 BD 10 22 EF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-22 18:59
+160 12622 H 4937 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = YSM-016 MAIN =  =  = 2026-10-22 18:59
 130 11086 V 9875 = B0 97 59 A0 92 D2 01 65 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = LEUK_Fi01 =  =  = 2026-10-22 01:07
 100 11251 H 17139 = BB AA 54 B9 46 8C CA 9C = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 10B ( 10E ) = 4.2.0 = FEED1 =  =  = 2026-10-22 15:33
 100 11270 H 17136 = BB AA 54 B9 46 8C CA 9C = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 10B ( 10E ) = hd | 4:2:0 = FEED 2 =  =  = 2026-10-22 15:40
 160 12635 H 17140 = AA BB 21 86 10 CC 08 E4 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = hd | 4:2:0 = UKI-1462-MAIN =  =  = 2026-10-22 16:03
 100 11264 V 17136 = CA C8 52 E4 BA C4 56 D4 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 10B ( 10E ) = hd | 4:2:2 = TSG-OLY FEED 1 =  =  = 2026-10-22 17:41
-19 12656 H 7200 = 19 10 CE F7 AE 98 76 BC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = BulgariaSat 1 ( 1.9E ) = 4:2:0 = D233 =  =  = 2026-10-22 12:38
-1005 3860 V 30000 = 27 2C A9 FC 49 E7 57 87 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = GVA_Fi02 =  =  = 2026-10-22 15:27
-130 10838 V 7199 = E0 1F FA F9 BD 10 22 EF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-22 17:38
+100 11281 V 17136 = CA C8 52 E4 BA C4 56 D4 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 10B ( 10E ) = hd | 4:2:2 = TSG-OLY FEED 2 =  =  = 2026-10-22 18:29
 130 10866 H 7200 = D6 E0 58 0E 7F 0F A7 35 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-22 17:30
 130 10857 H 7200 = D6 E0 58 0E 7F 0F A7 35 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-22 17:33
 130 10820 H 7200 = B3 91 CD 11 CF 18 3A 21 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-SZE-GOG = EHF Champions League  - =  = 2026-10-22 17:26
@@ -19,11 +21,14 @@
 -475 3849 H 6666 = C9 60 2A 53 0E 06 BE D2 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-10-22 00:16
 -475 4042 H 7500 = CB 67 E1 13 2A DC B8 BE = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-22 00:18
 -475 4059 H 7500 = AD 66 78 8B A1 CB DD 49 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 4.2.2 =  =  =  = 2026-10-22 00:20
+192 11561 V 7500 = B1 A8 C3 1C DA 6A 4A 8E = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 = NLFLEV_HOL328-3 =  =  = 2026-10-22 18:53
 30 12720 H 5000 = A1 23 B2 76 34 C3 45 3C = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 3B ( 3E ) = 4.2.2 = DMI SNG4 =  =  = 2026-10-22 16:05
 260 11129 V 8800 = 66 6B 3A 0B 58 88 85 65 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:2 = UAE074-M =  =  = 2026-10-22 17:00
 260 11154 V 4400 = 66 6B 3A 0B 58 77 75 44 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = SNG 02 - Chain B =  =  = 2026-10-22 17:19
 160 11601 H 3500 = C3 10 DF B2 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 16D ( 16E ) = 4.2.0 = ISH-ENC1 =  =  = 2026-10-22 17:29
 260 11601 H 3500 = A1 11 DF 91 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = ISH-SNG 01-E01 =  =  = 2026-10-22 17:32
+360 11542 H 4937 = 16 7B 27 B8 CC 94 F9 59 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 36D ( 36E ) = 4.2.0 = Cubic073-A =  =  = 2026-10-22 18:44
+260 11596 H 3500 = A2 11 DF 92 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = ENC1 =  =  = 2026-10-22 18:48
 30 4018 V 7200 = 12 56 CA 32 D3 BA BE 4B = Kabaddi World Cup 2016 (100.5E  68.5E) = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-10-22 15:11
 30 3991 V 7200 = 58 67 DA 99 DA 78 12 64 = Kabaddi World Cup 2016 (100.5E  68.5E) = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-10-22 15:17
 130 12583 V 7200 = 3E 7C 6A 24 28 F4 B1 CD = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 =  = BWF WORLD TOUR - YONEX French Open 2026 =  = 2026-10-22 12:59
