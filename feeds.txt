@@ -26,7 +26,6 @@
 160 12598 V 4938 = 20 10 20 50 25 20 26 6B = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4:2:0 =  = Europe Conference League - League phase - Round 2 = Crvena zvezda FC Copenhagen Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-22 19:12
 70 10998 H 7200 = B0 26 AB 81 CD 20 27 14 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = hd | 4:2:0 =  =  =  = 2026-10-22 19:20
 420 11487 V 6799 = 72 82 00 F4 00 72 82 F4 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Türksat 3A/4A/5B/6A ( 42E ) = 4:2:2 | HD | 1920x1080 =  = Europe Europa League - League phase - Round 3 = Besiktas Crystal Palace D7 1A 1B BF BB 62 B1 0C = 2026-10-22 19:55
-420 11462 V 7199 = NO KEY = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-22 19:02
 160 12622 H 4937 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = YSM-016 MAIN =  =  = 2026-10-22 18:59
 130 11686 H 7199 = 75 A7 E6 02 42 7D 37 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = POWERSLAP PATH A P =  =  = 2026-10-22 15:55
 260 11149 V 4400 = 11 1B 14 40 58 22 26 A0 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Badr 4/5/6/7 ( 26E ) = 4:2:0 = SNG 07 - CHAIN A =  =  = 2026-10-22 16:42
