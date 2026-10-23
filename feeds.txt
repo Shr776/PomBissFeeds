@@ -41,7 +41,6 @@
 160 11165 H 9875 = 6A 62 33 FF FA 32 26 52 = Gymnastics feed ... @ 7°E10°E100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 =  = FIG Artistic Gymnastics World Championships =  = 2026-10-23 20:45
 1005 3860 V 30000 = 6A 62 33 FF FA 32 26 52 = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi20_GNVE = FIG Artistic Gymnastics World Championships =  = 2026-10-23 22:03
 160 11165 H 9875 = 6A 62 33 FF FA 32 26 52 = Gymnastics feed ... @ 7°E10°E100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 | 4.2.0 =  = FIG Artistic Gymnastics World Championships =  = 2026-10-23 22:47
-192 11561 V 7500 = B1 A8 C3 1C DA 6A 4A 8E = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 = NLFLEV_HOL328-3 =  =  = 2026-10-23 22:20
 420 11132 V 4999 = 44 CB 17 26 07 C7 2B F9 = Concert feed = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA 889 A =  =  = 2026-10-23 19:14
 420 11140 V 7199 = BF 4B 55 5F 07 C7 2D FB = Concert feed = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA 498 B =  =  = 2026-10-23 22:19
 160 11185 H 14400 = 70 8F 72 71 D2 E7 19 D2 = Junior Eurovision Song Contest  FEEDS  NO CHAT = Eutelsat 16D ( 16E ) = 4:2:2 = ITA 689 M03 M =  =  = 2026-10-23 21:53
