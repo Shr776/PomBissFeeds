@@ -1,6 +1,11 @@
+130 11070 V 7200 = D7 B2 35 BE FA 14 68 76 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-23 17:41
+130 11061 V 7200 = D7 B2 35 BE FA 14 68 76 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-23 17:44
+130 11617 H 7200 = 36 5C D1 63 00 6C AB 17 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 560 main 155E9 = Ski Jumping Grand Prix - Klingenthal (GER) =  = 2026-10-23 17:34
+70 12703 H 4168 = 23 AB CD 9B 10 20 26 56 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 7C ( 7E ) = 4:2:0 =  =  =  = 2026-10-23 17:31
 130 12693 H 30000 = 33 AB 67 45 54 BC A2 B2 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = UFC PATH A B =  =  = 2026-10-23 15:30
 160 12644 H 30000 = 33 AB 67 45 54 BC A2 B2 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = UFC PATH A P =  =  = 2026-10-23 15:32
 130 11693 H 7199 = 75 A7 E6 02 42 7D 37 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = POWERSLAP CLEAN P =  =  = 2026-10-23 17:20
+130 11684 H 7199 = 75 A7 E6 02 42 7D 37 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = POWERSLAP PATH A BU =  =  = 2026-10-23 17:27
 1005 4147 V 7199 = C4 A0 A8 0C 06 B8 1D DB = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-23 11:36
 130 11067 H 7200 = 33 AB 67 45 54 BC A2 B2 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-23 14:35
 130 11090 V 7199 = D9 EC 49 0E EE A1 7C 0B = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = HotBird 13F/13G ( 13E ) = 4:2:0 = GVA_Fi07 =  =  = 2026-10-23 14:24
@@ -16,9 +21,10 @@
 1005 3935 V 10000 = FC 65 32 93 AC 67 89 9C = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OCC 1 = CONMEBOL – Copa Libertadores (2nd Leg Semifinal) = Flamengo vs Estudiantes de la Plata = 2026-10-23 03:41
 1005 3840 H 29998 = FD 2C 2B 54 A9 0D 15 CB = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-23 02:59
 1005 3967 V 7498 = BA 97 BC 0D D0 8F C4 23 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-23 02:44
+160 12597 V 4936 = 20 10 20 50 25 20 26 6B = SERBIASRBIJA FOOTBALL (all Satellites) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-23 17:56
+260 11596 H 3500 = B2 11 DF A2 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = sng_1 =  =  = 2026-10-23 17:56
 0 11674 V 7200 = 6E E9 83 DA D2 B8 3B C5 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W =  = 4.2.0 = No name =  =  = 2026-10-23 14:29
 130 11187 V 9874 = FE ED AD 98 DC 0A 02 E8 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = HotBird 13F/13G ( 13E ) = 4:2:0 = EGY023_BCKUP =  =  = 2026-10-23 16:29
-260 11129 V 8800 = 66 6B 3A 0B 58 77 75 44 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = hd | 4:2:0 = SNG 02 - Chain A =  =  = 2026-10-23 16:13
 400 11139 V 4400 = 11 1B 14 40 58 22 26 A0 = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Express AM7 ( 40E ) =  =  =  =  = 2026-10-23 11:38
 30 11643 V 6999 = DE FF BC 99 FF AE DD 8A = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Eutelsat 3B ( 3E ) = 4.2.0 | SD = SD4 MOF =  =  = 2026-10-23 12:28
 216 0200 H  = FE ED 23 0E 10 20 26 56 = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-10-23 15:30
