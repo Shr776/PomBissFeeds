@@ -4,4 +4,4 @@
 1005 3840 H 29998 = FD 2C 2B 54 A9 0D 15 CB = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-23 02:59
 1005 3717 H 4936 = 00 DA E9 C3 00 AC 7E 2A = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-23 02:53
 1005 3967 V 7498 = BA 97 BC 0D D0 8F C4 23 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-23 02:44
-130 10830 V 7199 = D1 02 3E 11 01 FF FC FC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 02 =  =  = 2026-10-23 00:45
+130 10830 V 7199 = D1 02 3E 11 01 FF FC FC = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 02 =  =  = 2026-10-23 00:45
