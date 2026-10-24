@@ -1,9 +1,11 @@
+130 11622 V 9875 = F3 97 73 FD EC E7 8A 5D = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4.2.0 = Service1 =  =  = 2026-10-24 10:11
+130 11617 H 7200 = 36 5C D1 63 00 6C AB 17 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 560 main 155E9 = Ski Jumping Grand Prix - Klingenthal (GER) =  = 2026-10-24 13:12
+130 12552 H 7200 = 24 10 20 54 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4.2.0 = E.95 =  =  = 2026-10-24 13:06
 1005 3808 V 7200 = 85 85 FF 09 FF 28 81 A8 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 | HD = HD_S3 M =  =  = 2026-10-24 11:34
 1005 4147 V 7199 = C4 A0 A8 0C 06 B8 1D DB = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-24 11:27
 1005 4155 V 7200 = 03 8A A6 33 71 67 D0 A8 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = MMREFG-001 =  =  = 2026-10-24 11:05
 1005 3761 H 30000 = 8B E2 EF 5C 00 1A DB F5 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) =  = CSL-1 =  =  = 2026-10-24 11:00
 1005 3960 H 29998 = 86 6C 1C 0E 15 58 4B B8 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4.2.0 = CSL5 =  =  = 2026-10-24 11:04
-130 11622 V 9875 = F3 97 73 FD EC E7 8A 5D = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4.2.0 = Service1 =  =  = 2026-10-24 10:11
 160 12603 H 7200 = AB 24 20 EF 26 10 11 47 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Eutelsat 16D ( 16E ) =  = KAZ008M =  =  = 2026-10-24 10:04
 -8 11591 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Thor 5/6/7 ( 0.8W ) = HD | 4.2.0 = AFLW = AFLW Women's GWS GIANTS VS Hawthorn = Geelong Cats Fremantle = 2026-10-24 07:49
 1005 3840 H 29998 = F4 2F A6 C9 BA 65 17 36 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-24 03:17
