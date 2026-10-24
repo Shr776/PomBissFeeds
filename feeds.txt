@@ -1,7 +1,10 @@
+70 11082 V 9998 = BC 08 20 E4 26 24 10 5A = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-10-24 18:18
+70 11082 V 9998 = BC 08 20 E4 26 24 10 5A = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-10-24 18:25
+0 12534 V 7200 = NO KEY = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) =  =  =  =  =  = 2026-10-24 20:51
 130 11061 V 7200 = D8 E6 65 23 FD 7B F8 70 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-24 17:29
 130 11071 V 7200 = D8 E6 65 23 FD 7B F8 70 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-24 17:32
 130 11080 V 7199 = D8 E6 65 23 FD 7B F8 70 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC004-MAIN =  =  = 2026-10-24 20:32
-130 11088 V 7200 = D8 E6 65 23 FD 7B F8 70 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MCR 005 Backup = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-24 20:32
+130 11088 V 7200 = D8 E6 65 23 FD 7B F8 70 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MCR 005 MAIN = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-24 20:32
 48 11671 H 1910 = 10 13 20 43 25 10 13 48 = BOXING all satellites feeds (10E .....) = Astra 4A ( 4.8E ) = 4.2.0 = Gazzoul =  =  = 2026-10-24 20:11
 390 12632 V 7200 = F7 1A BB CC 52 C8 3E 58 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = Hellas Sat 3/4 ( 39E ) =  = E394 BACK UP =  =  = 2026-10-24 19:51
 130 10801 H 7200 = 6E C4 1A 4C 90 5F 16 05 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-10-24 20:10
@@ -32,8 +35,6 @@
 100 3890 V  = CA F1 20 DB 26 24 10 5A = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-24 17:47
 130 11607 V 4936 = 57 98 FF EE ED 5C 6A B3 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Main =  =  = 2026-10-24 19:19
 130 12525 H 7200 = 33 AB 67 45 54 BC A2 B2 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 1 =  =  = 2026-10-24 18:35
-70 11082 V 9998 = BC 08 20 E4 26 24 10 5A = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-10-24 18:18
-70 11082 V 9998 = BC 08 20 E4 26 24 10 5A = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-10-24 18:25
 19 11084 V 7199 = B6 E1 99 30 FB FA D3 C8 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = BulgariaSat 1 ( 1.9E ) = HD =  =  =  = 2026-10-24 15:28
 420 11039 V 7199 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD = tik =  =  = 2026-10-24 18:20
 130 10839 H 7200 = D8 E1 B5 6E C7 F2 94 4D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-24 15:15
@@ -53,6 +54,8 @@
 1005 3761 H 30000 = 8B E2 EF 5C 00 1A DB F5 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) =  = CSL-1 =  =  = 2026-10-24 11:00
 1005 3960 H 29998 = 86 6C 1C 0E 15 58 4B B8 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4.2.0 = CSL5 =  =  = 2026-10-24 11:04
 160 12603 H 7200 = AB 24 20 EF 26 10 11 47 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Eutelsat 16D ( 16E ) =  = KAZ008M =  =  = 2026-10-24 10:04
+216 0200 H  = FE ED 24 0F 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-10-24 19:04
+215 11587 H 5000 = FE ED 24 0F 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21B ( 21.5E ) = 4.2.0 = MRC002-MAIN =  =  = 2026-10-24 20:51
 160 12636 V 4936 = 20 10 20 50 25 20 26 6B = SERBIASRBIJA FOOTBALL (all Satellites) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-24 19:37
 48 12520 V 4800 = FE ED 10 FB 15 19 97 C5 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Astra 4A ( 4.8E ) = 4.2.0 = STAR AC SAT =  =  = 2026-10-24 19:21
 1005 3860 V 30000 = 22 A9 8C 57 E0 B6 92 28 = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi20_GNVE =  =  = 2026-10-24 11:39
@@ -60,7 +63,6 @@
 1005 3860 V 30000 = 22 A9 8C 57 E0 B6 92 28 = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | 4.2.0 = Fi20_GNVE =  =  = 2026-10-24 19:17
 70 12703 H 4166 = 24 10 AB DF CD 20 26 13 = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = Eutelsat 7C ( 7E ) = 4:2:0 =  =  =  = 2026-10-24 18:55
 70 12708 H 4166 = 24 10 20 54 26 FE DC 00 = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = Eutelsat 7C ( 7E ) = 4:2:0 =  =  =  = 2026-10-24 19:07
-216 0200 H  = FE ED 24 0F 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-10-24 19:04
 260 11154 V 4400 = 66 6B 3A 0B 58 77 75 44 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = SNG 02 - Chain B =  =  = 2026-10-24 14:54
 750 11583 H 3750 = 56 43 32 CB 31 23 55 A9 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-24 17:09
 260 11601 H 3500 = C1 11 DF B1 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = ISH-SNG 01-E01 =  =  = 2026-10-24 17:26
