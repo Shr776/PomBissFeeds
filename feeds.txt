@@ -1,8 +1,15 @@
+1005 4155 V 7200 = 03 8A A6 33 71 67 D0 A8 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = MMREFG-001 =  =  = 2026-10-24 11:05
+1005 4145 H 7200 = 89 D0 33 8C 4F 52 4C ED = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = DRPTAI-001M =  =  = 2026-10-24 14:28
+1005 4155 V 7200 = 03 8A A6 33 71 67 D0 A8 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = MMREFG-001 =  =  = 2026-10-24 16:01
+192 11472 V 7500 = F9 D2 10 DB 24 CC 18 08 = BELGIAN FOOTBALL @ 7°E 10°E = Astra 1N/1P ( 19.2E ) = hd | 4:2:2 = HOL322 TX1 =  =  = 2026-10-24 15:53
 192 11501 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4.2.2 | 4.2.0 | HD = SNG =  =  = 2026-10-24 14:41
 192 11501 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4.2.2 | 4.2.0 | HD = SNG =  =  = 2026-10-24 14:51
 160 12643 V 9876 = 24 10 AC E0 DB 96 13 84 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) =  = FFBL VfL Wolfsburg =  =  = 2026-10-24 15:00
-1005 4155 V 7200 = 03 8A A6 33 71 67 D0 A8 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = MMREFG-001 =  =  = 2026-10-24 11:05
-1005 4145 H 7200 = 89 D0 33 8C 4F 52 4C ED = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = DRPTAI-001M =  =  = 2026-10-24 14:28
+160 12655 V 9875 = 24 10 AC E0 DB 96 13 84 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL VfB Stuttgart = German Frauen-Bundesliga - Stuttgart vs Frankfurt =  = 2026-10-24 15:51
+19 11084 V 7199 = B6 E1 99 30 FB FA D3 C8 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = BulgariaSat 1 ( 1.9E ) = HD =  =  =  = 2026-10-24 15:28
+130 10839 H 7200 = D8 E1 B5 6E C7 F2 94 4D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-24 15:15
+-8 11591 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Thor 5/6/7 ( 0.8W ) = HD | 4.2.0 = AFLW = AFLW Women's GWS GIANTS VS Hawthorn = Geelong Cats Fremantle = 2026-10-24 07:49
+160 11629 V 7200 = F4 94 41 C9 51 24 F2 67 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = LNR UK VANNES = TOP 14 - Vannes vs Clermont =  = 2026-10-24 15:06
 130 11608 H 7120 = EE D3 54 15 6A 29 9E 31 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-10-24 14:24
 765 4027 H 7199 = 11 22 AA DD CC 12 34 12 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-10-24 14:14
 130 11095 H 9875 = CB 93 62 C0 BF 3E 88 85 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.2 = NEP 1 =  =  = 2026-10-24 14:04
@@ -15,9 +22,10 @@
 1005 3761 H 30000 = 8B E2 EF 5C 00 1A DB F5 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) =  = CSL-1 =  =  = 2026-10-24 11:00
 1005 3960 H 29998 = 86 6C 1C 0E 15 58 4B B8 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4.2.0 = CSL5 =  =  = 2026-10-24 11:04
 160 12603 H 7200 = AB 24 20 EF 26 10 11 47 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Eutelsat 16D ( 16E ) =  = KAZ008M =  =  = 2026-10-24 10:04
--8 11591 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Thor 5/6/7 ( 0.8W ) = HD | 4.2.0 = AFLW = AFLW Women's GWS GIANTS VS Hawthorn = Geelong Cats Fremantle = 2026-10-24 07:49
 1005 3840 H 29998 = F4 2F A6 C9 BA 65 17 36 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-24 03:17
-130 11600 H 4936 = 52 B5 7C 83 66 C7 DE 0B = MTVA Hungary Feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = MYVA SNG HUNGARY =  =  = 2026-10-24 15:01
+1005 3860 V 30000 = 22 A9 8C 57 E0 B6 92 28 = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi20_GNVE =  =  = 2026-10-24 11:39
+160 11162 H 9874 = 22 A9 8C 57 E0 B6 92 28 = Gymnastics feed ... @ 7°E10°E100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = HOL318 main =  =  = 2026-10-24 15:17
+130 11600 H 4936 = 52 B5 7C 83 66 C7 DE 0B = MTVA Hungary Feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = MTVA SNG HUNGARY =  =  = 2026-10-24 15:01
 260 11154 V 4400 = 66 6B 3A 0B 58 77 75 44 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = SNG 02 - Chain B =  =  = 2026-10-24 14:54
 160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-033 out1 =  =  = 2026-10-24 14:34
 130 12536 H 7199 = FF FC D1 CC 02 4E 01 51 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU GP1 Angers =  =  = 2026-10-24 13:49
@@ -26,6 +34,5 @@
 400 11150 V 4400 = 11 1B 14 40 58 22 26 A0 = JUDO  KARATE FEEDS = Express AM7 ( 40E ) = 4.2.0 = SNG 07- CHAI =  =  = 2026-10-24 13:49
 260 11131 V 8800 = 11 1B 14 40 58 22 26 A0 = Camel Race Feeds = Badr 4/5/6/7 ( 26E ) =  = SNG 01 - Chain A =  =  = 2026-10-24 13:42
 160 10976 H 3600 = 20 25 AE F3 EA 52 02 3E = SPORT Shows  Press Conference (News Awards  Magazine Shows eg Sky SportTransworldOmnisport) feeds = Eutelsat 16D ( 16E ) =  =  =  =  = 2026-10-24 13:29
-1005 3860 V 30000 = 22 A9 8C 57 E0 B6 92 28 = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi20_GNVE =  =  = 2026-10-24 11:39
 130 12525 H 7200 = 2A 8C 4E 04 69 F1 B5 0F = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = AH-ENC-4A = BWF WORLD TOUR - YONEX French Open 2026 =  = 2026-10-24 10:24
 192 11561 V 7500 = B1 A8 C3 1C DA 6A 4A 8E = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 = NLFLEV_HOL328-3 =  =  = 2026-10-24 00:06
