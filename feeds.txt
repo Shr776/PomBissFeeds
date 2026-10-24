@@ -1,6 +1,22 @@
+130 11693 H 7500 = 3A 3A 68 DC 45 20 26 8B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = SUI-44-3main =  =  = 2026-10-24 21:08
+130 11693 H 7500 = 3A 3A 68 DC 45 20 26 8B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = SUI-44-3main =  =  = 2026-10-24 22:01
 70 11082 V 9998 = BC 08 20 E4 26 24 10 5A = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-10-24 18:18
 70 11082 V 9998 = BC 08 20 E4 26 24 10 5A = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-10-24 18:25
 0 12534 V 7200 = NO KEY = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) =  =  =  =  =  = 2026-10-24 20:51
+100 3895 V  = B3 3B 95 83 A9 D9 5C DE = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = SD | 4:2:0 =  =  =  = 2026-10-24 22:01
+1005 3840 H 29998 = F4 2F A6 C9 BA 65 17 36 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-24 03:17
+100 3905 V  = B3 3B 95 83 A9 D9 5C DE = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-24 17:44
+1005 3840 H 30001 = D6 3E 7D 91 33 6C DA 79 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 2 = Spain - LALIGA EA SPORTS Matchday 10 = Valencia CF vs Villarreal CF = 2026-10-24 19:19
+1005 3840 H 30001 = D3 D1 AA 4E 22 18 B9 F3 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 1 = Spain - LALIGA EA SPORTS Matchday 10 = Atlético de Madrid vs RC Deportivo = 2026-10-24 21:58
+130 10839 H 7200 = D8 E1 B5 6E C7 F2 94 4D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-24 15:15
+130 10848 H 7200 = A2 F6 D9 71 B3 E7 41 DB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E 394 MAIN = Greece Stoiximan GBL =  = 2026-10-24 17:09
+130 11617 H 7199 = F1 90 DF 60 0F DF 1A 08 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi10_GNVE =  =  = 2026-10-24 21:57
+100 3890 V  = CA F1 20 DB 26 24 10 5A = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-24 17:47
+130 11607 V 4936 = 57 98 FF EE ED 5C 6A B3 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Main =  =  = 2026-10-24 19:19
+216 11588 H 5000 = FE ED 24 0F 10 20 26 56 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 21C ( 21.6E ) = 4:2:0 = MRC-003 MAIN =  =  = 2026-10-24 21:50
+130 12525 H 7200 = 33 AB 67 45 54 BC A2 B2 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 1 =  =  = 2026-10-24 18:35
+70 11092 V 7200 = 15 58 35 A2 71 42 63 16 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 7C ( 7E ) = 4.2.0 = POL-058_ch1 = Combat sports: Babilon MMA 61 in Radom - fight: Krzysztof Włodarczyk - Marcin Sianos =  = 2026-10-24 21:45
+130 11638 H 7199 = 3F A9 FE E6 82 0B F3 80 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = F512 LYON main =  =  = 2026-10-24 21:38
 130 11061 V 7200 = D8 E6 65 23 FD 7B F8 70 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-24 17:29
 130 11071 V 7200 = D8 E6 65 23 FD 7B F8 70 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-10-24 17:32
 130 11080 V 7199 = D8 E6 65 23 FD 7B F8 70 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC004-MAIN =  =  = 2026-10-24 20:32
@@ -10,14 +26,6 @@
 130 10801 H 7200 = 6E C4 1A 4C 90 5F 16 05 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-10-24 20:10
 130 12552 H 7200 = 24 10 20 54 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4.2.0 = E.95 =  =  = 2026-10-24 13:06
 160 12648 V 7199 = 24 10 20 54 26 AD 26 F9 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 = E-73 =  =  = 2026-10-24 20:10
-192 11501 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4.2.2 | 4.2.0 | HD = SNG =  =  = 2026-10-24 14:41
-192 11501 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4.2.2 | 4.2.0 | HD = SNG =  =  = 2026-10-24 14:51
-160 12643 V 9876 = 24 10 AC E0 DB 96 13 84 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) =  = FFBL VfL Wolfsburg =  =  = 2026-10-24 15:00
-160 12655 V 9875 = 24 10 AC E0 DB 96 13 84 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL VfB Stuttgart = German Frauen-Bundesliga - Stuttgart vs Frankfurt =  = 2026-10-24 15:51
-100 3900 V  = B3 3B 95 83 A9 D9 5C DE = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-24 17:40
-20 12624 H 7199 = 24 10 DF 13 AB 89 10 44 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-24 18:03
-130 11592 H 9875 = B6 65 9D B8 D7 BB 5B ED = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = BULI1 CONTR SA3_2026 =  =  = 2026-10-24 19:29
-160 10981 H 3599 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4.2.0 = F3-2 4.5MH =  =  = 2026-10-24 19:52
 -8 11591 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Thor 5/6/7 ( 0.8W ) = HD | 4.2.0 = AFLW = AFLW Women's GWS GIANTS VS Hawthorn = Geelong Cats Fremantle = 2026-10-24 07:49
 160 12629 V 7200 = F4 94 41 C9 51 24 F2 67 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = LNR UK VANNES = TOP 14 - Vannes vs Clermont =  = 2026-10-24 15:06
 100 11246 H 7200 = 1E 83 F2 93 CA 53 9D BA = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 = URC =  =  = 2026-10-24 16:28
@@ -29,16 +37,15 @@
 130 11608 H 7119 = 78 90 AB B3 CD 12 34 13 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch - Bristol v Exeter =  =  = 2026-10-24 19:27
 70 10966 H 7200 = F5 77 41 AD 55 24 F2 6B = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 =  = TOP 14 - Racing92 vs Montpellier =  = 2026-10-24 19:29
 70 10975 H 7200 = F0 08 41 39 55 F5 77 C1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 = UPLINK ADVALEM = TOP 14 - Racing92 vs Montpellier =  = 2026-10-24 19:32
-1005 3840 H 29998 = F4 2F A6 C9 BA 65 17 36 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-24 03:17
-100 3905 V  = B3 3B 95 83 A9 D9 5C DE = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-24 17:44
-1005 3840 H 30001 = D6 3E 7D 91 33 6C DA 79 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 2 = Spain - LALIGA EA SPORTS Matchday 10 = Valencia CF vs Villarreal CF = 2026-10-24 19:19
-100 3890 V  = CA F1 20 DB 26 24 10 5A = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-24 17:47
-130 11607 V 4936 = 57 98 FF EE ED 5C 6A B3 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Main =  =  = 2026-10-24 19:19
-130 12525 H 7200 = 33 AB 67 45 54 BC A2 B2 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 1 =  =  = 2026-10-24 18:35
+192 11501 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4.2.2 | 4.2.0 | HD = SNG =  =  = 2026-10-24 14:41
+192 11501 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4.2.2 | 4.2.0 | HD = SNG =  =  = 2026-10-24 14:51
+160 12643 V 9876 = 24 10 AC E0 DB 96 13 84 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) =  = FFBL VfL Wolfsburg =  =  = 2026-10-24 15:00
+160 12655 V 9875 = 24 10 AC E0 DB 96 13 84 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL VfB Stuttgart = German Frauen-Bundesliga - Stuttgart vs Frankfurt =  = 2026-10-24 15:51
+100 3900 V  = B3 3B 95 83 A9 D9 5C DE = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-24 17:40
+20 12624 H 7199 = 24 10 DF 13 AB 89 10 44 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-24 18:03
+130 11592 H 9875 = B6 65 9D B8 D7 BB 5B ED = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = BULI1 CONTR SA3_2026 =  =  = 2026-10-24 19:29
 19 11084 V 7199 = B6 E1 99 30 FB FA D3 C8 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = BulgariaSat 1 ( 1.9E ) = HD =  =  =  = 2026-10-24 15:28
 420 11039 V 7199 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Türksat 3A/4A/5B/6A ( 42E ) = HD = tik =  =  = 2026-10-24 18:20
-130 10839 H 7200 = D8 E1 B5 6E C7 F2 94 4D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-24 15:15
-130 10848 H 7200 = A2 F6 D9 71 B3 E7 41 DB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E 394 MAIN = Greece Stoiximan GBL =  = 2026-10-24 17:09
 130 11608 H 7120 = EE D3 54 15 6A 29 9E 31 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-10-24 14:24
 1005 3975 V 7119 = 22 90 BC 6E EE 21 ED FC = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD =  =  =  = 2026-10-24 16:04
 420 10974 H 6666 = F0 08 41 39 55 F5 77 C1 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-24 16:14
@@ -56,6 +63,8 @@
 160 12603 H 7200 = AB 24 20 EF 26 10 11 47 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Eutelsat 16D ( 16E ) =  = KAZ008M =  =  = 2026-10-24 10:04
 216 0200 H  = FE ED 24 0F 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-10-24 19:04
 215 11587 H 5000 = FE ED 24 0F 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21B ( 21.5E ) = 4.2.0 = MRC002-MAIN =  =  = 2026-10-24 20:51
+215 11587 H 5000 = FE ED 24 0F 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21B ( 21.5E ) = 4.2.0 = MRC002-MAIN =  =  = 2026-10-24 21:49
+130 10839 H 7199 = C7 B3 E8 62 A1 F5 26 BC = Water Sports (Swimming Water Polo: Various Satellites) = HotBird 13F/13G ( 13E ) = 4:2:0 = TANDBERG =  =  = 2026-10-24 21:32
 160 12636 V 4936 = 20 10 20 50 25 20 26 6B = SERBIASRBIJA FOOTBALL (all Satellites) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-24 19:37
 48 12520 V 4800 = FE ED 10 FB 15 19 97 C5 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Astra 4A ( 4.8E ) = 4.2.0 = STAR AC SAT =  =  = 2026-10-24 19:21
 1005 3860 V 30000 = 22 A9 8C 57 E0 B6 92 28 = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi20_GNVE =  =  = 2026-10-24 11:39
