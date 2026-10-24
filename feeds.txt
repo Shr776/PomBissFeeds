@@ -1,12 +1,16 @@
-130 11608 H 7120 = EE D3 54 15 6A 29 9E 31 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-10-24 14:24
-1005 3975 V 7119 = 22 90 BC 6E EE 21 ED FC = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD =  =  =  = 2026-10-24 16:04
-420 10974 H 6666 = F0 08 41 39 55 F5 77 C1 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-24 16:14
-130 11656 H 7120 = 22 90 BC 6E EE 21 ED FC = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = PITCH - Preston V West Brom =  =  = 2026-10-24 16:51
+130 10839 H 7200 = D8 E1 B5 6E C7 F2 94 4D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-24 15:15
+130 10848 H 7200 = A2 F6 D9 71 B3 E7 41 DB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 MAIN = Greece Stoiximan GBL =  = 2026-10-24 17:09
+130 10848 H 7199 = A2 F6 D9 71 B3 E7 41 DB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Teams : = Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-24 17:09
 -8 11591 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Thor 5/6/7 ( 0.8W ) = HD | 4.2.0 = AFLW = AFLW Women's GWS GIANTS VS Hawthorn = Geelong Cats Fremantle = 2026-10-24 07:49
 160 12629 V 7200 = F4 94 41 C9 51 24 F2 67 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = LNR UK VANNES = TOP 14 - Vannes vs Clermont =  = 2026-10-24 15:06
 160 11629 V 7200 = F4 94 41 C9 51 24 F2 67 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = LNR UK VANNES = TOP 14 - Vannes vs Clermont =  = 2026-10-24 16:08
 100 11246 H 7200 = 1E 83 F2 93 CA 53 9D BA = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 = URC =  =  = 2026-10-24 16:28
 420 10974 H 6666 = F0 08 41 39 55 F5 77 C1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-24 16:43
+130 11647 H 7119 = 14 70 D4 58 17 11 22 4A = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = ENGLAND PREMIERSHIP RUGBY - ROUND 4 = Leicester Tigers Northampton Saints Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-24 17:02
+130 11608 H 7120 = EE D3 54 15 6A 29 9E 31 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-10-24 14:24
+1005 3975 V 7119 = 22 90 BC 6E EE 21 ED FC = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD =  =  =  = 2026-10-24 16:04
+420 10974 H 6666 = F0 08 41 39 55 F5 77 C1 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-24 16:14
+130 11656 H 7120 = 22 90 BC 6E EE 21 ED FC = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = PITCH - Preston V West Brom =  =  = 2026-10-24 16:51
 130 11058 H 7199 = 33 AB 67 45 54 BC A2 B2 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = UFC DESK DTY PRI =  =  = 2026-10-24 13:58
 130 11629 H 7199 = 33 AB 67 45 54 BC A2 B2 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = WSHT ENC 53 =  =  = 2026-10-24 16:09
 130 11667 H 7200 = 33 AB 67 45 54 BC A2 B2 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = UFC RMC PRI = Ultimate Fighting Championship, UFC 333 =  = 2026-10-24 16:42
@@ -19,7 +23,6 @@
 160 12643 V 9876 = 24 10 AC E0 DB 96 13 84 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) =  = FFBL VfL Wolfsburg =  =  = 2026-10-24 15:00
 160 12655 V 9875 = 24 10 AC E0 DB 96 13 84 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL VfB Stuttgart = German Frauen-Bundesliga - Stuttgart vs Frankfurt =  = 2026-10-24 15:51
 19 11084 V 7199 = B6 E1 99 30 FB FA D3 C8 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = BulgariaSat 1 ( 1.9E ) = HD =  =  =  = 2026-10-24 15:28
-130 10839 H 7200 = D8 E1 B5 6E C7 F2 94 4D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-24 15:15
 765 4027 H 7199 = 11 22 AA DD CC 12 34 12 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-10-24 14:14
 130 11095 H 9875 = CB 93 62 C0 BF 3E 88 85 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.2 = NEP 1 =  =  = 2026-10-24 14:04
 130 11622 V 9875 = F3 97 73 FD EC E7 8A 5D = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4.2.0 = Service1 =  =  = 2026-10-24 10:11
@@ -32,6 +35,7 @@
 1005 3840 H 29998 = F4 2F A6 C9 BA 65 17 36 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-24 03:17
 260 11154 V 4400 = 66 6B 3A 0B 58 77 75 44 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = SNG 02 - Chain B =  =  = 2026-10-24 14:54
 260 11601 H 3500 = B3 11 DF A3 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = ISH-SNG 01-E01 =  =  = 2026-10-24 16:54
+750 11583 H 3750 = 56 43 32 CB 31 23 55 A9 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = ABS 2/2A ( 75E ) = 4.2.0 = SNG MK1 =  =  = 2026-10-24 17:09
 160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-033 out1 =  =  = 2026-10-24 14:34
 160 10975 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL 48 ENC1 =  =  = 2026-10-24 16:12
 1005 3860 V 30000 = 22 A9 8C 57 E0 B6 92 28 = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi20_GNVE =  =  = 2026-10-24 11:39
