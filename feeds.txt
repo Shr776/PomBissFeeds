@@ -1,3 +1,4 @@
+100 11248 H 7500 = 29 C3 77 63 A5 D3 1C 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-25 23:05
 1005 4006 V 7500 = 12 1C 76 A4 DE 5E 3B 77 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-25 16:23
 1005 3993 V 7500 = E9 DA 51 14 57 DC D5 08 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-25 20:21
 1005 3984 V 7500 = 26 52 AF 27 87 96 49 66 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-10-25 21:03
@@ -16,7 +17,6 @@
 130 11213 V 7119 = 61 61 72 34 72 AB 21 3E = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch - Harlequins v Saracens =  =  = 2026-10-25 18:18
 160 12603 V 7199 = F4 94 41 C9 57 25 F1 6D = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = SOS LA ROCHELLE =  =  = 2026-10-25 22:49
 160 12594 H 7199 = F4 94 41 C9 57 25 F2 6E = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = LNR UK LA ROCHELLE =  =  = 2026-10-25 23:12
-100 11248 H 7500 = 29 C3 77 63 A5 D3 1C 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-25 23:05
 160 12629 V 7200 = CB 25 10 00 26 FF AA CF = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = ITA_BUL_HANDBAL_MAIN =  =  = 2026-10-25 22:28
 130 11058 H 7200 = 72 4C 9D 5B B4 34 78 60 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = Dutch Eredivise -> NEC VS FC Groningen =  = 2026-10-25 11:00
 130 11068 H 7199 = 72 4C 9D 5B B4 34 79 61 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Eredivise -> PSV vs Feyenoord =  = 2026-10-25 17:29
