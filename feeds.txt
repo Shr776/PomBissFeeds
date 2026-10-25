@@ -1,17 +1,24 @@
-1005 3840 H 29998 = 70 47 FE B5 51 6C 5C 19 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-25 03:14
-1005 3840 H 30001 = CB 70 49 84 F8 D9 C8 99 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 2 = Spain - LALIGA EA SPORTS Matchday 10 = Real Sociedad vs Levante UD = 2026-10-25 21:07
-1005 3840 H 30001 = 5A 44 30 CE 50 EF 56 95 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 1 = Spain - LALIGA EA SPORTS Matchday 10 = FC Barcelona vs Real Madrid = 2026-10-25 21:26
-160 11127 H 8020 = 82 23 93 38 34 40 9D 11 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 16D ( 16E ) = hd | 4:2:2 = GVA_Fi03 =  =  = 2026-10-25 21:49
-30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 3B ( 3E ) = hd | 4:2:0 = beIN SPORTS =  =  = 2026-10-25 21:52
-130 11058 H 7200 = 72 4C 9D 5B B4 34 78 60 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = Dutch Eredivise -> NEC VS FC Groningen =  = 2026-10-25 11:00
-130 11068 H 7199 = 72 4C 9D 5B B4 34 79 61 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Eredivise -> PSV vs Feyenoord =  = 2026-10-25 17:29
-130 12689 H 7199 = 72 4C 9D 5B B4 34 80 68 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 2 =  =  = 2026-10-25 20:43
-130 11068 H 7199 = 72 4C 9D 5B B4 34 81 69 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-25 21:27
+130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Sydney Swans vs West Coast Eagles =  = 2026-10-25 06:05
+100 11246 H 7200 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 = TOP10 =  =  = 2026-10-25 17:05
+130 11213 V 7119 = 61 61 72 34 72 AB 21 3E = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch - Harlequins v Saracens =  =  = 2026-10-25 18:18
+160 12603 V 7199 = F4 94 41 C9 57 25 F1 6D = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = SOS LA ROCHELLE =  =  = 2026-10-25 22:49
 1005 4006 V 7500 = 12 1C 76 A4 DE 5E 3B 77 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-25 16:23
 1005 3993 V 7500 = E9 DA 51 14 57 DC D5 08 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-25 20:21
 1005 3984 V 7500 = 26 52 AF 27 87 96 49 66 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-10-25 21:03
 1005 3974 V 7500 = 5D 8D CD B7 C5 10 5A 2F = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 2 =  =  = 2026-10-25 21:04
 1005 3963 V 7500 = 43 A1 B3 97 F2 F7 39 22 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-10-25 21:05
+19 11508 V 17139 = NO KEY = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = BulgariaSat 1 ( 1.9E ) = 4:2:0 =  =  =  = 2026-10-25 22:42
+160 12629 V 7200 = CB 25 10 00 26 FF AA CF = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = ITA_BUL_HANDBAL_MAIN =  =  = 2026-10-25 22:28
+130 11058 H 7200 = 72 4C 9D 5B B4 34 78 60 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = Dutch Eredivise -> NEC VS FC Groningen =  = 2026-10-25 11:00
+130 11068 H 7199 = 72 4C 9D 5B B4 34 79 61 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Eredivise -> PSV vs Feyenoord =  = 2026-10-25 17:29
+130 12689 H 7199 = 72 4C 9D 5B B4 34 80 68 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 2 =  =  = 2026-10-25 20:43
+130 11068 H 7199 = 72 4C 9D 5B B4 34 81 69 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-25 21:27
+130 11058 H 7199 = 72 4C 9D 5B B4 34 82 6A = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-25 22:14
+1005 3840 H 29998 = 70 47 FE B5 51 6C 5C 19 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-25 03:14
+1005 3840 H 30001 = CB 70 49 84 F8 D9 C8 99 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 2 = Spain - LALIGA EA SPORTS Matchday 10 = Real Sociedad vs Levante UD = 2026-10-25 21:07
+1005 3840 H 30001 = 5A 44 30 CE 50 EF 56 95 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 1 = Spain - LALIGA EA SPORTS Matchday 10 = FC Barcelona vs Real Madrid = 2026-10-25 21:26
+160 11127 H 8020 = 82 23 93 38 34 40 9D 11 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 16D ( 16E ) = hd | 4:2:2 = GVA_Fi03 =  =  = 2026-10-25 21:49
+30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Eutelsat 3B ( 3E ) = hd | 4:2:0 = beIN SPORTS =  =  = 2026-10-25 21:52
 160 12536 H 7200 = 87 45 F5 C1 F5 3A C9 F8 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4.2.2 = SUI76 Zuerich =  =  = 2026-10-25 20:39
 130 11071 V 7199 = D9 A7 9E 1E 77 3C 6A 1D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-10-25 17:54
 130 11062 V 7199 = D9 A7 9E 1E 77 3C 6A 1D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main =  =  = 2026-10-25 17:54
@@ -39,12 +46,6 @@
 420 11660 V 7500 = 15 A5 1A D4 EE 6D 2B 86 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-125-A =  =  = 2026-10-25 19:21
 130 10839 H 7199 = 29 25 ED 3B 4B F3 C2 00 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-25 19:06
 420 11149 V 7199 = B5 D9 D2 60 07 C7 DB A9 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-25 19:03
-31 10978 H 7500 = CC 45 AE BF 69 DB 63 A7 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 3C ( 3.1E ) = 4.2.0 =  =  =  = 2026-10-25 16:55
-19 11084 V 7199 = B6 E1 99 30 FB FA D3 C8 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = BulgariaSat 1 ( 1.9E ) = HD =  =  =  = 2026-10-25 16:56
-130 12553 H 7199 = 25 10 DC 11 BA 20 26 00 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = WPA D-322 MAIN =  =  = 2026-10-25 18:25
-130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Sydney Swans vs West Coast Eagles =  = 2026-10-25 06:05
-100 11246 H 7200 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 = TOP10 =  =  = 2026-10-25 17:05
-130 11213 V 7119 = 61 61 72 34 72 AB 21 3E = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch - Harlequins v Saracens =  =  = 2026-10-25 18:18
 160 12546 H 7200 = 24 10 20 54 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Liga Portugal 2 - Round 8 = AFS Tondela Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-25 13:45
 160 12546 H 7200 = 24 10 20 54 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Liga Portugal 2 - Round 8 = AFS Tondela Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-25 15:08
 130 11637 H 7200 = AA BB 20 85 26 10 25 5B = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4.2.0 = E-228 Main =  =  = 2026-10-25 16:53
@@ -54,6 +55,7 @@
 420 11480 V 7200 = BF 0E E0 AD 3B 84 16 D5 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unname =  =  = 2026-10-25 11:38
 -475 4139 H 7200 = B3 3B 95 83 A9 D9 5C DE = BOXING all satellites feeds (10E .....) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-10-25 04:08
 1005 3966 H 7199 = AC DC BB 43 DC 22 55 53 = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = ENC-2 = Top Rank Boxing =  = 2026-10-25 06:07
+90 11150 V 7200 = ED 6F A0 FC 07 C7 C2 90 = SnookerBilliard LIVE Feed@ 7east 100.5°E = Eutelsat 9B ( 9E ) = 4:2:0 = ITA =  =  = 2026-10-25 22:48
 130 10830 V 7200 = FF FB D1 CB 02 4E 01 51 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Encoder 2 = ISU SHORT TRACK WORLD TOUR =  = 2026-10-25 04:50
 130 12535 H 7199 = E0 1F FF FE DD 10 25 12 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = POL-100 MAIN =  =  = 2026-10-25 13:49
 130 10847 H 7199 = E0 1F FF FE DD 10 25 12 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU GP1 Angers =  =  = 2026-10-25 13:50
