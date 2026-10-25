@@ -1,10 +1,13 @@
-100 11248 H 7500 = 29 C3 77 63 A5 D3 1C 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-25 23:05
+1005 3973 H 7200 = FF FB D1 CB 02 4E 01 51 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = AsiaSat 5 ( 100.5E ) = 4.2.0 = GCUK Encoder 2 =  =  = 2026-10-25 03:28
+130 11623 V 9875 = 37 A7 70 4E 77 AF 2D 53 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi03_ATORF = AUDI FIS SKI WORLD CUP - =  = 2026-10-25 11:40
+130 11617 H 7199 = A1 C6 A1 08 34 5C AD 3D = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-25 16:08
 1005 4006 V 7500 = 12 1C 76 A4 DE 5E 3B 77 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-25 16:23
 1005 3993 V 7500 = E9 DA 51 14 57 DC D5 08 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-25 20:21
 1005 3984 V 7500 = 26 52 AF 27 87 96 49 66 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-10-25 21:03
 1005 3974 V 7500 = 5D 8D CD B7 C5 10 5A 2F = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 2 =  =  = 2026-10-25 21:04
 1005 3963 V 7500 = 43 A1 B3 97 F2 F7 39 22 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-10-25 21:05
 1005 4005 V 7499 = EC A8 04 98 A0 E5 40 C5 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 3 = American Football — NFL 2026/27 Matchweek 7 = Denver Broncos vs Arizona Cardinals (@ State Farm Stadium) = 2026-10-25 23:32
+100 11248 H 7500 = 29 C3 77 63 A5 D3 1C 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-25 23:05
 100 3900 V  = B3 3B 95 83 A9 D9 5C DE = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-25 17:32
 20 12639 V 5000 = NO KEY = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) =  = BEL095 MAIN WES - ANT =  =  = 2026-10-25 18:36
 20 12631 V 7199 = 25 10 DB 10 DE 23 74 75 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-25 18:57
@@ -52,19 +55,16 @@
 160 12546 H 7200 = 24 10 20 54 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Liga Portugal 2 - Round 8 = AFS Tondela Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-25 13:45
 160 12546 H 7200 = 24 10 20 54 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Liga Portugal 2 - Round 8 = AFS Tondela Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-25 15:08
 130 11637 H 7200 = AA BB 20 85 26 10 25 5B = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4.2.0 = E-228 Main =  =  = 2026-10-25 16:53
-1005 3973 H 7200 = FF FB D1 CB 02 4E 01 51 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = AsiaSat 5 ( 100.5E ) = 4.2.0 = GCUK Encoder 2 =  =  = 2026-10-25 03:28
-130 11623 V 9875 = 37 A7 70 4E 77 AF 2D 53 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi03_ATORF = AUDI FIS SKI WORLD CUP - =  = 2026-10-25 11:40
-130 11617 H 7199 = A1 C6 A1 08 34 5C AD 3D = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-25 16:08
 420 11480 V 7200 = BF 0E E0 AD 3B 84 16 D5 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unname =  =  = 2026-10-25 11:38
 -475 4139 H 7200 = B3 3B 95 83 A9 D9 5C DE = BOXING all satellites feeds (10E .....) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-10-25 04:08
 1005 3966 H 7199 = AC DC BB 43 DC 22 55 53 = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = ENC-2 = Top Rank Boxing =  = 2026-10-25 06:07
-90 11150 V 7200 = ED 6F A0 FC 07 C7 C2 90 = SnookerBilliard LIVE Feed@ 7east 100.5°E = Eutelsat 9B ( 9E ) = 4:2:0 = ITA =  =  = 2026-10-25 22:48
 130 10830 V 7200 = FF FB D1 CB 02 4E 01 51 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Encoder 2 = ISU SHORT TRACK WORLD TOUR =  = 2026-10-25 04:50
 130 12535 H 7199 = E0 1F FF FE DD 10 25 12 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = POL-100 MAIN =  =  = 2026-10-25 13:49
 130 10847 H 7199 = E0 1F FF FE DD 10 25 12 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU GP1 Angers =  =  = 2026-10-25 13:50
 1005 3916 H 7199 = E0 1F FF FE DD 10 25 12 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-25 13:57
 130 12525 H 7199 = E0 1F FD FC CD 10 25 02 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = POL-100 MAIN =  =  = 2026-10-25 21:50
 130 10847 H 7199 = E0 1F FF FE DD 10 25 12 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU GP1 Angers =  =  = 2026-10-25 21:59
+90 11150 V 7200 = ED 6F A0 FC 07 C7 C2 90 = SnookerBilliard LIVE Feed@ 7east 100.5°E = Eutelsat 9B ( 9E ) = 4:2:0 = ITA =  =  = 2026-10-25 22:48
 160 10984 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = POL49 EN1 Tychy =  =  = 2026-10-25 15:47
 160 10973 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-141 ENC1 = PKO BP Ekstraklasa - match: Legia Warsaw - Lech Poznań =  = 2026-10-25 18:45
 160 10984 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-110 =  =  = 2026-10-25 21:26
