@@ -1,4 +1,6 @@
 -475 4139 H 7200 = B3 3B 95 83 A9 D9 5C DE = BOXING all satellites feeds (10E .....) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-10-25 04:08
+1005 3966 H 7199 = AC DC BB 43 DC 22 55 53 = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = ENC-2 = Top Rank Boxing =  = 2026-10-25 06:07
+130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Sydney Swans vs West Coast Eagles =  = 2026-10-25 06:05
 1005 3973 H 7200 = FF FB D1 CB 02 4E 01 51 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = AsiaSat 5 ( 100.5E ) = 4.2.0 = GCUK Encoder 2 =  =  = 2026-10-25 03:28
 1005 3840 H 29998 = 70 47 FE B5 51 6C 5C 19 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-25 03:14
 130 11694 H 7200 = FA 34 B1 DF 2C BB AA 91 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = HotBird 13F/13G ( 13E ) = HD | 4.2.0 =  = Longines FEI Jumping World Cup =  = 2026-10-25 04:57
