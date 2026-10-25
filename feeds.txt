@@ -1,13 +1,23 @@
-130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Sydney Swans vs West Coast Eagles =  = 2026-10-25 06:05
-100 11246 H 7200 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 = TOP10 =  =  = 2026-10-25 17:05
-130 11213 V 7119 = 61 61 72 34 72 AB 21 3E = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch - Harlequins v Saracens =  =  = 2026-10-25 18:18
-160 12603 V 7199 = F4 94 41 C9 57 25 F1 6D = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = SOS LA ROCHELLE =  =  = 2026-10-25 22:49
 1005 4006 V 7500 = 12 1C 76 A4 DE 5E 3B 77 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-25 16:23
 1005 3993 V 7500 = E9 DA 51 14 57 DC D5 08 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-25 20:21
 1005 3984 V 7500 = 26 52 AF 27 87 96 49 66 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-10-25 21:03
 1005 3974 V 7500 = 5D 8D CD B7 C5 10 5A 2F = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 2 =  =  = 2026-10-25 21:04
 1005 3963 V 7500 = 43 A1 B3 97 F2 F7 39 22 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-10-25 21:05
 19 11508 V 17139 = NO KEY = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = BulgariaSat 1 ( 1.9E ) = 4:2:0 =  =  =  = 2026-10-25 22:42
+1005 4005 V 7499 = EC A8 04 98 A0 E5 40 C5 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 3 = American Football — NFL 2026/27 Matchweek 7 = Denver Broncos vs Arizona Cardinals (@ State Farm Stadium) = 2026-10-25 23:32
+100 3900 V  = B3 3B 95 83 A9 D9 5C DE = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-25 17:32
+20 12639 V 5000 = NO KEY = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) =  = BEL095 MAIN WES - ANT =  =  = 2026-10-25 18:36
+20 12631 V 7199 = 25 10 DB 10 DE 23 74 75 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-25 18:57
+160 12655 V 9876 = 25 10 CC 01 BE 15 69 3C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Nuernberg =  =  = 2026-10-25 19:45
+160 12643 V 9876 = 25 10 CC 01 BE 15 69 3C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL =  =  = 2026-10-25 19:59
+100 3900 V  = B3 3B 95 83 A9 D9 5C DE = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-25 20:05
+20 12702 V 7199 = 25 10 DB 10 DE 23 74 75 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-25 23:23
+130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Sydney Swans vs West Coast Eagles =  = 2026-10-25 06:05
+100 11246 H 7200 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 = TOP10 =  =  = 2026-10-25 17:05
+130 11213 V 7119 = 61 61 72 34 72 AB 21 3E = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch - Harlequins v Saracens =  =  = 2026-10-25 18:18
+160 12603 V 7199 = F4 94 41 C9 57 25 F1 6D = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = SOS LA ROCHELLE =  =  = 2026-10-25 22:49
+160 12594 H 7199 = F4 94 41 C9 57 25 F2 6E = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = LNR UK LA ROCHELLE =  =  = 2026-10-25 23:12
+100 11248 H 7500 = 29 C3 77 63 A5 D3 1C 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-10-25 23:05
 160 12629 V 7200 = CB 25 10 00 26 FF AA CF = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = ITA_BUL_HANDBAL_MAIN =  =  = 2026-10-25 22:28
 130 11058 H 7200 = 72 4C 9D 5B B4 34 78 60 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = Dutch Eredivise -> NEC VS FC Groningen =  = 2026-10-25 11:00
 130 11068 H 7199 = 72 4C 9D 5B B4 34 79 61 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Eredivise -> PSV vs Feyenoord =  = 2026-10-25 17:29
@@ -34,12 +44,6 @@
 420 11651 V 7500 = E7 94 57 D2 60 7A 52 2C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-10-25 20:25
 130 11610 V 9874 = 31 8C 71 2E 4B 4B CB 61 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = Fi17_GNVE =  =  = 2026-10-25 18:59
 1005 4145 H 7200 = F1 79 71 DB 0F 40 59 A8 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = GVA_Fi04 =  =  = 2026-10-25 20:17
-100 3900 V  = B3 3B 95 83 A9 D9 5C DE = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-25 17:32
-20 12639 V 5000 = NO KEY = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) =  = BEL095 MAIN WES - ANT =  =  = 2026-10-25 18:36
-20 12631 V 7199 = 25 10 DB 10 DE 23 74 75 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-25 18:57
-160 12655 V 9876 = 25 10 CC 01 BE 15 69 3C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Nuernberg =  =  = 2026-10-25 19:45
-160 12643 V 9876 = 25 10 CC 01 BE 15 69 3C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL =  =  = 2026-10-25 19:59
-100 3900 V  = B3 3B 95 83 A9 D9 5C DE = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-25 20:05
 216 11580 H 5000 = FE ED 25 10 10 20 26 56 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 21C ( 21.6E ) = 4:2:0 = M52-MRC032-UNI1 M =  =  = 2026-10-25 17:33
 750 11643 V 7500 = FE ED 00 EB AD 89 AD E3 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = ABS 2/2A ( 75E ) = 4.2.0 = Cleoparta =  =  = 2026-10-25 19:42
 420 11669 V 7500 = 44 94 C9 A1 8E FA DC 64 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR  136 A =  =  = 2026-10-25 16:29
