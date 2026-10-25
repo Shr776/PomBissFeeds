@@ -3,7 +3,6 @@
 1005 3984 V 7500 = 26 52 AF 27 87 96 49 66 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-10-25 21:03
 1005 3974 V 7500 = 5D 8D CD B7 C5 10 5A 2F = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 2 =  =  = 2026-10-25 21:04
 1005 3963 V 7500 = 43 A1 B3 97 F2 F7 39 22 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-10-25 21:05
-19 11508 V 17139 = NO KEY = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = BulgariaSat 1 ( 1.9E ) = 4:2:0 =  =  =  = 2026-10-25 22:42
 1005 4005 V 7499 = EC A8 04 98 A0 E5 40 C5 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 3 = American Football — NFL 2026/27 Matchweek 7 = Denver Broncos vs Arizona Cardinals (@ State Farm Stadium) = 2026-10-25 23:32
 100 3900 V  = B3 3B 95 83 A9 D9 5C DE = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-25 17:32
 20 12639 V 5000 = NO KEY = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) =  = BEL095 MAIN WES - ANT =  =  = 2026-10-25 18:36
