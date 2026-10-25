@@ -1,42 +1,54 @@
+130 11058 H 7200 = 72 4C 9D 5B B4 34 78 60 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = Dutch Eredivise -> NEC VS FC Groningen =  = 2026-10-25 11:00
+130 11068 H 7199 = 72 4C 9D 5B B4 34 79 61 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Eredivise -> PSV vs Feyenoord =  = 2026-10-25 17:29
+130 12689 H 7199 = 72 4C 9D 5B B4 34 80 68 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 2 =  =  = 2026-10-25 20:43
+160 12536 H 7200 = 87 45 F5 C1 F5 3A C9 F8 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4.2.2 = SUI76 Zuerich =  =  = 2026-10-25 20:39
+130 11071 V 7199 = D9 A7 9E 1E 77 3C 6A 1D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-10-25 17:54
+130 11062 V 7199 = D9 A7 9E 1E 77 3C 6A 1D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main =  =  = 2026-10-25 17:54
+130 11080 V 7199 = D9 A7 9E 1E 77 3C 6A 1D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC004-BU =  =  = 2026-10-25 20:31
+130 11089 V 7199 = D9 A7 9E 1E 77 3C 6A 1D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-25 20:34
+216 11580 H 5000 = FE ED 25 10 10 20 26 56 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 21C ( 21.6E ) = 4:2:0 = M52-MRC032-UNI1 M =  =  = 2026-10-25 17:33
+750 11643 V 7500 = FE ED 00 EB AD 89 AD E3 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = ABS 2/2A ( 75E ) = 4.2.0 = Cleoparta =  =  = 2026-10-25 19:42
+130 11079 V 7200 = D9 A7 9E 1E 77 3C 6A 1D = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4.2.0 = MRC004-MAIN =  =  = 2026-10-25 20:27
+19 10973 V 8019 = F9 D3 10 DC 25 CC 20 11 = BELGIAN FOOTBALL @ 7°E 10°E = BulgariaSat 1 ( 1.9E ) = HD =  =  =  = 2026-10-25 15:37
+192 10965 V 7500 = F9 D3 10 DC 25 CC 20 11 = BELGIAN FOOTBALL @ 7°E 10°E = Astra 1N/1P ( 19.2E ) = hd | 4:2:2 = BEL68 - Enc.1 CLU-STVV =  =  = 2026-10-25 16:49
+30 10982 V 7499 = F9 D3 10 DC 25 CC 20 11 = BELGIAN FOOTBALL @ 7°E 10°E = Eutelsat 3B ( 3E ) = HD =  =  =  = 2026-10-25 19:10
+750 10974 V 7500 = F9 D3 10 DC 25 CC 20 11 = BELGIAN FOOTBALL @ 7°E 10°E = ABS 2/2A ( 75E ) = 4:2:2 = HOL310 DAZN MAIN =  =  = 2026-10-25 20:27
+130 11608 H 7199 = E5 9C 5F E0 D4 C5 A4 3D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi01 ACB =  =  = 2026-10-25 19:08
+216 11583 H 3750 = 15 59 96 04 AA 50 78 72 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = Grapefruit =  =  = 2026-10-25 19:32
+420 11651 V 7500 = E7 94 57 D2 60 7A 52 2C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-10-25 20:25
+1005 4006 V 7500 = 12 1C 76 A4 DE 5E 3B 77 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-25 16:23
+1005 3993 V 7500 = E9 DA 51 14 57 DC D5 08 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-25 20:21
+130 11610 V 9874 = 31 8C 71 2E 4B 4B CB 61 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = Fi17_GNVE =  =  = 2026-10-25 18:59
+1005 4145 H 7200 = F1 79 71 DB 0F 40 59 A8 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = GVA_Fi04 =  =  = 2026-10-25 20:17
 100 3900 V  = B3 3B 95 83 A9 D9 5C DE = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-25 17:32
 20 12639 V 5000 = NO KEY = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) =  = BEL095 MAIN WES - ANT =  =  = 2026-10-25 18:36
 20 12631 V 7199 = 25 10 DB 10 DE 23 74 75 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-25 18:57
 160 12655 V 9876 = 25 10 CC 01 BE 15 69 3C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Nuernberg =  =  = 2026-10-25 19:45
 160 12643 V 9876 = 25 10 CC 01 BE 15 69 3C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL =  =  = 2026-10-25 19:59
-216 11580 H 5000 = FE ED 25 10 10 20 26 56 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 21C ( 21.6E ) = 4:2:0 = M52-MRC032-UNI1 M =  =  = 2026-10-25 17:33
-750 11643 V 7500 = FE ED 00 EB AD 89 AD E3 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = ABS 2/2A ( 75E ) = 4.2.0 = Cleoparta =  =  = 2026-10-25 19:42
-130 11608 H 7199 = E5 9C 5F E0 D4 C5 A4 3D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi01 ACB =  =  = 2026-10-25 19:08
-216 11583 H 3750 = 15 59 96 04 AA 50 78 72 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = Grapefruit =  =  = 2026-10-25 19:32
+100 3900 V  = B3 3B 95 83 A9 D9 5C DE = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-10-25 20:05
 420 11669 V 7500 = 44 94 C9 A1 8E FA DC 64 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR  136 A =  =  = 2026-10-25 16:29
 420 11660 V 7500 = 15 A5 1A D4 EE 6D 2B 86 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-125-A =  =  = 2026-10-25 19:21
-19 10973 V 8019 = F9 D3 10 DC 25 CC 20 11 = BELGIAN FOOTBALL @ 7°E 10°E = BulgariaSat 1 ( 1.9E ) = HD =  =  =  = 2026-10-25 15:37
-192 10965 V 7500 = F9 D3 10 DC 25 CC 20 11 = BELGIAN FOOTBALL @ 7°E 10°E = Astra 1N/1P ( 19.2E ) = hd | 4:2:2 = BEL68 - Enc.1 CLU-STVV =  =  = 2026-10-25 16:49
-30 10982 V 7499 = F9 D3 10 DC 25 CC 20 11 = BELGIAN FOOTBALL @ 7°E 10°E = Eutelsat 3B ( 3E ) = HD =  =  =  = 2026-10-25 19:10
 130 10839 H 7199 = 29 25 ED 3B 4B F3 C2 00 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-25 19:06
 420 11149 V 7199 = B5 D9 D2 60 07 C7 DB A9 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-25 19:03
-130 11610 V 9874 = 31 8C 71 2E 4B 4B CB 61 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = Fi17_GNVE =  =  = 2026-10-25 18:59
 31 10978 H 7500 = CC 45 AE BF 69 DB 63 A7 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 3C ( 3.1E ) = 4.2.0 =  =  =  = 2026-10-25 16:55
 19 11084 V 7199 = B6 E1 99 30 FB FA D3 C8 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = BulgariaSat 1 ( 1.9E ) = HD =  =  =  = 2026-10-25 16:56
 130 12553 H 7199 = 25 10 DC 11 BA 20 26 00 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = WPA D-322 MAIN =  =  = 2026-10-25 18:25
 130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Sydney Swans vs West Coast Eagles =  = 2026-10-25 06:05
 100 11246 H 7200 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 = TOP10 =  =  = 2026-10-25 17:05
 130 11213 V 7119 = 61 61 72 34 72 AB 21 3E = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch - Harlequins v Saracens =  =  = 2026-10-25 18:18
-130 11071 V 7199 = D9 A7 9E 1E 77 3C 6A 1D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-10-25 17:54
-130 11062 V 7199 = D9 A7 9E 1E 77 3C 6A 1D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main =  =  = 2026-10-25 17:54
-130 11058 H 7200 = 72 4C 9D 5B B4 34 78 60 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = Dutch Eredivise -> NEC VS FC Groningen =  = 2026-10-25 11:00
-130 11068 H 7199 = 72 4C 9D 5B B4 34 79 61 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Eredivise -> PSV vs Feyenoord =  = 2026-10-25 17:29
 160 12546 H 7200 = 24 10 20 54 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Liga Portugal 2 - Round 8 = AFS Tondela Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-25 13:45
 160 12546 H 7200 = 24 10 20 54 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Liga Portugal 2 - Round 8 = AFS Tondela Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-25 15:08
 130 11637 H 7200 = AA BB 20 85 26 10 25 5B = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4.2.0 = E-228 Main =  =  = 2026-10-25 16:53
-1005 4006 V 7500 = 12 1C 76 A4 DE 5E 3B 77 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-25 16:23
 1005 3973 H 7200 = FF FB D1 CB 02 4E 01 51 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = AsiaSat 5 ( 100.5E ) = 4.2.0 = GCUK Encoder 2 =  =  = 2026-10-25 03:28
 130 11623 V 9875 = 37 A7 70 4E 77 AF 2D 53 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi03_ATORF = AUDI FIS SKI WORLD CUP - =  = 2026-10-25 11:40
 130 11617 H 7199 = A1 C6 A1 08 34 5C AD 3D = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-25 16:08
-160 11127 H 8020 = 82 23 93 38 34 40 9D 11 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:2 = GVA_Fi03 =  =  = 2026-10-25 14:57
 420 11480 V 7200 = BF 0E E0 AD 3B 84 16 D5 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unname =  =  = 2026-10-25 11:38
 -475 4139 H 7200 = B3 3B 95 83 A9 D9 5C DE = BOXING all satellites feeds (10E .....) = SES 14 ( 47.5W ) = 4.2.0 =  =  =  = 2026-10-25 04:08
 1005 3966 H 7199 = AC DC BB 43 DC 22 55 53 = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = ENC-2 = Top Rank Boxing =  = 2026-10-25 06:07
 1005 3840 H 29998 = 70 47 FE B5 51 6C 5C 19 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-25 03:14
+100 12648 V 4100 = 20 26 10 56 17 23 24 5E = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 10B ( 10E ) = 4.2.0 = SET_SNG =  =  = 2026-10-25 14:29
+1130 11300 H 7200 = 25 10 FA 2F BC 15 97 68 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Palapa D ( 113E ) = 4.2.0 = D-452 =  =  = 2026-10-25 20:41
+0 11040 V 7200 = NO KEY = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds =  =  =  =  =  = 2026-10-25 20:07
 192 11561 V 7500 = B1 A8 C3 1C DA 6A 4A 8E = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 = NLFLEV_HOL328-3 =  =  = 2026-10-25 19:14
 160 10984 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = POL49 EN1 Tychy =  =  = 2026-10-25 15:47
 160 10973 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-141 ENC1 = PKO BP Ekstraklasa - match: Legia Warsaw - Lech Poznań =  = 2026-10-25 18:45
@@ -53,7 +65,6 @@
 160 12603 H 7198 = AB 24 20 EF 26 10 11 47 = WRESTLING WORLD CHAMPIONSHIP 10E7E = Eutelsat 16D ( 16E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-25 15:20
 1005 3955 H 7200 = BE BE 10 8C 26 11 25 5C = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 = KAZ005M =  =  = 2026-10-25 15:41
 1005 3973 H 7200 = AB 24 20 EF 26 10 11 47 = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 = KAZ008M =  =  = 2026-10-25 15:41
-100 12648 V 4100 = 20 26 10 56 17 23 24 5E = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 10B ( 10E ) = 4.2.0 = SET_SNG =  =  = 2026-10-25 14:29
 130 10830 V 7200 = FF FB D1 CB 02 4E 01 51 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Encoder 2 = ISU SHORT TRACK WORLD TOUR =  = 2026-10-25 04:50
 130 12535 H 7199 = E0 1F FF FE DD 10 25 12 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = POL-100 MAIN =  =  = 2026-10-25 13:49
 130 10847 H 7199 = E0 1F FF FE DD 10 25 12 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU GP1 Angers =  =  = 2026-10-25 13:50
