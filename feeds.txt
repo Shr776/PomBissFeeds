@@ -1,4 +1,4 @@
-160 12546 H 7200 = 24 10 20 54 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Teams : = Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-25 13:45
+160 12546 H 7200 = 24 10 20 54 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Liga Portugal 2 - Round 8 = AFS Tondela Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-25 13:45
 130 11058 H 7200 = 72 4C 9D 5B B4 34 78 60 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-25 11:00
 130 11070 V 7199 = 17 2F 47 8D 98 C3 60 BB = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-25 11:02
 130 12610 V 7198 = BC D1 10 9D 25 ED AF C1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-25 11:14
@@ -11,8 +11,11 @@
 1005 3966 H 7199 = AC DC BB 43 DC 22 55 53 = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = ENC-2 = Top Rank Boxing =  = 2026-10-25 06:07
 130 11600 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Sydney Swans vs West Coast Eagles =  = 2026-10-25 06:05
 1005 3840 H 29998 = 70 47 FE B5 51 6C 5C 19 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-25 03:14
+130 10830 V 7200 = FF FB D1 CB 02 4E 01 51 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Encoder 2 = ISU SHORT TRACK WORLD TOUR =  = 2026-10-25 04:50
+130 12535 H 7199 = E0 1F FF FE DD 10 25 12 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = POL-100 MAIN =  =  = 2026-10-25 13:49
+130 10847 H 7199 = E0 1F FF FE DD 10 25 12 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU GP1 Angers =  =  = 2026-10-25 13:50
+1005 3916 H 7199 = E0 1F FF FE DD 10 25 12 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-25 13:57
 420 11066 V 7119 = 8C C1 2A 77 7C 3A 54 0A = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-25 12:54
 420 11138 V 4999 = 3D BF CE CA 07 C5 EA B6 = ITALY Feeds RAI  Mediaset (News Sports News TV Shows NOT Live Sports ie NOT Italian Football) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-25 12:45
 420 11126 V 4999 = 4E 65 12 C5 07 C7 E8 B6 = ITALY Feeds RAI  Mediaset (News Sports News TV Shows NOT Live Sports ie NOT Italian Football) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-25 12:48
 130 11694 H 7200 = FA 34 B1 DF 2C BB AA 91 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = HotBird 13F/13G ( 13E ) = HD | 4.2.0 =  = Longines FEI Jumping World Cup =  = 2026-10-25 04:57
-130 10830 V 7200 = FF FB D1 CB 02 4E 01 51 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Encoder 2 = ISU SHORT TRACK WORLD TOUR =  = 2026-10-25 04:50
