@@ -1,3 +1,5 @@
+130 12553 H 7199 = 26 10 20 56 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-73 =  =  = 2026-10-26 23:38
+130 11213 V 7119 = 66 C6 39 65 A9 23 D4 A0 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch - Walsall v Salford =  =  = 2026-10-26 23:03
 160 12597 H 4936 = 20 10 20 50 25 20 26 6B = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-26 21:15
 1005 3840 H 29998 = B3 9C F9 48 FE A2 0A AA = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-26 19:36
 420 10974 V 7500 = 2E 6A F7 8F 83 A8 57 82 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 144 M =  =  = 2026-10-26 19:35
@@ -18,6 +20,10 @@
 1005 3975 V 7499 = DE 29 8F 96 FB 7A 4D C2 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 2 = American Football — NFL 2026/27 Matchweek 7 = Kansas City Chiefs vs Seattle Seahawks (@ Lumen Field) = 2026-10-26 03:50
 1005 4165 H 7198 = NO KEY = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-26 02:45
 100 11255 H 7500 = 29 C3 77 63 A5 D3 1C 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-10-26 01:35
+330 11682 H 3330 = DE FC 19 F3 83 22 7A 1F = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 33E ( 33E ) =  =  =  =  = 2026-10-26 13:37
+260 12632 V 3600 = AF EE CC 69 DD 55 58 8A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Badr 4/5/6/7 ( 26E ) = SD =  =  =  = 2026-10-26 13:44
+420 11499 V 7199 = AB 26 F8 C9 9D CD 10 7A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-26 23:41
+420 11120 V 5001 = AB 97 5D 9F 07 C7 2C FA = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA 889 A =  =  = 2026-10-26 23:49
 160 11127 H 7200 = 20 26 B0 F6 26 26 10 5C = SPORT Shows  Press Conference (News Awards  Magazine Shows eg Sky SportTransworldOmnisport) feeds = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  =  =  = 2026-10-26 18:42
 130 11071 V 7200 = DE 05 B9 9C DA 0E 43 2B = SPORT Shows  Press Conference (News Awards  Magazine Shows eg Sky SportTransworldOmnisport) feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = BALLON DOR MAIN =  =  = 2026-10-26 21:15
 160 12738 H 3047 = A0 26 CD 93 09 EF 23 1B = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Eutelsat 16D ( 16E ) = HD | 4.2.0 = TRWAM SNG-HD = Holy Mass from Poland =  = 2026-10-26 20:07
@@ -25,7 +31,5 @@
 1005 3984 V 7200 = BE BE 10 8C 26 11 25 5C = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 = KAZ005M =  =  = 2026-10-26 15:25
 1005 3992 V 7200 = AB 24 20 EF 26 10 11 47 = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 = KAZ008M =  =  = 2026-10-26 15:26
 260 12602 H 5000 = AB C1 23 8F 45 67 89 35 = Padel feeds (7°E10°E30°W100°E...) = Badr 4/5/6/7 ( 26E ) = 4.2.0 = KUW-002 =  =  = 2026-10-26 15:24
-330 11682 H 3330 = DE FC 19 F3 83 22 7A 1F = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 33E ( 33E ) =  =  =  =  = 2026-10-26 13:37
-260 12632 V 3600 = AF EE CC 69 DD 55 58 8A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Badr 4/5/6/7 ( 26E ) = SD =  =  =  = 2026-10-26 13:44
 130 11058 H 7200 = AC EB 10 A7 29 1A 78 BB = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-26 13:02
 130 10830 V 7200 = FF FB D1 CB 02 4E 01 51 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Encoder 2 = ISU SHORT TRACK WORLD TOUR =  = 2026-10-26 02:26
