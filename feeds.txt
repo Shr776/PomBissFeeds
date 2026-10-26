@@ -18,6 +18,7 @@
 1005 3975 V 7499 = DE 29 8F 96 FB 7A 4D C2 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 2 = American Football — NFL 2026/27 Matchweek 7 = Kansas City Chiefs vs Seattle Seahawks (@ Lumen Field) = 2026-10-26 03:50
 1005 4165 H 7198 = NO KEY = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-26 02:45
 100 11255 H 7500 = 29 C3 77 63 A5 D3 1C 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-10-26 01:35
+160 12738 H 3047 = A0 26 CD 93 09 EF 23 1B = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Eutelsat 16D ( 16E ) = HD | 4.2.0 = TRWAM SNG-HD = Holy Mass from Poland =  = 2026-10-26 20:07
 160 10985 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-78 ENC 2 = Betclic 1. Liga - match: Warta Poznań - ŁKS Łódź =  = 2026-10-26 19:53
 1005 3984 V 7200 = BE BE 10 8C 26 11 25 5C = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 = KAZ005M =  =  = 2026-10-26 15:25
 1005 3992 V 7200 = AB 24 20 EF 26 10 11 47 = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 = KAZ008M =  =  = 2026-10-26 15:26
