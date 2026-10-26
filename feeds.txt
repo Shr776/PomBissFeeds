@@ -1,9 +1,11 @@
 160 11143 H 7199 = A6 11 C0 77 E9 85 FA 68 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi15_GNVE =  =  = 2026-10-26 12:49
-130 11058 H 7200 = AC EB 10 A7 29 1A 78 BB = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-26 11:42
-130 10802 H 7200 = 10 10 AA CA CC 56 DE 00 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Encoder 2 =  =  = 2026-10-26 11:55
+160 11143 H 7199 = A6 11 C0 77 E9 85 FA 68 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi15_GNVE = Neftchi Fergana vs Al-Ittihad =  = 2026-10-26 13:33
 1005 4025 V 7498 = 58 20 AD 25 AC 5D 23 2C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-26 02:36
 1005 4025 V 7498 = 58 20 AD 25 AC 5D 23 2C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-26 03:16
 1005 3975 V 7499 = DE 29 8F 96 FB 7A 4D C2 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 2 = American Football — NFL 2026/27 Matchweek 7 = Kansas City Chiefs vs Seattle Seahawks (@ Lumen Field) = 2026-10-26 03:50
 1005 4165 H 7198 = NO KEY = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-26 02:45
 100 11255 H 7500 = 29 C3 77 63 A5 D3 1C 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-10-26 01:35
+330 11682 H 3330 = DE FC 19 F3 83 22 7A 1F = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 33E ( 33E ) =  =  =  =  = 2026-10-26 13:37
+260 12632 V 3600 = AF EE CC 69 DD 55 58 8A = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Badr 4/5/6/7 ( 26E ) = SD =  =  =  = 2026-10-26 13:44
+130 11058 H 7200 = AC EB 10 A7 29 1A 78 BB = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-26 13:02
 130 10830 V 7200 = FF FB D1 CB 02 4E 01 51 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Encoder 2 = ISU SHORT TRACK WORLD TOUR =  = 2026-10-26 02:26
