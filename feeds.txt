@@ -1,4 +1,8 @@
+1005 3840 H 29998 = B3 9C F9 48 FE A2 0A AA = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-26 19:36
+420 10974 V 7500 = 2E 6A F7 8F 83 A8 57 82 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 144 M =  =  = 2026-10-26 19:35
+216 11006 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 =  =  =  = 2026-10-26 19:20
 160 11127 H 7200 = 20 26 B0 F6 26 26 10 5C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  =  =  = 2026-10-26 18:42
+160 12593 H 4938 = 20 10 20 50 25 20 26 6B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  =  =  = 2026-10-26 19:10
 160 11143 H 7199 = A6 11 C0 77 E9 85 FA 68 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi15_GNVE =  =  = 2026-10-26 12:49
 160 11143 H 7199 = A6 11 C0 77 E9 85 FA 68 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi15_GNVE = Neftchi Fergana vs Al-Ittihad =  = 2026-10-26 13:33
 160 11152 H 7199 = 01 A9 21 CB 8D D9 65 CB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = SAU-030-B =  =  = 2026-10-26 15:25
@@ -9,12 +13,12 @@
 1005 4181 V 7200 = 31 26 68 BF 1B 4E 49 B2 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = E-296 MAIN =  =  = 2026-10-26 17:42
 1005 3975 V 7200 = 38 8F 94 5B A7 06 8A 37 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = IRQ014-M =  =  = 2026-10-26 18:15
 160 11172 H 7199 = 38 8F 94 5B A7 06 8A 37 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = IRQ014-B =  =  = 2026-10-26 18:18
-216 10997 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SAU-0165 =  =  = 2026-10-26 17:57
 1005 4025 V 7498 = 58 20 AD 25 AC 5D 23 2C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-26 02:36
 1005 4025 V 7498 = 58 20 AD 25 AC 5D 23 2C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-26 03:16
 1005 3975 V 7499 = DE 29 8F 96 FB 7A 4D C2 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 2 = American Football — NFL 2026/27 Matchweek 7 = Kansas City Chiefs vs Seattle Seahawks (@ Lumen Field) = 2026-10-26 03:50
 1005 4165 H 7198 = NO KEY = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-26 02:45
 100 11255 H 7500 = 29 C3 77 63 A5 D3 1C 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-10-26 01:35
+160 10985 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-78 ENC 2 = Betclic 1. Liga - match: Warta Poznań - ŁKS Łódź =  = 2026-10-26 19:53
 1005 3984 V 7200 = BE BE 10 8C 26 11 25 5C = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 = KAZ005M =  =  = 2026-10-26 15:25
 1005 3992 V 7200 = AB 24 20 EF 26 10 11 47 = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 = KAZ008M =  =  = 2026-10-26 15:26
 260 12602 H 5000 = AB C1 23 8F 45 67 89 35 = Padel feeds (7°E10°E30°W100°E...) = Badr 4/5/6/7 ( 26E ) = 4.2.0 = KUW-002 =  =  = 2026-10-26 15:24
