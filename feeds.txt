@@ -1,9 +1,12 @@
+216 10997 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SAU-0165 =  =  = 2026-10-26 17:57
 160 11143 H 7199 = A6 11 C0 77 E9 85 FA 68 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi15_GNVE =  =  = 2026-10-26 12:49
 160 11143 H 7199 = A6 11 C0 77 E9 85 FA 68 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi15_GNVE = Neftchi Fergana vs Al-Ittihad =  = 2026-10-26 13:33
 160 11152 H 7199 = 01 A9 21 CB 8D D9 65 CB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = SAU-030-B =  =  = 2026-10-26 15:25
 160 11161 H 7199 = 14 FB F1 00 EC 18 3E 42 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = UAE074 - 2 =  =  = 2026-10-26 15:29
 1005 3860 V 30000 = 01 A9 21 CB 8D D9 65 CB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = SAU-030-A =  =  = 2026-10-26 15:30
 1005 3966 V 7200 = 14 FB F1 00 EC 18 3E 42 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = UAE074 - 2 =  =  = 2026-10-26 15:34
+160 11188 H 7200 = 31 26 68 BF 1B 4E 49 B2 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = E-296 MAIN =  =  = 2026-10-26 17:40
+1005 4181 V 7200 = 31 26 68 BF 1B 4E 49 B2 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = E-296 MAIN =  =  = 2026-10-26 17:42
 1005 4025 V 7498 = 58 20 AD 25 AC 5D 23 2C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-26 02:36
 1005 4025 V 7498 = 58 20 AD 25 AC 5D 23 2C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-26 03:16
 1005 3975 V 7499 = DE 29 8F 96 FB 7A 4D C2 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 2 = American Football — NFL 2026/27 Matchweek 7 = Kansas City Chiefs vs Seattle Seahawks (@ Lumen Field) = 2026-10-26 03:50
