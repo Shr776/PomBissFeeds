@@ -1,4 +1,3 @@
-765 4027 H 7199 = 11 22 AA DD CC 12 34 12 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-10-27 12:12
 160 11180 H 7200 = DE B2 E1 71 C4 D4 A8 40 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = ktsat mp4 enc1 =  =  = 2026-10-27 09:23
 160 11172 H 7200 = 76 82 E4 DC A5 A0 5C A1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = MYASTRKL-M =  =  = 2026-10-27 09:45
 1005 4163 V 7200 = 76 82 E4 DC A5 A0 5C A1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = MYASTRKL-M =  =  = 2026-10-27 09:47
@@ -6,6 +5,8 @@
 1005 3964 H 7200 = 76 1E 0B 9F 44 E1 C6 EB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = ENC-1 MAIN =  =  = 2026-10-27 10:03
 160 11191 H 7200 = 51 AD 40 3E 2B CB 53 49 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Asia AFC Champions League - League phase - Round 3 = Beijing Guoan (CHN) Jeonbuk (KOR) Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-27 11:38
 160 12612 H 7200 = D3 91 D0 34 1B 5F 84 FE = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Asia AFC Champions League - League phase - Round 3 = Ratchaburi (THA) Kashiwa Reysol (JPN) Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-27 11:58
+1005 4166 V 7200 = 51 AD 40 3E 2B CB 53 49 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = CNBRTV-001M = Asia AFC Champions League - League phase - Round 3 = Beijing Guoan (CHN) Jeonbuk (KOR) = 2026-10-27 13:42
+765 4027 H 7199 = 11 22 AA DD CC 12 34 12 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-10-27 12:12
 130 11058 H 7200 = 4A 65 E4 93 12 33 64 A9 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-27 10:55
 130 11067 H 7200 = 1A 66 43 C3 DC A6 56 D8 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-27 10:56
 160 10971 V 4800 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | HD = POL-25 ENC1 =  =  = 2026-10-27 11:54
