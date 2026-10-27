@@ -1,3 +1,6 @@
+420 10983 V 7500 = ED FC 52 3B 01 75 63 D9 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = ATV SNG 4 MAIN =  =  = 2026-10-27 14:07
+420 10974 V 7500 = 19 52 EE 59 54 13 50 B7 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 112 MAIN =  =  = 2026-10-27 15:46
+420 10965 V 7500 = AA 56 39 39 90 A5 46 7B = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 =  =  =  = 2026-10-27 16:47
 160 11180 H 7200 = DE B2 E1 71 C4 D4 A8 40 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = ktsat mp4 enc1 =  =  = 2026-10-27 09:23
 160 11172 H 7200 = 76 82 E4 DC A5 A0 5C A1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = MYASTRKL-M =  =  = 2026-10-27 09:45
 1005 4163 V 7200 = 76 82 E4 DC A5 A0 5C A1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = MYASTRKL-M =  =  = 2026-10-27 09:47
@@ -13,8 +16,6 @@
 160 11180 H 7200 = 39 16 1D 6C AA 0E 37 EF = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = OMAN 2 =  =  = 2026-10-27 15:44
 1005 3975 V 7200 = 39 16 1D 6C AA 0E 37 EF = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = OMAN 2 =  =  = 2026-10-27 15:45
 160 12638 H 7200 = 39 16 1D 6C AA 0E 37 EF = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = OMAN 1 =  =  = 2026-10-27 16:01
-420 10983 V 7500 = ED FC 52 3B 01 75 63 D9 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = ATV SNG 4 MAIN =  =  = 2026-10-27 14:07
-420 10974 V 7500 = 19 52 EE 59 54 13 50 B7 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 112 MAIN =  =  = 2026-10-27 15:46
 765 4027 H 7199 = 11 22 AA DD CC 12 34 12 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-10-27 12:12
 130 11058 H 7200 = 4A 65 E4 93 12 33 64 A9 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-27 10:55
 130 11067 H 7200 = 1A 66 43 C3 DC A6 56 D8 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-27 10:56
