@@ -1,3 +1,4 @@
+420 10983 V 7500 = ED FC 52 3B 01 75 63 D9 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = ATV SNG 4 MAIN =  =  = 2026-10-27 14:07
 160 11180 H 7200 = DE B2 E1 71 C4 D4 A8 40 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = ktsat mp4 enc1 =  =  = 2026-10-27 09:23
 160 11172 H 7200 = 76 82 E4 DC A5 A0 5C A1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = MYASTRKL-M =  =  = 2026-10-27 09:45
 1005 4163 V 7200 = 76 82 E4 DC A5 A0 5C A1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = MYASTRKL-M =  =  = 2026-10-27 09:47
