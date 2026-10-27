@@ -1,3 +1,11 @@
+130 11058 H 7200 = 4A 65 E4 93 12 33 64 A9 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = DFB-Pokal - Bochum vs Mainz 05 =  = 2026-10-27 10:55
+130 11067 H 7200 = 1A 66 43 C3 DC A6 56 D8 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-27 10:56
+160 10971 V 4800 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | HD = POL-25 ENC1 =  =  = 2026-10-27 11:54
+130 11067 H 7200 = 1A 66 43 C3 DC A6 56 D8 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = DFB-Pokal - SG Sonnenhof GroBaspach vs FC Augsburg =  = 2026-10-27 18:55
+130 11058 H 7200 = 4A 65 E4 93 12 33 64 A9 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-27 20:36
+1005 4124 H 7200 = E3 34 C6 DD 2C EF 3A 55 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:45
+1005 4133 H 7200 = 4E 13 6C CD BB 42 1D 1A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:47
+130 12705 H 7200 = 4E 13 6C CD BB 42 1D 1A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 1 =  =  = 2026-10-27 21:59
 130 12679 H 7200 = 33 DF 26 38 36 33 16 7F = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 5 =  =  = 2026-10-27 19:14
 130 12687 H 7200 = 6C AF BB D6 D3 BA 6F FC = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 4 =  =  = 2026-10-27 19:45
 1005 4106 H 7200 = 33 DF 26 38 36 33 16 7F = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:42
@@ -9,13 +17,6 @@
 70 11053 V 9600 = BC 09 20 E5 26 27 10 5D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:2 = ITA_609_B =  =  = 2026-10-27 21:18
 130 11084 H 9600 = 11 5A C1 2C 34 58 A1 2D = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:2 = G55 Via1 =  =  = 2026-10-27 20:57
 130 11591 H 9600 = 54 C1 23 38 A1 64 1A 1F = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = E115 G19 Via 1 Main =  =  = 2026-10-27 21:00
-130 11058 H 7200 = 4A 65 E4 93 12 33 64 A9 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = DFB-Pokal - Bochum vs Mainz 05 =  = 2026-10-27 10:55
-130 11067 H 7200 = 1A 66 43 C3 DC A6 56 D8 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-27 10:56
-160 10971 V 4800 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | HD = POL-25 ENC1 =  =  = 2026-10-27 11:54
-130 11067 H 7200 = 1A 66 43 C3 DC A6 56 D8 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = DFB-Pokal - SG Sonnenhof GroBaspach vs FC Augsburg =  = 2026-10-27 18:55
-130 11058 H 7200 = 4A 65 E4 93 12 33 64 A9 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-27 20:36
-1005 4124 H 7200 = E3 34 C6 DD 2C EF 3A 55 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:45
-1005 4133 H 7200 = 4E 13 6C CD BB 42 1D 1A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:47
 130 11685 H 7200 = 4E 5B 29 D2 6D D1 9A D8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR 141 A = BKT EuroCup - Bahcesehir College Istanbul vs PAOK Thessaloniki =  = 2026-10-27 18:25
 130 10839 H 7200 = BA 23 DE BB 81 CD 72 C0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = LAT-002m = BKT EuroCup - Lietkabelis Panevezys vs ratiopharm ulm =  = 2026-10-27 18:33
 130 12543 H 7200 = 28 C1 03 EC AD 9F 03 4F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = BUL007 Balk v Man.com Main = BKT EuroCup - Balkan Botevgrad vs Kids&Us Manresa =  = 2026-10-27 19:56
