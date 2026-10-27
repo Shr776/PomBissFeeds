@@ -1,3 +1,11 @@
+130 12679 H 7200 = 33 DF 26 38 36 33 16 7F = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 5 =  =  = 2026-10-27 19:14
+130 12687 H 7200 = 6C AF BB D6 D3 BA 6F FC = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 4 =  =  = 2026-10-27 19:45
+1005 4106 H 7200 = 33 DF 26 38 36 33 16 7F = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:42
+1005 4115 H 7200 = 6C AF BB D6 D3 BA 6F FC = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:43
+130 11693 H 7200 = 46 D6 F4 10 3D A3 52 32 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 2 =  =  = 2026-10-27 21:26
+130 12697 H 7200 = E3 34 C6 DD 2C EF 3A 55 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 6 =  =  = 2026-10-27 21:46
+130 11685 H 7200 = 53 A2 B2 A7 DE BB 3C D5 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 7 =  =  = 2026-10-27 22:17
+192 11211 H 14399 = 04 01 D6 DB A9 29 EC BE = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = HD =  =  =  = 2026-10-27 23:20
 160 12610 H 9600 = 20 26 10 56 27 DC BA BD = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 = E-73 = Portuguese League Cup - Sporting vs Maritimo =  = 2026-10-27 23:47
 70 11040 V 9599 = BC 09 20 E5 26 27 10 5D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-10-27 19:10
 70 11012 H 9600 = BC 07 20 E3 26 27 10 5D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:2 = ITA727ENC 1 = Italy Serie B - Ascoli vs Sampdoria =  = 2026-10-27 20:55
@@ -7,14 +15,6 @@
 70 11083 V 10000 = BC 09 20 E5 26 27 10 5D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:2 = ITA PGM = Italy Serie B - LR Vicenza vs Modena =  = 2026-10-27 22:54
 100 3900 V  = B0 43 D4 C7 2D 24 D2 23 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = SD | 4:2:0 =  =  =  = 2026-10-27 23:43
 130 10827 H 7200 = 4E D6 A1 C5 B3 BB 77 E5 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = VIA 1-MO-03 = Baskeball Champions League - =  = 2026-10-27 23:34
-130 12679 H 7200 = 33 DF 26 38 36 33 16 7F = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 5 =  =  = 2026-10-27 19:14
-130 12687 H 7200 = 6C AF BB D6 D3 BA 6F FC = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 4 =  =  = 2026-10-27 19:45
-1005 4106 H 7200 = 33 DF 26 38 36 33 16 7F = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:42
-1005 4115 H 7200 = 6C AF BB D6 D3 BA 6F FC = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:43
-130 11693 H 7200 = 46 D6 F4 10 3D A3 52 32 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 2 =  =  = 2026-10-27 21:26
-130 12697 H 7200 = E3 34 C6 DD 2C EF 3A 55 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 6 =  =  = 2026-10-27 21:46
-130 11685 H 7200 = 53 A2 B2 A7 DE BB 3C D5 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 7 =  =  = 2026-10-27 22:17
-192 11211 H 14399 = 04 01 D6 DB A9 29 EC BE = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = HD =  =  =  = 2026-10-27 23:20
 20 12625 H 9601 = 21 4C 1A 87 23 C1 A2 86 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD = E 268 =  =  = 2026-10-27 23:05
 130 11604 H 9600 = 44 23 A2 09 13 23 32 68 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = E115- G65 VIA 3 = Spanish Cup (Copa del Rey) - Recreativo vs Rayo Vallecano =  = 2026-10-27 23:11
 1005 3966 V 7119 = 14 21 CC 01 AA 35 22 01 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD =  =  =  = 2026-10-27 20:25
@@ -22,7 +22,6 @@
 130 11070 V 7119 = 14 21 CC 01 AA 35 22 01 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = PITCH - =  =  = 2026-10-27 22:48
 1005 3966 V 7119 = 14 21 CC 01 AA 35 22 01 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD =  =  =  = 2026-10-27 22:48
 1005 3975 V 7119 = 24 12 DD 13 AA 24 22 F0 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = SD | 1920x1080i | 4:2:0 = BT_SES_22_SDI = England - EFL Carabo Cup (Round of 16) = Bradford City vs Peterborough United = 2026-10-27 22:53
-130 11061 V 7119 = 24 14 DD 15 AA 24 22 F0 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = PITCH - Bradford =  =  = 2026-10-27 22:58
 130 11058 H 7200 = 4A 65 E4 93 12 33 64 A9 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = DFB-Pokal - Bochum vs Mainz 05 =  = 2026-10-27 10:55
 130 11067 H 7200 = 1A 66 43 C3 DC A6 56 D8 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-27 10:56
 160 10971 V 4800 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | HD = POL-25 ENC1 =  =  = 2026-10-27 11:54
