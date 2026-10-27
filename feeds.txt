@@ -1,7 +1,14 @@
-130 11084 H 9600 = 11 5A C1 2C 34 58 A1 2D = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:2 = G55 Via1 =  =  = 2026-10-27 20:57
-130 11591 H 9600 = 54 C1 23 38 A1 64 1A 1F = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = E115 G19 Via 1 Main =  =  = 2026-10-27 21:00
+130 12679 H 7200 = 33 DF 26 38 36 33 16 7F = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 5 =  =  = 2026-10-27 19:14
+130 12687 H 7200 = 6C AF BB D6 D3 BA 6F FC = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 4 =  =  = 2026-10-27 19:45
+1005 4106 H 7200 = 33 DF 26 38 36 33 16 7F = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:42
+1005 4115 H 7200 = 6C AF BB D6 D3 BA 6F FC = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:43
+130 11693 H 7200 = 46 D6 F4 10 3D A3 52 32 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 2 =  =  = 2026-10-27 21:26
+130 12697 H 7200 = E3 34 C6 DD 2C EF 3A 55 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 6 =  =  = 2026-10-27 21:46
 70 11040 V 9599 = BC 09 20 E5 26 27 10 5D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-10-27 19:10
 70 11012 H 9600 = BC 07 20 E3 26 27 10 5D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:2 = ITA727ENC 1 = Italy Serie B - Ascoli vs Sampdoria =  = 2026-10-27 20:55
+70 11053 V 9600 = BC 09 20 E5 26 27 10 5D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:2 = ITA_609_B =  =  = 2026-10-27 21:18
+130 11084 H 9600 = 11 5A C1 2C 34 58 A1 2D = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:2 = G55 Via1 =  =  = 2026-10-27 20:57
+130 11591 H 9600 = 54 C1 23 38 A1 64 1A 1F = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = E115 G19 Via 1 Main =  =  = 2026-10-27 21:00
 130 11058 H 7200 = 4A 65 E4 93 12 33 64 A9 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = DFB-Pokal - Bochum vs Mainz 05 =  = 2026-10-27 10:55
 130 11067 H 7200 = 1A 66 43 C3 DC A6 56 D8 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-27 10:56
 160 10971 V 4800 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | HD = POL-25 ENC1 =  =  = 2026-10-27 11:54
@@ -9,10 +16,6 @@
 130 11058 H 7200 = 4A 65 E4 93 12 33 64 A9 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-27 20:36
 1005 4124 H 7200 = E3 34 C6 DD 2C EF 3A 55 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:45
 1005 4133 H 7200 = 4E 13 6C CD BB 42 1D 1A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:47
-130 12679 H 7200 = 33 DF 26 38 36 33 16 7F = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 5 =  =  = 2026-10-27 19:14
-130 12687 H 7200 = 6C AF BB D6 D3 BA 6F FC = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 4 =  =  = 2026-10-27 19:45
-1005 4106 H 7200 = 33 DF 26 38 36 33 16 7F = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:42
-1005 4115 H 7200 = 6C AF BB D6 D3 BA 6F FC = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-27 20:43
 130 11685 H 7200 = 4E 5B 29 D2 6D D1 9A D8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR 141 A = BKT EuroCup - Bahcesehir College Istanbul vs PAOK Thessaloniki =  = 2026-10-27 18:25
 130 10839 H 7200 = BA 23 DE BB 81 CD 72 C0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = LAT-002m = BKT EuroCup - Lietkabelis Panevezys vs ratiopharm ulm =  = 2026-10-27 18:33
 130 12543 H 7200 = 28 C1 03 EC AD 9F 03 4F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = BUL007 Balk v Man.com Main = BKT EuroCup - Balkan Botevgrad vs Kids&Us Manresa =  = 2026-10-27 19:56
@@ -47,5 +50,6 @@
 765 4027 H 7199 = 11 22 AA DD CC 12 34 12 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-10-27 12:12
 130 11067 H 7200 = 72 4C 9D 5B B4 34 83 6B = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-27 06:01
 160 10985 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = pol-052_harm = STS Polish Cup - 2nd round match: Motor Lublin - Raków Częstochowa =  = 2026-10-27 20:00
+160 10973 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = POL49 EN1 Tychy = STS Polish Cup - 2nd round match: Piast Gliwice - Górnik Zabrze =  = 2026-10-27 21:44
 1005 4124 V 7200 = AB 24 20 EF 26 10 11 47 = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 = KAZ008M =  =  = 2026-10-27 15:55
 130 10800 H 7200 = 10 10 AA CA CC 56 DE 00 = Weightlifting  Feeds (7°E10°E100.5E55W etc..) = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Encoder 2 =  =  = 2026-10-27 11:18
