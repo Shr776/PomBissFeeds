@@ -5,6 +5,8 @@
 1005 12528 H 7200 = F6 58 7C CA E6 35 77 92 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 | 4:2:0 = Fi02_NE2 = Gamba Osaka - Buriram United F.C. =  = 2026-10-28 12:16
 160 12656 H 7200 = 28 61 D7 60 CB 35 CB CB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = Fi03_NE3 =  =  = 2026-10-28 12:19
 1005 12656 H 7200 = 28 61 D7 60 CB 35 CB CB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 | 4:2:0 = Fi03_NE3 = Kashima Antlers - Pohang Steelers =  = 2026-10-28 12:24
+160 11180 H 7199 = ED FA 07 EE 0B A6 30 E1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = CNC001 M =  =  = 2026-10-28 13:29
+160 11145 H 7200 = 01 41 2A 6C B8 FC 2A DE = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = UZB Uplink 001 =  =  = 2026-10-28 13:33
 130 11058 H 7199 = B4 BE CB 3D C2 EA 1F CB = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-28 08:08
 130 11213 V 7200 = 74 81 0C 01 FE 06 4A 4E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Cleopatra =  =  = 2026-10-28 11:42
 1005 3945 V 7200 = AE B3 AC 0D DF A2 D4 55 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-10-28 07:20
