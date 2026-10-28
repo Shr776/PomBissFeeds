@@ -1,3 +1,10 @@
+130 11642 H 9874 = 95 73 D1 D9 4C 34 BB 3B = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-28 17:23
+130 11654 H 9874 = 24 C1 59 3E F6 74 79 E3 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-28 17:24
+160 12656 H 7200 = 13 57 AB 15 CD 24 68 59 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4.2.0 = CHL SVK NIT RBK =  =  = 2026-10-28 20:06
+420 11596 H 7199 = 97 B7 B7 05 F8 6F 8A F1 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-28 20:32
+70 11588 H 7200 = F2 6B 44 A1 3A 3C 0A 80 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = 4.2.0 = ENC 17 =  =  = 2026-10-28 20:40
+160 11605 H 7199 = 57 CD 0B 2F 68 C9 EC 1D = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = HD =  =  =  = 2026-10-28 20:43
+70 11526 H 7200 = DB F4 96 65 C8 02 74 3E = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = 4.2.0 = ENC-18 =  =  = 2026-10-28 22:58
 160 12606 H 9600 = AA BB 20 85 26 10 28 5E = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 = E-228 Main =  =  = 2026-10-28 23:56
 130 12553 H 7199 = EC CE 10 CA 28 20 26 6E = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = BB Chemnitz =  =  = 2026-10-28 18:07
 130 12707 H 7199 = BA 23 DE BB 81 CD 72 C0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = POL-102 Main =  =  = 2026-10-28 18:08
@@ -18,20 +25,11 @@
 130 10848 H 7120 = 22 13 CC 01 DD 23 44 44 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-28 23:00
 1005 3717 H 7119 = 22 13 CC 01 DD 23 44 44 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD = BT_SES_2_SDI =  =  = 2026-10-28 23:10
 1005 3724 H 7120 = NO KEY = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = SD | 1920x1080i | 4:2:0 = BT_SES_18_SDI = England - EFL Carabo Cup (Round of 16) = Liverpool vs Chelsea = 2026-10-28 23:11
-130 11642 H 9874 = 95 73 D1 D9 4C 34 BB 3B = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-28 17:23
-130 11654 H 9874 = 24 C1 59 3E F6 74 79 E3 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-28 17:24
-160 12656 H 7200 = 13 57 AB 15 CD 24 68 59 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4.2.0 = CHL SVK NIT RBK =  =  = 2026-10-28 20:06
-420 11596 H 7199 = 97 B7 B7 05 F8 6F 8A F1 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-28 20:32
-70 11588 H 7200 = F2 6B 44 A1 3A 3C 0A 80 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = 4.2.0 = ENC 17 =  =  = 2026-10-28 20:40
-160 11605 H 7199 = 57 CD 0B 2F 68 C9 EC 1D = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = HD =  =  =  = 2026-10-28 20:43
-70 11526 H 7200 = DB F4 96 65 C8 02 74 3E = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = 4.2.0 = ENC-18 =  =  = 2026-10-28 22:58
 130 11071 V 7199 = D9 D5 27 D5 A1 42 D2 B5 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-10-28 17:31
 130 11062 V 7199 = D9 D5 27 D5 A1 42 D2 B5 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main =  =  = 2026-10-28 17:32
 130 11087 V 7200 = D9 D5 27 D5 A1 42 D2 B5 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-10-28 20:29
 130 11079 V 7200 = D9 D5 27 D5 A1 42 D2 B5 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = MRC004-MAIN =  =  = 2026-10-28 20:30
 130 11071 V 7199 = D9 A7 9E 1E 77 3C 6A 1D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 | 4.2.0 = M00-MRC007-Main =  =  = 2026-10-28 22:12
-160 12595 H 9600 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4.2.2 = POL 48 ENC1 =  =  = 2026-10-28 21:32
-160 12595 H 9600 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4.2.2 = POL 48 ENC1 =  =  = 2026-10-28 21:35
 130 3927 V 7200 = E3 34 C6 DD 2C EF 3A 55 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 | 4.2.0 = ENC 6 =  =  = 2026-10-28 00:52
 130 11058 H 7199 = B4 BE CB 3D C2 EA 1F CB = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-28 08:08
 130 12689 H 7199 = 23 C4 F3 DA 63 4F C2 74 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 4 =  =  = 2026-10-28 19:01
@@ -80,12 +78,13 @@
 130 11067 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-28 01:33
 100 11246 H 7500 = 29 C3 77 63 A5 D3 1C 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-10-28 00:59
 20 12510 H 14250 = AB BC BA 21 AC 12 21 DF = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-28 21:57
+160 10973 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = TVP POL-32 ENC 1 = STS Polish Cup - 2nd round match: Puszcza Niepołomice - Wisła Płock =  = 2026-10-28 19:38
+160 12595 H 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL 48 ENC1 =  =  = 2026-10-28 21:32
 160 12603 H 4936 = 20 10 20 50 25 20 26 6B = SERBIASRBIJA FOOTBALL (all Satellites) = Eutelsat 16D ( 16E ) = 4:2:0 = ITA 415 MAIN =  =  = 2026-10-28 19:25
 160 11174 H 4937 = 20 10 20 50 25 20 26 6B = SERBIASRBIJA FOOTBALL (all Satellites) = Eutelsat 16D ( 16E ) = 4.2.0 = YSM-013 =  =  = 2026-10-28 21:30
 260 12608 H 5000 = 20 88 20 C8 88 20 88 30 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4.2.0 = KUW-001 B =  =  = 2026-10-28 20:34
 260 12630 V 7500 = FE ED AF 9A DD AD 01 8B = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4.2.0 = Unname =  =  = 2026-10-28 18:16
 260 11644 V 8401 = FE ED AF 9A DD AD 01 8B = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_BCKUP =  =  = 2026-10-28 19:43
-160 10973 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = TVP POL-32 ENC 1 = STS Polish Cup - 2nd round match: Puszcza Niepołomice - Wisła Płock =  = 2026-10-28 19:38
 130 11082 H 7199 = 7B 3E 9A 53 2F 5C 81 0C = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Hylo Open =  =  = 2026-10-28 17:34
 130 11058 H 7199 = 35 AA 85 64 19 D7 91 81 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = E 268 =  =  = 2026-10-28 16:46
 260 11131 V 8800 = 11 1B 14 40 58 22 26 A0 = Camel Race Feeds = Badr 4/5/6/7 ( 26E ) =  = SNG 01 - Chain A =  =  = 2026-10-28 15:39
