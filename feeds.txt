@@ -1,13 +1,21 @@
-130 11213 V 7200 = 74 81 0C 01 FE 06 4A 4E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Cleopatra =  =  = 2026-10-28 11:42
-130 11592 H 9875 = 2B 86 60 11 27 4C 8A FD = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi20_GNVE =  =  = 2026-10-28 15:19
-130 11082 H 7199 = 7B 3E 9A 53 2F 5C 81 0C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Hylo Open =  =  = 2026-10-28 17:34
-130 12689 H 7199 = 23 C4 F3 DA 63 4F C2 74 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 4 =  =  = 2026-10-28 19:01
-130 10838 V 7200 = 95 FA F2 81 9C 08 17 BB = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = POL-059_ch1 = EHF Champions League  - Orlen Wisla Plock vs HBC Nantes =  = 2026-10-28 18:39
-130 10802 H 7200 = 01 8F 15 A5 7A 19 0C 9F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = E-73 = EHF Champions League  - FC Porto vs One Veszprém HC =  = 2026-10-28 18:46
-130 10810 H 7199 = 62 6E 2F FF 81 BE 5A 99 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = YSM 012 MAIN =  =  = 2026-10-28 18:48
 130 12553 H 7199 = EC CE 10 CA 28 20 26 6E = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = BB Chemnitz =  =  = 2026-10-28 18:07
 130 12707 H 7199 = BA 23 DE BB 81 CD 72 C0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = POL-102 Main =  =  = 2026-10-28 18:08
 160 12620 H 7200 = BA 23 DE BB 81 CD 72 C0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = LAT-002m =  =  = 2026-10-28 18:47
+130 11667 H 7199 = E6 B4 20 BA 26 DD CC CF = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = LTU-005 main =  =  = 2026-10-28 19:52
+130 11109 H 7200 = NO KEY = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = MP One = Baskeball Champions League - =  = 2026-10-28 20:02
+130 3927 V 7200 = E3 34 C6 DD 2C EF 3A 55 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 | 4.2.0 = ENC 6 =  =  = 2026-10-28 00:52
+130 11058 H 7199 = B4 BE CB 3D C2 EA 1F CB = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-28 08:08
+130 12689 H 7199 = 23 C4 F3 DA 63 4F C2 74 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 4 =  =  = 2026-10-28 19:01
+130 12679 H 7200 = BC 6F 36 61 3A 2D CA 31 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 3 = DFB-Pokal - Paderborn 07 vs Stoccarda =  = 2026-10-28 19:14
+130 11616 H 9874 = 62 77 F0 C9 D5 A9 D7 55 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:2 = D535_155C12_OL_Basis_1 =  =  = 2026-10-28 19:44
+1005 4115 H 7200 = 23 C4 F3 DA 63 4F C2 74 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-28 19:56
+1005 4105 H 7200 = BC 6F 36 61 3A 2D CA 31 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = DFB-Pokal - Paderborn 07 vs Stoccarda =  = 2026-10-28 19:57
+130 10848 V 7199 = E0 2F FA 09 FD 10 28 35 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-28 19:03
+130 12696 H 7200 = 10 B8 67 2F BC 7F 31 6C = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Women's CEV Champions League =  = 2026-10-28 19:51
+48 11484 V 11243 = F3 11 AB AF CD 28 10 05 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = Astra 4A ( 4.8E ) = HD =  =  =  = 2026-10-28 19:19
+130 10838 V 7200 = 95 FA F2 81 9C 08 17 BB = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-PLO-NAN = EHF Champions League  - Orlen Wisla Plock vs HBC Nantes =  = 2026-10-28 18:39
+130 10802 H 7200 = 01 8F 15 A5 7A 19 0C 9F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-POR-VES = EHF Champions League  - FC Porto vs One Veszprém HC =  = 2026-10-28 18:46
+130 10810 H 7199 = 62 6E 2F FF 81 BE 5A 99 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = YSM 012 MAIN =  =  = 2026-10-28 18:48
 215 10996 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 = Main SAUDI065 =  =  = 2026-10-28 18:16
 215 10987 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 = SNG8A =  =  = 2026-10-28 18:17
 1005 12537 H 7200 = 0C C0 4F 1B F7 DD 6B 3F = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 | 4:2:0 =  = AFC Champions League Two, Persib Bandung - Melbourne Victory FC =  = 2026-10-28 11:40
@@ -36,12 +44,16 @@
 160 12652 H 15000 = B4 51 D2 D7 4C CA 61 77 = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:0 = E-272 MAIN = Christian Mbilli vs. Canelo Álvarez: =  = 2026-10-28 17:12
 160 12511 V 7200 = E9 D5 A2 60 C6 B1 37 AE = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = Eutelsat 16D ( 16E ) = 4.2.0 = E399 BACKUP = Greek Cup - Marko Markopoulo vs Olympiacos =  = 2026-10-28 16:18
 160 12630 V 7200 = D1 F7 B4 7C C8 E6 29 D7 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = Eutelsat 16D ( 16E ) = 4.2.0 = E 394 BACKUP = Greek Cup - Nestos Chysoupolis vs Podosfairikos Syllogos =  = 2026-10-28 16:21
+130 11213 V 7200 = 74 81 0C 01 FE 06 4A 4E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Cleopatra =  =  = 2026-10-28 11:42
+130 11592 H 9875 = 2B 86 60 11 27 4C 8A FD = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi20_GNVE =  =  = 2026-10-28 15:19
 1005 3945 V 7200 = AE B3 AC 0D DF A2 D4 55 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-10-28 07:20
 30 4009 V 7200 = 34 DA FE 0C DA FE ED C5 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = ND-ZIM WOMEN ODI- 2026 M =  =  = 2026-10-28 11:42
-130 3927 V 7200 = E3 34 C6 DD 2C EF 3A 55 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 | 4.2.0 = ENC 6 =  =  = 2026-10-28 00:52
-130 11058 H 7199 = B4 BE CB 3D C2 EA 1F CB = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-28 08:08
 130 11067 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-28 01:33
 100 11246 H 7500 = 29 C3 77 63 A5 D3 1C 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-10-28 00:59
 260 12630 V 7500 = FE ED AF 9A DD AD 01 8B = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4.2.0 = Unname =  =  = 2026-10-28 18:16
+260 11644 V 8401 = FE ED AF 9A DD AD 01 8B = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_BCKUP =  =  = 2026-10-28 19:43
+160 10973 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = TVP POL-32 ENC 1 = STS Polish Cup - 2nd round match: Puszcza Niepołomice - Wisła Płock =  = 2026-10-28 19:38
+160 12603 H 4936 = 20 10 20 50 25 20 26 6B = SERBIASRBIJA FOOTBALL (all Satellites) = Eutelsat 16D ( 16E ) = 4:2:0 = ITA 415 MAIN =  =  = 2026-10-28 19:25
+130 11082 H 7199 = 7B 3E 9A 53 2F 5C 81 0C = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Hylo Open =  =  = 2026-10-28 17:34
 130 11058 H 7199 = 35 AA 85 64 19 D7 91 81 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = E 268 =  =  = 2026-10-28 16:46
 260 11131 V 8800 = 11 1B 14 40 58 22 26 A0 = Camel Race Feeds = Badr 4/5/6/7 ( 26E ) =  = SNG 01 - Chain A =  =  = 2026-10-28 15:39
