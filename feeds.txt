@@ -1,6 +1,8 @@
 130 11058 H 7199 = B4 BE CB 3D C2 EA 1F CB = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-10-28 08:08
 130 11213 V 7200 = 74 81 0C 01 FE 06 4A 4E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Cleopatra =  =  = 2026-10-28 11:42
 130 11187 V 9874 = B0 EC B8 54 CD A6 5C CF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = FEED A Match31 Main =  =  = 2026-10-28 14:54
+130 11592 H 9875 = 2B 86 60 11 27 4C 8A FD = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi20_GNVE =  =  = 2026-10-28 15:19
+130 11629 H 9874 = 1A E6 1E 1E 51 FC 43 90 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:2 = LEUK_Fi02 =  =  = 2026-10-28 15:52
 1005 12537 H 7200 = 0C C0 4F 1B F7 DD 6B 3F = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 | 4:2:0 =  = AFC Champions League Two, Persib Bandung - Melbourne Victory FC =  = 2026-10-28 11:40
 160 12620 H 7200 = C1 D5 B0 46 33 A2 77 4C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = VNMVTV-002 = AFC Champions League Two - Thể Công – Viettel vs Football Club Seoul =  = 2026-10-28 11:45
 160 12620 H 7200 = C1 D5 B0 46 33 A2 77 4C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = VNMVTV-002 = AFC Champions League Two - Thể Công – Viettel vs Football Club Seoul =  = 2026-10-28 12:08
@@ -10,8 +12,13 @@
 1005 12656 H 7200 = 28 61 D7 60 CB 35 CB CB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 | 4:2:0 = Fi03_NE3 = Kashima Antlers - Pohang Steelers =  = 2026-10-28 12:24
 160 11180 H 7199 = ED FA 07 EE 0B A6 30 E1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = CNC001 M =  =  = 2026-10-28 13:29
 160 11145 H 7200 = 01 41 2A 6C B8 FC 2A DE = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = UZB Uplink 001 =  =  = 2026-10-28 13:33
+160 11153 H 7200 = CA 26 9A 8A 5A E8 5B 9D = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = UAE074 - 2 =  =  = 2026-10-28 15:25
+1005 3992 V 7200 = CA 26 9A 8A 5A E8 5B 9D = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = UAE074 - 2 =  =  = 2026-10-28 15:27
+160 11189 H 7200 = 49 55 BC 5A E2 0A 96 82 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = hd | 4.2.0 =  =  =  = 2026-10-28 15:29
+1005 4163 V 7200 = 49 55 BC 5A E2 0A 96 82 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = hd | 4:2:0 = OMAN M =  =  = 2026-10-28 15:31
 1005 3945 V 7200 = AE B3 AC 0D DF A2 D4 55 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-10-28 07:20
 30 4009 V 7200 = 34 DA FE 0C DA FE ED C5 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = ND-ZIM WOMEN ODI- 2026 M =  =  = 2026-10-28 11:42
 130 11067 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-28 01:33
 100 11246 H 7500 = 29 C3 77 63 A5 D3 1C 94 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-10-28 00:59
 130 3927 V 7200 = E3 34 C6 DD 2C EF 3A 55 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 | 4.2.0 = ENC 6 =  =  = 2026-10-28 00:52
+260 11131 V 8800 = 11 1B 14 40 58 22 26 A0 = Camel Race Feeds = Badr 4/5/6/7 ( 26E ) =  = SNG 01 - Chain A =  =  = 2026-10-28 15:39
