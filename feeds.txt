@@ -1,2 +1,3 @@
+1005 3860 V 29998 = 1B 95 53 03 F5 DF 25 F9 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-29 07:47
 1005 3945 V 7200 = AE B3 AC 0D DF A2 D4 55 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-10-29 06:44
 70 11517 H 7200 = BC F3 F4 A3 56 21 51 C8 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = 4.2.0 = ENC =  =  = 2026-10-29 00:11
