@@ -1,7 +1,3 @@
-130 11094 H 7199 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main =  =  = 2026-10-29 21:55
-1005 3860 V 29998 = 1B 95 53 03 F5 DF 25 F9 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-29 07:47
-160 10985 V 9600 = FB A1 15 B1 32 5C AE 3C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-55 ENC2 =  =  = 2026-10-29 20:43
-0 11500 V 6800 = NO KEY = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) =  =  =  =  =  = 2026-10-29 21:52
 20 12507 H 9601 = 1A AA 62 26 C1 1C 73 50 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-29 18:46
 20 12637 H 9601 = 93 1C 7C 2B 1A 53 41 AE = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-29 20:49
 130 11616 H 9600 = 44 23 A2 09 13 23 32 68 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = G55 Via1 =  =  = 2026-10-29 20:54
@@ -10,8 +6,17 @@
 130 11654 H 9600 = 44 23 A2 09 13 23 32 68 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = M3SATCOM FEED A =  =  = 2026-10-29 20:59
 20 12704 V 9600 = 52 A2 23 17 AC 24 17 E7 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD = G22 MAIN FIM JEREZ =  =  = 2026-10-29 21:06
 20 12633 V 9600 = 52 A2 23 17 AC 24 17 E7 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD = G22 BU FIM JEREZ =  =  = 2026-10-29 21:11
+130 11622 V 9600 = 93 1C 7C 2B 1A 53 41 AE = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = E115- G65 VIA 2 =  =  = 2026-10-29 22:57
+1005 3966 V 7119 = 14 55 CC 35 AD 35 21 03 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = SD | 1920x1080i | 4:2:0 = BT_SES_24_SDI = England - EFL Carabo Cup (Round of 16) = Everton vs Newcastle United = 2026-10-29 22:28
+130 11070 V 7120 = 14 55 CC 35 AD 35 21 03 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = Carabo =  =  = 2026-10-29 22:33
+30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 3B ( 3E ) = 4:2:0 = beIN SPORTS =  =  = 2026-10-29 22:37
 70 11516 H 7199 = 12 34 AB F1 CD 20 26 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = CRO-004 CEV CL Main =  =  = 2026-10-29 19:48
 130 11108 H 7200 = D1 02 9E 71 02 FF EE EF = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4.2.2 = UKI-1462-MAIN =  =  = 2026-10-29 21:10
+70 11516 H 7199 = 12 34 AB F1 CD 20 26 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = CRO-004 CEV CL Main =  =  = 2026-10-29 22:18
+130 11094 H 7199 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main =  =  = 2026-10-29 21:55
+1005 3860 V 29998 = 1B 95 53 03 F5 DF 25 F9 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-29 07:47
+160 10985 V 9600 = FB A1 15 B1 32 5C AE 3C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-55 ENC2 =  =  = 2026-10-29 20:43
+0 11500 V 6800 = NO KEY = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) =  =  =  =  =  = 2026-10-29 21:52
 130 12582 V 7199 = 42 34 10 86 D3 A8 7E F9 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = LEHF-CLM-KRI-SZE =  =  = 2026-10-29 16:41
 130 10830 V 7199 = 98 7E 18 2E D1 35 AA B0 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-GOG-SPO =  =  = 2026-10-29 18:43
 130 11666 H 7199 = 3C D7 D5 E8 1A 62 2E AA = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-BER-PAR =  =  = 2026-10-29 18:52
