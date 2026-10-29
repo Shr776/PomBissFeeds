@@ -1,3 +1,4 @@
+130 11094 H 7199 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main =  =  = 2026-10-29 21:55
 20 12507 H 9601 = 1A AA 62 26 C1 1C 73 50 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-29 18:46
 20 12637 H 9601 = 93 1C 7C 2B 1A 53 41 AE = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-29 20:49
 130 11616 H 9600 = 44 23 A2 09 13 23 32 68 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = G55 Via1 =  =  = 2026-10-29 20:54
@@ -14,7 +15,6 @@
 70 11516 H 7199 = 12 34 AB F1 CD 20 26 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = CRO-004 CEV CL Main =  =  = 2026-10-29 19:48
 130 11108 H 7200 = D1 02 9E 71 02 FF EE EF = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4.2.2 = UKI-1462-MAIN =  =  = 2026-10-29 21:10
 70 11516 H 7199 = 12 34 AB F1 CD 20 26 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = CRO-004 CEV CL Main =  =  = 2026-10-29 22:18
-130 11094 H 7199 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main =  =  = 2026-10-29 21:55
 1005 3860 V 29998 = 1B 95 53 03 F5 DF 25 F9 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-29 07:47
 160 10985 V 9600 = FB A1 15 B1 32 5C AE 3C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-55 ENC2 =  =  = 2026-10-29 20:43
 0 11500 V 6800 = NO KEY = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) =  =  =  =  =  = 2026-10-29 21:52
