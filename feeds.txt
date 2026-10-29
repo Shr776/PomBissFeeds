@@ -23,8 +23,6 @@
 130 11666 H 7199 = 3C D7 D5 E8 1A 62 2E AA = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-BER-PAR =  =  = 2026-10-29 18:52
 130 10820 H 7199 = 00 10 F4 04 60 D9 03 3C = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-BER-PAR =  =  = 2026-10-29 20:20
 130 10838 V 7200 = AB C1 A1 0D 73 CD EF 2F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Enc 5 =  =  = 2026-10-29 20:57
-130 11067 H 7200 = 74 90 B2 B6 1B 86 24 C5 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-29 11:05
-1005 4164 H 7200 = FF CC D1 9C 03 0E 01 12 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = GCUK Encoder 2 =  =  = 2026-10-29 20:56
 70 11517 H 7200 = BC F3 F4 A3 56 21 51 C8 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = 4.2.0 = ENC =  =  = 2026-10-29 00:11
 130 11592 H 9874 = F5 21 AF C5 F1 8E E8 67 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-29 15:13
 130 11187 V 9874 = 69 6C C1 96 E8 D4 5B 17 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = AUT34BU-M01 =  =  = 2026-10-29 15:13
