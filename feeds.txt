@@ -1,14 +1,23 @@
-70 11516 H 7199 = 20 26 AB F1 CD 12 34 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = CRO-004 CEV CL Main =  =  = 2026-10-29 17:55
 130 11071 V 7199 = D1 0A C8 A3 04 EB 73 62 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-10-29 17:48
 130 11062 V 7199 = D1 0A C8 A3 04 EB 73 62 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC006A Main =  =  = 2026-10-29 17:49
-130 11067 H 7200 = 74 90 B2 B6 1B 86 24 C5 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-29 11:05
-216 0200 H  = FE ED 29 14 10 20 26 56 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-10-29 17:48
+130 11088 V 7199 = D1 0A C8 A3 04 EB 73 62 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MCR 005 MAIN =  =  = 2026-10-29 20:22
+130 11080 V 7199 = D1 0A C8 A3 04 EB 73 62 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC004-MAIN =  =  = 2026-10-29 20:38
+48 11484 V 11243 = F3 11 AB AF CD 29 10 06 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = Astra 4A ( 4.8E ) = HD =  =  =  = 2026-10-29 18:57
+0 10965 V 11243 = F3 07 AB A5 CD 29 10 06 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E =  = HD =  =  =  = 2026-10-29 20:24
+130 12582 V 7199 = 42 34 10 86 D3 A8 7E F9 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = LEHF-CLM-KRI-SZE =  =  = 2026-10-29 16:41
+130 10830 V 7199 = 98 7E 18 2E D1 35 AA B0 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-GOG-SPO =  =  = 2026-10-29 18:43
+130 11666 H 7199 = 3C D7 D5 E8 1A 62 2E AA = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-BER-PAR =  =  = 2026-10-29 18:52
+130 10820 H 7199 = 00 10 F4 04 60 D9 03 3C = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-BER-PAR =  =  = 2026-10-29 20:20
+160 12594 H 9874 = 29 10 DB 14 EA 50 97 D1 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Bremen =  =  = 2026-10-29 20:06
+70 11516 H 7199 = 12 34 AB F1 CD 20 26 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = CRO-004 CEV CL Main =  =  = 2026-10-29 19:48
+20 12507 H 9601 = 1A AA 62 26 C1 1C 73 50 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-29 18:46
 70 11517 H 7200 = BC F3 F4 A3 56 21 51 C8 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = 4.2.0 = ENC =  =  = 2026-10-29 00:11
 130 11592 H 9874 = F5 21 AF C5 F1 8E E8 67 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-10-29 15:13
 130 11187 V 9874 = 69 6C C1 96 E8 D4 5B 17 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = AUT34BU-M01 =  =  = 2026-10-29 15:13
 130 11212 V 9874 = 30 BE 11 FF E3 0C 17 06 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = UKI1980 M9 Main =  =  = 2026-10-29 17:12
 130 11200 V 9874 = 34 35 60 C9 E5 FE E2 C5 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = UWCL M3 BACKUP =  =  = 2026-10-29 17:28
-130 12582 V 7199 = 42 34 10 86 D3 A8 7E F9 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = LEHF-CLM-KRI-SZE =  =  = 2026-10-29 16:41
+130 12689 H 7199 = 59 F1 27 71 23 54 1E 95 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 2 =  =  = 2026-10-29 18:07
+130 12679 H 7199 = D8 27 CD CC 83 53 24 FA = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 1 =  =  = 2026-10-29 18:32
 160 3808 H 7199 = 48 3D B7 3C 3A 72 7E 2A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = TBS ADHOC ENC 3 = Adelaide United vs Lion City Sailors =  = 2026-10-29 10:37
 160 11162 H 7200 = E7 47 E7 15 2A BE 1C 04 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = 2026 AFC A =  =  = 2026-10-29 12:03
 1005 4181 V 7199 = 1C FE 59 73 74 9F D8 EB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = 56896_M = Asia - AFC Champions League Two (Matchday 3) = Gangwon FC vs Kuching City FC = 2026-10-29 13:09
@@ -20,14 +29,20 @@
 160 11172 H 7199 = BA 5D 00 17 99 BB F6 4A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-29 14:53
 1005 4165 V 7199 = CC 19 77 5C 0A 93 66 03 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = ENC-1 MAIN = Asia - AFC Champions League Two (Matchday 3) = Shanghai Shenhua FC vs FC Machida Zelvia = 2026-10-29 14:58
 1005 3975 V 7200 = BA 5D 00 17 99 BB F6 4A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = DSNG1-1 =  =  = 2026-10-29 15:30
-160 11172 H 7199 = BA 5D 00 17 99 BB F6 4A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-29 15:31
+130 11067 H 7200 = 74 90 B2 B6 1B 86 24 C5 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-29 11:05
 1005 3945 V 7200 = AE B3 AC 0D DF A2 D4 55 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-10-29 06:44
 765 4027 H 7200 = 1A AA 45 09 95 12 34 DB = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 = Tri-Nation Series-2026 =  =  = 2026-10-29 10:41
 1005 3860 V 29998 = 1B 95 53 03 F5 DF 25 F9 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-29 07:47
+160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = pol-052_harm =  =  = 2026-10-29 15:43
+160 11188 H 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-141 ENC1 = STS Polish Cup - 2nd round match: Polonia Warszawa - Korona Kielce =  = 2026-10-29 20:21
+160 12597 V 4936 = 20 10 20 50 25 20 26 6B = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-29 20:01
+216 0200 H  = FE ED 29 14 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-10-29 19:59
+260 11642 V 8400 = FE ED AF 9A DD AD 01 8B = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_MAIN =  =  = 2026-10-29 16:29
+260 12629 V 7500 = FE ED AF 9A DD AD 02 8C = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = EGY-HD22 =  =  = 2026-10-29 19:47
+130 10848 V 7200 = ED 83 EA 5A 22 54 5C D2 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Enc 03 = LET Golf 2026 Wistron Ladies Open Round 1 =  = 2026-10-29 19:40
 160 11601 H 3500 = A1 12 DF 92 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 16D ( 16E ) = 4.2.0 = ISH-SNG01-E1 =  =  = 2026-10-29 16:25
 260 11596 H 3500 = A2 12 DF 93 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = ENC1 =  =  = 2026-10-29 16:48
-260 11642 V 8400 = FE ED AF 9A DD AD 01 8B = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_MAIN =  =  = 2026-10-29 16:29
-160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = pol-052_harm =  =  = 2026-10-29 15:43
-400 11155 V 4400 = 21 3A 55 B0 59 44 C7 64 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Express AM7 ( 40E ) = 4.2.0 = SNG 02 - Chain A =  =  = 2026-10-29 15:43
+160 11601 H 3500 = A3 12 DF 94 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 16D ( 16E ) = 4.2.0 = ISH-ENC1 =  =  = 2026-10-29 18:34
 400 11144 V 4400 = 21 3A 55 B0 59 44 C7 64 = JUDO  KARATE FEEDS = Express AM7 ( 40E ) = 4.2.0 = SNG 01 - Chain A =  =  = 2026-10-29 15:14
-130 10848 V 7200 = ED 83 EA 5A 22 54 5C D2 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = GCUK Enc 03 = LET Golf 2026 Wistron Ladies Open Round 1 =  = 2026-10-29 09:18
+360 12516 V 7200 = 29 BB FE E2 ED A1 31 BF = JUDO  KARATE FEEDS = Eutelsat 36D ( 36E ) = 4.2.0 = SNG 07 - CHAIN A =  =  = 2026-10-29 18:17
+400 11155 V 4400 = 21 3A 55 B0 59 44 C7 64 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Express AM7 ( 40E ) = 4.2.0 = SNG 02 - Chain A =  =  = 2026-10-29 15:43
