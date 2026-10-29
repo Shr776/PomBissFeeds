@@ -7,7 +7,8 @@
 20 12704 V 9600 = 52 A2 23 17 AC 24 17 E7 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD = G22 MAIN FIM JEREZ =  =  = 2026-10-29 21:06
 20 12633 V 9600 = 52 A2 23 17 AC 24 17 E7 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD = G22 BU FIM JEREZ =  =  = 2026-10-29 21:11
 130 11622 V 9600 = 93 1C 7C 2B 1A 53 41 AE = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = E115- G65 VIA 2 =  =  = 2026-10-29 22:57
-1005 3966 V 7119 = 14 55 CC 35 AD 35 21 03 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = SD | 1920x1080i | 4:2:0 = BT_SES_24_SDI = England - EFL Carabo Cup (Round of 16) = Everton vs Newcastle United = 2026-10-29 22:28
+130 11083 H 9600 = 52 A2 23 17 AC 24 17 E7 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi01 ACB =  =  = 2026-10-29 23:32
+1005 3966 V 7119 = 14 55 CC 35 AD 35 21 03 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = SD | 1920x1080i | 4:2:0 = BT_SES_24_SDI = England - EFL Carabao Cup (Round of 16) = Everton vs Newcastle United = 2026-10-29 22:28
 130 11070 V 7120 = 14 55 CC 35 AD 35 21 03 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = Carabo =  =  = 2026-10-29 22:33
 30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 3B ( 3E ) = 4:2:0 = beIN SPORTS =  =  = 2026-10-29 22:37
 70 11516 H 7199 = 12 34 AB F1 CD 20 26 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = CRO-004 CEV CL Main =  =  = 2026-10-29 19:48
@@ -53,6 +54,7 @@
 1005 3975 V 7200 = BA 5D 00 17 99 BB F6 4A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = DSNG1-1 =  =  = 2026-10-29 15:30
 1005 3945 V 7200 = AE B3 AC 0D DF A2 D4 55 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-10-29 06:44
 765 4027 H 7200 = 1A AA 45 09 95 12 34 DB = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 = Tri-Nation Series-2026 =  =  = 2026-10-29 10:41
+130 10810 H 7199 = D1 02 9E 71 01 FF DD DD = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISI GP2 Kelowna =  =  = 2026-10-29 23:51
 160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = pol-052_harm =  =  = 2026-10-29 15:43
 160 11188 H 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-141 ENC1 = STS Polish Cup - 2nd round match: Polonia Warszawa - Korona Kielce =  = 2026-10-29 20:21
 160 10973 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL 076 = STS Polish Cup - 2nd round match: Odra Opole - Śląsk Wrocław =  = 2026-10-29 21:20
