@@ -6,6 +6,8 @@
 160 11188 H 7199 = NO KEY = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = hd | 4:2:0 = 56896_M =  =  = 2026-10-29 13:30
 160 11152 H 7199 = CC 19 77 5C 0A 93 66 03 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = ENC-1 MAIN =  =  = 2026-10-29 13:45
 160 11144 H 7199 = D0 06 7D 53 80 30 69 19 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = ENC-2 =  =  = 2026-10-29 13:49
+160 11172 H 7199 = BA 5D 00 17 99 BB F6 4A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-29 14:53
+1005 4165 V 7199 = CC 19 77 5C 0A 93 66 03 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = ENC-1 MAIN = Asia - AFC Champions League Two (Matchday 3) = Shanghai Shenhua FC vs FC Machida Zelvia = 2026-10-29 14:58
 130 11067 H 7200 = 74 90 B2 B6 1B 86 24 C5 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-29 11:05
 1005 3945 V 7200 = AE B3 AC 0D DF A2 D4 55 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-10-29 06:44
 765 4027 H 7200 = 1A AA 45 09 95 12 34 DB = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 = Tri-Nation Series-2026 =  =  = 2026-10-29 10:41
