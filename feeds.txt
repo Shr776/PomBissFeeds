@@ -1,3 +1,4 @@
+130 12582 V 7199 = 42 34 10 86 D3 A8 7E F9 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = LEHF-CLM-KRI-SZE =  =  = 2026-10-29 16:41
 160 3808 H 7199 = 48 3D B7 3C 3A 72 7E 2A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = TBS ADHOC ENC 3 = Adelaide United vs Lion City Sailors =  = 2026-10-29 10:37
 160 11162 H 7200 = E7 47 E7 15 2A BE 1C 04 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = 2026 AFC A =  =  = 2026-10-29 12:03
 1005 4181 V 7199 = 1C FE 59 73 74 9F D8 EB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = 56896_M = Asia - AFC Champions League Two (Matchday 3) = Gangwon FC vs Kuching City FC = 2026-10-29 13:09
@@ -17,6 +18,9 @@
 1005 3945 V 7200 = AE B3 AC 0D DF A2 D4 55 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-10-29 06:44
 765 4027 H 7200 = 1A AA 45 09 95 12 34 DB = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 = Tri-Nation Series-2026 =  =  = 2026-10-29 10:41
 1005 3860 V 29998 = 1B 95 53 03 F5 DF 25 F9 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-10-29 07:47
+160 11601 H 3500 = A1 12 DF 92 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 16D ( 16E ) = 4.2.0 = ISH-SNG01-E1 =  =  = 2026-10-29 16:25
+260 11596 H 3500 = A2 12 DF 93 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = ENC1 =  =  = 2026-10-29 16:48
+260 11642 V 8400 = FE ED AF 9A DD AD 01 8B = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_MAIN =  =  = 2026-10-29 16:29
 160 10985 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = pol-052_harm =  =  = 2026-10-29 15:43
 400 11155 V 4400 = 21 3A 55 B0 59 44 C7 64 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Express AM7 ( 40E ) = 4.2.0 = SNG 02 - Chain A =  =  = 2026-10-29 15:43
 400 11144 V 4400 = 21 3A 55 B0 59 44 C7 64 = JUDO  KARATE FEEDS = Express AM7 ( 40E ) = 4.2.0 = SNG 01 - Chain A =  =  = 2026-10-29 15:14
