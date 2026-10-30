@@ -1,8 +1,12 @@
-30 11462 V 8021 = FA D1 10 DB 30 CC 06 02 = BELGIAN FOOTBALL @ 7°E 10°E = Eutelsat 3B ( 3E ) = HD =  =  =  = 2026-10-30 21:44
 160 12639 V 7200 = F4 94 41 C9 25 30 F1 46 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = PRO D2 COLOMIER = PRO D2 - Colomiers vs Agen =  = 2026-10-30 20:50
 160 12654 V 7200 = F5 09 41 3F 30 30 F1 51 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 =  = PRO D2 - Oyonnax vs Soyaux-Angouleme =  = 2026-10-30 20:55
 420 12534 V 7199 = F1 95 41 C7 28 30 F1 49 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-30 21:13
 420 12525 V 7199 = F5 11 41 47 27 30 F1 48 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD = F512 PROD2 BEZIERS MAIN =  =  = 2026-10-30 21:15
+160 12646 V 7200 = F4 86 41 BB 29 30 F1 4A = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 =  = PRO D2 - Nice vs Aurillac =  = 2026-10-30 22:12
+130 11619 V 7119 = C9 99 E6 48 54 A1 23 18 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-30 22:40
+160 12629 V 7200 = F6 41 41 78 31 30 F1 52 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = F641 PROD2 NEVERS MAIN = PRO D2 - =  = 2026-10-30 22:58
+130 11062 V 7119 = 31 4A 32 AD C3 BC 3E BD = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = PITCH - =  =  = 2026-10-30 22:57
+30 11462 V 8021 = FA D1 10 DB 30 CC 06 02 = BELGIAN FOOTBALL @ 7°E 10°E = Eutelsat 3B ( 3E ) = HD =  =  =  = 2026-10-30 21:44
 160 12627 V 4936 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-30 19:50
 130 12553 H 7199 = 20 26 AB F1 CD 20 27 14 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-30 20:54
 130 11071 V 7199 = 18 5F D2 49 43 82 66 2B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = EUROLEAGUE ROUND 09 BACK-UP =  =  = 2026-10-30 20:55
@@ -18,6 +22,7 @@
 1005 3945 V 7200 = A5 E4 A2 2B C3 5C AF CE = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-10-30 08:43
 130 11106 H 9600 = AB 29 10 E4 20 26 BA 00 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E 95 main =  =  = 2026-10-30 00:28
 160 10985 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-110 = Betclic 2. Liga - match: Sandecja Nowy Sącz - Olimpia Grudziądz =  = 2026-10-30 21:11
+160 10973 V 9601 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-141 ENC1 = Betclic 1. Liga - match: Pogoń Grodzisk Mazowiecki - FKS Stal Mielec =  = 2026-10-30 22:04
 420 11149 V 7199 = 17 59 C4 34 07 C7 FD CB = Water Sports (Swimming Water Polo: Various Satellites) = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA 646 B =  =  = 2026-10-30 19:27
 216 0200 H  = FE ED 30 1B 10 20 26 56 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 21C ( 21.6E ) = hd =  =  =  = 2026-10-30 20:07
 160 11601 H 3500 = A1 12 DF 92 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 16D ( 16E ) = 4.2.0 = ISH-SNG01-E1 =  =  = 2026-10-30 17:20
