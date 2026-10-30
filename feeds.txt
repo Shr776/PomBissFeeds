@@ -1,3 +1,4 @@
+160 12511 V 7200 = AB BA 30 95 10 20 26 56 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16D ( 16E ) = 4:2:0 = E-228 Main = Portuguese championship - Leixoes vs Sporting =  = 2026-10-30 23:03
 160 12639 V 7200 = F4 94 41 C9 25 30 F1 46 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = PRO D2 COLOMIER = PRO D2 - Colomiers vs Agen =  = 2026-10-30 20:50
 160 12654 V 7200 = F5 09 41 3F 30 30 F1 51 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 =  = PRO D2 - Oyonnax vs Soyaux-Angouleme =  = 2026-10-30 20:55
 420 12534 V 7199 = F1 95 41 C7 28 30 F1 49 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-10-30 21:13
