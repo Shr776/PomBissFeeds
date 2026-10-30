@@ -14,7 +14,6 @@
 130 11068 H 7199 = 7A 28 58 FA 92 E3 2B A0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 315 MAIN =  =  = 2026-10-30 21:08
 420 10974 V 7500 = 5A B6 5F 6F F5 87 5C D8 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 =  =  =  = 2026-10-30 20:04
 130 11080 V 7199 = AB CD 12 8A 34 EF FF 22 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = F512 Martigues main =  =  = 2026-10-30 19:36
-130 11617 V 8020 = 57 61 12 CA AC 89 D5 0A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:2 = Fi11_GNVE =  =  = 2026-10-30 17:40
 130 11067 H 7200 = 74 90 B2 B6 1B 86 24 C5 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = UFC BJJ 13 =  = 2026-10-30 01:49
 130 11591 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = MCUK NOC =  =  = 2026-10-30 17:31
 1005 3807 V 9875 = E2 F7 65 3E 09 43 EB 37 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-30 05:03
