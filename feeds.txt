@@ -1,5 +1,5 @@
+160 12627 V 4936 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-10-30 19:50
 130 11080 V 7199 = AB CD 12 8A 34 EF FF 22 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = F512 Martigues main =  =  = 2026-10-30 19:36
-160 11188 H 7199 = 63 12 F8 6D 1D C7 04 E8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = Cubic073-M =  =  = 2026-10-30 19:10
 130 11617 V 8020 = 57 61 12 CA AC 89 D5 0A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:2 = Fi11_GNVE =  =  = 2026-10-30 17:40
 130 11067 H 7200 = 74 90 B2 B6 1B 86 24 C5 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = UFC BJJ 13 =  = 2026-10-30 01:49
 130 11591 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = MCUK NOC =  =  = 2026-10-30 17:31
