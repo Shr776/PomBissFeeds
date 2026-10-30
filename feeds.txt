@@ -1,10 +1,12 @@
+1005 3807 V 9875 = E2 F7 65 3E 09 43 EB 37 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-30 05:03
+130 12680 H 9875 = 99 F6 38 C7 06 87 AA 37 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-23 = World Rally Championship =  = 2026-10-30 15:38
 160 10976 V 4800 = AB BA 26 8B DC AE 10 9A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 = POL-033 out1 =  =  = 2026-10-30 14:30
 1005 3840 H 30000 = C0 3D 0D 0A EB DA C9 8E = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 1 =  =  = 2026-10-30 12:49
 130 11628 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = AFLW = AFLW Women's - Geelong Cats vs Western Bulldogs =  = 2026-10-30 11:31
 1005 3945 V 7200 = A5 E4 A2 2B C3 5C AF CE = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-10-30 08:43
-1005 3807 V 9875 = E2 F7 65 3E 09 43 EB 37 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-30 05:03
 130 11067 H 7200 = 74 90 B2 B6 1B 86 24 C5 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = UFC BJJ 13 =  = 2026-10-30 01:49
 130 11106 H 9600 = AB 29 10 E4 20 26 BA 00 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E 95 main =  =  = 2026-10-30 00:28
+130 11082 H 7200 = D4 A6 8E 08 1B 93 F7 A5 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Hylo Open = BWF WORLD TOUR - HYLO Open 2026 =  = 2026-10-30 15:14
 130 10802 H 7200 = 10 10 AA CA CC 56 DE 00 = Weightlifting  Feeds (7°E10°E100.5E55W etc..) = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Encoder 2 =  =  = 2026-10-30 14:29
 1005 4115 H 7500 = 29 10 BA F3 D2 CA 11 AD = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-30 14:22
 1005 4145 H 7200 = D1 02 9E 71 01 FF DD DD = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 = ISU GP2 Kelowna =  =  = 2026-10-30 00:54
