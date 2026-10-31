@@ -1,21 +1,27 @@
+160 12546 H 7200 = AA BB 20 85 26 10 31 67 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Portuga lLiga Portugal 2 - Round 9 = Amarante FC Porto B Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 13:51
+130 11109 H 7198 = 31 10 20 61 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Portugal Liga Portugal 2 - Round 9 = Portimonense Torreense Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-31 16:53
+215 10983 V 7500 = 3A FF 16 4F BC E7 6A 0D = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Eutelsat 21B ( 21.5E ) = 4.2.2 = TUR-215-A =  =  = 2026-10-31 13:30
+420 10966 V 7500 = 1B 74 51 E0 FA 57 DA 2B = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 =  =  =  = 2026-10-31 16:31
+160 12512 V 7200 = F4 A8 C1 5D E7 D2 93 4C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Greece Basket League - Round 5 = Vikos AEK Athens Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 16:11
 1005 3974 V 7119 = 77 20 93 2A 0D 32 5F 9E = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD =  =  =  = 2026-10-31 15:20
 130 11062 V 7119 = 82 99 F4 0F 4A 32 2B A7 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = PITCH - EFL Stoke City v =  =  = 2026-10-31 15:23
 360 11649 V 15000 = CB 12 32 0F A6 5A CE CE = BOXING all satellites feeds (10E .....) = Eutelsat 36D ( 36E ) = 4.2.0 = TUR-162 MAIN =  =  = 2026-10-31 14:27
 160 12652 H 15000 = CB 12 32 0F A6 5A CE CE = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:0 = SAU033-MAIN = Christian Mbilli vs. Canelo Álvarez: =  = 2026-10-31 15:11
 160 12515 H 15000 = BB 14 3C 0B A6 5A CE CE = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:0 = DAZN-Canelo v Mbilli Fight = Christian Mbilli vs. Canelo Álvarez: =  = 2026-10-31 15:21
+1005 3860 V 30000 = 3C 55 09 9A 87 9D 4F 73 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-31 11:35
 1005 3860 V 30000 = 3C 55 09 9A 87 9D 4F 73 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = Fi18_GNVE =  =  = 2026-10-31 14:25
-1005 3860 V 30000 = 3C 55 09 9A 87 9D 4F 73 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-31 11:35
-1005 3860 V 30000 = 3C 55 09 9A 87 9D 4F 73 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-31 14:55
-160 12546 H 7200 = AA BB 20 85 26 10 31 67 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Portuga lLiga Portugal 2 - Round 9 = Amarante FC Porto B Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 13:51
-215 10983 V 7500 = 3A FF 16 4F BC E7 6A 0D = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Eutelsat 21B ( 21.5E ) = 4.2.2 = TUR-215-A =  =  = 2026-10-31 13:30
+1005 3860 V 30000 = 3C 55 09 9A 87 9D 4F 73 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-31 14:55
 130 11067 H 7200 = 72 4C 9D 5B B4 34 84 6C = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch =  = 2026-10-31 11:51
 1005 3945 V 7200 = A5 E4 A2 2B C3 5C AF CE = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-31 07:01
 765 4027 H 7199 = 55 66 BB 76 BA 42 35 31 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = HD =  =  =  = 2026-10-31 10:47
 1005 3840 H 29998 = F2 53 80 C5 FF 4F E7 35 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-31 09:00
 1005 3807 V 9875 = 04 CE 4C 1E F4 09 57 54 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-31 05:00
 130 11068 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-31 01:55
-420 11049 V 7200 = 13 57 AB 15 CD 24 68 59 = Darts Tournaments 10°E7°E1°W = Türksat 3A/4A/5B/6A ( 42E ) = HD = FIG HUN =  =  = 2026-10-31 15:37
 160 12594 H 7200 = D1 02 AC 7F DC 31 10 1D = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4:2:2 | HD =  = Poland Ekstraliga Women - Round 9 = Czarni Sosnowiec W Pogon Szczecin W Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 15:23
+160 10986 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4:2:0 | HD = TVP POL-32  ENC 1 = Teams : = Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 17:00
+130 11082 H 7200 = D4 A6 8E 08 1B 93 F7 A5 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Hylo Open = BWF WORLD TOUR - HYLO Open 2026 =  = 2026-10-31 16:15
+160 11192 H 4938 = AF 2A F1 CA 48 05 09 56 = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  =  =  = 2026-10-31 16:13
+420 11049 V 7200 = 13 57 AB 15 CD 24 68 59 = Darts Tournaments 10°E7°E1°W = Türksat 3A/4A/5B/6A ( 42E ) = HD = FIG HUN =  =  = 2026-10-31 15:37
 160 12630 H 7200 = BE BE 10 8C 26 11 25 5C = WRESTLING WORLD CHAMPIONSHIP 10E7E = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = 𝗪𝗥𝗘𝗦𝗧𝗟𝗜𝗡𝗚 𝗪𝗢𝗥𝗟𝗗 𝗖𝗛𝗔𝗠𝗣𝗜𝗢𝗡𝗦𝗛𝗜𝗣𝗦 =  = 2026-10-31 14:48
 1005 4107 H 7200 = AB 24 20 EF 26 10 11 47 = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = 𝗪𝗥𝗘𝗦𝗧𝗟𝗜𝗡𝗚 𝗪𝗢𝗥𝗟𝗗 𝗖𝗛𝗔𝗠𝗣𝗜𝗢𝗡𝗦𝗛𝗜𝗣𝗦 =  = 2026-10-31 14:58
 1005 4116 H 7200 = BE BE 10 44 26 11 25 33 = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = 𝗪𝗥𝗘𝗦𝗧𝗟𝗜𝗡𝗚 𝗪𝗢𝗥𝗟𝗗 𝗖𝗛𝗔𝗠𝗣𝗜𝗢𝗡𝗦𝗛𝗜𝗣𝗦 =  = 2026-10-31 15:00
