@@ -1,12 +1,15 @@
+1005 3860 V 30000 = 3C 55 09 9A 87 9D 4F 73 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-31 11:35
+1005 3860 V 30000 = 3C 55 09 9A 87 9D 4F 73 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-31 14:55
+360 11649 V 15000 = CB 12 32 0F A6 5A CE CE = BOXING all satellites feeds (10E .....) = Eutelsat 36D ( 36E ) = 4.2.0 = TUR-162 MAIN =  =  = 2026-10-31 14:27
 160 12546 H 7200 = AA BB 20 85 26 10 31 67 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Portuga lLiga Portugal 2 - Round 9 = Amarante FC Porto B Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 13:51
 215 10983 V 7500 = 3A FF 16 4F BC E7 6A 0D = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Eutelsat 21B ( 21.5E ) = 4.2.2 = TUR-215-A =  =  = 2026-10-31 13:30
 130 11067 H 7200 = 72 4C 9D 5B B4 34 84 6C = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch =  = 2026-10-31 11:51
-1005 3840 H 30000 = 3C 55 09 9A 87 9D 4F 73 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-31 11:35
 1005 3945 V 7200 = A5 E4 A2 2B C3 5C AF CE = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-31 07:01
 765 4027 H 7199 = 55 66 BB 76 BA 42 35 31 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = HD =  =  =  = 2026-10-31 10:47
 1005 3840 H 29998 = F2 53 80 C5 FF 4F E7 35 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-31 09:00
 1005 3807 V 9875 = 04 CE 4C 1E F4 09 57 54 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-31 05:00
 130 11068 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-31 01:55
+160 12630 H 7200 = BE BE 10 8C 26 11 25 5C = WRESTLING WORLD CHAMPIONSHIP 10E7E = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = 𝗪𝗥𝗘𝗦𝗧𝗟𝗜𝗡𝗚 𝗪𝗢𝗥𝗟𝗗 𝗖𝗛𝗔𝗠𝗣𝗜𝗢𝗡𝗦𝗛𝗜𝗣𝗦 =  = 2026-10-31 14:48
 130 10802 H 7200 = 10 10 AA CA CC 56 DE 00 = Weightlifting  Feeds (7°E10°E100.5E55W etc..) = HotBird 13F/13G ( 13E ) = 4.2.0 | 4:2:0 | HD = GCUK Encoder 2 =  =  = 2026-10-31 13:59
 0 11674 V 7200 = 05 26 88 B3 13 4D BD 1D = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W =  = 4.2.0 = No name =  =  = 2026-10-31 11:26
 420 11686 H 5000 = 31 10 20 61 26 DE DE E2 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.0 = ARTI BIR YAPIM MAIN =  =  = 2026-10-31 12:56
