@@ -5,6 +5,10 @@
 216 11667 H 6666 = A5 5D 99 9B 9B 45 67 47 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 21C ( 21.6E ) = 4.2.0 = FRBEIN _ENC_01 =  =  = 2026-10-31 18:51
 20 12624 H 7199 = 31 10 FC 3D DC 68 79 BD = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-31 18:56
 130 11595 H 14399 = 28 0D 6D A2 BF 6C 58 83 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:2 | HD | 1920x1080 =  = Germany Bundesliga - Round 8 = Bayern Munich Dortmund Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-31 19:55
+130 11635 V 9875 = DA 29 DD E0 25 64 D9 62 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = D565 MCHN E12 M =  =  = 2026-10-31 20:30
+130 11067 H 7200 = 72 4C 9D 5B B4 34 84 6C = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch =  = 2026-10-31 11:51
+130 12698 H 7199 = 72 4C 9D 5B B4 34 85 6D = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 1 =  =  = 2026-10-31 20:13
+130 10866 H 7199 = B1 58 4C 55 B3 CC A8 27 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-10-31 20:08
 -8 10964 V 7500 = NO KEY = BELGIAN FOOTBALL @ 7°E 10°E = Thor 5/6/7 ( 0.8W ) = HD =  =  =  = 2026-10-31 19:42
 160 12512 V 7200 = F4 A8 C1 5D E7 D2 93 4C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Greece Basket League - Round 5 = Vikos AEK Athens Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 16:11
 1105 11050 V 7500 = 5E 8D 43 2E 4E 48 FC 92 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ChinaSat 10 ( 110.5E ) = 4.2.2 = E333 M =  =  = 2026-10-31 19:03
@@ -27,12 +31,12 @@
 360 11649 V 15000 = CB 12 32 0F A6 5A CE CE = BOXING all satellites feeds (10E .....) = Eutelsat 36D ( 36E ) = 4.2.0 = TUR-162 MAIN =  =  = 2026-10-31 14:27
 160 12652 H 15000 = CB 12 32 0F A6 5A CE CE = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:0 = SAU033-MAIN = Christian Mbilli vs. Canelo Álvarez: =  = 2026-10-31 15:11
 160 12515 H 15000 = BB 14 3C 0B A6 5A CE CE = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:0 = DAZN-Canelo v Mbilli Fight = Christian Mbilli vs. Canelo Álvarez: =  = 2026-10-31 15:21
-130 11067 H 7200 = 72 4C 9D 5B B4 34 84 6C = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch =  = 2026-10-31 11:51
 1005 3945 V 7200 = A5 E4 A2 2B C3 5C AF CE = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-31 07:01
 765 4027 H 7199 = 55 66 BB 76 BA 42 35 31 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = HD =  =  =  = 2026-10-31 10:47
 1005 3840 H 29998 = F2 53 80 C5 FF 4F E7 35 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-31 09:00
 1005 3807 V 9875 = 04 CE 4C 1E F4 09 57 54 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-31 05:00
 130 11068 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-31 01:55
+216 11590 H 4000 = FE ED 31 1C 10 20 26 56 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) = 4:2:0 = MRC-003 MAIN =  =  = 2026-10-31 20:22
 30 11576 H 5000 = 10 45 20 75 10 45 20 75 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 3B ( 3E ) = 4.2.0 = Grapefruit =  =  = 2026-10-31 18:04
 390 11468 H 4998 = 20 77 20 B7 77 20 77 0E = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Hellas Sat 3/4 ( 39E ) = 4:2:0 =  =  =  = 2026-10-31 18:23
 160 11601 H 3500 = C3 12 DF B4 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 16D ( 16E ) = 4.2.0 = sng_1 =  =  = 2026-10-31 19:16
