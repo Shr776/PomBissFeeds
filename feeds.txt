@@ -1,14 +1,16 @@
-70 11082 V 7500 = A1 B2 C3 16 D4 E5 D6 8F = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) =  = ITA349 M =  =  = 2026-10-31 19:02
 1005 3860 V 30000 = 3C 55 09 9A 87 9D 4F 73 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-10-31 11:35
 1005 3860 V 30000 = 3C 55 09 9A 87 9D 4F 73 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = Fi18_GNVE =  =  = 2026-10-31 14:25
 1005 3860 V 30000 = 3C 55 09 9A 87 9D 4F 73 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-10-31 14:55
 192 11648 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4:2:2 | HD = MMG-D185 HD Encoder  2 = German Regionalliga Nordost - Aue vs Jena =  = 2026-10-31 17:21
 216 11667 H 6666 = A5 5D 99 9B 9B 45 67 47 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 21C ( 21.6E ) = 4.2.0 = FRBEIN _ENC_01 =  =  = 2026-10-31 18:51
 20 12624 H 7199 = 31 10 FC 3D DC 68 79 BD = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-10-31 18:56
-130 11087 V 9874 = C8 0D 7C 51 8E F9 5D E4 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-31 17:42
-130 11087 V 9874 = C8 0D 7C 51 8E F9 5D E4 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-31 17:49
-130 11087 V 9874 = C8 0D 7C 51 8E F9 5D E4 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-31 18:28
-130 11087 V 9874 = C8 0D 7C 51 8E F9 5D E4 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-31 18:44
+130 11595 H 14399 = 28 0D 6D A2 BF 6C 58 83 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4:2:2 | HD | 1920x1080 =  = Germany Bundesliga - Round 8 = Bayern Munich Dortmund Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-31 19:55
+-8 10964 V 7500 = NO KEY = BELGIAN FOOTBALL @ 7°E 10°E = Thor 5/6/7 ( 0.8W ) = HD =  =  =  = 2026-10-31 19:42
+160 12512 V 7200 = F4 A8 C1 5D E7 D2 93 4C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Greece Basket League - Round 5 = Vikos AEK Athens Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 16:11
+1105 11050 V 7500 = 5E 8D 43 2E 4E 48 FC 92 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ChinaSat 10 ( 110.5E ) = 4.2.2 = E333 M =  =  = 2026-10-31 19:03
+192 11567 V 17000 = 06 F1 B3 AA 77 0F F8 7E = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Astra 1N/1P ( 19.2E ) = 4:2:2 = Nep1 =  =  = 2026-10-31 19:04
+216 11582 H 7200 = FE 31 ED 1C 10 CB 26 01 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 21C ( 21.6E ) = 4:2:0 = MRC002-Main =  =  = 2026-10-31 19:16
+70 11082 V 7500 = A1 B2 C3 16 D4 E5 D6 8F = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) =  = ITA349 M =  =  = 2026-10-31 19:02
 160 12546 H 7200 = AA BB 20 85 26 10 31 67 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Portuga lLiga Portugal 2 - Round 9 = Amarante FC Porto B Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 13:51
 130 11109 H 7198 = 31 10 20 61 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Portugal Liga Portugal 2 - Round 9 = Portimonense Torreense Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-10-31 16:53
 160 12556 H 7200 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Portugal Liga Portugal 2 - Round 9 = Leixoes Sporting CP B = 2026-10-31 18:24
@@ -22,7 +24,6 @@
 130 11071 V 7119 = 77 20 93 2A 0D 32 5F 9E = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = PITCH - EFL Milwall v Derby =  =  = 2026-10-31 17:58
 215 10983 V 7500 = 3A FF 16 4F BC E7 6A 0D = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Eutelsat 21B ( 21.5E ) = 4.2.2 = TUR-215-A =  =  = 2026-10-31 13:30
 420 10966 V 7500 = 1B 74 51 E0 FA 57 DA 2B = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 =  =  =  = 2026-10-31 16:31
-160 12512 V 7200 = F4 A8 C1 5D E7 D2 93 4C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Greece Basket League - Round 5 = Vikos AEK Athens Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 16:11
 360 11649 V 15000 = CB 12 32 0F A6 5A CE CE = BOXING all satellites feeds (10E .....) = Eutelsat 36D ( 36E ) = 4.2.0 = TUR-162 MAIN =  =  = 2026-10-31 14:27
 160 12652 H 15000 = CB 12 32 0F A6 5A CE CE = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:0 = SAU033-MAIN = Christian Mbilli vs. Canelo Álvarez: =  = 2026-10-31 15:11
 160 12515 H 15000 = BB 14 3C 0B A6 5A CE CE = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:0 = DAZN-Canelo v Mbilli Fight = Christian Mbilli vs. Canelo Álvarez: =  = 2026-10-31 15:21
@@ -32,13 +33,20 @@
 1005 3840 H 29998 = F2 53 80 C5 FF 4F E7 35 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-10-31 09:00
 1005 3807 V 9875 = 04 CE 4C 1E F4 09 57 54 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-10-31 05:00
 130 11068 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-10-31 01:55
+30 11576 H 5000 = 10 45 20 75 10 45 20 75 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 3B ( 3E ) = 4.2.0 = Grapefruit =  =  = 2026-10-31 18:04
+390 11468 H 4998 = 20 77 20 B7 77 20 77 0E = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Hellas Sat 3/4 ( 39E ) = 4:2:0 =  =  =  = 2026-10-31 18:23
+160 11601 H 3500 = C3 12 DF B4 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 16D ( 16E ) = 4.2.0 = sng_1 =  =  = 2026-10-31 19:16
+30 11596 H 5000 = C4 12 DF B5 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 3B ( 3E ) = 4.2.0 = ENC1 =  =  = 2026-10-31 19:53
+48 12520 V 4800 = FE ED 10 FB 15 19 97 C5 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Astra 4A ( 4.8E ) = 4.2.0 = STAR AC SAT =  =  = 2026-10-31 19:31
+160 12598 V 4938 = 20 10 20 50 25 20 26 6B = SERBIASRBIJA FOOTBALL (all Satellites) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Serbia Mozzart Bet Super Liga - Round 14 = Macva Crvena zvezda Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 19:08
 160 12594 H 7200 = D1 02 AC 7F DC 31 10 1D = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4:2:2 | HD =  = Poland Ekstraliga Women - Round 9 = Czarni Sosnowiec W Pogon Szczecin W Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 15:23
 160 10986 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4:2:0 | HD = TVP POL-32  ENC 1 = Poland Division 2 - Round 14 = Tychy Zielona Gora Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 17:00
 160 10974 V 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4:2:2 | HD =  = Poland Division 1 - Round 13 = Lechia Gdansk Skierniewice Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 17:07
 160 12595 H 9600 = AB BA 26 8B DC AE 10 9A = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4:2:2 | HD =  = Poland Ekstraklasa - Round 13 = Lech Poznan Wisla Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-10-31 18:46
-30 11576 H 5000 = 10 45 20 75 10 45 20 75 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 3B ( 3E ) = 4.2.0 = Grapefruit =  =  = 2026-10-31 18:04
-390 11468 H 4998 = 20 77 20 B7 77 20 77 0E = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Hellas Sat 3/4 ( 39E ) = 4:2:0 =  =  =  = 2026-10-31 18:23
 390 11456 H 4998 = 20 88 20 C8 88 20 88 30 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Hellas Sat 3/4 ( 39E ) = 4:2:0 =  =  =  = 2026-10-31 18:10
+0 11674 V 7200 = 05 26 88 B3 13 4D BD 1D = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W =  = 4.2.0 = No name =  =  = 2026-10-31 11:26
+420 11686 H 5000 = 31 10 20 61 26 DE DE E2 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.0 = ARTI BIR YAPIM MAIN =  =  = 2026-10-31 12:56
+130 11087 V 9874 = C8 0D 7C 51 8E F9 5D E4 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  =  =  = 2026-10-31 17:42
 130 11082 H 7200 = D4 A6 8E 08 1B 93 F7 A5 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Hylo Open = BWF WORLD TOUR - HYLO Open 2026 =  = 2026-10-31 16:15
 160 11192 H 4938 = AF 2A F1 CA 48 05 09 56 = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  =  =  = 2026-10-31 16:13
 420 11049 V 7200 = 13 57 AB 15 CD 24 68 59 = Darts Tournaments 10°E7°E1°W = Türksat 3A/4A/5B/6A ( 42E ) = HD = FIG HUN =  =  = 2026-10-31 15:37
@@ -46,6 +54,4 @@
 1005 4107 H 7200 = AB 24 20 EF 26 10 11 47 = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = 𝗪𝗥𝗘𝗦𝗧𝗟𝗜𝗡𝗚 𝗪𝗢𝗥𝗟𝗗 𝗖𝗛𝗔𝗠𝗣𝗜𝗢𝗡𝗦𝗛𝗜𝗣𝗦 =  = 2026-10-31 14:58
 1005 4116 H 7200 = BE BE 10 44 26 11 25 33 = WRESTLING WORLD CHAMPIONSHIP 10E7E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = 𝗪𝗥𝗘𝗦𝗧𝗟𝗜𝗡𝗚 𝗪𝗢𝗥𝗟𝗗 𝗖𝗛𝗔𝗠𝗣𝗜𝗢𝗡𝗦𝗛𝗜𝗣𝗦 =  = 2026-10-31 15:00
 130 10802 H 7200 = 10 10 AA CA CC 56 DE 00 = Weightlifting  Feeds (7°E10°E100.5E55W etc..) = HotBird 13F/13G ( 13E ) = 4.2.0 | 4:2:0 | HD = GCUK Encoder 2 =  =  = 2026-10-31 13:59
-0 11674 V 7200 = 05 26 88 B3 13 4D BD 1D = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W =  = 4.2.0 = No name =  =  = 2026-10-31 11:26
-420 11686 H 5000 = 31 10 20 61 26 DE DE E2 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.0 = ARTI BIR YAPIM MAIN =  =  = 2026-10-31 12:56
 130 10810 H 7199 = FF BA D1 8A 03 0E 01 12 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU GP2 Kelowna =  =  = 2026-10-31 04:20
