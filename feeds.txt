@@ -1,3 +1,5 @@
+420 11067 V 7500 = 13 B5 E2 AA AC D5 7D FE = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-01 13:17
+130 11617 H 7200 = E0 ED 8F 5C F4 43 B3 EA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE = Liga Endesa - Joventut vs Bilbao =  = 2026-11-01 13:49
 1005 4008 H 7200 = CF C1 20 B0 26 11 CA 88 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = YUXI 1 =  =  = 2026-11-01 14:41
 1005 4008 H 7200 = CF C1 20 B0 26 11 CA 88 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = YUXI 1 =  =  = 2026-11-01 14:56
 70 11020 H 14399 = F5 77 44 B0 41 01 F1 33 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-11-01 14:36
@@ -5,8 +7,6 @@
 160 11180 H 7199 = 03 6F 8E 00 8C 4F 24 FF = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = Fi09_GNVE =  =  = 2026-11-01 14:03
 130 11655 H 7200 = 03 6F 8E 00 8C 4F 24 FF = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = egy-013 =  =  = 2026-11-01 14:12
 160 12546 H 7200 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4.2.0 = E-73 =  =  = 2026-11-01 13:53
-420 11067 V 7500 = 13 B5 E2 AA AC D5 7D FE = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-01 13:17
-130 11617 H 7200 = E0 ED 8F 5C F4 43 B3 EA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE = Liga Endesa - Joventut vs Bilbao =  = 2026-11-01 13:49
 420 10956 V 7500 = 93 F4 1A A1 47 97 84 62 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 144 M =  =  = 2026-11-01 13:20
 130 11067 H 7200 = 51 31 64 E6 71 84 64 59 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-01 12:17
 130 11591 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Sydney Swans VS Fremantle =  = 2026-11-01 10:06
@@ -14,9 +14,13 @@
 1005 3808 V 9875 = 1A 47 0C 6D 8D 89 AF C5 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-11-01 05:13
 100 10721 H 7500 = A3 9D F2 32 7B 66 C1 A2 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-01 01:08
 130 12702 H 15000 = B5 24 1D F6 2A 31 5A B5 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = WWE EURO =  =  = 2026-11-01 00:29
-216 11667 H 6666 = A4 06 42 EC 0D 41 75 C3 = Squash Feeds CKU BAND = Eutelsat 21C ( 21.6E ) = 4.2.0 = QAT_030_2 =  =  = 2026-11-01 14:58
-216 11667 H 6666 = A4 06 42 EC 0D 41 75 C3 = Squash Feeds CKU BAND = Eutelsat 21C ( 21.6E ) = 4.2.0 = QAT_030_2 =  =  = 2026-11-01 14:59
 1005 3966 V 2480 = NO KEY = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = AsiaSat 5 ( 100.5E ) = 4.2.0 = BREEDERS CUP =  =  = 2026-11-01 07:49
 130 11685 H 7200 = 55 85 65 3F 64 BA 11 2F = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = HotBird 13F/13G ( 13E ) = 4:2:0 = F512 equita main =  =  = 2026-11-01 14:04
+130 11612 V 9874 = C8 0D 7C 51 8E F9 5D E4 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC-008-LONGINES-MAIN =  =  = 2026-11-01 15:43
+1005 3966 V 2480 = NO KEY = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = AsiaSat 5 ( 100.5E ) = 4.2.0 = BREEDERS CUP =  =  = 2026-11-01 15:55
+130 11186 V 7199 = 3E 58 67 FD 89 2F 76 2E = Athletics Marathons etc (10°E 7°E 100.5°E.... etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi15_GNVE =  =  = 2026-11-01 15:50
+130 11637 H 7200 = C5 6A 87 B6 22 75 D8 6F = RowingSailing = HotBird 13F/13G ( 13E ) = 4:2:0 = F521_SUPINT_MAIN =  =  = 2026-11-01 15:27
+216 11667 H 6666 = A4 06 42 EC 0D 41 75 C3 = Squash Feeds CKU BAND = Eutelsat 21C ( 21.6E ) = 4.2.0 = QAT_030_2 =  =  = 2026-11-01 14:58
+216 11667 H 6666 = A4 06 42 EC 0D 41 75 C3 = Squash Feeds CKU BAND = Eutelsat 21C ( 21.6E ) = 4.2.0 = QAT_030_2 =  =  = 2026-11-01 14:59
 160 11125 H 4936 = AF 2A F1 CA 48 05 09 56 = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-01 13:05
 1005 3994 H 7500 = NO KEY = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 = asia pacific amat =  =  = 2026-11-01 07:55
