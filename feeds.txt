@@ -1,3 +1,6 @@
+420 11067 V 7500 = 13 B5 E2 AA AC D5 7D FE = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-01 13:17
+130 11617 H 7200 = E0 ED 8F 5C F4 43 B3 EA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE = Liga Endesa - Joventut vs Bilbao =  = 2026-11-01 13:49
+30 11577 H 5000 = C0 FF EE AD 12 33 21 66 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 3B ( 3E ) = 4.2.0 = SNG MK1 =  =  = 2026-11-01 17:18
 160 12546 H 7200 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4.2.0 = E-73 =  =  = 2026-11-01 13:53
 130 11109 H 7200 = AB BA 01 66 11 20 26 57 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = Main E-285 = Liga Portugal 2 - Tondela vs Felgueiras =  = 2026-11-01 16:49
 130 11067 H 7200 = 51 31 64 E6 71 84 64 59 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-01 12:17
@@ -8,8 +11,6 @@
 70 11065 V 9600 = BC 05 20 E1 26 19 09 48 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:2 =  = Italy Serie B - Arezzo vs Ascoli =  = 2026-11-01 16:02
 70 11083 V 10000 = BC 10 20 EC 26 31 10 67 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:2 =  = Italy Serie B - Arezzo vs Ascoli =  = 2026-11-01 16:12
 70 11140 V 7200 = 9F 6B 55 5F 07 C8 26 F5 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = ITA396 = Italy Serie C - Spezia vs Atalanta U-23 =  = 2026-11-01 16:23
-420 11067 V 7500 = 13 B5 E2 AA AC D5 7D FE = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-01 13:17
-130 11617 H 7200 = E0 ED 8F 5C F4 43 B3 EA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE = Liga Endesa - Joventut vs Bilbao =  = 2026-11-01 13:49
 1005 4008 H 7200 = CF C1 20 B0 26 11 CA 88 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = YUXI 1 =  =  = 2026-11-01 14:41
 1005 4008 H 7200 = CF C1 20 B0 26 11 CA 88 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = YUXI 1 =  =  = 2026-11-01 14:56
 30 11471 V 7499 = FA D3 01 CE 01 CC 60 2D = BELGIAN FOOTBALL @ 7°E 10°E = Eutelsat 3B ( 3E ) = HD =  =  =  = 2026-11-01 14:17
