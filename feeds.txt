@@ -1,3 +1,4 @@
+1005 3808 V 9875 = 1A 47 0C 6D 8D 89 AF C5 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-11-01 05:13
 130 11067 H 7200 = 51 31 64 E6 71 84 64 59 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-01 12:17
 70 11021 H 14400 = F5 77 44 B0 41 01 F1 33 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:2 =  =  =  = 2026-11-01 16:37
 130 11067 H 7200 = 51 31 64 E6 71 84 64 59 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-01 16:48
@@ -47,7 +48,6 @@
 1005 4008 H 7200 = CF C1 20 B0 26 11 CA 88 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = YUXI 1 =  =  = 2026-11-01 14:56
 160 11180 H 7199 = 03 6F 8E 00 8C 4F 24 FF = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = Fi09_GNVE =  =  = 2026-11-01 14:03
 130 11655 H 7200 = 03 6F 8E 00 8C 4F 24 FF = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = egy-013 =  =  = 2026-11-01 14:12
-1005 3808 V 9875 = 1A 47 0C 6D 8D 89 AF C5 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-11-01 05:13
 130 12702 H 15000 = B5 24 1D F6 2A 31 5A B5 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = WWE EURO =  =  = 2026-11-01 00:29
 130 10810 H 7200 = D1 10 1E FF 01 FF BB BB = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU GP2 Kelowna = ISU Figure Skating Grand Prix Skate Canada =  = 2026-11-01 22:50
 1005 4155 H 7200 = D1 10 1E FF 01 FF BB BB = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 = ISU GP2 Kelowna = ISU Figure Skating Grand Prix Skate Canada =  = 2026-11-01 23:59
