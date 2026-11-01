@@ -1,3 +1,15 @@
+20 12631 V 7200 = 01 11 CB DD EB 15 97 97 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-01 19:23
+20 12702 V 7199 = 01 11 CB DD EB 15 97 97 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-01 21:56
+420 11067 V 7500 = 13 B5 E2 AA AC D5 7D FE = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-01 13:17
+130 11617 H 7200 = E0 ED 8F 5C F4 43 B3 EA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE = Liga Endesa - Joventut vs Bilbao =  = 2026-11-01 13:49
+30 11577 H 5000 = C0 FF EE AD 12 33 21 66 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 3B ( 3E ) = 4.2.0 = SNG MK1 =  =  = 2026-11-01 17:18
+130 11618 H 7199 = E0 ED 8F 5C F4 43 B3 EA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi01 ACB =  =  = 2026-11-01 20:31
+20 12507 H 9599 = 13 2A AB E8 A1 13 22 D6 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-01 21:39
+130 11067 H 7200 = 51 31 64 E6 71 84 64 59 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-01 12:17
+70 11021 H 14400 = F5 77 44 B0 41 01 F1 33 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:2 =  =  =  = 2026-11-01 16:37
+130 11067 H 7200 = 51 31 64 E6 71 84 64 59 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-01 16:48
+130 11067 H 7200 = 87 15 58 F4 81 14 33 C8 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-01 21:23
+130 10829 V 7200 = D1 10 1E FF 01 FF DF DF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Enc 07 =  =  = 2026-11-01 21:24
 100 10721 H 7500 = A3 9D F2 32 7B 66 C1 A2 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-01 01:08
 100 10723 H 7500 = A3 9D F2 32 7B 66 C1 A2 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-11-01 20:56
 30 11471 V 7499 = FA D3 01 CE 01 CC 60 2D = BELGIAN FOOTBALL @ 7°E 10°E = Eutelsat 3B ( 3E ) = HD =  =  =  = 2026-11-01 14:17
@@ -7,10 +19,6 @@
 1005 3984 V 7500 = E2 D5 7C 33 EB A1 24 B0 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-11-01 20:32
 1005 3974 V 7500 = 5C 19 50 C5 F3 EB 12 F0 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 2 =  =  = 2026-11-01 20:33
 1005 3966 V 7500 = DA 72 8E DA 4C DC 83 AB = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-11-01 20:35
-420 11067 V 7500 = 13 B5 E2 AA AC D5 7D FE = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-01 13:17
-130 11617 H 7200 = E0 ED 8F 5C F4 43 B3 EA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE = Liga Endesa - Joventut vs Bilbao =  = 2026-11-01 13:49
-30 11577 H 5000 = C0 FF EE AD 12 33 21 66 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 3B ( 3E ) = 4.2.0 = SNG MK1 =  =  = 2026-11-01 17:18
-130 11618 H 7199 = E0 ED 8F 5C F4 43 B3 EA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi01 ACB =  =  = 2026-11-01 20:31
 130 11089 V 7199 = D1 2E 3F 3E 67 2A 0D 9E = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MCR 005 MAIN =  =  = 2026-11-01 20:20
 130 11080 V 7200 = D1 2E 3F 3E 67 2A 0D 9E = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = MRC004-MAIN = Morocco hosts the FIFA U-17 Women's World Cup =  = 2026-11-01 20:26
 1005 3840 H 30000 = 23 CE D8 C9 03 88 19 A4 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 2 =  = Elche CF VS Valencia CF = 2026-11-01 20:16
@@ -23,7 +31,6 @@
 216 10997 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SAU-042 A =  =  = 2026-11-01 17:48
 216 10988 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main SAUDI065 =  =  = 2026-11-01 17:51
 215 11005 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 = SAU-0165 =  =  = 2026-11-01 19:32
-20 12631 V 7200 = 01 11 CB DD EB 15 97 97 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-01 19:23
 160 12546 H 7200 = CA CA 20 B4 20 CA CA B4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4.2.0 = E-73 =  =  = 2026-11-01 13:53
 130 11109 H 7200 = AB BA 01 66 11 20 26 57 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = Main E-285 = Liga Portugal 2 - Tondela vs Felgueiras =  = 2026-11-01 16:49
 160 12555 H 7200 = BC 20 26 02 01 11 CB DD = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 = E-228 Main = Liga Portugal 2 - Lourosa vs Farense =  = 2026-11-01 18:27
@@ -32,9 +39,6 @@
 70 11083 V 10000 = BC 10 20 EC 26 31 10 67 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:2 =  = Italy Serie B - Arezzo vs Ascoli =  = 2026-11-01 16:12
 70 11140 V 7200 = 9F 6B 55 5F 07 C8 26 F5 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = ITA396 = Italy Serie C - Spezia vs Atalanta U-23 =  = 2026-11-01 16:23
 31 12535 V 7200 = BC 10 20 EC 26 31 10 67 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 3C ( 3.1E ) = 4:2:2 = ITA 560 backup AREZZO = Italy Serie B - Arezzo vs Ascoli =  = 2026-11-01 17:40
-130 11067 H 7200 = 51 31 64 E6 71 84 64 59 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-01 12:17
-70 11021 H 14400 = F5 77 44 B0 41 01 F1 33 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:2 =  =  =  = 2026-11-01 16:37
-130 11067 H 7200 = 51 31 64 E6 71 84 64 59 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-01 16:48
 70 11020 H 14399 = F5 77 44 B0 41 01 F1 33 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-11-01 14:36
 420 10997 H 7199 = F0 08 F4 EC 94 F5 77 00 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-01 16:43
 1005 4008 H 7200 = CF C1 20 B0 26 11 CA 88 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = YUXI 1 =  =  = 2026-11-01 14:41
@@ -44,6 +48,7 @@
 130 11591 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Sydney Swans VS Fremantle =  = 2026-11-01 10:06
 1005 3808 V 9875 = 1A 47 0C 6D 8D 89 AF C5 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = IPF = FIM MotoGP™ World Championship =  = 2026-11-01 05:13
 130 12702 H 15000 = B5 24 1D F6 2A 31 5A B5 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = WWE EURO =  =  = 2026-11-01 00:29
+70 11123 V 7200 = A3 20 52 15 07 C8 01 D0 = ITALY Feeds RAI  Mediaset (News Sports News TV Shows NOT Live Sports ie NOT Italian Football) = Eutelsat 7C ( 7E ) =  =  =  =  = 2026-11-01 21:38
 70 11092 V 7200 = 15 58 35 A2 71 42 63 16 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 7C ( 7E ) = 4.2.2 = EHF-CLM-PLO-NAN = Dancing with the Stars.Poland. =  = 2026-11-01 20:58
 1005 3966 V 2480 = NO KEY = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = AsiaSat 5 ( 100.5E ) = 4.2.0 = BREEDERS CUP =  =  = 2026-11-01 07:49
 130 11685 H 7200 = 55 85 65 3F 64 BA 11 2F = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = HotBird 13F/13G ( 13E ) = 4:2:0 = F512 equita main =  =  = 2026-11-01 14:04
