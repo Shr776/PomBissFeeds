@@ -1,3 +1,4 @@
+215 11007 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 = QASSIM =  =  = 2026-11-02 16:56
 160 11127 H 7199 = 5A DE BB F3 E8 2B 75 88 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = TAS-002 =  =  = 2026-11-02 14:06
 160 11153 H 7200 = 08 BE 0B D1 39 3C 83 F8 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = QAT_039 M_ =  =  = 2026-11-02 15:23
 160 11144 H 7200 = 3A EA 74 98 16 69 24 A3 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = UAE074 - 2 =  =  = 2026-11-02 15:27
@@ -5,6 +6,7 @@
 1005 4155 V 7200 = 3A EA 74 98 16 69 24 A3 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = UAE074 - 2 =  =  = 2026-11-02 15:31
 160 11134 H 7199 = 72 1C 4F DD 4C 7B 55 1C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = OMAN B =  =  = 2026-11-02 15:56
 1005 4145 V 7200 = 72 1C 4F DD 4C 7B 55 1C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = OMAN M =  =  = 2026-11-02 15:59
+1005 3862 V 30001 = 5A DE BB F3 E8 2B 75 88 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = TAS-002 = Asia - AFC Champions League Elite (Matchday 4) = Pakhtakor vs Al Nassr Club = 2026-11-02 16:16
 130 11656 H 7199 = DD 0C 0F F8 54 68 C7 83 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = egy-013 =  =  = 2026-11-02 14:31
 160 11180 H 7199 = DD 0C 0F F8 54 68 C7 83 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = Fi09_GNVE =  =  = 2026-11-02 14:39
 1005 3840 H 29998 = 6B 9A 27 2C 93 8D AF CF = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-11-02 09:16
