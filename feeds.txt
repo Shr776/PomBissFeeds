@@ -1,6 +1,12 @@
+160 11127 H 7199 = 5A DE BB F3 E8 2B 75 88 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = TAS-002 =  =  = 2026-11-02 14:06
+160 11153 H 7200 = 08 BE 0B D1 39 3C 83 F8 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = QAT_039 M_ =  =  = 2026-11-02 15:23
+160 11144 H 7200 = 3A EA 74 98 16 69 24 A3 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = UAE074 - 2 =  =  = 2026-11-02 15:27
+1005 4164 V 7200 = 08 BE 0B D1 39 3C 83 F8 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = QAT_039 M_ =  =  = 2026-11-02 15:31
+1005 4155 V 7200 = 3A EA 74 98 16 69 24 A3 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = UAE074 - 2 =  =  = 2026-11-02 15:31
+160 11134 H 7199 = 72 1C 4F DD 4C 7B 55 1C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = OMAN B =  =  = 2026-11-02 15:56
+1005 4145 V 7200 = 72 1C 4F DD 4C 7B 55 1C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = OMAN M =  =  = 2026-11-02 15:59
 130 11656 H 7199 = DD 0C 0F F8 54 68 C7 83 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = egy-013 =  =  = 2026-11-02 14:31
 160 11180 H 7199 = DD 0C 0F F8 54 68 C7 83 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = Fi09_GNVE =  =  = 2026-11-02 14:39
-160 11127 H 7199 = 5A DE BB F3 E8 2B 75 88 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = TAS-002 =  =  = 2026-11-02 14:06
 1005 3840 H 29998 = 6B 9A 27 2C 93 8D AF CF = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-11-02 09:16
 1005 4023 V 7500 = 61 B4 C7 DC 46 79 EF AE = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = NFL INT PAL SVC 7 =  =  = 2026-11-02 00:05
 1005 4006 V 7500 = D0 2C 5E 5A AE 6A AF C7 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 5 =  =  = 2026-11-02 00:07
