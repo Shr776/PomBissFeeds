@@ -1,3 +1,4 @@
+216 11689 H 7500 = AB BA 20 85 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = MAIN =  =  = 2026-11-02 19:48
 1005 3860 V 30000 = 91 69 D9 D3 BA 04 D9 97 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = QAT037 B =  =  = 2026-11-02 17:36
 160 11162 H 7200 = 57 91 B3 9B CE 60 6E 9C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = SAU-030-A =  =  = 2026-11-02 17:44
 1005 4181 V 7200 = 57 91 B3 9B CE 60 6E 9C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = SAU-030-A =  =  = 2026-11-02 17:45
