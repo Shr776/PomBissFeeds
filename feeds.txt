@@ -1,3 +1,4 @@
+1005 3840 H 29998 = 6B 9A 27 2C 93 8D AF CF = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-11-02 09:16
 1005 4023 V 7500 = 61 B4 C7 DC 46 79 EF AE = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = NFL INT PAL SVC 7 =  =  = 2026-11-02 00:05
 1005 4006 V 7500 = D0 2C 5E 5A AE 6A AF C7 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 5 =  =  = 2026-11-02 00:07
 1005 3912 V 7500 = BB DF E8 82 F9 2A C5 E8 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 3 =  =  = 2026-11-02 00:13
