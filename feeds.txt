@@ -1,12 +1,16 @@
+130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-11-02 21:43
+130 11068 H 7199 = 72 4C 9D 5B B4 34 94 7C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-02 21:41
+1005 3860 V 30000 = 91 69 D9 D3 BA 04 D9 97 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = QAT037 B =  =  = 2026-11-02 17:36
+160 11162 H 7200 = 57 91 B3 9B CE 60 6E 9C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = SAU-030-A =  =  = 2026-11-02 17:44
+1005 4181 V 7200 = 57 91 B3 9B CE 60 6E 9C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = SAU-030-A =  =  = 2026-11-02 17:45
+31 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 3C ( 3.1E ) = 4.2.0 | hd = beIN SPORTS =  =  = 2026-11-02 21:22
+216 11689 H 7500 = AB BA 20 85 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = MAIN =  =  = 2026-11-02 19:48
+420 10983 V 7500 = A0 16 54 0A B5 A0 11 66 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-119 MAIN =  =  = 2026-11-02 20:02
+420 10974 V 7500 = C4 E7 AF 5A 19 8C 48 ED = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 112 MAIN =  =  = 2026-11-02 21:05
 160 11189 H 7199 = AA BB 20 85 26 11 02 39 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 = E-228 Main =  =  = 2026-11-02 20:52
 160 12655 H 9875 = 02 11 FD 10 EB 25 44 54 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4.2.0 = Pokal Women Wolssb. =  =  = 2026-11-02 20:18
 420 11082 V 9999 = A1 B2 C3 16 D4 E5 D6 8F = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-02 20:03
 420 10965 V 7500 = 2F 3E EF 5C EA B0 AB 45 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = Tur 144 M =  =  = 2026-11-02 20:03
-216 11689 H 7500 = AB BA 20 85 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 21C ( 21.6E ) = 4.2.0 = MAIN =  =  = 2026-11-02 19:48
-420 10983 V 7500 = A0 16 54 0A B5 A0 11 66 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-119 MAIN =  =  = 2026-11-02 20:02
-1005 3860 V 30000 = 91 69 D9 D3 BA 04 D9 97 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = QAT037 B =  =  = 2026-11-02 17:36
-160 11162 H 7200 = 57 91 B3 9B CE 60 6E 9C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = SAU-030-A =  =  = 2026-11-02 17:44
-1005 4181 V 7200 = 57 91 B3 9B CE 60 6E 9C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = SAU-030-A =  =  = 2026-11-02 17:45
 215 11007 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 = QASSIM =  =  = 2026-11-02 16:56
 130 11656 H 7199 = DD 0C 0F F8 54 68 C7 83 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = egy-013 =  =  = 2026-11-02 14:31
 160 11180 H 7199 = DD 0C 0F F8 54 68 C7 83 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = Fi09_GNVE =  =  = 2026-11-02 14:39
