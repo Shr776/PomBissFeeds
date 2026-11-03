@@ -1,3 +1,10 @@
+160 11189 H 7199 = 03 F4 5A 51 D0 03 FD D0 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi03 _NE3 =  =  = 2026-11-03 10:07
+160 11180 H 7199 = FB 1D 01 19 E0 6D 38 85 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi02_NE2 =  =  = 2026-11-03 10:09
+160 12535 H 7199 = FC 52 55 A3 4A 8A 46 1A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = KOR_VS_MAS =  =  = 2026-11-03 10:11
+160 11180 H 7199 = FB 1D 01 19 E0 6D 38 85 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi02_NE2 = Kashiwa Reysol vs Daejeon Hana Citizen =  = 2026-11-03 10:13
+160 11189 H 7199 = 03 F4 5A 51 D0 03 FD D0 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi03 _NE3 = Vissel Kobe vs Ratchaburi =  = 2026-11-03 10:13
+160 12535 H 7199 = FC 52 55 A3 4A 8A 46 1A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = KOR_VS_MAS = Jeonbuk Hyundai Motors vs Johor Darul Ta'zim =  = 2026-11-03 10:27
+1005 3964 H 7200 = 43 0A CA 17 42 8A A6 72 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = TBS ADHOC ENC 4 = Newcastle Jets VS Shanghai Port =  = 2026-11-03 10:53
 30 4040 V 7200 = AB CD 12 8A 33 56 76 FF = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-03 08:46
 100 10721 H 7500 = A3 9D F2 32 7B 66 C1 A2 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-03 01:05
 1005 3984 V 7500 = 5A 7A 3F 13 30 04 9B CF = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-03 00:40
