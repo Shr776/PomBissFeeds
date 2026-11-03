@@ -7,6 +7,7 @@
 1005 3964 H 7200 = 43 0A CA 17 42 8A A6 72 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = TBS ADHOC ENC 4 = Newcastle Jets VS Shanghai Port =  = 2026-11-03 10:53
 160 12656 H 7200 = 91 E5 14 8A 0D BD 55 1F = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = TLCAT-003-01 =  =  = 2026-11-03 11:55
 160 11127 H 7199 = 43 0A CA 17 42 8A A6 72 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = TBS ADHOC ENC 4 =  =  = 2026-11-03 12:55
+1005 3994 V 7199 = 91 E5 14 8A 0D BD 55 1F = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = TLCAT-002-01 = Asia - AFC Champions League Elite (Matchday 4) = Port FC vs Beijing FC = 2026-11-03 13:46
 130 11592 H 9875 = 3B CB 23 29 02 B8 29 E3 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE =  =  = 2026-11-03 12:10
 130 11087 V 9875 = EF D2 1F E0 5B 50 DB 86 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE =  =  = 2026-11-03 12:17
 30 4040 V 7200 = AB CD 12 8A 33 56 76 FF = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-03 08:46
