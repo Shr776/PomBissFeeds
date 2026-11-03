@@ -1,7 +1,3 @@
-130 11072 V 4820 = DC D1 DC 89 36 76 24 D0 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = Feed B2 Match 3 =  =  = 2026-11-03 15:24
-160 12512 V 7500 = 15 04 77 90 77 40 51 08 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Europe UEFA Youth League - League phase - Round 4 = Villarreal U19 PSG U19 Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-03 15:25
-130 11078 V 4938 = DC D1 DC 89 36 76 24 D0 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = E268 =  =  = 2026-11-03 15:55
-420 11470 V 6798 = 44 22 00 66 00 44 22 66 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Türksat 3A/4A/5B/6A ( 42E ) = 4:2:2 | HD =  = Europe Champions League - League phase - Round 4 = Fenerbahce Liverpool = 2026-11-03 16:52
 160 11189 H 7199 = 03 F4 5A 51 D0 03 FD D0 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi03 _NE3 =  =  = 2026-11-03 10:07
 160 11180 H 7199 = FB 1D 01 19 E0 6D 38 85 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi02_NE2 =  =  = 2026-11-03 10:09
 160 12535 H 7199 = FC 52 55 A3 4A 8A 46 1A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = KOR_VS_MAS =  =  = 2026-11-03 10:11
@@ -17,9 +13,15 @@
 160 11126 H 7200 = 63 7C 9A 79 11 76 87 0E = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = IRQ014-M =  =  = 2026-11-03 15:30
 1005 3964 V 7200 = 63 7C 9A 79 11 76 87 0E = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = IRQ014-M =  =  = 2026-11-03 15:32
 160 11154 H 7200 = AD FC 7D 26 6A DD D6 1D = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Asia AFC Champions League 2 - Round 4 = Al Hussein (JOR) Al Shorta (IRQ) Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-03 15:52
+160 12537 H 7199 = F0 87 0B 82 60 00 C4 24 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = SAU-033-Main =  =  = 2026-11-03 17:36
 130 11592 H 9875 = 3B CB 23 29 02 B8 29 E3 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE = Uefa Youth League - Atletico Madrid vs Bayern Munchen =  = 2026-11-03 12:10
 130 11087 V 9875 = EF D2 1F E0 5B 50 DB 86 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = Uefa Youth League - Manchester United vs Roma =  = 2026-11-03 12:17
 192 11599 V 4800 = 49 22 89 F4 58 44 00 9C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Astra 1N/1P ( 19.2E ) = 4:2:0 = D233 =  =  = 2026-11-03 15:43
+160 10971 V 4799 = AB BA 26 8B DC AE 11 9B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  =  =  = 2026-11-03 17:25
+130 11072 V 4820 = DC D1 DC 89 36 76 24 D0 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = Feed B2 Match 3 =  =  = 2026-11-03 15:24
+160 12512 V 7500 = 15 04 77 90 77 40 51 08 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Europe UEFA Youth League - League phase - Round 4 = Villarreal U19 PSG U19 Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-03 15:25
+130 11078 V 4938 = DC D1 DC 89 36 76 24 D0 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = E268 =  =  = 2026-11-03 15:55
+420 11470 V 6798 = 44 22 00 66 00 44 22 66 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Türksat 3A/4A/5B/6A ( 42E ) = 4:2:2 | HD =  = Europe Champions League - League phase - Round 4 = Fenerbahce Liverpool = 2026-11-03 16:52
 130 12585 V 9800 = 5B 5C 84 3B 5B BC BC D3 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA390 = Presentation Giro D'Italia Women 2027 =  = 2026-11-03 14:16
 30 4040 V 7200 = AB CD 12 8A 33 56 76 FF = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-03 08:46
 100 10721 H 7500 = A3 9D F2 32 7B 66 C1 A2 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-03 01:05
