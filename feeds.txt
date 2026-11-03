@@ -1,3 +1,4 @@
+130 11592 H 9875 = 3B CB 23 29 02 B8 29 E3 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE =  =  = 2026-11-03 12:10
 160 11189 H 7199 = 03 F4 5A 51 D0 03 FD D0 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi03 _NE3 =  =  = 2026-11-03 10:07
 160 11180 H 7199 = FB 1D 01 19 E0 6D 38 85 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi02_NE2 =  =  = 2026-11-03 10:09
 160 12535 H 7199 = FC 52 55 A3 4A 8A 46 1A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = KOR_VS_MAS =  =  = 2026-11-03 10:11
