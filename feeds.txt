@@ -1,5 +1,3 @@
-130 11086 V 9875 = 23 68 E4 6F D3 C7 AB 45 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-11-04 02:39
-130 11087 V 9875 = 72 AA AB C7 B0 44 51 45 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = Uefa Youth League - =  = 2026-11-04 12:00
 1005 4146 H 7200 = D0 CD CD 6A A8 2A 03 D5 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) =  =  = Asia - = Pohang (KOR) V Gamba Osaka (JP N = 2026-11-04 09:31
 1005 3834 V 7200 = E9 CE 01 B8 4C 66 63 15 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) =  =  = Asia - = FC Seoul v The Cong-Viettel FC ​ = 2026-11-04 09:37
 160 11189 H 7199 = D0 CD CD 6A A8 2A 03 D5 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = FCPohang_VS_OSAKA =  =  = 2026-11-04 10:11
@@ -7,4 +5,7 @@
 160 12519 H 7199 = 32 8B E2 9F B2 98 A2 EC = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = TBS ADHOC ENC 3 =  =  = 2026-11-04 10:24
 1005 3964 H 7200 = 32 8B E2 9F B2 98 A2 EC = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = TBS ADHOC ENC 3 =  = Melbourne Victory VS Persib Bandung = 2026-11-04 10:27
 160 12535 H 7199 = C5 2D 78 6A 40 44 29 AD = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = TAS-002 =  =  = 2026-11-04 10:32
+160 12656 H 7200 = 7C 34 49 F9 C4 AE 8D FF = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = TLCAT-002-1 =  =  = 2026-11-04 12:08
+130 11086 V 9875 = 23 68 E4 6F D3 C7 AB 45 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-11-04 02:39
+130 11087 V 9875 = 72 AA AB C7 B0 44 51 45 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = Uefa Youth League - =  = 2026-11-04 12:00
 30 4040 V 7200 = AB CD 12 BB 33 56 76 E3 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-04 06:36
