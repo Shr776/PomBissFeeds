@@ -27,5 +27,6 @@
 160 12602 H 7200 = 78 3F 3E F5 CA A5 2C 9B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4.2.0 = Fi09_GNVE =  =  = 2026-11-04 14:31
 130 11629 H 7199 = 78 3F 3E F5 CA A5 2C 9B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = egy-013 =  =  = 2026-11-04 14:35
 30 4040 V 7200 = AB CD 12 BB 33 56 76 E3 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-04 06:36
+260 12631 V 3600 = FE DD CB A6 45 A2 03 EA = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4.2.0 = Unname =  =  = 2026-11-04 23:26
 70 11125 V 9600 = D4 79 F9 46 07 C8 3B 0A = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 7C ( 7E ) =  = ENC A ITA 379 =  =  = 2026-11-04 21:44
 260 12607 V 3616 = CF 83 5C AE D4 22 CF C5 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = HOL-DHG-007 =  =  = 2026-11-04 13:39
