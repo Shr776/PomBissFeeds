@@ -1,3 +1,5 @@
+1005 3832 V 7200 = F2 61 24 77 76 6E 62 46 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = UAE105 =  =  = 2026-11-04 17:38
+1005 3860 V 30000 = NO KEY = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = KUW-001 Main = Asia - AFC Champions League Two (Matchday 4) = Kuwait SC vs PFC Nasaf = 2026-11-04 17:47
 130 11086 V 9875 = 23 68 E4 6F D3 C7 AB 45 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-11-04 02:39
 130 11087 V 9875 = 72 AA AB C7 B0 44 51 45 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = Uefa Youth League - Lens vs Como =  = 2026-11-04 12:00
 130 11082 H 7199 = AA BB 26 8B 11 04 BA CF = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main =  =  = 2026-11-04 13:08
@@ -5,23 +7,6 @@
 130 11592 H 9874 = 3E 13 CB 1C 32 C9 B9 B4 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE =  =  = 2026-11-04 14:44
 130 11072 V 4820 = B0 97 59 A0 92 D2 01 65 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = CRO 020 Main M6 =  =  = 2026-11-04 15:18
 70 11041 V 9700 = AB 11 23 DF DF BC 22 BD = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = 4:2:2 = AVP_OU_A =  =  = 2026-11-04 16:47
-1005 4146 H 7200 = D0 CD CD 6A A8 2A 03 D5 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) =  =  = Asia - = Pohang (KOR) V Gamba Osaka (JP N = 2026-11-04 09:31
-1005 3834 V 7200 = E9 CE 01 B8 4C 66 63 15 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) =  =  = Asia - = FC Seoul v The Cong-Viettel FC ​ = 2026-11-04 09:37
-160 11189 H 7199 = D0 CD CD 6A A8 2A 03 D5 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = FCPohang_VS_OSAKA =  =  = 2026-11-04 10:11
-160 12528 H 7199 = E9 CE 01 B8 4C 66 63 15 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = FCSeoul_vs_ViettelFC =  =  = 2026-11-04 10:14
-160 12519 H 7199 = 32 8B E2 9F B2 98 A2 EC = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = TBS ADHOC ENC 3 =  =  = 2026-11-04 10:24
-1005 3964 H 7200 = 32 8B E2 9F B2 98 A2 EC = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = TBS ADHOC ENC 3 =  = Melbourne Victory VS Persib Bandung = 2026-11-04 10:27
-160 12535 H 7199 = C5 2D 78 6A 40 44 29 AD = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = TAS-002 =  =  = 2026-11-04 10:32
-160 12656 H 7200 = 7C 34 49 F9 C4 AE 8D FF = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = TLCAT-002-1 =  =  = 2026-11-04 12:08
-1005 4008 H 7200 = 7C 34 49 F9 C4 AE 8D FF = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-11-04 12:10
-160 12630 H 7199 = 79 1B 07 9B 0E 08 2B 41 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Main =  =  = 2026-11-04 13:27
-160 12638 H 7200 = C2 09 46 11 D5 69 8D CB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = hd | 4.2.0 = UAE074 - 1 =  =  = 2026-11-04 15:21
-1005 3860 V 30000 = C2 09 46 11 D5 69 8D CB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = hd | 4:2:0 = UAE074 - 1 =  =  = 2026-11-04 15:22
-160 12620 H 7200 = 46 52 A0 38 B1 D3 54 D8 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = hd | 4.2.0 = Qat037 M =  =  = 2026-11-04 15:53
-1005 3895 V 7200 = 46 52 A0 38 B1 D3 54 D8 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = hd | 4:2:0 = Qat037 M =  =  = 2026-11-04 15:54
-160 12647 H 7200 = 92 FA 4F DB 5D 6B 04 CC = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = KUW-001 Main =  =  = 2026-11-04 16:12
-1005 3905 V 7199 = 79 1B 07 9B 0E 08 2B 41 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Main = Asia - AFC Champions League Two (Matchday 4) = FC Arkadag vs Golgohar Sirjan SC = 2026-11-04 16:13
-1005 3862 V 30001 = 92 FA 4F DB 5D 6B 04 CC = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = KUW-001 Main = Asia - AFC Champions League Two (Matchday 4) = Kuwait SC vs PFC Nasaf = 2026-11-04 16:16
 160 12602 H 7200 = 78 3F 3E F5 CA A5 2C 9B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4.2.0 = Fi09_GNVE =  =  = 2026-11-04 14:31
 130 11629 H 7199 = 78 3F 3E F5 CA A5 2C 9B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = egy-013 =  =  = 2026-11-04 14:35
 30 4040 V 7200 = AB CD 12 BB 33 56 76 E3 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-04 06:36
