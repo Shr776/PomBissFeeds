@@ -1,5 +1,19 @@
 130 11694 H 7200 = BA 23 DE BB 81 CD 72 C0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = LAT-002m = BKT EuroCup - =  = 2026-11-04 18:33
 130 10857 H 7200 = 04 7A DF 5D 5F CC 01 2C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 =  = BKT EuroCup - =  = 2026-11-04 19:34
+70 11094 V 7200 = 60 24 33 B7 28 62 38 C2 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 7C ( 7E ) = 4:2:2 = POL-058_ch1 = BKT EuroCup - Slask Wroclaw vs Cosea JL Bourg-en-Bresse =  = 2026-11-04 20:17
+130 10827 H 7200 = BB 45 F1 F1 D6 20 26 1C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Baskeball Champions League - Szombathely vs AEK =  = 2026-11-04 20:25
+130 10867 H 7199 = F2 A9 C7 62 D4 E6 31 EB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = YSM-012 MAIN =  =  = 2026-11-04 20:28
+130 11686 H  = BA 23 DE BB 81 CD 72 C0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = LAT-001 M =  =  = 2026-11-04 20:30
+130 12696 H 7200 = 4E 5B 29 D2 6D D1 9A D8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = TKS.TRT.M17 - A = BKT EuroCup - Turk Telekom Ankara vs Skyliners Frankfurt =  = 2026-11-04 20:35
+160 10984 V 9600 = 05 5C AE 0F 26 11 04 3B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.2 =  =  =  = 2026-11-04 21:01
+130 12601 V 7200 = 2D 4B EE 66 67 CE 56 8B = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = Service 1 =  =  = 2026-11-04 20:07
+130 10800 H 7200 = 72 DE 94 E4 CB 6F 23 5D = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Encoder 2 =  =  = 2026-11-04 20:19
+130 10809 H 7200 = 5A E9 B3 F6 72 76 5C 44 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = E 95 main =  =  = 2026-11-04 20:35
+130 10818 H 7200 = FF 98 27 BE A2 9E BC FC = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = DNK83_ENC1 =  =  = 2026-11-04 20:44
+130 11667 H 7199 = D1 3D F3 01 21 34 04 59 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-11-04 18:12
+130 11675 H 7200 = D1 3D F3 01 21 34 04 59 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = MRC004-MAIN =  =  = 2026-11-04 20:25
+70 11103 V 7200 = 15 58 35 A2 71 42 63 16 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = EHF-CLM-PLO-NAN = Polska Liga Volleyball - Zawiercie vs Olsztyn =  = 2026-11-04 20:03
+130 12526 H 7199 = E0 2F FA 09 AD 11 03 C1 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = HOL324 TX1 =  =  = 2026-11-04 20:23
 130 11086 V 9875 = 23 68 E4 6F D3 C7 AB 45 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-11-04 02:39
 130 11087 V 9875 = 72 AA AB C7 B0 44 51 45 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = Uefa Youth League - Lens vs Como =  = 2026-11-04 12:00
 130 11082 H 7199 = AA BB 26 8B 11 04 BA CF = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main =  =  = 2026-11-04 13:08
@@ -9,11 +23,8 @@
 70 11041 V 9700 = AB 11 23 DF DF BC 22 BD = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = 4:2:2 = AVP_OU_A =  =  = 2026-11-04 16:47
 130 11058 H 7200 = AD EA D2 69 81 98 1A 33 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = NOR-036 VIK-SAB =  =  = 2026-11-04 19:05
 130 10848 H 7200 = D9 F2 B6 81 E3 A8 14 9F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 FEED C = UEFA Champions League - AEK vs Real Madrid =  = 2026-11-04 19:05
-130 10847 V 7199 = 56 88 79 57 2C B6 5E 40 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = Medialink CRO-014 =  =  = 2026-11-04 18:19
-130 12592 V 7199 = FD FD 23 1D A4 CF 57 CA = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = POL-040 =  =  = 2026-11-04 18:28
-130 10839 V 7199 = 4A E6 B7 E7 AC AF 72 CD = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SLO-008 Tx 1 =  =  = 2026-11-04 18:40
-130 12583 V 7199 = CC CE 42 DC DF D7 7F 35 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-04 18:43
-130 11667 H 7199 = D1 3D F3 01 21 34 04 59 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-11-04 18:12
+30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 3B ( 3E ) = hd | 4:2:0 = beIN SPORTS =  =  = 2026-11-04 20:02
+130 11086 V 9875 = B0 97 59 A0 92 D2 01 65 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-11-04 20:06
 1005 3832 V 7200 = F2 61 24 77 76 6E 62 46 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = UAE105 =  =  = 2026-11-04 17:38
 1005 3860 V 30000 = NO KEY = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = KUW-001 Main = Asia - AFC Champions League Two (Matchday 4) = Kuwait SC vs PFC Nasaf = 2026-11-04 17:47
 160 12602 H 7200 = 78 3F 3E F5 CA A5 2C 9B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4.2.0 = Fi09_GNVE =  =  = 2026-11-04 14:31
