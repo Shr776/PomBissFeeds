@@ -1,3 +1,10 @@
+130 10839 H 7200 = E1 C7 A4 4C F9 D3 62 2E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 FEED D =  =  = 2026-11-04 18:58
+130 10847 V 7199 = 56 88 79 57 2C B6 5E 40 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = Medialink CRO-014 =  =  = 2026-11-04 18:19
+130 12592 V 7199 = FD FD 23 1D A4 CF 57 CA = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = POL-040 =  =  = 2026-11-04 18:28
+130 10839 V 7199 = 4A E6 B7 E7 AC AF 72 CD = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SLO-008 Tx 1 =  =  = 2026-11-04 18:40
+130 12583 V 7199 = CC CE 42 DC DF D7 7F 35 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-04 18:43
+130 11694 H 7200 = BA 23 DE BB 81 CD 72 C0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = LAT-002m = BKT EuroCup - =  = 2026-11-04 18:33
+130 11667 H 7199 = D1 3D F3 01 21 34 04 59 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-11-04 18:12
 1005 3832 V 7200 = F2 61 24 77 76 6E 62 46 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = UAE105 =  =  = 2026-11-04 17:38
 1005 3860 V 30000 = NO KEY = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = KUW-001 Main = Asia - AFC Champions League Two (Matchday 4) = Kuwait SC vs PFC Nasaf = 2026-11-04 17:47
 130 11086 V 9875 = 23 68 E4 6F D3 C7 AB 45 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-11-04 02:39
