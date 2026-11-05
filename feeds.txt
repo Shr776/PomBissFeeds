@@ -20,6 +20,7 @@
 30 4040 V 7200 = AB CD 12 8A 33 56 76 FF = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-05 07:43
 130 11082 H 7199 = B8 D3 F1 7C A6 C9 25 94 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = NLFLEV_HOL_328A =  =  = 2026-11-05 01:42
 130 11086 V 9875 = 96 75 B5 C0 8B 8F 45 5F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-11-05 02:05
+30 11596 H 3500 = A2 13 DF 94 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 3B ( 3E ) = 4.2.0 = ISH-ENC1 =  =  = 2026-11-05 17:04
 130 11058 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = MAIN = HSBC Abu Dhabi Golf Championship =  = 2026-11-05 12:19
 1005 4124 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = HSBC Abu Dhabi Golf Championship =  = 2026-11-05 16:34
 160 10985 V 9601 = AB BA 26 8B DC AE 11 9B = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Eutelsat 16D ( 16E ) = 4.2.2 = POL-55 ENC2 = Holy Mass from Poland =  = 2026-11-05 14:19
