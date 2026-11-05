@@ -1,7 +1,14 @@
+130 11082 H 7199 = B8 D3 F1 7C A6 C9 25 94 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = NLFLEV_HOL_328A =  =  = 2026-11-05 01:42
+130 11086 V 9875 = 96 75 B5 C0 8B 8F 45 5F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-11-05 02:05
+420 11478 V 6800 = 42 45 00 87 00 42 45 87 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 114 M =  =  = 2026-11-05 19:01
+130 11685 H 7500 = 34 AD CB AC 25 42 CB 32 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = Feed 1 PGM =  =  = 2026-11-05 18:47
 130 10848 V 7199 = 8B D9 C7 2B 49 BC B8 BD = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = YSM 019 01 =  =  = 2026-11-05 17:31
-130 11068 H 7199 = 72 4C 9D 5B B4 34 94 7C = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-05 16:34
+130 12592 V 7200 = 28 69 85 16 A5 9F 66 AA = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = Live Broadcasting Line 1 = EHF Euro Qualification - Hungary vs Montenegro =  = 2026-11-05 18:25
+130 10839 V 7199 = 29 BD F2 D8 83 57 6B 45 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = TV 2 ENC 3 =  =  = 2026-11-05 18:30
 130 10853 H 30000 = 4A 7C 92 58 E6 B1 35 CC = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = PS CAM 8 =  =  = 2026-11-05 16:14
 130 12693 H 30000 = 4A 7C 92 58 E6 B1 35 CC = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = PS CAM 1 =  =  = 2026-11-05 16:15
+360 12620 H 22500 = 4A 7C 92 58 E6 B1 35 CC = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 36D ( 36E ) = 4.2.2 =  =  =  = 2026-11-05 18:02
+130 11068 H 7199 = 72 4C 9D 5B B4 34 94 7C = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-05 16:34
 130 11080 V 7200 = 11 4A EE 49 4A 3B 3E C3 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = egy-013 = CAF Women's Champions League =  = 2026-11-05 15:16
 160 12537 H 7200 = F0 49 A1 DA C8 04 1D E9 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = TLCAT-003-01 =  =  = 2026-11-05 12:00
 160 12656 H 7200 = 96 A8 BE FC 91 69 EE E8 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-11-05 12:07
@@ -19,8 +26,6 @@
 1005 3945 V 7200 = AE CD AD 28 BF AB DC 46 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-11-05 06:26
 30 4032 V 7200 = NO KEY = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-05 07:42
 30 4040 V 7200 = AB CD 12 8A 33 56 76 FF = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-05 07:43
-130 11082 H 7199 = B8 D3 F1 7C A6 C9 25 94 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = NLFLEV_HOL_328A =  =  = 2026-11-05 01:42
-130 11086 V 9875 = 96 75 B5 C0 8B 8F 45 5F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-11-05 02:05
 30 11596 H 3500 = A2 13 DF 94 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 3B ( 3E ) = 4.2.0 = ISH-ENC1 =  =  = 2026-11-05 17:04
 130 11058 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = MAIN = HSBC Abu Dhabi Golf Championship =  = 2026-11-05 12:19
 1005 4124 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = HSBC Abu Dhabi Golf Championship =  = 2026-11-05 16:34
