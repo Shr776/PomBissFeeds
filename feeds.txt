@@ -5,7 +5,8 @@
 1005 12647 H 7200 = 68 98 C4 C4 78 17 CA 59 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 = MYASTRKL-M =  =  = 2026-11-05 12:28
 1005 12528 H 7200 = 2D 66 57 EA 32 2A 06 62 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 = 2026 AFC A =  = Kitchen SC VS Phnom Penh Crown FC = 2026-11-05 12:30
 1005 3887 V 7200 = 9E EA 25 AD 42 11 C4 17 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) =  = AFC CL2 2026 MAIN =  = Lion City Sailors - Adelaide United = 2026-11-05 12:39
-1005 3860 V 30000 = 1A A0 AB 65 1C 29 BB 00 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) =  = Fi02_NE2 =  =  = 2026-11-05 13:00
+1005 3860 V 30000 = 1A A0 AB 65 1C 29 BB 00 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) =  = Fi02_NE2 =  = FC Machida Zelvia - Shanghai Shenhua = 2026-11-05 13:00
+1005 3887 V 7200 = 9E EA 25 AD 42 11 C4 17 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) =  = AFC CL2 2026 MAIN =  = Lion City Sailors - Adelaide United = 2026-11-05 13:09
 1005 3945 V 7200 = AE CD AD 28 BF AB DC 46 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-11-05 06:26
 30 4032 V 7200 = NO KEY = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-05 07:42
 30 4040 V 7200 = AB CD 12 8A 33 56 76 FF = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-05 07:43
