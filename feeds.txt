@@ -1,3 +1,4 @@
+160 12629 H 7200 = 11 4A EE 49 4A 3B 3E C3 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4.2.0 = Fi15_GNVE =  =  = 2026-11-05 14:22
 160 12537 H 7200 = F0 49 A1 DA C8 04 1D E9 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = TLCAT-003-01 =  =  = 2026-11-05 12:00
 160 12656 H 7200 = 96 A8 BE FC 91 69 EE E8 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-11-05 12:07
 160 12647 H 7200 = 68 98 C4 C4 78 17 CA 59 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = MYASTRKL-M =  =  = 2026-11-05 12:14
@@ -7,10 +8,14 @@
 1005 3887 V 7200 = 9E EA 25 AD 42 11 C4 17 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) =  = AFC CL2 2026 MAIN =  = Lion City Sailors - Adelaide United = 2026-11-05 12:39
 1005 3860 V 30000 = 1A A0 AB 65 1C 29 BB 00 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) =  = Fi02_NE2 =  = FC Machida Zelvia - Shanghai Shenhua = 2026-11-05 13:00
 1005 3887 V 7200 = 9E EA 25 AD 42 11 C4 17 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) =  = AFC CL2 2026 MAIN =  = Lion City Sailors - Adelaide United = 2026-11-05 13:09
+160 3860 V 30000 = 1A A0 AB 65 1C 29 BB 00 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi02_NE2 = FC Machida Zelvia vs Shanghai Shenhua = FC Machida Zelvia - Shanghai Shenhua = 2026-11-05 14:15
+160 3887 V 7200 = 9E EA 25 AD 42 11 C4 17 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = AFC CL2 2026 MAIN = Lion City Sailors vs Adelaide United = Lion City Sailors - Adelaide United = 2026-11-05 14:16
 1005 3945 V 7200 = AE CD AD 28 BF AB DC 46 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-11-05 06:26
 30 4032 V 7200 = NO KEY = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-05 07:42
 30 4040 V 7200 = AB CD 12 8A 33 56 76 FF = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = MAIN =  =  = 2026-11-05 07:43
 130 11082 H 7199 = B8 D3 F1 7C A6 C9 25 94 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = NLFLEV_HOL_328A =  =  = 2026-11-05 01:42
 130 11086 V 9875 = 96 75 B5 C0 8B 8F 45 5F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = UCL_IHL_GVA_Fi01 =  =  = 2026-11-05 02:05
+160 10985 V 9601 = AB BA 26 8B DC AE 11 9B = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Eutelsat 16D ( 16E ) = 4.2.2 = POL-55 ENC2 = Holy Mass from Poland =  = 2026-11-05 14:19
+130 10802 H 7199 = 10 10 AA CA CC 56 DE 00 = Weightlifting  Feeds (7°E10°E100.5E55W etc..) = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Encoder 2 =  =  = 2026-11-05 14:08
 130 11058 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = MAIN = HSBC Abu Dhabi Golf Championship =  = 2026-11-05 12:19
 130 10802 H 7200 = 8D 2F 6A 26 91 C3 E5 39 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 BISS-1 = BWF WORLD TOUR - YEOSU VICTOR Korea Open 2026 =  = 2026-11-05 05:26
