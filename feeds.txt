@@ -1,3 +1,4 @@
+130 11671 H 15000 = 2A E9 5D 70 A0 65 F5 FA = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:2 = ZB PATH 1 CLN PRI =  =  = 2026-11-06 22:26
 70 11065 V 9598 = BC 11 20 ED 26 06 11 3D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-11-06 20:30
 100 11083 V 10000 = BC 11 20 ED 26 06 11 3D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:2 = ITA727ENC2 =  =  = 2026-11-06 23:39
 192 11477 V 15000 = BE 7D B4 EF E7 6E E1 36 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 1N/1P ( 19.2E ) = 4:2:2 | 4:2:0 = UKI1965 M5 Main =  =  = 2026-11-06 17:50
@@ -5,7 +6,6 @@
 130 11656 H 7200 = 28 12 12 4C 39 78 41 F2 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC 6 =  =  = 2026-11-06 22:14
 130 11694 H 7120 = 02 3A 26 62 3F 26 EE 53 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-11-06 22:57
 160 12520 H 7200 = A8 22 C0 8A 5E AF D7 E4 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-11-06 22:32
-130 11671 H 15000 = 2A E9 5D 70 A0 65 F5 FA = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:2 = ZB PATH 1 CLN PRI =  =  = 2026-11-06 22:26
 70 11026 H 7200 = F4 86 41 BB 47 06 F1 3E = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 =  = PRO D2 - Narbonne vs Nice =  = 2026-11-06 22:13
 130 11595 H 14240 = DD EA 78 3F FF 06 11 16 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-06 22:21
 100 11285 V 7120 = DD EA 78 3F FF 06 11 16 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-06 22:23
