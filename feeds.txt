@@ -1,9 +1,14 @@
+70 11007 H 7200 = F6 41 41 78 44 06 F1 3B = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 = F641 PROD2 BRIVE MAIN = PRO D2 - Brive vs Dax =  = 2026-11-06 20:32
+160 12511 V 7200 = F5 11 41 47 45 06 F1 3C = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = F511 PROD2 AURILLAC MAIN = PRO D2 - Aurillac vs Montauban =  = 2026-11-06 21:07
+70 10999 H 7200 = F6 42 41 79 46 06 F1 3D = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 = test = PRO D2 - =  = 2026-11-06 22:01
+130 11609 V 7200 = AA BB 20 85 26 11 06 3D = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = E 95 main =  =  = 2026-11-06 21:28
+130 11058 H 7199 = 0A 1B 9F C4 CB 7C 3E 85 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 315 MAIN =  =  = 2026-11-06 21:09
+130 11067 H 7200 = 46 8A 93 63 2D BA B4 9B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = EUROLEAGUE ROUND 10 MAIN = Euroleague Basketball - Olympiakos vs Stella Rossa =  = 2026-11-06 21:14
 100 11246 H 7500 = C6 D3 99 32 F8 15 CA D7 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 | hd = AFD =  =  = 2026-11-06 20:55
 70 10958 H 9875 = 06 11 DE F5 BA 68 71 93 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = FFBL Frankfurt = German Frauen-Bundesliga - Eintracht Frankfurt vs Wolfsburg =  = 2026-11-06 20:43
 70 10970 H 9875 = 06 11 DE F5 BA 68 71 93 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = FFBL Munchen = German Frauen-Bundesliga - Bayern Munchen vs Werder =  = 2026-11-06 20:45
 160 12690 V 8000 = 39 10 FC 45 26 AB 99 6A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | SD = UKI-1937 P1 SD =  =  = 2026-11-06 13:52
 70 10984 H 7200 = 12 1C CC FA BB BA BA 2F = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:0 = ITA-466MAIN =  =  = 2026-11-06 20:37
-70 11007 H 7200 = F6 41 41 78 44 06 F1 3B = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 = F641 PROD2 BRIVE MAIN = PRO D2 - Brive vs Dax =  = 2026-11-06 20:32
 100 11065 V 10000 = BC 11 20 ED 26 06 11 3D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = HD =  =  =  = 2026-11-06 20:30
 420 10956 V 7500 = F3 6E 25 86 95 61 A5 9B = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-145-B =  =  = 2026-11-06 20:28
 192 11477 V 15000 = BE 7D B4 EF E7 6E E1 36 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 1N/1P ( 19.2E ) = 4:2:2 | 4:2:0 = UKI1965 M5 Main =  =  = 2026-11-06 17:50
@@ -20,6 +25,8 @@
 1005 4191 V 7200 = 3D 86 FD C0 CA 34 50 4E = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = TDF SG Criterium 2026_M =  =  = 2026-11-06 11:18
 1005 3945 V 7200 = AE CD AD 28 BF AB DC 46 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-11-06 06:36
 1005 3966 V 7499 = E9 21 A4 AE A3 9F 6B AD = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 9 = Jacksonville Jaguars vs Baltimore Ravens (@ M&T Bank Stadium) = 2026-11-06 04:48
+260 12627 V 3600 = FE ED EF DA AC C3 23 92 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4.2.0 | HD = OB-HD1 =  =  = 2026-11-06 16:53
+260 11644 V 7500 = FE ED EF DA AC C3 23 92 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = OB-HD3 =  =  = 2026-11-06 21:07
 0 11464 V 7200 = 34 B2 C0 A6 B9 6D AC D2 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W =  = 4.2.0 = No name =  =  = 2026-11-06 17:08
 420 10983 H 7200 = 12 1C CC FA BB BA BA 2F = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-06 20:34
 420 11120 V 5001 = 46 18 B1 0F 07 C8 B4 83 = Water Sports (Swimming Water Polo: Various Satellites) = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA 648 A =  =  = 2026-11-06 19:05
@@ -29,7 +36,6 @@
 216 0200 H  = FE ED 06 F1 11 20 26 57 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-11-06 19:34
 260 12608 H 5000 = 20 88 20 C8 88 20 88 30 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4.2.0 = KUW-001 B =  =  = 2026-11-06 19:09
 390 11462 H 5000 = 20 76 20 B6 76 20 76 0C = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Hellas Sat 3/4 ( 39E ) = 4.2.0 = KUW-003B =  =  = 2026-11-06 19:15
-260 12627 V 3600 = FE ED EF DA AC C3 23 92 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4.2.0 | HD = OB-HD1 =  =  = 2026-11-06 16:53
 1005 4107 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-06 10:25
 130 10820 H 7200 = AB CC DD 54 EF 06 11 06 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Aramco China Championship =  = 2026-11-06 10:51
 0 11152 V 8800 = 27 7A 56 F7 69 55 C7 85 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc =  = 4.2.0 =  =  =  = 2026-11-06 15:42
