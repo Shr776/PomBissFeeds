@@ -1,7 +1,10 @@
+160 12606 H 30000 = 37 BD F9 ED 94 FC AB 3B = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Eutelsat 16D ( 16E ) = 4:2:2 = WWE CAM 1 =  =  = 2026-11-06 14:58
+1005 3840 H 29998 = C5 95 CB 25 A2 7C 0E 2C = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4.2.2 = OVERON 1 =  =  = 2026-11-06 14:50
 160 12690 V 8000 = 39 10 FC 45 26 AB 99 6A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | SD = UKI-1937 P1 SD =  =  = 2026-11-06 13:52
 1005 4191 V 7200 = 3D 86 FD C0 CA 34 50 4E = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = TDF SG Criterium 2026_M =  =  = 2026-11-06 11:18
 1005 3945 V 7200 = AE CD AD 28 BF AB DC 46 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-11-06 06:36
 1005 3966 V 7499 = E9 21 A4 AE A3 9F 6B AD = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 9 = Jacksonville Jaguars vs Baltimore Ravens (@ M&T Bank Stadium) = 2026-11-06 04:48
+1005 3946 H 7200 = 20 26 11 57 06 AB CD 7E = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = AsiaSat 5 ( 100.5E ) = 4:2:0 = Service-1 =  =  = 2026-11-06 14:08
 1005 4153 V 9875 = 0A 44 33 81 97 D1 59 C1 = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Main =  =  = 2026-11-06 12:32
 1005 4107 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-06 10:25
 130 10820 H 7200 = AB CC DD 54 EF 06 11 06 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Aramco China Championship =  = 2026-11-06 10:51
