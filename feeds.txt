@@ -14,6 +14,10 @@
 1005 4191 V 7200 = 3D 86 FD C0 CA 34 50 4E = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = TDF SG Criterium 2026_M =  =  = 2026-11-06 11:18
 1005 3945 V 7200 = AE CD AD 28 BF AB DC 46 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-11-06 06:36
 1005 3966 V 7499 = E9 21 A4 AE A3 9F 6B AD = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 9 = Jacksonville Jaguars vs Baltimore Ravens (@ M&T Bank Stadium) = 2026-11-06 04:48
+216 0200 H  = FE ED 06 F1 11 20 26 57 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-11-06 19:34
+260 12608 H 5000 = 20 88 20 C8 88 20 88 30 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4.2.0 = KUW-001 B =  =  = 2026-11-06 19:09
+390 11462 H 5000 = 20 76 20 B6 76 20 76 0C = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Hellas Sat 3/4 ( 39E ) = 4.2.0 = KUW-003B =  =  = 2026-11-06 19:15
+420 11120 V 5001 = 46 18 B1 0F 07 C8 B4 83 = Water Sports (Swimming Water Polo: Various Satellites) = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA 648 A =  =  = 2026-11-06 19:05
 0 11464 V 7200 = 34 B2 C0 A6 B9 6D AC D2 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W =  = 4.2.0 = No name =  =  = 2026-11-06 17:08
 260 12627 V 3600 = FE ED EF DA AC C3 23 92 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4.2.0 | HD = OB-HD1 =  =  = 2026-11-06 16:53
 1005 4107 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-06 10:25
