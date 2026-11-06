@@ -1,3 +1,5 @@
+70 11065 V 9598 = BC 11 20 ED 26 06 11 3D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-11-06 20:30
+100 11083 V 10000 = BC 11 20 ED 26 06 11 3D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:2 = ITA727ENC2 =  =  = 2026-11-06 23:39
 192 11477 V 15000 = BE 7D B4 EF E7 6E E1 36 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 1N/1P ( 19.2E ) = 4:2:2 | 4:2:0 = UKI1965 M5 Main =  =  = 2026-11-06 17:50
 20 12510 H 14999 = BE 7D B4 EF E7 6E E1 36 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 2E/2F/2G ( 28.2E ) = HD = Unname =  =  = 2026-11-06 18:55
 130 11656 H 7200 = 28 12 12 4C 39 78 41 F2 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC 6 =  =  = 2026-11-06 22:14
@@ -16,7 +18,6 @@
 70 10970 H 9875 = 06 11 DE F5 BA 68 71 93 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = FFBL Munchen = German Frauen-Bundesliga - Bayern Munchen vs Werder =  = 2026-11-06 20:45
 160 12690 V 8000 = 39 10 FC 45 26 AB 99 6A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | SD = UKI-1937 P1 SD =  =  = 2026-11-06 13:52
 70 10984 H 7200 = 12 1C CC FA BB BA BA 2F = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:0 = ITA-466MAIN =  =  = 2026-11-06 20:37
-100 11065 V 10000 = BC 11 20 ED 26 06 11 3D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = HD =  =  =  = 2026-11-06 20:30
 420 10956 V 7500 = F3 6E 25 86 95 61 A5 9B = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-145-B =  =  = 2026-11-06 20:28
 215 10994 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-11-06 17:56
 1005 4007 H 7119 = A7 84 B0 DB 7D 08 EF 74 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-06 15:07
