@@ -1,3 +1,5 @@
+215 10994 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-11-06 17:56
+192 11490 V 7200 = BE 7D B4 EF E7 6E E1 36 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 1N/1P ( 19.2E ) = 4:2:0 = Unname =  =  = 2026-11-06 17:50
 1005 4007 H 7119 = A7 84 B0 DB 7D 08 EF 74 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-06 15:07
 130 11609 V 7120 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight 177 = One Friday Fight 177 =  = 2026-11-06 16:04
 1005 4164 V 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = One Friday Fight 177 = One Friday Fight 177 =  = 2026-11-06 16:15
@@ -10,6 +12,7 @@
 1005 4191 V 7200 = 3D 86 FD C0 CA 34 50 4E = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = TDF SG Criterium 2026_M =  =  = 2026-11-06 11:18
 1005 3945 V 7200 = AE CD AD 28 BF AB DC 46 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-11-06 06:36
 1005 3966 V 7499 = E9 21 A4 AE A3 9F 6B AD = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 9 = Jacksonville Jaguars vs Baltimore Ravens (@ M&T Bank Stadium) = 2026-11-06 04:48
+0 11464 V 7200 = 34 B2 C0 A6 B9 6D AC D2 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W =  = 4.2.0 = No name =  =  = 2026-11-06 17:08
 260 12627 V 3600 = FE ED EF DA AC C3 23 92 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4.2.0 | HD = OB-HD1 =  =  = 2026-11-06 16:53
 1005 4107 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-06 10:25
 130 10820 H 7200 = AB CC DD 54 EF 06 11 06 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Aramco China Championship =  = 2026-11-06 10:51
