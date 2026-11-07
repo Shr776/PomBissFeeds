@@ -1,3 +1,9 @@
+420 12525 V 7199 = BC 11 20 ED 26 06 11 3D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-07 00:51
+750 11162 V 7500 = NO KEY = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = ABS 2/2A ( 75E ) = HD | 4:2:0 =  =  =  = 2026-11-07 19:24
+160 12643 H 30000 = 37 BD F9 ED 94 FC AB 3B = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Eutelsat 16D ( 16E ) = 4:2:2 = STAM A Enc06 Trk Prodn MP4 =  =  = 2026-11-07 22:42
+1005 3840 H 30000 = DB EA 5E 23 FC C1 8F 4C = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-11-07 12:30
+1005 3840 H 30000 = 93 54 0E F5 10 4B 75 D0 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 2 =  = CA OSASUNA VS ATHLETIC CLUB = 2026-11-07 20:19
+1005 3840 H 30000 = 26 18 6D AB 8F 48 E8 BF = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 1 =  = Valencia CF VS Real Madrid = 2026-11-07 22:41
 130 11647 H 7199 = BC F6 95 47 46 B0 F3 E9 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 22:24
 130 11595 H 14241 = 55 73 92 5A E4 A3 4A D1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 13:51
 130 11595 H 14241 = 55 73 92 5A E4 A3 4A D1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 | 4.2.0 =  =  =  = 2026-11-07 14:11
@@ -41,12 +47,8 @@
 160 10980 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = F7-2 4.5MH =  =  = 2026-11-07 19:07
 20 12624 H 7199 = 07 11 BD D5 BA 65 47 66 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-07 19:19
 130 11635 V 9875 = AF 1C 46 11 3F AF 8E 7C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = STU-BRE Basis DFL BU =  =  = 2026-11-07 20:32
-1005 3840 H 30000 = DB EA 5E 23 FC C1 8F 4C = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-11-07 12:30
-1005 3840 H 30000 = 93 54 0E F5 10 4B 75 D0 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 2 =  = CA OSASUNA VS ATHLETIC CLUB = 2026-11-07 20:19
 216 10988 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main SAUDI065 =  =  = 2026-11-07 18:25
 30 11643 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 3B ( 3E ) = 4.2.0 = SAU-0165 =  =  = 2026-11-07 19:37
-420 12525 V 7199 = BC 11 20 ED 26 06 11 3D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-07 00:51
-750 11162 V 7500 = NO KEY = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = ABS 2/2A ( 75E ) = HD | 4:2:0 =  =  =  = 2026-11-07 19:24
 420 10965 V 7500 = 8F 3D 6F 3B 2B 7B FF A5 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TKS.TRT.M17 - A =  =  = 2026-11-07 13:53
 420 11646 V 7500 = 43 7D 13 D3 78 70 8D 75 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-036 MAIN =  =  = 2026-11-07 19:18
 420 10956 V 7500 = 82 77 6E 67 68 1D 5B E0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-07 13:45
@@ -58,7 +60,6 @@
 160 12511 V 7200 = AB BA 07 6C 11 20 26 57 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 = E 95 main = Liga Portugal 2 - Chaves vs Penafiel =  = 2026-11-07 17:08
 130 11109 H 7199 = 07 11 20 38 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-73 =  =  = 2026-11-07 18:20
 130 11062 V 7199 = D1 4C 2A 47 C5 0A FB CA = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 = M00-MRC007-Main =  =  = 2026-11-07 17:37
-100 10755 V 9700 = 12 34 AA F0 BB 33 44 32 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 10B ( 10E ) = 4:2:0 = SNG ABC 1 =  =  = 2026-11-07 17:03
 130 11623 V 9874 = 95 0C F8 99 BB 12 FA C7 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 15:35
 160 11189 H 7200 = 13 36 E2 2B 2C 74 C5 65 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = Fi13_GNVE = CAF Women's Champions League =  = 2026-11-07 14:00
 130 11636 V 7200 = 13 36 E2 2B 2C 74 C5 65 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = unknown = CAF Women's Champions League =  = 2026-11-07 14:16
@@ -81,6 +82,7 @@
 260 11143 V 4400 = 88 5A 81 63 19 66 87 06 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = UAE074 - 1 =  =  = 2026-11-07 18:17
 30 11596 H 3500 = C2 13 DF B4 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 3B ( 3E ) = 4.2.0 = ISH-ENC3 =  =  = 2026-11-07 18:47
 260 11138 V 4400 = 24 25 30 79 21 45 64 CA = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = UAE074 - 1 =  =  = 2026-11-07 18:55
+100 10755 V 9700 = 12 34 AA F0 BB 33 44 32 = Athletics Marathons etc (10°E 7°E 100.5°E.... etc) = Eutelsat 10B ( 10E ) = 4:2:0 = SNG ABC 1 =  =  = 2026-11-07 17:03
 130 11628 H 4938 = EB 27 07 19 32 8F 58 19 = MTVA Hungary Feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = MTVA SNG HUNGARY =  =  = 2026-11-07 15:33
 160 12539 H 4936 = A9 68 EB FC ED B8 B0 55 = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-07 17:01
 160 10973 V 9601 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-141 ENC1 = Betclic 2. Liga - match: Znicz Pruszków - Podhale Nowy Targ =  = 2026-11-07 15:13
