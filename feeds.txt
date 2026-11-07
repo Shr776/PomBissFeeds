@@ -1,3 +1,15 @@
+130 11647 H 7199 = BC F6 95 47 46 B0 F3 E9 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 22:24
+130 11595 H 14241 = 55 73 92 5A E4 A3 4A D1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 13:51
+130 11595 H 14241 = 55 73 92 5A E4 A3 4A D1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 | 4.2.0 =  =  =  = 2026-11-07 14:11
+70 11173 H 7200 = F4 86 42 BC 79 07 F1 71 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = TOULOUSE SOS = TOP 14 - Toulouse vs Clermont =  = 2026-11-07 15:50
+70 11165 H 7200 = F4 86 42 BC 79 07 F2 72 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 = TOULOUSE LNR UK = TOP 14 - Toulouse vs Clermont =  = 2026-11-07 16:04
+100 11276 V 7119 = AA BD 34 9B AA 07 11 C2 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-07 16:07
+130 11612 H 14240 = AA BD 34 9B AA 07 11 C2 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 16:11
+130 11595 H 14239 = CC DF 66 11 EE 07 11 06 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch -Nations Wales v Japan =  =  = 2026-11-07 19:12
+160 12520 H 7200 = AA AA 19 6D 05 BB BB 7B = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4.2.0 = POR 14 CARRO F3 =  =  = 2026-11-07 19:58
+130 11613 H 14240 = 41 BB 39 35 50 D3 D3 F6 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch France v Fiji World TX2 =  =  = 2026-11-07 22:21
+100 11276 V 7120 = 41 BB 39 35 50 D3 D3 F6 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-07 22:22
+130 11100 H 7199 = D8 77 53 A2 C7 8E A8 FD = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = BEL119 =  =  = 2026-11-07 22:15
 192 10982 V 7199 = BF 37 D6 CC 3F 9D 36 12 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 1N/1P ( 19.2E ) = 4:2:0 | 4:2:2 | HD = Unname =  =  = 2026-11-07 16:08
 160 12692 V 8000 = 39 10 FC 45 26 AB 99 6A = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 16D ( 16E ) = 4:2:0 | SD = UKI-1937 P1 SD =  =  = 2026-11-07 17:04
 192 11673 V 7200 = 78 F4 F4 60 D0 A8 72 EA = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 1N/1P ( 19.2E ) = 4:2:0 = Unname =  =  = 2026-11-07 17:23
@@ -20,12 +32,6 @@
 1005 3984 V 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-07 20:59
 160 12513 H 9600 = AB BA 26 8B DC AE 11 9B = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:0 = TVP POL-32 ENC 1 =  =  = 2026-11-07 21:52
 130 11068 H 7199 = 88 3D 24 E9 CA 76 21 61 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-07 21:51
-130 10802 H 7199 = E1 2D 1C 2A 56 A1 AC A3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 16:17
-130 11090 H 7200 = FB FC 63 5A C4 A3 86 ED = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = YLE MCR =  =  = 2026-11-07 16:25
-130 10867 H 7199 = 91 72 A1 A4 DC 7F 10 6B = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-NYK-SHE =  =  = 2026-11-07 17:44
-130 10811 H 7199 = 35 61 AC 42 CE F2 22 E2 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = AMP V02 =  =  = 2026-11-07 18:28
-130 12553 H 7199 = 36 5F DC 71 13 82 A1 36 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-BLO-GYO ENC1 =  =  = 2026-11-07 20:37
-130 11082 H 7199 = 43 A7 77 61 32 84 A5 5B = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SLO-008 Tx 1 =  =  = 2026-11-07 20:44
 130 11618 V 7200 = B0 63 CD E0 3E D7 E5 FA = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-11-07 20:38
 1005 3860 V 30000 = 12 BF AD 7E A6 B8 E0 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi18_GNVE_BULI_14 =  =  = 2026-11-07 11:05
 70 10970 H 9875 = 07 11 CF E7 EA 12 60 5C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = FFBL Freiburg = German Frauen-Bundesliga - Freiburg vs Nurnberg =  = 2026-11-07 14:07
@@ -35,14 +41,6 @@
 160 10980 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = F7-2 4.5MH =  =  = 2026-11-07 19:07
 20 12624 H 7199 = 07 11 BD D5 BA 65 47 66 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-07 19:19
 130 11635 V 9875 = AF 1C 46 11 3F AF 8E 7C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = STU-BRE Basis DFL BU =  =  = 2026-11-07 20:32
-130 11595 H 14241 = 55 73 92 5A E4 A3 4A D1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 13:51
-130 11595 H 14241 = 55 73 92 5A E4 A3 4A D1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 | 4.2.0 =  =  =  = 2026-11-07 14:11
-70 11173 H 7200 = F4 86 42 BC 79 07 F1 71 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = TOULOUSE SOS = TOP 14 - Toulouse vs Clermont =  = 2026-11-07 15:50
-70 11165 H 7200 = F4 86 42 BC 79 07 F2 72 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 = TOULOUSE LNR UK = TOP 14 - Toulouse vs Clermont =  = 2026-11-07 16:04
-100 11276 V 7119 = AA BD 34 9B AA 07 11 C2 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-07 16:07
-130 11612 H 14240 = AA BD 34 9B AA 07 11 C2 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 16:11
-130 11595 H 14239 = CC DF 66 11 EE 07 11 06 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch -Nations Wales v Japan =  =  = 2026-11-07 19:12
-160 12520 H 7200 = AA AA 19 6D 05 BB BB 7B = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4.2.0 = POR 14 CARRO F3 =  =  = 2026-11-07 19:58
 1005 3840 H 30000 = DB EA 5E 23 FC C1 8F 4C = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-11-07 12:30
 1005 3840 H 30000 = 93 54 0E F5 10 4B 75 D0 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 2 =  = CA OSASUNA VS ATHLETIC CLUB = 2026-11-07 20:19
 216 10988 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main SAUDI065 =  =  = 2026-11-07 18:25
