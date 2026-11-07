@@ -1,9 +1,11 @@
-420 12525 V 7199 = BC 11 20 ED 26 06 11 3D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-07 00:51
-750 11162 V 7500 = NO KEY = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = ABS 2/2A ( 75E ) = HD | 4:2:0 =  =  =  = 2026-11-07 19:24
-160 12643 H 30000 = 37 BD F9 ED 94 FC AB 3B = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Eutelsat 16D ( 16E ) = 4:2:2 = STAM A Enc06 Trk Prodn MP4 =  =  = 2026-11-07 22:42
+100 11248 H 7500 = C6 D3 99 32 F8 15 CA D7 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-11-07 23:21
 1005 3840 H 30000 = DB EA 5E 23 FC C1 8F 4C = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-11-07 12:30
 1005 3840 H 30000 = 93 54 0E F5 10 4B 75 D0 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 2 =  = CA OSASUNA VS ATHLETIC CLUB = 2026-11-07 20:19
 1005 3840 H 30000 = 26 18 6D AB 8F 48 E8 BF = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 1 =  = Valencia CF VS Real Madrid = 2026-11-07 22:41
+1005 3840 H 30001 = 02 6D 60 CF 20 FB A3 BE = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = hd | 1920x1080i | 4:2:2 = OVERON 3 = Spain - LALIGA EA SPORTS Matchday 12 = Valencia CF vs Real Madrid = 2026-11-07 23:19
+420 12525 V 7199 = BC 11 20 ED 26 06 11 3D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-07 00:51
+750 11162 V 7500 = NO KEY = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = ABS 2/2A ( 75E ) = HD | 4:2:0 =  =  =  = 2026-11-07 19:24
+160 12643 H 30000 = 37 BD F9 ED 94 FC AB 3B = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = Eutelsat 16D ( 16E ) = 4:2:2 = STAM A Enc06 Trk Prodn MP4 =  =  = 2026-11-07 22:42
 130 11647 H 7199 = BC F6 95 47 46 B0 F3 E9 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 22:24
 130 11595 H 14241 = 55 73 92 5A E4 A3 4A D1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 13:51
 130 11595 H 14241 = 55 73 92 5A E4 A3 4A D1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 | 4.2.0 =  =  =  = 2026-11-07 14:11
