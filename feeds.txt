@@ -1,3 +1,26 @@
+130 12688 H 7120 = B2 C5 D3 4A E6 F4 A7 81 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight 177 = One Friday Fight 177 - Gabriel vs Magomedov =  = 2026-11-07 05:19
+160 11126 H 7200 = B4 54 BC C4 A1 1C 23 E0 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = Cage Warriors = Cage Warriors 212: Spanish Showcase, =  = 2026-11-07 20:27
+1005 3966 V 7200 = B4 54 BC C4 A1 1C 23 E0 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Cage Warriors = Cage Warriors 212: Spanish Showcase, =  = 2026-11-07 21:00
+750 4070 H 7500 = NO KEY = BOXING all satellites feeds (10E .....) = ABS 2/2A ( 75E ) = 4.2.0 =  =  =  = 2026-11-07 02:46
+130 12707 H 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-07 20:29
+70 11102 V 7200 = 15 58 35 A2 71 42 63 16 = BOXING all satellites feeds (10E .....) = Eutelsat 7C ( 7E ) = 4.2.2 = POL-058_ch1 = Babilon Boxing Show in Szczecin - light heavyweight: Paweł Stępień - Junior Menendez =  = 2026-11-07 20:45
+130 11695 H 7199 = 22 55 88 FF 55 66 55 10 = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 20:47
+1005 3984 V 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-07 20:59
+130 10802 H 7199 = E1 2D 1C 2A 56 A1 AC A3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 16:17
+130 11090 H 7200 = FB FC 63 5A C4 A3 86 ED = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = YLE MCR =  =  = 2026-11-07 16:25
+130 10867 H 7199 = 91 72 A1 A4 DC 7F 10 6B = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-NYK-SHE =  =  = 2026-11-07 17:44
+130 10811 H 7199 = 35 61 AC 42 CE F2 22 E2 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = AMP V02 =  =  = 2026-11-07 18:28
+130 12553 H 7199 = 36 5F DC 71 13 82 A1 36 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-BLO-GYO ENC1 =  =  = 2026-11-07 20:37
+130 11082 H 7199 = 43 A7 77 61 32 84 A5 5B = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SLO-008 Tx 1 =  =  = 2026-11-07 20:44
+130 11618 V 7200 = B0 63 CD E0 3E D7 E5 FA = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-11-07 20:38
+1005 3860 V 30000 = 12 BF AD 7E A6 B8 E0 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi18_GNVE_BULI_14 =  =  = 2026-11-07 11:05
+70 10970 H 9875 = 07 11 CF E7 EA 12 60 5C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = FFBL Freiburg = German Frauen-Bundesliga - Freiburg vs Nurnberg =  = 2026-11-07 14:07
+70 10958 H 9875 = 07 11 CF E7 EA 12 60 5C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = FFBL Leverkusen = German Frauen-Bundesliga - Leverkusen vs Hamburger =  = 2026-11-07 16:10
+192 11598 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4:2:2 = SNG = German Regionalliga Nordost - Chemnitzer vs Greifswald =  = 2026-11-07 16:43
+192 11698 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4:2:2 = SNG = German Regionalliga Nordost - Chemnitzer vs Greifswald =  = 2026-11-07 16:48
+160 10980 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = F7-2 4.5MH =  =  = 2026-11-07 19:07
+20 12624 H 7199 = 07 11 BD D5 BA 65 47 66 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-07 19:19
+130 11635 V 9875 = AF 1C 46 11 3F AF 8E 7C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = hd | 4:2:2 = STU-BRE Basis DFL BU =  =  = 2026-11-07 20:32
 130 11595 H 14241 = 55 73 92 5A E4 A3 4A D1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 13:51
 130 11595 H 14241 = 55 73 92 5A E4 A3 4A D1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 | 4.2.0 =  =  =  = 2026-11-07 14:11
 70 11173 H 7200 = F4 86 42 BC 79 07 F1 71 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) =  = TOULOUSE SOS = TOP 14 - Toulouse vs Clermont =  = 2026-11-07 15:50
@@ -20,17 +43,13 @@
 1005 4115 H 7119 = 54 55 55 FE 6A 32 E5 81 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = hd | 4:2:0 =  =  =  = 2026-11-07 18:26
 192 11128 V 15000 = 19 A3 F3 AF 9A 52 8F 7B = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 1N/1P ( 19.2E ) = 4:2:2 = Unname =  =  = 2026-11-07 18:41
 130 11656 H 7200 = 28 13 28 63 1A BA D2 A6 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-13 =  =  = 2026-11-07 19:45
+160 11171 H 7200 = 20 16 26 5C 93 FA 26 B3 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 16D ( 16E ) = 4:2:2 = ALTRINCHAM REV VIS =  =  = 2026-11-07 20:23
+1005 3840 H 30000 = DB EA 5E 23 FC C1 8F 4C = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-11-07 12:30
+1005 3840 H 30000 = 93 54 0E F5 10 4B 75 D0 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 2 =  = CA OSASUNA VS ATHLETIC CLUB = 2026-11-07 20:19
 216 10988 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main SAUDI065 =  =  = 2026-11-07 18:25
 30 11643 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 3B ( 3E ) = 4.2.0 = SAU-0165 =  =  = 2026-11-07 19:37
 420 12525 V 7199 = BC 11 20 ED 26 06 11 3D = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-07 00:51
 750 11162 V 7500 = NO KEY = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = ABS 2/2A ( 75E ) = HD | 4:2:0 =  =  =  = 2026-11-07 19:24
-1005 3860 V 30000 = 12 BF AD 7E A6 B8 E0 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi18_GNVE_BULI_14 =  =  = 2026-11-07 11:05
-70 10970 H 9875 = 07 11 CF E7 EA 12 60 5C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = FFBL Freiburg = German Frauen-Bundesliga - Freiburg vs Nurnberg =  = 2026-11-07 14:07
-70 10958 H 9875 = 07 11 CF E7 EA 12 60 5C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = FFBL Leverkusen = German Frauen-Bundesliga - Leverkusen vs Hamburger =  = 2026-11-07 16:10
-192 11598 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4:2:2 = SNG = German Regionalliga Nordost - Chemnitzer vs Greifswald =  = 2026-11-07 16:43
-192 11698 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4:2:2 = SNG = German Regionalliga Nordost - Chemnitzer vs Greifswald =  = 2026-11-07 16:48
-160 10980 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = F7-2 4.5MH =  =  = 2026-11-07 19:07
-20 12624 H 7199 = 07 11 BD D5 BA 65 47 66 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-07 19:19
 420 10965 V 7500 = 8F 3D 6F 3B 2B 7B FF A5 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TKS.TRT.M17 - A =  =  = 2026-11-07 13:53
 420 11646 V 7500 = 43 7D 13 D3 78 70 8D 75 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-036 MAIN =  =  = 2026-11-07 19:18
 420 10956 V 7500 = 82 77 6E 67 68 1D 5B E0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-07 13:45
@@ -38,10 +57,6 @@
 420 10983 V 7500 = FB D6 56 27 61 78 36 0F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = ARTI BIR YAPIM A =  =  = 2026-11-07 16:05
 420 11678 V 7500 = 54 B8 AE BA 50 7D 38 05 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR156 Main =  =  = 2026-11-07 19:16
 750 11471 V 7500 = FB D2 11 DE 07 CC 11 E4 = BELGIAN FOOTBALL @ 7°E 10°E = ABS 2/2A ( 75E ) = HD = HOL322 TX1 =  =  = 2026-11-07 18:56
-130 10802 H 7199 = E1 2D 1C 2A 56 A1 AC A3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-07 16:17
-130 11090 H 7200 = FB FC 63 5A C4 A3 86 ED = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = YLE MCR =  =  = 2026-11-07 16:25
-130 10867 H 7199 = 91 72 A1 A4 DC 7F 10 6B = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-NYK-SHE =  =  = 2026-11-07 17:44
-130 10811 H 7199 = 35 61 AC 42 CE F2 22 E2 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = AMP V02 =  =  = 2026-11-07 18:28
 130 11082 H 7200 = AB BB 20 85 26 11 07 3E = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Backup = Liga Portugal 2 - Felgueiras vs Leixoes Sport Club =  = 2026-11-07 14:29
 160 12511 V 7200 = AB BA 07 6C 11 20 26 57 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 = E 95 main = Liga Portugal 2 - Chaves vs Penafiel =  = 2026-11-07 17:08
 130 11109 H 7199 = 07 11 20 38 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-73 =  =  = 2026-11-07 18:20
@@ -52,12 +67,10 @@
 130 11636 V 7200 = 13 36 E2 2B 2C 74 C5 65 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = unknown = CAF Women's Champions League =  = 2026-11-07 14:16
 160 11180 H 7199 = 13 36 E2 2B 2C 74 C5 65 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = Fi09_GNVE =  =  = 2026-11-07 14:55
 160 12510 H 7200 = C5 2D 78 6A 40 44 29 AD = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Asia AFC Champions League Women = Melbourne City W (AUS) Beijing Beikong W (CHN) Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-07 13:49
-1005 3840 H 30000 = DB EA 5E 23 FC C1 8F 4C = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-11-07 12:30
 130 12525 H 7200 = 20 26 AB F1 CA 20 25 0F = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = WEC = WEC - 6 Hours of Monza 2026 =  = 2026-11-07 12:20
 160 12631 V 9875 = A8 82 47 71 B8 DC F7 8B = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Eutelsat 16D ( 16E ) = 4:2:0 = IPF = Moto GP =  = 2026-11-07 12:29
 1005 3945 V 7200 = AE CD AD 28 BF AB DC 46 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-11-07 06:47
-130 12688 H 7120 = B2 C5 D3 4A E6 F4 A7 81 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight 177 = One Friday Fight 177 - Gabriel vs Magomedov =  = 2026-11-07 05:19
-750 4070 H 7500 = NO KEY = BOXING all satellites feeds (10E .....) = ABS 2/2A ( 75E ) = 4.2.0 =  =  =  = 2026-11-07 02:46
+160 10973 V 9601 = AB BA 26 8B DC AE 11 9B = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-111 = Futsal:World Cup - Qualification - Second Round Poland - Northern Ireland =  = 2026-11-07 20:56
 260 12627 V 3600 = FE ED EF DA AC C3 23 92 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4.2.0 | HD = OB-HD1 =  =  = 2026-11-07 16:15
 260 12626 V 3600 = FE ED EF DA AC C3 24 93 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = hd = egy ob hd =  =  = 2026-11-07 19:07
 260 12633 V 3600 = FE ED EF DA AC C3 24 93 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = hd = ob hd =  =  = 2026-11-07 19:08
@@ -79,3 +92,4 @@
 130 10838 H 7200 = D1 10 7E 5F 01 FF BF BF = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU FS Shenzhen = ISU Figure Skating Grand Prix Cup of China =  = 2026-11-07 09:41
 1005 4146 H 7200 = D1 10 7E 5F 01 FF BF BF = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 = ISU FS Shenzhen = ISU Figure Skating Grand Prix Cup of China =  = 2026-11-07 10:25
 130 10802 H 7200 = F6 A3 8D 26 2B 71 E9 85 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 BISS-1 = BWF WORLD TOUR - YEOSU VICTOR Korea Open 2026 =  = 2026-11-07 05:15
+160 10964 V 4800 = AB BA 26 8B DC AE 11 9B = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-110 = Attack and shooting in Poland =  = 2026-11-07 21:02
