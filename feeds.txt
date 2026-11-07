@@ -1,3 +1,6 @@
+1005 3840 H 30000 = DB EA 5E 23 FC C1 8F 4C = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-11-07 12:30
+130 12525 H 7200 = 20 26 AB F1 CA 20 25 0F = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = WEC = WEC - 6 Hours of Monza 2026 =  = 2026-11-07 12:20
+160 12631 V 9875 = A8 82 47 71 B8 DC F7 8B = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Eutelsat 16D ( 16E ) = 4:2:0 = IPF = Moto GP =  = 2026-11-07 12:29
 1005 3860 V 30000 = 12 BF AD 7E A6 B8 E0 3E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi18_GNVE_BULI_14 =  =  = 2026-11-07 11:05
 1005 3945 V 7200 = AE CD AD 28 BF AB DC 46 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) =  = West Indies tour of Bangladesh =  =  = 2026-11-07 06:47
 130 12688 H 7120 = B2 C5 D3 4A E6 F4 A7 81 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight 177 = One Friday Fight 177 - Gabriel vs Magomedov =  = 2026-11-07 05:19
