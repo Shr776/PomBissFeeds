@@ -1,3 +1,8 @@
+750 4070 H 7500 = NO KEY = BOXING all satellites feeds (10E .....) = ABS 2/2A ( 75E ) = 4.2.0 =  =  =  = 2026-11-07 02:46
+130 12707 H 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-07 20:29
+70 11102 V 7200 = 15 58 35 A2 71 42 63 16 = BOXING all satellites feeds (10E .....) = Eutelsat 7C ( 7E ) = 4.2.2 = POL-058_ch1 = Babilon Boxing Show in Szczecin - light heavyweight: Paweł Stępień - Junior Menendez =  = 2026-11-07 20:45
+1005 3984 V 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-07 20:59
+160 12513 H 9600 = AB BA 26 8B DC AE 11 9B = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:0 = TVP POL-32 ENC 1 =  =  = 2026-11-07 21:52
 130 11068 H 7199 = 88 3D 24 E9 CA 76 21 61 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-07 21:51
 100 11248 H 7500 = C6 D3 99 32 F8 15 CA D7 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-11-07 23:21
 1005 3840 H 30000 = DB EA 5E 23 FC C1 8F 4C = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-11-07 12:30
@@ -35,11 +40,6 @@
 130 11656 H 7200 = 28 13 28 63 1A BA D2 A6 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-13 =  =  = 2026-11-07 19:45
 160 11171 H 7200 = 20 16 26 5C 93 FA 26 B3 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 16D ( 16E ) = 4:2:2 = ALTRINCHAM REV VIS =  =  = 2026-11-07 20:23
 130 10856 H 7200 = 28 13 99 D4 9A BD A2 F9 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 14 =  =  = 2026-11-07 21:52
-750 4070 H 7500 = NO KEY = BOXING all satellites feeds (10E .....) = ABS 2/2A ( 75E ) = 4.2.0 =  =  =  = 2026-11-07 02:46
-130 12707 H 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-07 20:29
-70 11102 V 7200 = 15 58 35 A2 71 42 63 16 = BOXING all satellites feeds (10E .....) = Eutelsat 7C ( 7E ) = 4.2.2 = POL-058_ch1 = Babilon Boxing Show in Szczecin - light heavyweight: Paweł Stępień - Junior Menendez =  = 2026-11-07 20:45
-1005 3984 V 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-07 20:59
-160 12513 H 9600 = AB BA 26 8B DC AE 11 9B = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:0 = TVP POL-32 ENC 1 =  =  = 2026-11-07 21:52
 130 11618 V 7200 = B0 63 CD E0 3E D7 E5 FA = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-11-07 20:38
 1005 3860 V 30000 = 12 BF AD 7E A6 B8 E0 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi18_GNVE_BULI_14 =  =  = 2026-11-07 11:05
 70 10970 H 9875 = 07 11 CF E7 EA 12 60 5C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = FFBL Freiburg = German Frauen-Bundesliga - Freiburg vs Nurnberg =  = 2026-11-07 14:07
