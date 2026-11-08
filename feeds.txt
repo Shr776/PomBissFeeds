@@ -16,6 +16,7 @@
 130 12707 H 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-08 02:03
 130 11619 V 7200 = 88 3D 24 E9 CA 76 21 61 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-11-08 00:10
 70 11110 V 4937 = AC DC 20 A8 26 AB BA 8B = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 7C ( 7E ) = 4:2:0 = POL-102 Main =  =  = 2026-11-08 00:25
+216 11666 H 6666 = A4 06 42 EC 0D 41 75 C3 = Athletics Marathons etc (10°E 7°E 100.5°E.... etc) = Eutelsat 21C ( 21.6E ) = 4.2.0 = WDL Doha WF =  =  = 2026-11-08 13:05
 130 10820 H 7200 = NO KEY = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Aramco China Championship =  = 2026-11-08 08:13
 1005 4106 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = HSBC Abu Dhabi Golf Championship =  = 2026-11-08 12:34
 1005 4153 V 9875 = 44 0D 5B AC B9 2F 87 6F = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Main =  =  = 2026-11-08 10:31
