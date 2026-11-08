@@ -1,3 +1,30 @@
+130 12707 H 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-08 02:03
+130 11656 H 7199 = 45 73 C8 80 02 67 89 F2 = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:0 = MVP BOXING PRI =  =  = 2026-11-08 23:53
+130 11088 V 7200 = F6 68 D4 32 CD FE F6 C1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE = Basketball Liga Endesa ACB- =  = 2026-11-08 10:43
+420 10956 V 7500 = 85 2A 32 E1 41 CD 31 3F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-08 14:00
+160 12598 V 4936 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Europe AdmiralBet ABA League - Round 7 = Partizan Mozzart Bet Studentski Centar Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-08 15:15
+-40 0034 H  = AB 12 12 CF AC BC CA 32 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Amos 3/7 ( 4W ) =  =  =  =  = 2026-11-08 15:45
+420 10974 V 7500 = C1 C1 B8 3A D9 95 73 E1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 112 MAIN =  =  = 2026-11-08 16:01
+420 11624 V 7500 = 7D 11 13 A1 D6 BA B4 44 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-08 18:51
+130 11089 V 7199 = F6 68 D4 32 CD FE F6 C1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi01 ACB =  =  = 2026-11-08 20:32
+30 11576 H 5000 = 31 31 45 A7 45 77 71 2D = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 3B ( 3E ) = 4.2.0 = SNG MK1 =  =  = 2026-11-08 23:13
+100 11285 V 7120 = CB AD 34 AC AA 08 11 C3 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-08 17:39
+130 11595 H 14240 = CB AD 34 AC AA 08 11 C3 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch NC England v Australia =  =  = 2026-11-08 17:39
+70 10999 H 7200 = F4 86 42 BC 84 08 F1 7D = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 = LA ROCHELLE SOS = TOP 14 - La Rochelle vs Bayonne =  = 2026-11-08 23:09
+70 11025 H 7200 = F4 86 42 BC 84 08 F2 7E = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 = LA ROCHELLE LNR UK = TOP 14 - La Rochelle vs Bayonne =  = 2026-11-08 23:12
+130 10866 H 7200 = 09 DC 71 56 A2 38 1D F7 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-ESB-FTC = EHF Champions League Women  - Team Esbjerg vs FTC-Toyota Kovács =  = 2026-11-08 13:55
+130 11091 H 7198 = E8 AC 54 E8 4A F9 DE 21 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD =  = Europe EHF Euro - Qualification - Third stage = Turkey Norway HotBird 13F/13G @ 13.0E ( KU-BAND ) = 2026-11-08 15:33
+130 12552 H 7200 = 3C 21 0B 68 61 28 F5 7E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 | HD =  = Europe Champions League Women - Round 7 = Metz W (FRA) Odense W (DEN) HotBird 13F/13G @ 13.0E ( KU-BAND ) = 2026-11-08 16:15
+130 11676 H 7200 = 36 0E 61 A5 44 23 1F 86 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-BVB-BUD = EHF Champions League Women  - BV Borussia Dortmund vs OTP Group Buducnost =  = 2026-11-08 16:22
+130 11666 H 7200 = 56 5A F6 A6 9A 81 0A 25 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = B 191 DGI = EHF Champions League Women  - Gloria Bistrita vs HC Podravka =  = 2026-11-08 16:38
+70 11517 H 7200 = 38 A3 78 53 BD 89 66 AC = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 7C ( 7E ) = 4.2.0 = TUR139-Main =  =  = 2026-11-08 16:45
+130 11082 H 7200 = AF EE 9B 38 EC BF BC 67 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  = EHF Euro Qualification - Ukraine vs Serbia =  = 2026-11-08 17:29
+130 12543 H 7200 = C5 87 97 E3 BF DF DB 79 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EST-010 ENC4 EST-ISL = EHF Euro Qualification - Estonia vs Iceland =  = 2026-11-08 17:47
+130 11100 H 7199 = 93 97 EF 19 9B EC B4 3B = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF EURO SUI-DEN =  =  = 2026-11-08 17:54
+130 12552 H 7200 = 3C 21 0B 68 61 28 F5 7E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 =  = EHF Champions League Women  - Metz Handball vs Odense Håndbold =  = 2026-11-08 17:58
+130 10839 H 7200 = 73 39 E2 8E 6A BD C8 EF = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = E386 FEED 1 = EHF Euro Qualification - Spain vs Portugal =  = 2026-11-08 18:33
+70 11040 V 7200 = 42 46 FA 82 A3 4A 22 0F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 7C ( 7E ) =  = E 394 MAIN = EHF Euro Qualification - Greece vs North Macedonia =  = 2026-11-08 18:40
+130 11091 H 7200 = 46 BB 39 3A 3E 99 9D 74 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = backup =  =  = 2026-11-08 23:02
 130 11067 H 7200 = 72 4C 9D 5B B4 35 03 EC = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Football =  = 2026-11-08 10:47
 130 11694 H 7200 = 72 4C 9D 5B B4 35 00 E9 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 7 = Dutch Football =  = 2026-11-08 14:02
 130 11609 V 7199 = 72 4C 9D 5B B4 35 01 EA = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Netherlands Eredivisie - Round 12 = Twente Ajax Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-11-08 17:21
@@ -21,13 +48,6 @@
 1005 3975 V 7500 = FF DD 12 EE 34 CA B3 B1 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 2 =  =  = 2026-11-08 20:58
 130 11204 V 7200 = 48 60 B1 59 0D 2D FB 35 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = POR 21 = Liga SOLVERDE Volleyball =  = 2026-11-08 18:46
 130 11647 H 7199 = 81 14 19 AE 39 93 A1 6D = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 560 157 d9 =  =  = 2026-11-08 20:46
-130 11088 V 7200 = F6 68 D4 32 CD FE F6 C1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE = Basketball Liga Endesa ACB- =  = 2026-11-08 10:43
-420 10956 V 7500 = 85 2A 32 E1 41 CD 31 3F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-08 14:00
-160 12598 V 4936 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Europe AdmiralBet ABA League - Round 7 = Partizan Mozzart Bet Studentski Centar Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-08 15:15
--40 0034 H  = AB 12 12 CF AC BC CA 32 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Amos 3/7 ( 4W ) =  =  =  =  = 2026-11-08 15:45
-420 10974 V 7500 = C1 C1 B8 3A D9 95 73 E1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 112 MAIN =  =  = 2026-11-08 16:01
-420 11624 V 7500 = 7D 11 13 A1 D6 BA B4 44 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-08 18:51
-130 11089 V 7199 = F6 68 D4 32 CD FE F6 C1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi01 ACB =  =  = 2026-11-08 20:32
 420 10965 V 7500 = D2 A5 F3 6A 42 8C 51 1F = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) =  = TUR-143a =  =  = 2026-11-08 14:40
 420 11654 V 7500 = 9A C7 53 B4 97 E1 AC 24 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = tur 144 M =  =  = 2026-11-08 20:07
 160 12595 H 9873 = 08 11 FE 17 AB 36 41 22 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Germany Bundesliga Women - Round 9 = Union Berlin W Hoffenheim W Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-08 16:01
@@ -52,20 +72,6 @@
 260 11644 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Badr 4/5/6/7 ( 26E ) = hd | 4:2:0 = MAKKAH SNG ENC 2 =  =  = 2026-11-08 19:22
 70 11470 V 16960 = FB D3 11 DF 08 CC 13 E7 = BELGIAN FOOTBALL @ 7°E 10°E = Eutelsat 7C ( 7E ) = 4.2.2 = HOL324 FEED NL =  =  = 2026-11-08 15:41
 750 11481 V 7500 = FB D3 11 DF 08 CC 13 E7 = BELGIAN FOOTBALL @ 7°E 10°E = ABS 2/2A ( 75E ) = 4:2:2 = HOL310 DAZN MAIN =  =  = 2026-11-08 18:50
-130 10866 H 7200 = 09 DC 71 56 A2 38 1D F7 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-ESB-FTC = EHF Champions League Women  - Team Esbjerg vs FTC-Toyota Kovács =  = 2026-11-08 13:55
-130 11091 H 7198 = E8 AC 54 E8 4A F9 DE 21 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD =  = Europe EHF Euro - Qualification - Third stage = Turkey Norway HotBird 13F/13G @ 13.0E ( KU-BAND ) = 2026-11-08 15:33
-130 12552 H 7200 = 3C 21 0B 68 61 28 F5 7E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 | HD =  = Europe Champions League Women - Round 7 = Metz W (FRA) Odense W (DEN) HotBird 13F/13G @ 13.0E ( KU-BAND ) = 2026-11-08 16:15
-130 11676 H 7200 = 36 0E 61 A5 44 23 1F 86 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-BVB-BUD = EHF Champions League Women  - BV Borussia Dortmund vs OTP Group Buducnost =  = 2026-11-08 16:22
-130 11666 H 7200 = 56 5A F6 A6 9A 81 0A 25 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = B 191 DGI = EHF Champions League Women  - Gloria Bistrita vs HC Podravka =  = 2026-11-08 16:38
-70 11517 H 7200 = 38 A3 78 53 BD 89 66 AC = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 7C ( 7E ) = 4.2.0 = TUR139-Main =  =  = 2026-11-08 16:45
-130 11082 H 7200 = AF EE 9B 38 EC BF BC 67 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  = EHF Euro Qualification - Ukraine vs Serbia =  = 2026-11-08 17:29
-130 12543 H 7200 = C5 87 97 E3 BF DF DB 79 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EST-010 ENC4 EST-ISL = EHF Euro Qualification - Estonia vs Iceland =  = 2026-11-08 17:47
-130 11100 H 7199 = 93 97 EF 19 9B EC B4 3B = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF EURO SUI-DEN =  =  = 2026-11-08 17:54
-130 12552 H 7200 = 3C 21 0B 68 61 28 F5 7E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 =  = EHF Champions League Women  - Metz Handball vs Odense Håndbold =  = 2026-11-08 17:58
-130 10839 H 7200 = 73 39 E2 8E 6A BD C8 EF = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = E386 FEED 1 = EHF Euro Qualification - Spain vs Portugal =  = 2026-11-08 18:33
-70 11040 V 7200 = 42 46 FA 82 A3 4A 22 0F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 7C ( 7E ) =  = E 394 MAIN = EHF Euro Qualification - Greece vs North Macedonia =  = 2026-11-08 18:40
-100 11285 V 7120 = CB AD 34 AC AA 08 11 C3 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-08 17:39
-130 11595 H 14240 = CB AD 34 AC AA 08 11 C3 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch NC England v Australia =  =  = 2026-11-08 17:39
 160 12657 H 7200 = BC 20 26 02 11 08 CB E4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = hd | 4:2:0 = E95 main =  =  = 2026-11-08 14:04
 130 11213 V 7198 = 08 11 20 39 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Portugal Liga Portugal 2 - Round 10 = SC Farense Benfica B Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-11-08 17:14
 160 11181 H 7200 = 43 C1 51 55 C5 13 B2 8A = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Africa CAF Champions League Women - Round 3 = Ampem Darkoa W (GHA) FAR Rabat W (MAR) Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-08 14:03
@@ -82,7 +88,6 @@
 1005 3716 H 22500 = F1 32 20 43 D3 50 D2 F5 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:2 = Unname =  =  = 2026-11-08 11:43
 130 11610 V 7200 = 3D 86 FD C0 CA 34 50 4E = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = LEUK_Fi05 =  =  = 2026-11-08 11:34
 1005 3944 V 7200 = AB 58 B9 BC 6E BA EC 14 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-08 10:24
-130 12707 H 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-08 02:03
 130 11619 V 7200 = 88 3D 24 E9 CA 76 21 61 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-11-08 00:10
 70 11110 V 4937 = AC DC 20 A8 26 AB BA 8B = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 7C ( 7E ) = 4:2:0 = POL-102 Main =  =  = 2026-11-08 00:25
 216 0200 H  = FE ED 08 F3 11 20 26 57 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-11-08 18:47
