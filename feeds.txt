@@ -1,3 +1,11 @@
+130 11067 H 7200 = 72 4C 9D 5B B4 35 03 EC = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Football =  = 2026-11-08 10:47
+130 11694 H 7200 = 72 4C 9D 5B B4 35 00 E9 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 7 = Dutch Football =  = 2026-11-08 14:02
+130 11609 V 7199 = 72 4C 9D 5B B4 35 01 EA = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Netherlands Eredivisie - Round 12 = Twente Ajax Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-11-08 17:21
+130 11058 H 7199 = 72 4C 9D 5B B4 34 98 80 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-11-08 17:23
+130 11609 V 7199 = 72 4C 9D 5B B4 35 01 EA = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Netherlands Eredivisie - Round 12 = Twente Ajax Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-11-08 17:37
+130 11067 H 7199 = 72 4C 9D 5B B4 35 04 ED = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-08 22:49
+390 12634 V 7200 = D7 6A BB FC 22 9E 5F 1F = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = Hellas Sat 3/4 ( 39E ) = hd = E399 BACKUP =  =  = 2026-11-08 18:15
+130 10802 H 7199 = FD B6 54 07 00 D3 AB 7E = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = 4:2:0 = TANDBERG =  =  = 2026-11-08 22:03
 1005 3840 H 30000 = 70 83 C0 B3 A3 92 0E 43 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 1 =  = Real Sociedad VS Rayo Vallecano = 2026-11-08 14:31
 1005 3840 H 30000 = 7A 39 61 14 67 93 8B 85 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) =  = OVERON 2 =  = #CW: 7A 39 61 14 67 93 8B 85 Asiasat 5 @ 100.5°E = 2026-11-08 20:30
 130 11628 H 7200 = 30 A0 6B 3B 22 C1 20 03 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = M3SATCOM FEED A =  =  = 2026-11-08 20:32
@@ -56,14 +64,8 @@
 130 12552 H 7200 = 3C 21 0B 68 61 28 F5 7E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 =  = EHF Champions League Women  - Metz Handball vs Odense Håndbold =  = 2026-11-08 17:58
 130 10839 H 7200 = 73 39 E2 8E 6A BD C8 EF = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = E386 FEED 1 = EHF Euro Qualification - Spain vs Portugal =  = 2026-11-08 18:33
 70 11040 V 7200 = 42 46 FA 82 A3 4A 22 0F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 7C ( 7E ) =  = E 394 MAIN = EHF Euro Qualification - Greece vs North Macedonia =  = 2026-11-08 18:40
-390 12634 V 7200 = D7 6A BB FC 22 9E 5F 1F = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = Hellas Sat 3/4 ( 39E ) = hd = E399 BACKUP =  =  = 2026-11-08 18:15
 100 11285 V 7120 = CB AD 34 AC AA 08 11 C3 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-08 17:39
 130 11595 H 14240 = CB AD 34 AC AA 08 11 C3 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch NC England v Australia =  =  = 2026-11-08 17:39
-130 11067 H 7200 = 72 4C 9D 5B B4 35 03 EC = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Football =  = 2026-11-08 10:47
-130 11694 H 7200 = 72 4C 9D 5B B4 35 00 E9 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 7 = Dutch Football =  = 2026-11-08 14:02
-130 11609 V 7199 = 72 4C 9D 5B B4 35 01 EA = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Netherlands Eredivisie - Round 12 = Twente Ajax Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-11-08 17:21
-130 11058 H 7199 = 72 4C 9D 5B B4 34 98 80 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-11-08 17:23
-130 11609 V 7199 = 72 4C 9D 5B B4 35 01 EA = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Netherlands Eredivisie - Round 12 = Twente Ajax Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-11-08 17:37
 160 12657 H 7200 = BC 20 26 02 11 08 CB E4 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = hd | 4:2:0 = E95 main =  =  = 2026-11-08 14:04
 130 11213 V 7198 = 08 11 20 39 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 | HD | 1920x1080 =  = Portugal Liga Portugal 2 - Round 10 = SC Farense Benfica B Hot Bird 13B/13C/13E @ 13.0E ( KU-BAND ) = 2026-11-08 17:14
 160 11181 H 7200 = 43 C1 51 55 C5 13 B2 8A = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Africa CAF Champions League Women - Round 3 = Ampem Darkoa W (GHA) FAR Rabat W (MAR) Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-08 14:03
