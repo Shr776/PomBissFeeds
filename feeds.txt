@@ -1,9 +1,12 @@
+130 11067 H 7200 = 72 4C 9D 5B B4 35 03 EC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Football =  = 2026-11-08 10:47
+130 11694 H 7200 = 72 4C 9D 5B B4 35 00 E9 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 7 = Dutch Football =  = 2026-11-08 14:00
+130 11088 V 7200 = F6 68 D4 32 CD FE F6 C1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE = Basketball Liga Endesa ACB- =  = 2026-11-08 10:43
+420 10956 V 7500 = 85 2A 32 E1 41 CD 31 3F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-08 14:00
+130 10866 H 7200 = 09 DC 71 56 A2 38 1D F7 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-ESB-FTC = EHF Champions League Women  - Team Esbjerg vs FTC-Toyota Kovács =  = 2026-11-08 13:55
+160 12631 V 9875 = 8F 01 8F 1F 66 F1 9A F1 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Eutelsat 16D ( 16E ) = 4:2:0 = IPF = Moto GP =  = 2026-11-08 13:32
 420 10982 V 7200 = 37 B6 B5 A2 DC 7F E8 43 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unnamed =  =  = 2026-11-08 12:30
 130 12601 V 7200 = 55 DD AB DD C6 08 11 DF = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 9 = Emirates =  = 2026-11-08 12:35
 130 12706 H 7199 = 20 16 26 5C 93 FA 26 B3 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = CRAY REV VIS =  =  = 2026-11-08 12:41
-130 11088 V 7200 = F6 68 D4 32 CD FE F6 C1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE =  =  = 2026-11-08 10:43
-130 11067 H 7200 = 72 4C 9D 5B B4 35 03 EC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Football =  = 2026-11-08 10:47
-130 11694 H 7200 = 72 4C 9D 5B B4 35 00 E9 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 7 = Dutch Football =  = 2026-11-08 12:20
 1005 3960 H 30000 = AF 24 BC 8F 56 E6 A7 E3 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-5 =  =  = 2026-11-08 08:38
 1005 3760 H 30000 = NO KEY = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-1 =  =  = 2026-11-08 09:04
 1005 3760 H 30000 = NO KEY = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-11-08 09:31
@@ -16,10 +19,14 @@
 130 12707 H 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-08 02:03
 130 11619 V 7200 = 88 3D 24 E9 CA 76 21 61 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-11-08 00:10
 70 11110 V 4937 = AC DC 20 A8 26 AB BA 8B = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 7C ( 7E ) = 4:2:0 = POL-102 Main =  =  = 2026-11-08 00:25
+130 12583 V 7198 = FF DE D1 AE 10 8E 01 9F = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 =  = ISU Figure Skating Grand Prix Cup of China =  = 2026-11-08 04:50
+1005 4146 H 7200 = FF DE D1 AE 10 8E 01 9F = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 = ISU FS Shenzhen = ISU Figure Skating Grand Prix Cup of China =  = 2026-11-08 10:25
+130 12583 V 7198 = FF DE D1 AE 10 8E 01 9F = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 =  = ISU Figure Skating Grand Prix Cup of China =  = 2026-11-08 13:34
+130 10802 H 7199 = 10 10 AA CA CC 56 DE 00 = Weightlifting  Feeds (7°E10°E100.5E55W etc..) = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Encoder 2 =  =  = 2026-11-08 13:22
+420 11120 V 5000 = 3B B8 E2 D5 07 C8 F4 C3 = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA_907_B =  =  = 2026-11-08 13:21
+420 11131 V 7199 = 7F 6F 47 35 07 C9 92 62 = ITALY Feeds RAI  Mediaset (News Sports News TV Shows NOT Live Sports ie NOT Italian Football) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-08 13:19
 216 11666 H 6666 = A4 06 42 EC 0D 41 75 C3 = Athletics Marathons etc (10°E 7°E 100.5°E.... etc) = Eutelsat 21C ( 21.6E ) = 4.2.0 = WDL Doha WF =  =  = 2026-11-08 13:05
 130 10820 H 7200 = NO KEY = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Aramco China Championship =  = 2026-11-08 08:13
 1005 4106 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = HSBC Abu Dhabi Golf Championship =  = 2026-11-08 12:34
 1005 4153 V 9875 = 44 0D 5B AC B9 2F 87 6F = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Main =  =  = 2026-11-08 10:31
-130 12583 V 7198 = FF DE D1 AE 10 8E 01 9F = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 =  = ISU Figure Skating Grand Prix Cup of China =  = 2026-11-08 04:50
-1005 4146 H 7200 = FF DE D1 AE 10 8E 01 9F = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 = ISU FS Shenzhen = ISU Figure Skating Grand Prix Cup of China =  = 2026-11-08 10:25
 130 10810 H 7199 = 59 C4 E2 FF A7 D1 B8 30 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-08 05:05
