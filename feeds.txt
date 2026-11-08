@@ -40,7 +40,6 @@
 1005 4106 H 7500 = 87 66 12 FF 26 34 38 92 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 5 =  =  = 2026-11-08 21:45
 1005 3840 H 30001 = 95 CB 20 80 8D EC B5 2E = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 1 = Spain - LALIGA EA SPORTS Matchday 12 = Atlético de Madrid vs FC Barcelona = 2026-11-08 21:56
 130 12678 H 7500 = F1 07 45 3D E6 CB AD 5E = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-08 21:41
-160 10964 V 4800 = AB BA 26 8B DC AE 11 9B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4.2.2 = POL138_A =  =  = 2026-11-08 21:32
 1005 4005 V 7500 = B5 8E AD F0 92 F5 A1 28 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-08 17:35
 1005 4032 V 7500 = F6 D0 A9 6F E0 CD 38 E5 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-08 20:53
 1005 3992 V 7500 = 3D FC AE E7 E4 12 34 2A = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = NFL INT PAL SVC 6 =  =  = 2026-11-08 20:55
