@@ -1,5 +1,9 @@
-19 11561 V 7200 = DF CA 31 DA 18 86 1E BC = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = BulgariaSat 1 ( 1.9E ) = 4:2:2 = Stafford Rangers V2 MAIN =  =  = 2026-11-08 11:45
-19 11574 V 7200 = DF CA 31 DA 18 86 1E BC = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = BulgariaSat 1 ( 1.9E ) = 4:2:2 = unnamed =  =  = 2026-11-08 11:48
+420 10982 V 7200 = 37 B6 B5 A2 DC 7F E8 43 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unnamed =  =  = 2026-11-08 12:30
+130 12601 V 7200 = 55 DD AB DD C6 08 11 DF = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 9 = Emirates =  = 2026-11-08 12:35
+130 12706 H 7199 = 20 16 26 5C 93 FA 26 B3 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = CRAY REV VIS =  =  = 2026-11-08 12:41
+130 11088 V 7200 = F6 68 D4 32 CD FE F6 C1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE =  =  = 2026-11-08 10:43
+130 11067 H 7200 = 72 4C 9D 5B B4 35 03 EC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Football =  = 2026-11-08 10:47
+130 11694 H 7200 = 72 4C 9D 5B B4 35 00 E9 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 7 = Dutch Football =  = 2026-11-08 12:20
 1005 3960 H 30000 = AF 24 BC 8F 56 E6 A7 E3 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-5 =  =  = 2026-11-08 08:38
 1005 3760 H 30000 = NO KEY = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-1 =  =  = 2026-11-08 09:04
 1005 3760 H 30000 = NO KEY = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-11-08 09:31
@@ -8,15 +12,13 @@
 1005 3760 H 30000 = 61 EC 26 73 7B 03 02 80 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = CSL-4 =  =  = 2026-11-08 11:41
 1005 3716 H 22500 = F1 32 20 43 D3 50 D2 F5 = CHINESE FOOTBALL at 100.5°E  7.0°E  10.0°E = AsiaSat 5 ( 100.5E ) = 4:2:2 = Unname =  =  = 2026-11-08 11:43
 130 11610 V 7200 = 3D 86 FD C0 CA 34 50 4E = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = LEUK_Fi05 =  =  = 2026-11-08 11:34
-130 11088 V 7200 = F6 68 D4 32 CD FE F6 C1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE =  =  = 2026-11-08 10:43
-130 11067 H 7200 = 72 4C 9D 5B B4 35 03 EC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-08 10:47
 1005 3944 V 7200 = AB 58 B9 BC 6E BA EC 14 = Cricket Feeds @ 100.5°E 10°E 68°E.... = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-08 10:24
 130 12707 H 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-08 02:03
 130 11619 V 7200 = 88 3D 24 E9 CA 76 21 61 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-11-08 00:10
 70 11110 V 4937 = AC DC 20 A8 26 AB BA 8B = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 7C ( 7E ) = 4:2:0 = POL-102 Main =  =  = 2026-11-08 00:25
-1005 4153 V 9875 = 44 0D 5B AC B9 2F 87 6F = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Main =  =  = 2026-11-08 10:31
 130 10820 H 7200 = NO KEY = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Aramco China Championship =  = 2026-11-08 08:13
-1005 4106 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = HSBC Abu Dhabi Golf Championship =  = 2026-11-08 10:28
+1005 4106 H 7200 = 3C 7A 93 49 CE 0E 65 41 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  = HSBC Abu Dhabi Golf Championship =  = 2026-11-08 12:34
+1005 4153 V 9875 = 44 0D 5B AC B9 2F 87 6F = Gymnastics feed ... @ 7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Main =  =  = 2026-11-08 10:31
 130 12583 V 7198 = FF DE D1 AE 10 8E 01 9F = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 =  = ISU Figure Skating Grand Prix Cup of China =  = 2026-11-08 04:50
 1005 4146 H 7200 = FF DE D1 AE 10 8E 01 9F = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 = ISU FS Shenzhen = ISU Figure Skating Grand Prix Cup of China =  = 2026-11-08 10:25
 130 10810 H 7199 = 59 C4 E2 FF A7 D1 B8 30 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-08 05:05
