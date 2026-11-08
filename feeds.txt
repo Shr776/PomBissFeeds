@@ -1,3 +1,7 @@
+160 12595 H 9873 = 08 11 FE 17 AB 36 41 22 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Germany Bundesliga Women - Round 9 = Union Berlin W Hoffenheim W Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-08 16:01
+160 12606 H 9875 = 08 11 FE 17 AB 36 41 22 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4.2.0 = FFBL Mainz = Germany Bundesliga Women - Round 9 =  = 2026-11-08 18:06
+20 12702 V 7200 = 08 11 DF F8 EA 10 24 1E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) =  = D-361 SV Meppen 3 Liga =  =  = 2026-11-08 18:12
+20 12631 V 7200 = 08 11 DF F8 EA 10 24 1E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-08 19:47
 420 10982 V 7200 = 37 B6 B5 A2 DC 7F E8 43 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unnamed =  =  = 2026-11-08 12:30
 130 12601 V 7200 = 55 DD AB DD C6 08 11 DF = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 9 = Emirates =  = 2026-11-08 12:35
 130 12706 H 7199 = 20 16 26 5C 93 FA 26 B3 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = CRAY REV VIS =  =  = 2026-11-08 12:41
@@ -9,6 +13,11 @@
 31 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 3C ( 3.1E ) = 4.2.0 = beIN SPORTS =  =  = 2026-11-08 16:59
 130 12684 H 15000 = 20 16 26 5C 93 FA 26 B3 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:2 = UKI-1955-1 =  =  = 2026-11-08 17:10
 192 11428 H 7120 = AB BC BA 21 AC 12 21 DF = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 1N/1P ( 19.2E ) = 4:2:0 =  =  =  = 2026-11-08 18:54
+130 11186 V 7200 = 95 47 47 23 2A AA 32 06 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = sd | 4:2:2 = ENC 5 =  =  = 2026-11-08 19:27
+30 11643 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 3B ( 3E ) = 4.2.0 = ABHASNG1 =  =  = 2026-11-08 15:19
+216 10988 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main SAUDI065 =  =  = 2026-11-08 17:58
+215 10996 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = hd | 4:2:0 = SAU-015 =  =  = 2026-11-08 18:01
+260 11644 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Badr 4/5/6/7 ( 26E ) = hd | 4:2:0 = MAKKAH SNG ENC 2 =  =  = 2026-11-08 19:22
 130 11088 V 7200 = F6 68 D4 32 CD FE F6 C1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE = Basketball Liga Endesa ACB- =  = 2026-11-08 10:43
 420 10956 V 7500 = 85 2A 32 E1 41 CD 31 3F = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-08 14:00
 160 12598 V 4936 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Europe AdmiralBet ABA League - Round 7 = Partizan Mozzart Bet Studentski Centar Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-08 15:15
@@ -31,12 +40,6 @@
 130 10839 H 7200 = 73 39 E2 8E 6A BD C8 EF = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = E386 FEED 1 = EHF Euro Qualification - Spain vs Portugal =  = 2026-11-08 18:33
 70 11040 V 7200 = 42 46 FA 82 A3 4A 22 0F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 7C ( 7E ) =  = E 394 MAIN = EHF Euro Qualification - Greece vs North Macedonia =  = 2026-11-08 18:40
 390 12634 V 7200 = D7 6A BB FC 22 9E 5F 1F = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = Hellas Sat 3/4 ( 39E ) = hd = E399 BACKUP =  =  = 2026-11-08 18:15
-160 12595 H 9873 = 08 11 FE 17 AB 36 41 22 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Germany Bundesliga Women - Round 9 = Union Berlin W Hoffenheim W Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-08 16:01
-160 12606 H 9875 = 08 11 FE 17 AB 36 41 22 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4.2.0 = FFBL Mainz = Germany Bundesliga Women - Round 9 =  = 2026-11-08 18:06
-20 12702 V 7200 = 08 11 DF F8 EA 10 24 1E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) =  = D-361 SV Meppen 3 Liga =  =  = 2026-11-08 18:12
-30 11643 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 3B ( 3E ) = 4.2.0 = ABHASNG1 =  =  = 2026-11-08 15:19
-216 10988 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main SAUDI065 =  =  = 2026-11-08 17:58
-215 10996 H 7199 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21B ( 21.5E ) = hd | 4:2:0 = SAU-015 =  =  = 2026-11-08 18:01
 100 11285 V 7120 = CB AD 34 AC AA 08 11 C3 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-08 17:39
 130 11595 H 14240 = CB AD 34 AC AA 08 11 C3 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch NC England v Australia =  =  = 2026-11-08 17:39
 130 11067 H 7200 = 72 4C 9D 5B B4 35 03 EC = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Dutch Football =  = 2026-11-08 10:47
@@ -69,6 +72,10 @@
 130 12707 H 7500 = 51 2A 44 BF 3B 76 9C 4D = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-08 02:03
 130 11619 V 7200 = 88 3D 24 E9 CA 76 21 61 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-11-08 00:10
 70 11110 V 4937 = AC DC 20 A8 26 AB BA 8B = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 7C ( 7E ) = 4:2:0 = POL-102 Main =  =  = 2026-11-08 00:25
+160 10974 V 9600 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Poland Division 1 - Round 14 = Polonia Bytom Lechia Gdansk Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-08 14:23
+160 10985 V 9601 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = pol-053_enc2 = Betclic 1. Liga - match: ŁKS Łódź - Stal Rzeszów =  = 2026-11-08 16:47
+160 12656 H 7200 = D1 02 AC 7F DC 08 11 F5 = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-102 Main = Women's football: Ekstraliga - match: GKS Katowice - AP ORLEN Gdańsk =  = 2026-11-08 17:49
+160 11140 H 9600 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-90a = PKO BP Ekstraklasa - match: Legia Warsaw - Raków Częstochowa =  = 2026-11-08 19:14
 216 0200 H  = FE ED 08 F3 11 20 26 57 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) =  =  =  =  = 2026-11-08 18:47
 260 12627 V 3500 = FE ED EF DA AC C3 25 94 = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = HD =  =  =  = 2026-11-08 18:31
 130 11695 H 7199 = 11 22 DF 12 AC B5 2C 8D = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-11-08 18:19
@@ -78,9 +85,6 @@
 30 11577 H 5000 = 10 45 20 75 10 45 20 75 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 3B ( 3E ) = 4.2.0 = Grapefruit =  =  = 2026-11-08 17:55
 360 11653 V 4937 = 96 86 45 61 60 32 34 C6 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 36D ( 36E ) = 4.2.0 | hd = SNG 05 Chain A =  =  = 2026-11-08 18:10
 260 11148 V 4400 = 61 62 50 13 40 78 79 31 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = hd | 4:2:0 = MAIN =  =  = 2026-11-08 18:12
-160 10974 V 9600 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Poland Division 1 - Round 14 = Polonia Bytom Lechia Gdansk Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-08 14:23
-160 10985 V 9601 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = pol-053_enc2 = Betclic 1. Liga - match: ŁKS Łódź - Stal Rzeszów =  = 2026-11-08 16:47
-160 12656 H 7200 = D1 02 AC 7F DC 08 11 F5 = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-102 Main = Women's football: Ekstraliga - match: GKS Katowice - AP ORLEN Gdańsk =  = 2026-11-08 17:49
 420 11046 V 2680 = FD FD CF C9 CF AB BA 34 = Turkish Feeds: SNG MEDYA except sports feeds (Türksat 2A3A4A @ 42°E) = Türksat 3A/4A/5B/6A ( 42E ) = HD | 4:2:0 =  =  =  = 2026-11-08 16:25
 420 11478 V 6800 = 42 45 00 87 00 42 45 87 = Turkish Feeds: SNG MEDYA except sports feeds (Türksat 2A3A4A @ 42°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4:2:2 =  =  =  = 2026-11-08 16:33
 420 11120 V 5000 = 3B B8 E2 D5 07 C8 F4 C3 = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA_907_B =  =  = 2026-11-08 13:21
