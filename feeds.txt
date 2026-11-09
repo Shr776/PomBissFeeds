@@ -3,6 +3,8 @@
 20 12642 H 7199 = 87 A5 22 4E 55 37 87 13 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 2E/2F/2G ( 28.2E ) = HD = Unnamed =  =  = 2026-11-09 19:09
 420 10968 V 15001 = 87 A5 22 4E 55 37 87 13 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unnamed =  =  = 2026-11-09 21:28
 130 11186 V 7199 = 92 92 33 57 34 AB DE BD = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC 6 =  =  = 2026-11-09 22:00
+130 12611 V 7199 = DA DA BC 70 BC 09 11 D6 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 9 =  =  = 2026-11-09 23:37
+160 12657 H 7199 = 09 11 20 3A 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4:2:0 = E-73 =  =  = 2026-11-09 23:18
 130 11067 H 7199 = 72 4C 9D 5B B4 35 05 EE = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Weekly Eredivise Highlights =  = 2026-11-09 20:44
 70 11133 V 5000 = 80 17 BC 53 07 C9 2B FB = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = ITA 364 A = Diretta Azzurra =  = 2026-11-09 16:00
 70 11124 V 7200 = 5A 93 33 20 07 C9 16 E6 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = ITA-609-A = Italy Serie C - AZ Picerno vs Bari =  = 2026-11-09 20:30
