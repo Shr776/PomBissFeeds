@@ -1,4 +1,8 @@
+130 12610 V 7200 = BC BC DA 52 DA 09 11 F4 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 9 =  =  = 2026-11-09 15:35
+70 11133 V 5000 = 80 17 BC 53 07 C9 2B FB = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:0 = ITA 364 A = Diretta Azzurra =  = 2026-11-09 16:00
 130 12611 V 7199 = 55 DD AB DD C6 09 11 E0 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 9 =  =  = 2026-11-09 13:34
+130 12611 V 7199 = BC BC DA 52 DA 09 11 F4 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 9 =  =  = 2026-11-09 15:35
+130 12611 V 7199 = 55 DD AB DD C6 09 11 E0 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 | HD = GCUK Enc 9 = Emirates FA Cup 2026/27, Highlights Show, Round 1 =  = 2026-11-09 15:37
 765 4027 H 7200 = BB AA 12 77 55 12 34 9B = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-11-09 07:06
 1005 3975 V 7499 = AA 65 2A 39 00 0C 06 12 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 2 = American Football — NFL 2026/27 Matchweek 9 = Tampa Bay Buccaneers vs Chicago Bears (@ Soldier Field) = 2026-11-09 04:47
 400 11150 V 4400 = 11 1B 14 40 58 22 26 A0 = JUDO  KARATE FEEDS = Express AM7 ( 40E ) = 4.2.0 = SNG 01 - Chain B =  =  = 2026-11-09 13:46
