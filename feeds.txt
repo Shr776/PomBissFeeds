@@ -1,4 +1,7 @@
+130 11075 V 9874 = A0 14 58 0C 52 63 7F 34 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = e413 via 1 =  =  = 2026-11-10 15:13
+130 11063 V 9875 = AA C2 DD 49 98 42 26 00 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = SWE-043 - UWCL M01 M = UEFA Women's Champions League - Hacken vs Chelsea =  = 2026-11-10 15:36
 1005 3809 H 7200 = CF A1 20 90 26 11 CD 04 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) =  = 2026 CFA 1 =  =  = 2026-11-10 11:29
 1005 3947 H 7200 = 20 26 11 57 06 AB CD 7E = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) =  = Service-1 =  =  = 2026-11-10 11:31
+100 10770 H 7199 = D1 11 0E F0 02 FF BD BE = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 10B ( 10E ) = 4:2:0 = AZE-014 =  =  = 2026-11-10 15:10
 765 4027 H 7200 = BB AA 12 77 55 12 34 9B = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-11-10 06:59
 1005 3985 V 7500 = 5A 7A 3F 13 30 04 9B CF = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-11-10 04:20
