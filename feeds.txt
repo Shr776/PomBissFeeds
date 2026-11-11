@@ -1,3 +1,5 @@
+130 12602 V 7199 = D1 11 0E F0 02 FF DE DF = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = HOL324 TX1 =  =  = 2026-11-11 18:33
+130 12696 H 7200 = 4E 5B 29 D2 6D D1 9A D8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR122A = BKT EuroCup - Bahcesehir College Istanbul vs Lietkabelis Panevezys =  = 2026-11-11 18:29
 130 11647 H 7200 = 7E 12 09 99 4E 2D AA 25 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = egy-013 =  =  = 2026-11-11 14:58
 160 11190 H 7199 = 7E 12 09 99 4E 2D AA 25 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = Fi13_GNVE =  =  = 2026-11-11 14:59
 130 11655 H 7199 = 7E 12 09 99 4E 2D AA 25 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Unname =  =  = 2026-11-11 17:33
@@ -13,6 +15,7 @@
 160 10982 V 4800 = AB BA 26 8B DC AE 11 9B = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4:2:2 = POL - 054 Kielce =  =  = 2026-11-11 15:54
 160 12556 V 4800 = 15 58 35 A2 71 42 63 16 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-103_ch1 =  =  = 2026-11-11 16:51
 160 10965 V 4800 = AB BA 26 8B DC AE 11 9B = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.0 = POL 076 =  =  = 2026-11-11 17:48
+160 10988 V 4800 = AB BA 26 8B DC AE 11 9B = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4:2:0 = POL-78 ENC 2 =  =  = 2026-11-11 18:34
 192 11502 V 7200 = D9 51 AB D5 CA 34 78 76 = SnookerBilliard LIVE Feed@ 7east 100.5°E = Astra 1N/1P ( 19.2E ) = HD | 4.2.0 =  = Champions of Champions Snooker =  = 2026-11-11 15:33
 400 11141 V 8800 = 76 57 89 56 86 20 26 CC = JUDO  KARATE FEEDS = Express AM7 ( 40E ) = 4.2.0 = UAE074-M =  =  = 2026-11-11 14:57
 130 11058 H 7200 = E1 33 50 64 8D 1E 49 F4 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 = MAIN = DP World Tour Championship Highlights =  = 2026-11-11 14:02
