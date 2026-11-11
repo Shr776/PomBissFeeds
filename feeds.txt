@@ -23,12 +23,13 @@
 130 12705 H 7200 = A1 7D 5C 7A 93 E8 B4 2F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 3 = UEFA Women's Champions League - =  = 2026-11-11 20:14
 1005 3808 H 7200 = CF A1 20 90 26 11 CD 04 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = 2026 CFA 1 =  =  = 2026-11-11 15:47
 765 4027 H 7200 = BB AA 12 77 55 12 34 9B = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-11-11 06:58
+130 10866 H 7200 = B2 C6 E1 59 F8 D4 93 5F = Water Sports (Swimming Water Polo: Various Satellites) = HotBird 13F/13G ( 13E ) = 4.2.0 = E394 MAIN =  =  = 2026-11-11 20:24
+160 12620 H 7200 = 20 10 20 50 25 20 26 6B = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 16D ( 16E ) = 4.2.0 = YSM-016 MAIN =  =  = 2026-11-11 22:34
 130 11600 H 4936 = FF 00 EE ED 11 DD 00 EE = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = HotBird 13F/13G ( 13E ) = 4:2:0 = ANA-1 =  =  = 2026-11-11 21:29
 130 10846 V 9700 = D1 11 0E F0 84 FF CE 51 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-FIN-CZE =  =  = 2026-11-11 13:38
 130 10834 V 9700 = FF BE D1 8E 11 1E 84 B3 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-SUI-GEN-FRI =  =  = 2026-11-11 13:48
 130 12585 V 9700 = FF BE D1 8E 11 1E 84 B3 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-GER-KOL-LIB =  =  = 2026-11-11 19:33
 160 12511 V 7198 = 13 57 AB 15 CD 24 68 59 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-11 20:42
-130 10866 H 7200 = B2 C6 E1 59 F8 D4 93 5F = Water Sports (Swimming Water Polo: Various Satellites) = HotBird 13F/13G ( 13E ) = 4.2.0 = E394 MAIN =  =  = 2026-11-11 20:24
 130 11628 H 7200 = 79 A3 DF FB 3C 86 99 5B = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi12_GNVE = United Nations Climate Change - COP31 Turkiye =  = 2026-11-11 12:20
 160 10985 V 9601 = AB BA 26 8B DC AE 11 9B = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-033 OUT1 = Poland National Independence Day =  = 2026-11-11 13:02
 160 10973 V 9601 = AB BA 26 8B DC AE 11 9B = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-90a = Poland National Independence Day =  = 2026-11-11 14:47
