@@ -4,8 +4,14 @@
 30 4130 V 7200 = F6 05 39 34 2B 66 DB 6C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 3B ( 3E ) = 4.2.0 = Program 1 =  =  = 2026-11-12 20:02
 1005 3860 V 30000 = F6 05 39 34 2B 66 DB 6C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = LEUK_Fi07 =  =  = 2026-11-12 20:20
 30 4129 V  = F6 05 39 34 2B 66 DB 6C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-12 20:25
-192 11642 H 30000 = F6 05 39 34 2B 66 DB 6C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Astra 1N/1P ( 19.2E ) = 4:2:0 = Vm6GVs1 CAF QL65 =  =  = 2026-11-12 21:01
+130 11642 H 30000 = F6 05 39 34 2B 66 DB 6C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Vm6GVs1 CAF QL65 =  =  = 2026-11-12 21:01
+30 3985 H 30000 = F6 05 39 34 2B 66 DB 6C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 3B ( 3E ) = 4.2.0 = Vm6GVs1 CAF QL65 =  =  = 2026-11-12 21:12
+30 4190 V 7200 = CF A1 20 90 26 11 CD 04 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 3B ( 3E ) = 4:2:0 = CMR V NAM  MAIN =  =  = 2026-11-12 21:47
+30 4049 H 7500 = F6 05 39 34 2B 66 DB 6C = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 3B ( 3E ) = 4:2:0 = AFCON  MAIN =  =  = 2026-11-12 21:49
+30 11666 H 7199 = 2A 33 95 F2 D2 07 D3 AC = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 3B ( 3E ) = 4:2:0 = MRC-003 MAIN =  =  = 2026-11-12 21:53
 130 11101 H 9600 = A2 C7 54 BD 31 15 36 7C = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4:2:0 = E115- G65 VIA 2 =  =  = 2026-11-12 21:01
+130 12550 H 9600 = 15 36 12 5D C7 54 31 4C = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-12 21:06
+20 12704 V 9601 = 15 36 12 5D C7 54 31 4C = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-12 21:40
 160 12592 H 7199 = BF 68 79 A0 F1 37 A0 C8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-12 20:31
 130 11058 H 7199 = 9A 0E E7 8F 04 15 51 6A = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = EUROLEAGUE ROUND 11 MAIN =  =  = 2026-11-12 20:52
 160 12525 H 9874 = 28 D1 8A 83 9D 8E 81 AC = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = 4:2:2 = Fi12_GNVE =  =  = 2026-11-12 15:22
