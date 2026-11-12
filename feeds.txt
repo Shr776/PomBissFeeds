@@ -27,7 +27,6 @@
 130 11614 V 14400 = 12 C1 9B 6E AB 9A 11 56 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:2 = ITA 689 M09 M =  =  = 2026-11-12 12:58
 130 11632 V 14400 = 12 C1 9B 6E AB 9A 11 56 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:2 = LTU-005-MAIN-MATCH 10 =  =  = 2026-11-12 13:00
 160 12598 V 4938 = 20 10 20 50 25 20 26 6B = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 16D ( 16E ) =  = YSM-016 MAIN =  =  = 2026-11-12 17:31
-765 4027 H 7200 = BB AA 12 77 55 12 34 9B = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-11-12 06:59
 70 11133 V 7200 = 58 53 07 B2 07 C9 49 19 = Water Sports (Swimming Water Polo: Various Satellites) = Eutelsat 7C ( 7E ) = 1920x1080 | 4:2:0 = RAI ITA 887 A = Italian Absolute Championships Riccione =  = 2026-11-12 19:39
 420 11046 H 2680 = FD FD CF C9 CF AB BA 34 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Türksat 3A/4A/5B/6A ( 42E ) = HD = JJ1847 HD Main =  =  = 2026-11-12 10:37
 420 12661 V 4799 = 20 26 FE 44 ED 12 11 10 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-12 18:58
