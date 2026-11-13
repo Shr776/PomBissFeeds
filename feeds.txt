@@ -1,6 +1,3 @@
-160 12655 V 9876 = NO KEY = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Hamburg =  =  = 2026-11-13 20:51
-160 12655 V 9876 = NO KEY = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Hamburg =  =  = 2026-11-13 20:59
-160 12655 V 9876 = NO KEY = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Hamburg =  =  = 2026-11-13 21:00
 160 11160 H 7199 = 2A 33 95 F2 D2 07 D3 AC = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = LEUK_Fi02 =  =  = 2026-11-13 17:32
 215 11593 H 7200 = 2A 33 95 F2 D2 07 D3 AC = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-11-13 17:52
 70 12708 H 6667 = 06 AB 11 C2 CD 20 26 13 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 7C ( 7E ) = 4:2:0 =  =  =  = 2026-11-13 18:38
@@ -12,10 +9,11 @@
 1005 3886 V 7200 = 2A 33 95 F2 D2 07 D3 AC = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = GVA_Fi04 =  =  = 2026-11-13 19:43
 1005 3860 V 30000 = 2A 33 95 F2 D2 07 D3 AC = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = CAF_01_LEUK_Fi07 =  =  = 2026-11-13 20:20
 160 12516 H 19200 = 2A 33 95 F2 D2 07 D3 AC = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = VM5GVs1 CAF 01 =  =  = 2026-11-13 20:25
-130 11686 H 7199 = 26 BA BA 9A 20 15 11 46 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = D347 Schawa =  =  = 2026-11-13 16:55
-130 12550 H 9875 = 05 B7 6B 27 9F CA AE 17 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR-055 MAIN =  =  = 2026-11-13 17:03
-0 12650 H 7200 = 46 4B B0 41 82 5E 84 64 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.0 = TDA_V2-A =  =  = 2026-11-13 20:15
-0 12650 H 7200 = 46 4B B0 41 82 5E 84 64 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. =  = 4.2.0 = TDA_V2-A =  =  = 2026-11-13 20:22
+1005 3913 V 7200 = 2A 33 95 F2 D2 07 D3 AC = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = CAF_03_GVA_Fi05 =  =  = 2026-11-13 21:09
+160 12593 H 7200 = 20 26 AB F1 CD 20 27 14 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = Medialink CRO-014 =  =  = 2026-11-13 21:03
+160 12655 V 9876 = NO KEY = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Hamburg =  =  = 2026-11-13 20:51
+160 12655 V 9876 = NO KEY = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Hamburg =  =  = 2026-11-13 20:59
+160 12655 V 9876 = NO KEY = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Hamburg =  =  = 2026-11-13 21:00
 70 11092 V 7200 = 15 58 35 A2 71 42 63 16 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4.2.2 = POL-058_ch1 = Men's volleyball: TAURON Liga - match: PGE Projekt Warszawa - Podziemia Kredowe ChKS Chełm =  = 2026-11-13 20:17
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-11-13 20:13
 1005 4007 H 7119 = E1 C3 5C 00 8F E1 1B 8B = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-13 14:44
@@ -41,12 +39,15 @@
 160 11128 H 9874 = 13 C1 9B 6F AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = uki1983 2 UNLM2 =  =  = 2026-11-13 16:11
 130 11083 V 14400 = 13 C1 9B 6F AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = YSM-009 NTF M 04 BACKUP =  =  = 2026-11-13 16:15
 130 11633 H 14400 = E0 6C FC 48 0D FD 54 5E = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = HOL318 UNL M3 VBR Bu =  =  = 2026-11-13 18:35
+130 11686 H 7199 = 26 BA BA 9A 20 15 11 46 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = D347 Schawa =  =  = 2026-11-13 16:55
+130 12550 H 9875 = 05 B7 6B 27 9F CA AE 17 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR-055 MAIN =  =  = 2026-11-13 17:03
 130 11654 H 9875 = 2F 3C A1 0C AD A5 68 BA = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = LEVI_DIRTY_MAIN = Audi FIS Ski World Cup Levi =  = 2026-11-13 16:51
 130 11612 H 14400 = 13 C1 9B 6F AB 9A 11 56 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4.2.2 = E380 - 1 - UNL =  =  = 2026-11-13 15:19
 160 12606 H 30000 = 60 A1 89 8A 4F 81 94 64 = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:2 = WWE CAM 1 = RIYADH SEASON ZUFFA BOXING 13 on Saturday, November 14 =  = 2026-11-13 14:39
 360 11657 V 30000 = 60 A1 89 8A 4F 81 94 64 = BOXING all satellites feeds (10E .....) = Eutelsat 36D ( 36E ) = 4:2:2 = WWE CAM 2 = RIYADH SEASON ZUFFA BOXING 13 on Saturday, November 14 =  = 2026-11-13 14:58
 765 4027 H 7200 = EE AC 42 DC 98 FA CE 60 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-11-13 06:55
 1005 3975 V 7500 = 2D 68 CF 64 8A BF 6C B5 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-11-13 01:15
+-220 12650 H 7200 = 46 4B B0 41 82 5E 84 64 = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = 22.0W = 4.2.0 = TDA_V2-A =  =  = 2026-11-13 20:15
 1005 4115 H 7200 = 13 11 BA DE C1 DB E1 7D = JUDO  KARATE FEEDS = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-13 13:15
 100 11247 H 7199 = 20 26 FE 44 ED 20 26 33 = JUDO  KARATE FEEDS = Eutelsat 10B ( 10E ) = 4:2:0 = CRO013 =  =  = 2026-11-13 19:51
 400 4070 V 14400 = 04 D6 1D F7 AF 08 4C 03 = Eurovision Song Contest = Express AM7 ( 40E ) = 4:2:2 = EBU Contest Main =  =  = 2026-11-13 16:35
