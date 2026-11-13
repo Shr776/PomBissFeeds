@@ -1,3 +1,5 @@
+130 10839 V 7199 = E7 2F FD 13 AD 11 12 D0 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 05 =  =  = 2026-11-13 04:26
 1005 3975 V 7500 = 2D 68 CF 64 8A BF 6C B5 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-11-13 01:15
+130 12601 V 7200 = 7D 1E 4A E5 9F 2B 63 2D = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = BWF WF-A C1 BISS-1 = Kumamoto Masters Japan 2026 =  = 2026-11-13 04:46
 130 10811 H 7199 = E0 1F FE FD FD 11 12 20 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 01 =  =  = 2026-11-13 03:06
 -555 11689 H 15000 = 30 52 98 1A 07 28 AB DA = Concert feed = Intelsat 34 ( 55.5W ) = 4:2:2 | 4.2.0 =  = Latin Grammy 2026 - La Noche Mas Importante De La Musica Latina =  = 2026-11-13 03:05
