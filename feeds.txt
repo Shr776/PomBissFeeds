@@ -1,10 +1,19 @@
-1005 4115 H 7200 = 13 11 BA DE C1 DB E1 7D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-13 13:15
+160 12606 H 30000 = 60 A1 89 8A 4F 81 94 64 = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:2 = WWE CAM 1 = RIYADH SEASON ZUFFA BOXING 13 on Saturday, November 14 =  = 2026-11-13 14:39
+360 11657 V 30000 = 60 A1 89 8A 4F 81 94 64 = BOXING all satellites feeds (10E .....) = Eutelsat 36D ( 36E ) = 4:2:2 = WWE CAM 2 = RIYADH SEASON ZUFFA BOXING 13 on Saturday, November 14 =  = 2026-11-13 14:58
+130 11065 V 14400 = 13 C1 9B 6F AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = ROU-015 - 1 - UNLM1 =  =  = 2026-11-13 12:52
+130 11631 V 14400 = 13 C1 9B 6F AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = UNL MD5 Bul-lcel MAIN =  =  = 2026-11-13 14:06
+130 11614 V 14400 = 13 C1 9B 6F AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = SUI76 - 1UNLM5 = UEFA Nations League - =  = 2026-11-13 14:19
+130 11208 V 14400 = 13 C1 9B 6F AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = SLQ-008 M6 M =  =  = 2026-11-13 14:43
+130 11594 H 14400 = 13 C1 9B 6F AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4.2.2 = HOL-110-1-UNLM 5 =  =  = 2026-11-13 14:48
+160 12535 H 9874 = 13 C1 9B 6F AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = SLQ-010-1-UNLM05 =  =  = 2026-11-13 14:58
+1005 3913 V 7200 = 2A 33 95 F2 D2 07 D3 AC = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = GVA_Fi05 =  =  = 2026-11-13 14:53
+1005 4007 H 7119 = E1 C3 5C 00 8F E1 1B 8B = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-13 14:44
 1005 3975 H 7200 = 08 22 AA D4 BB 20 26 01 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = TLCAT-002-2 =  =  = 2026-11-13 13:30
 1005 3860 V 30000 = 2A 33 95 F2 D2 07 D3 AC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = GVA_Fi02 =  =  = 2026-11-13 13:38
 1005 3769 H 14400 = 9C 41 E8 C5 D0 7B 52 9D = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-13 13:27
-130 11065 V 14400 = 13 C1 9B 6F AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = ROU-015 - 1 - UNLM1 =  =  = 2026-11-13 12:52
 765 4027 H 7200 = EE AC 42 DC 98 FA CE 60 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-11-13 06:55
 1005 3975 V 7500 = 2D 68 CF 64 8A BF 6C B5 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-11-13 01:15
+0 11464 V 7200 = 07 BD A9 6D 34 B5 E1 CA = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W =  = 4.2.2 = No name =  =  = 2026-11-13 14:55
 130 10811 H 7199 = E0 1F FE FD FD 11 12 20 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 01 =  =  = 2026-11-13 03:06
 1005 4164 H 7200 = D1 11 3E 20 01 FF FE FE = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 = GCUK ENC 02 =  =  = 2026-11-13 13:05
 130 10829 V 7200 = D1 11 3E 20 01 FF FE FE = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 02 =  =  = 2026-11-13 13:43
@@ -14,6 +23,7 @@
 130 12591 V 7199 = E7 2F FD 13 AD 11 12 D0 = Biathlon Triathlon Pentathlon FEEDS = HotBird 13F/13G ( 13E ) = 4:2:0 = JMP-MAIN =  =  = 2026-11-13 13:25
 1005 3966 V 7200 = AB E2 32 BF AB E5 47 D7 = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | HD = HD ENC-3a =  =  = 2026-11-13 08:42
 1005 3966 V 7200 = AB E2 32 BF AB E5 47 D7 = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | HD = HD ENC-3a =  =  = 2026-11-13 13:23
+1005 4115 H 7200 = 13 11 BA DE C1 DB E1 7D = JUDO  KARATE FEEDS = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-13 13:15
 1005 4124 H 7200 = 3C 7A 93 49 CE 0E 44 20 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-13 08:36
 1005 4006 H 7200 = 4C 8A 1F F5 6D 3B 97 3F = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 = ENC-1 =  =  = 2026-11-13 08:38
 130 12601 V 7200 = 7D 1E 4A E5 9F 2B 63 2D = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = BWF WF-A C1 BISS-1 = Kumamoto Masters Japan 2026 =  = 2026-11-13 04:46
