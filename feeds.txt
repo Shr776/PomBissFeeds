@@ -1,8 +1,8 @@
-130 10839 V 7199 = E7 2F FD 13 AD 11 12 D0 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 05 =  =  = 2026-11-13 04:26
-1005 4124 H 7200 = 3C 7A 93 49 CE 0E 44 20 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-13 08:36
 765 4027 H 7200 = EE AC 42 DC 98 FA CE 60 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-11-13 06:55
+130 10839 V 7199 = E7 2F FD 13 AD 11 12 D0 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 05 =  =  = 2026-11-13 04:26
 1005 3975 V 7500 = 2D 68 CF 64 8A BF 6C B5 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-11-13 01:15
 1005 3966 V 7200 = AB E2 32 BF AB E5 47 D7 = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | HD = HD ENC-3a =  =  = 2026-11-13 08:42
+1005 4124 H 7200 = 3C 7A 93 49 CE 0E 44 20 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-13 08:36
 1005 4006 H 7200 = 4C 8A 1F F5 6D 3B 97 3F = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = AsiaSat 5 ( 100.5E ) = 4:2:0 = ENC-1 =  =  = 2026-11-13 08:38
 130 12601 V 7200 = 7D 1E 4A E5 9F 2B 63 2D = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = BWF WF-A C1 BISS-1 = Kumamoto Masters Japan 2026 =  = 2026-11-13 04:46
 130 10811 H 7199 = E0 1F FE FD FD 11 12 20 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 01 =  =  = 2026-11-13 03:06
