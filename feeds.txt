@@ -1,3 +1,4 @@
+765 4027 H 7200 = EE AC 42 DC 98 FA CE 60 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-11-13 06:55
 130 10839 V 7199 = E7 2F FD 13 AD 11 12 D0 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 05 =  =  = 2026-11-13 04:26
 1005 3975 V 7500 = 2D 68 CF 64 8A BF 6C B5 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-11-13 01:15
 130 12601 V 7200 = 7D 1E 4A E5 9F 2B 63 2D = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = BWF WF-A C1 BISS-1 = Kumamoto Masters Japan 2026 =  = 2026-11-13 04:46
