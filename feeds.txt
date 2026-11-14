@@ -1,11 +1,14 @@
-130 11066 V 14400 = 14 C1 9B 70 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = BUL007 UNL M1  Main =  =  = 2026-11-14 10:42
+130 11642 H 9875 = BA D0 40 CA CC 84 35 85 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = LEVI_CLEAN_MAIN = Audi FIS Ski World Cup Levi =  = 2026-11-14 11:49
+130 11654 H 9875 = 2F 3C A1 0C AD A5 68 BA = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = LEVI_DIRTY_MAIN = Audi FIS Ski World Cup Levi =  = 2026-11-14 11:52
 1005 3860 V 30000 = 3B 99 3E 12 45 44 CE 57 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi09_GNVE =  =  = 2026-11-14 10:08
 130 11065 V 14400 = 14 C1 9B 70 AB 9A 11 56 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.2 = BUL007 UNL M1  Main =  =  = 2026-11-14 10:14
+130 11066 V 14400 = 14 C1 9B 70 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = BUL007 UNL M1  Main =  =  = 2026-11-14 10:42
 130 11609 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Geelong Cats v Sydney Swans =  = 2026-11-14 09:19
 30 4041 V 7200 = A4 5D 12 13 34 56 78 02 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = SMAT-2026 =  =  = 2026-11-14 08:27
 30 4032 V 7200 = FA FA 56 4A 73 DE 34 85 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-14 08:37
 20 12633 V 9601 = 44 23 A2 09 13 23 32 68 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  = Spanish Cup (Copa del Rey) - =  = 2026-11-14 00:30
-400 11128 V 4400 = 76 57 89 56 86 20 26 CC = JUDO  KARATE FEEDS = Express AM7 ( 40E ) = 4.2.0 | 4:2:2 = UAE074 - 1 =  =  = 2026-11-14 10:50
+1005 3946 H 7200 = 08 23 AA D5 BB 20 26 01 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = AsiaSat 5 ( 100.5E ) = 4:2:0 = ASEAN PH 2026 -Main =  =  = 2026-11-14 11:38
+19 11462 V 7199 = A2 59 86 81 27 E7 0A 18 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = BulgariaSat 1 ( 1.9E ) = HD = Unnamed =  =  = 2026-11-14 11:15
 130 10811 H 7199 = E0 1F FE FD FD 11 12 20 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 01 =  =  = 2026-11-14 06:37
 1005 4164 H 7200 = FF FB D1 CB 11 4E 01 60 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 = GCUK ENC 01 =  =  = 2026-11-14 09:03
 1005 3966 V 7200 = AB E2 32 BF AB E5 47 D7 = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | HD = HD ENC-3a =  =  = 2026-11-14 05:42
