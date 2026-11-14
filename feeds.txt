@@ -1,3 +1,17 @@
+130 11065 V 14400 = 14 C1 9B 70 AB 9A 11 56 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.2 = BUL007 UNL M1  Main =  =  = 2026-11-14 20:14
+130 10839 H 7500 = 72 01 55 C8 11 11 26 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = UMT SP - GLOBO =  =  = 2026-11-14 20:26
+130 11069 V 7199 = BD FA 53 0A F8 AD F4 99 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi09_GNVE =  =  = 2026-11-14 23:01
+130 11609 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Geelong Cats v Sydney Swans =  = 2026-11-14 09:19
+130 11614 V 14240 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 = Pitch Italy v Argentina TX2 =  =  = 2026-11-14 13:35
+100 11259 V 7119 = 44 24 55 BD 76 86 6D 69 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 = Pitch -Italy v Argentina TX =  =  = 2026-11-14 13:43
+100 11267 V 7120 = EE E3 AB 7C D2 14 11 F7 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 =  =  =  = 2026-11-14 16:14
+130 12702 H 14240 = EE E3 AB 7C D2 14 11 F7 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-14 16:40
+100 11258 V 7120 = DD 89 AA 10 FD 14 11 22 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 = Pitch NC - England v Japan B =  =  = 2026-11-14 18:57
+130 12684 H 14240 = DD 89 AA 10 FD 14 11 22 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-14 18:59
+130 11613 V 14240 = 88 CB DD 30 AA 14 11 CF = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch NC- lreland v Fiji wo =  =  = 2026-11-14 22:31
+100 11267 V 7120 = 88 CB DD 30 AA 14 11 CF = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-14 22:32
+160 12655 V 9875 = 14 11 DC 01 AF 84 92 C5 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Hoffenheim = German Frauen-Bundesliga - Hoffenheim vs Freiburg =  = 2026-11-14 14:21
+160 12643 V 9875 = 14 11 DC 01 AF 84 92 C5 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Werder Bremen = German Frauen-Bundesliga - Werder Bremen vs Union Berlin =  = 2026-11-14 16:19
 70 11144 V 5000 = 8C A6 8D BF 07 C9 44 14 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = HD = ITA 99 A =  =  = 2026-11-14 18:59
 130 11608 H 7199 = 47 53 62 FC D9 1C A4 99 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 560 155D9 MAIN =  =  = 2026-11-14 19:08
 130 11609 V 7199 = A2 57 D9 D2 94 3E 89 5B = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = POR 21 =  =  = 2026-11-14 19:14
@@ -21,8 +35,6 @@
 420 11678 V 7500 = C4 13 E4 BB F3 8C 31 B0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 112 MAIN =  =  = 2026-11-14 20:23
 160 12638 H 7200 = 20 26 AB F1 CD 20 27 14 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-11-14 20:44
 130 11636 V 7199 = 46 4B B0 41 82 5E 84 64 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = LEUK_Fi06 =  =  = 2026-11-14 20:31
-130 11065 V 14400 = 14 C1 9B 70 AB 9A 11 56 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.2 = BUL007 UNL M1  Main =  =  = 2026-11-14 20:14
-130 10839 H 7500 = 72 01 55 C8 11 11 26 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = UMT SP - GLOBO =  =  = 2026-11-14 20:26
 130 11628 H 7199 = AB CD 12 8A 34 EF FF 22 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = F-510 APL Martigues =  =  = 2026-11-14 19:43
 130 11617 H 7199 = AB CD 12 8A 34 EF FF 22 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-14 20:01
 130 11595 H 14400 = 14 C1 9B 70 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = ROU-038 - 2 - UNLM8 =  =  = 2026-11-14 14:45
@@ -33,21 +45,12 @@
 160 11139 H 9875 = 14 C1 9B 70 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = E 228 MAIN =  =  = 2026-11-14 15:59
 420 10964 V 7200 = AB 12 CD 8A 34 EF 56 79 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-14 18:46
 420 11150 V 5000 = D6 4C F6 18 07 C9 75 45 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA_907_A =  =  = 2026-11-14 19:03
-130 11609 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Geelong Cats v Sydney Swans =  = 2026-11-14 09:19
-130 11614 V 14240 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 = Pitch Italy v Argentina TX2 =  =  = 2026-11-14 13:35
-100 11259 V 7119 = 44 24 55 BD 76 86 6D 69 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 = Pitch -Italy v Argentina TX =  =  = 2026-11-14 13:43
-100 11267 V 7120 = EE E3 AB 7C D2 14 11 F7 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 =  =  =  = 2026-11-14 16:14
-130 12702 H 14240 = EE E3 AB 7C D2 14 11 F7 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-14 16:40
-100 11258 V 7120 = DD 89 AA 10 FD 14 11 22 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4.2.0 = Pitch NC - England v Japan B =  =  = 2026-11-14 18:57
-130 12684 H 14240 = DD 89 AA 10 FD 14 11 22 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-14 18:59
 130 12551 H 7200 = 51 6D AC 6A 9D F4 1C AD = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF-CLW-SHE-NYK =  =  = 2026-11-14 16:15
 130 11665 H 5000 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-PRE-SAV = EHF Europa League Women =  = 2026-11-14 16:32
 130 10820 H 7199 = 39 6D 1C C2 11 38 2D 76 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-POD-GLO =  =  = 2026-11-14 18:54
 130 12544 H 7199 = 35 61 AC 42 CE F2 22 E2 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-GYO-BLO =  =  = 2026-11-14 18:57
 1005 3800 H 7198 = NO KEY = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-11-14 15:07
 360 11691 V 5000 = NO KEY = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 36D ( 36E ) = 4.2.0 = IRQ-014 Main =  =  = 2026-11-14 17:37
-160 12655 V 9875 = 14 11 DC 01 AF 84 92 C5 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Hoffenheim = German Frauen-Bundesliga - Hoffenheim vs Freiburg =  = 2026-11-14 14:21
-160 12643 V 9875 = 14 11 DC 01 AF 84 92 C5 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Werder Bremen = German Frauen-Bundesliga - Werder Bremen vs Union Berlin =  = 2026-11-14 16:19
 400 11155 V 4400 = 33 3C 56 C5 69 95 A7 A5 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Express AM7 ( 40E ) = 4.2.0 = UAE072-M =  =  = 2026-11-14 14:47
 1005 3860 V 30000 = 3B 99 3E 12 45 44 CE 57 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi09_GNVE =  =  = 2026-11-14 10:08
 130 11628 H 7200 = 3B 99 3E 12 45 44 CE 57 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi09_GNVE =  =  = 2026-11-14 12:46
