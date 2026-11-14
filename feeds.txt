@@ -1,3 +1,4 @@
 20 12633 V 9601 = 44 23 A2 09 13 23 32 68 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  = Spanish Cup (Copa del Rey) - =  = 2026-11-14 00:30
+130 10811 H 7199 = E0 1F FE FD FD 11 12 20 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 01 =  =  = 2026-11-14 06:37
 1005 3966 V 7200 = AB E2 32 BF AB E5 47 D7 = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | HD = HD ENC-3a =  =  = 2026-11-14 05:42
 130 12601 V 7200 = C8 B5 F3 70 1A 7D 94 2B = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 BISS-1 = BWF WORLD TOUR - =  = 2026-11-14 04:12
