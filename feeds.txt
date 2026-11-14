@@ -59,6 +59,8 @@
 30 4041 V 7200 = A4 5D 12 13 34 56 78 02 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = SMAT-2026 =  =  = 2026-11-14 08:27
 30 4032 V 7200 = FA FA 56 4A 73 DE 34 85 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-14 08:37
 20 12633 V 9601 = 44 23 A2 09 13 23 32 68 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  = Spanish Cup (Copa del Rey) - =  = 2026-11-14 00:30
+19 11462 V 7199 = A2 59 86 81 27 E7 0A 18 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = BulgariaSat 1 ( 1.9E ) = HD = Unnamed =  =  = 2026-11-14 11:15
+20 12642 H 7199 = D3 61 14 48 11 20 26 57 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-14 16:51
 192 11501 V 7200 = D9 51 AB D5 CA 34 78 76 = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 = Grand Slam Darts =  =  = 2026-11-14 23:52
 192 11502 V 7200 = D9 51 AB D5 CA 34 78 76 = SnookerBilliard LIVE Feed@ 7east 100.5°E = Astra 1N/1P ( 19.2E ) = HD | 4.2.0 =  = Champions of Champions Snooker =  = 2026-11-14 23:34
 750 11092 V 7500 = 12 34 56 9C AB CD EF 67 = SPORT Shows  Press Conference (News Awards  Magazine Shows eg Sky SportTransworldOmnisport) feeds = ABS 2/2A ( 75E ) = 4.2.0 = Unname =  =  = 2026-11-14 14:09
@@ -72,8 +74,6 @@
 160 12532 H 4936 = 52 55 7C 23 66 D7 30 6D = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-14 17:38
 160 12539 H 4936 = 52 55 7C 23 66 D7 30 6D = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-14 17:49
 1180 11170 V 7200 = 15 05 AA C4 AA 23 21 EE = WRESTLING WORLD CHAMPIONSHIP 10E7E = Telkom 3S ( 118E ) = 4.2.0 = Fox Main =  =  = 2026-11-14 17:27
-19 11462 V 7199 = A2 59 86 81 27 E7 0A 18 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = BulgariaSat 1 ( 1.9E ) = HD = Unnamed =  =  = 2026-11-14 11:15
-20 12642 H 7199 = D3 61 14 48 11 20 26 57 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-14 16:51
 70 11164 V 7200 = D1 02 AC 7F DC 14 11 01 = Ekstraklasa League  (Polska Football) = Eutelsat 7C ( 7E ) = 4.2.2 = POL-102 Main = Women's football: ORLEN Ekstraliga - match: KS Jagiellonian University - UKS SMS Łódź =  = 2026-11-14 16:44
 130 10838 V 7199 = FF DD D1 AD 11 4E 72 D1 = Biathlon Triathlon Pentathlon FEEDS = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 05 =  =  = 2026-11-14 13:31
 1005 4146 H 7200 = FF DD D1 AD 11 4E 72 D1 = Biathlon Triathlon Pentathlon FEEDS = AsiaSat 5 ( 100.5E ) = 4:2:0 = GCUK ENC 05 =  =  = 2026-11-14 16:26
