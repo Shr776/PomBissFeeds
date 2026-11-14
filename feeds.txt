@@ -1,10 +1,15 @@
+70 11144 V 5000 = 8C A6 8D BF 07 C9 44 14 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = HD = ITA 99 A =  =  = 2026-11-14 18:59
+130 11608 H 7199 = 47 53 62 FC D9 1C A4 99 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 560 155D9 MAIN =  =  = 2026-11-14 19:08
+130 11609 V 7199 = A2 57 D9 D2 94 3E 89 5B = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = POR 21 =  =  = 2026-11-14 19:14
+130 10848 H 7199 = BC 20 26 02 11 14 CB F0 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = Main E-285 =  =  = 2026-11-14 19:37
+70 11093 V 7200 = 15 58 35 A2 71 42 63 16 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4.2.0 = POLSAT SPORT = Men's volleyball: TAURON Liga - match: Aluron CMC Warta Zawiercie - Cuprum Stilon Gorzów =  = 2026-11-14 21:49
+130 11690 H 14400 = CC 99 2C 91 3C 5A 2C C2 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = PFL ESPN =  =  = 2026-11-14 19:44
+160 12520 H 7200 = B4 54 BC C4 A1 1C 23 E0 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4.2.0 | SD = BT_SES_6_SDI =  =  = 2026-11-14 20:57
+1005 3966 V 7200 = B4 54 BC C4 A1 1C 23 E0 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD = BT_SES_6_SDI =  =  = 2026-11-14 21:38
 420 11672 V 7199 = 36 6E 20 C4 0C F1 57 54 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unnamed =  =  = 2026-11-14 17:01
 48 12680 H 7200 = 36 6E 20 C4 0C F1 57 54 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 4A ( 4.8E ) = HD = Unnamed =  =  = 2026-11-14 17:45
 20 12642 H 7120 = AB BC BA 21 AC 12 21 DF = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 2E/2F/2G ( 28.2E ) = 4:2:0 =  =  =  = 2026-11-14 19:49
 130 12698 H 7120 = 93 2A 02 BF 5F 43 3E E0 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = EFL Fleetwood Town v Tranmere =  =  = 2026-11-14 20:57
-130 11690 H 14400 = CC 99 2C 91 3C 5A 2C C2 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = PFL ESPN =  =  = 2026-11-14 19:44
-160 12520 H 7200 = B4 54 BC C4 A1 1C 23 E0 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4.2.0 | SD = BT_SES_6_SDI =  =  = 2026-11-14 20:57
-130 11636 V 7199 = 46 4B B0 41 82 5E 84 64 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = LEUK_Fi06 =  =  = 2026-11-14 20:31
 130 10857 H 7500 = 31 0A 46 81 3B 38 9C 0F = BOXING all satellites feeds (10E .....) = HotBird 13F/13G ( 13E ) = 4:2:0 = ZUFFA =  =  = 2026-11-14 14:26
 1005 3984 V 7500 = 31 0A 46 81 3B 38 9C 0F = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Zuffa Boxing =  =  = 2026-11-14 16:01
 160 12657 H 7199 = B7 F4 E2 8D A9 C6 31 A0 = BOXING all satellites feeds (10E .....) = Eutelsat 16D ( 16E ) = 4:2:0 = ENFUSION =  =  = 2026-11-14 20:34
@@ -15,14 +20,11 @@
 420 11687 V 7500 = CB 8B 1D 73 6B 58 42 05 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-062 A =  =  = 2026-11-14 18:10
 420 11678 V 7500 = C4 13 E4 BB F3 8C 31 B0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 112 MAIN =  =  = 2026-11-14 20:23
 160 12638 H 7200 = 20 26 AB F1 CD 20 27 14 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-11-14 20:44
+130 11636 V 7199 = 46 4B B0 41 82 5E 84 64 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = LEUK_Fi06 =  =  = 2026-11-14 20:31
 130 11065 V 14400 = 14 C1 9B 70 AB 9A 11 56 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.2 = BUL007 UNL M1  Main =  =  = 2026-11-14 20:14
 130 10839 H 7500 = 72 01 55 C8 11 11 26 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = UMT SP - GLOBO =  =  = 2026-11-14 20:26
 130 11628 H 7199 = AB CD 12 8A 34 EF FF 22 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = F-510 APL Martigues =  =  = 2026-11-14 19:43
 130 11617 H 7199 = AB CD 12 8A 34 EF FF 22 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-14 20:01
-70 11144 V 5000 = 8C A6 8D BF 07 C9 44 14 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = HD = ITA 99 A =  =  = 2026-11-14 18:59
-130 11608 H 7199 = 47 53 62 FC D9 1C A4 99 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 560 155D9 MAIN =  =  = 2026-11-14 19:08
-130 11609 V 7199 = A2 57 D9 D2 94 3E 89 5B = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = POR 21 =  =  = 2026-11-14 19:14
-130 10848 H 7199 = BC 20 26 02 11 14 CB F0 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = Main E-285 =  =  = 2026-11-14 19:37
 130 11595 H 14400 = 14 C1 9B 70 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = ROU-038 - 2 - UNLM8 =  =  = 2026-11-14 14:45
 160 11151 H 9875 = 14 C1 9B 70 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = SWE-043 - 7 -UNLM2 =  =  = 2026-11-14 14:55
 130 11065 V 14400 = 14 C1 9B 70 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-11-14 15:11
