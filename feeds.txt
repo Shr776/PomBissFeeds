@@ -1,4 +1,11 @@
 420 11672 V 7199 = 36 6E 20 C4 0C F1 57 54 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unnamed =  =  = 2026-11-14 17:01
+48 12680 H 7200 = 36 6E 20 C4 0C F1 57 54 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 4A ( 4.8E ) = HD = Unnamed =  =  = 2026-11-14 17:45
+1005 3800 H 7198 = NO KEY = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-11-14 15:07
+360 11691 V 5000 = NO KEY = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 36D ( 36E ) = 4.2.0 = IRQ-014 Main =  =  = 2026-11-14 17:37
+160 12510 H 7200 = E1 E0 02 C3 D0 E4 67 1B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4.2.0 = Fi13_GNVE =  =  = 2026-11-14 13:02
+1005 3860 V 30000 = 46 4B B0 41 82 5E 84 64 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = CAF_01_LEUK_Fi07 =  =  = 2026-11-14 13:20
+130 11636 V 7199 = E1 E0 02 C3 D0 E4 67 1B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = egy-013 =  =  = 2026-11-14 14:30
+130 11627 V 7200 = 46 4B B0 41 82 5E 84 64 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = LEUK_Fi08 =  =  = 2026-11-14 17:36
 130 11609 H 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = HD | 4.2.0 = AFLW = AFLW Women's Geelong Cats v Sydney Swans =  = 2026-11-14 09:19
 130 11614 V 14240 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 = Pitch Italy v Argentina TX2 =  =  = 2026-11-14 13:35
 100 11259 V 7119 = 44 24 55 BD 76 86 6D 69 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 = Pitch -Italy v Argentina TX =  =  = 2026-11-14 13:43
@@ -19,19 +26,18 @@
 130 11208 V 14400 = 14 C1 9B 70 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = AUT34 M6 BU =  =  = 2026-11-14 15:49
 160 11139 H 9875 = 14 C1 9B 70 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = E 228 MAIN =  =  = 2026-11-14 15:59
 130 11065 V 14400 = 14 C1 9B 70 AB 9A 11 56 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.2 = BUL007 UNL M1  Main =  =  = 2026-11-14 15:28
-1005 3800 H 7198 = NO KEY = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-11-14 15:07
 400 11155 V 4400 = 33 3C 56 C5 69 95 A7 A5 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Express AM7 ( 40E ) = 4.2.0 = UAE072-M =  =  = 2026-11-14 14:47
 1005 3860 V 30000 = 3B 99 3E 12 45 44 CE 57 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi09_GNVE =  =  = 2026-11-14 10:08
 130 11628 H 7200 = 3B 99 3E 12 45 44 CE 57 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi09_GNVE =  =  = 2026-11-14 12:46
 20 12628 H 4285 = 65 63 BF 87 25 7C 89 2A = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Astra 2E/2F/2G ( 28.2E ) = HD | 4:2:0 =  =  =  = 2026-11-14 14:31
-160 12510 H 7200 = E1 E0 02 C3 D0 E4 67 1B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4.2.0 = Fi13_GNVE =  =  = 2026-11-14 13:02
-1005 3860 V 30000 = 46 4B B0 41 82 5E 84 64 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = CAF_01_LEUK_Fi07 =  =  = 2026-11-14 13:20
-130 11636 V 7199 = E1 E0 02 C3 D0 E4 67 1B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = egy-013 =  =  = 2026-11-14 14:30
 130 11642 H 9875 = BA D0 40 CA CC 84 35 85 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = LEVI_CLEAN_MAIN = Audi FIS Ski World Cup Levi =  = 2026-11-14 11:49
 130 11654 H 9875 = 2F 3C A1 0C AD A5 68 BA = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = LEVI_DIRTY_MAIN = Audi FIS Ski World Cup Levi =  = 2026-11-14 11:52
 30 4041 V 7200 = A4 5D 12 13 34 56 78 02 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = SMAT-2026 =  =  = 2026-11-14 08:27
 30 4032 V 7200 = FA FA 56 4A 73 DE 34 85 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-14 08:37
 20 12633 V 9601 = 44 23 A2 09 13 23 32 68 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  = Spanish Cup (Copa del Rey) - =  = 2026-11-14 00:30
+160 12532 H 4936 = 52 55 7C 23 66 D7 30 6D = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-14 17:38
+160 12539 H 4936 = 52 55 7C 23 66 D7 30 6D = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-14 17:49
+1180 11170 V 7200 = 15 05 AA C4 AA 23 21 EE = WRESTLING WORLD CHAMPIONSHIP 10E7E = Telkom 3S ( 118E ) = 4.2.0 = Fox Main =  =  = 2026-11-14 17:27
 19 11462 V 7199 = A2 59 86 81 27 E7 0A 18 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = BulgariaSat 1 ( 1.9E ) = HD = Unnamed =  =  = 2026-11-14 11:15
 20 12642 H 7199 = D3 61 14 48 11 20 26 57 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-14 16:51
 70 11164 V 7200 = D1 02 AC 7F DC 14 11 01 = Ekstraklasa League  (Polska Football) = Eutelsat 7C ( 7E ) = 4.2.2 = POL-102 Main = Women's football: ORLEN Ekstraliga - match: KS Jagiellonian University - UKS SMS Łódź =  = 2026-11-14 16:44
