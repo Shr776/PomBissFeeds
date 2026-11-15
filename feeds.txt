@@ -1,3 +1,10 @@
+130 10802 H 7200 = 15 9B C2 72 37 AA 45 26 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-FTC-ESB = EHF Champions League Women - =  = 2026-11-15 16:08
+130 10810 H 7200 = 66 4F EF A4 F2 91 40 C3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-BUD-BVB = EHF Champions League Women - OTP Group Buducnost vs BV Borussia Dortmund =  = 2026-11-15 16:11
+130 12544 H 7200 = D6 0E 61 45 45 53 FA 92 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-SOL-KRI = EHF Champions League Women - Sola Håndballklubb vs RK Krim OTP Group Mercator =  = 2026-11-15 16:24
+130 12552 H 7200 = 30 03 20 53 25 AB C2 92 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ROU 050 = EHF Champions League Women - =  = 2026-11-15 16:27
+130 12552 H 7200 = 30 03 20 53 25 AB C2 92 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = backup = EHF Champions League Women - =  = 2026-11-15 18:06
+130 12552 H 7200 = 30 03 20 53 25 AB C2 92 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ROU 050 = EHF Champions League Women - =  = 2026-11-15 18:18
+130 10820 H 7200 = 91 CF 65 C5 A2 F6 9A 32 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-ODE-MET = EHF Champions League Women - =  = 2026-11-15 19:39
 420 11254 H 7199 = 3E 83 F2 B3 CA 53 9D BA = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD = Top10 =  =  = 2026-11-15 17:09
 130 11614 V 14240 = FF 42 AB EC CD 15 11 F3 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Nations Championship =  = 2026-11-15 17:23
 130 11614 V 14240 = FF 42 AB EC CD 15 11 F3 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 | 4.2.0 =  = Nations Championship =  = 2026-11-15 18:19
@@ -12,12 +19,6 @@
 130 11208 V 14400 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = F563-1-UNLM6 = UEFA Nations League - France vs Türkiye =  = 2026-11-15 15:57
 160 11130 H 9874 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = F33 - Enc2 =  =  = 2026-11-15 16:09
 -80 12692 V 7200 = 14 55 FE 67 ED 19 97 9D = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 8 West B ( 8W ) = 4:2:0 = SOS TF1 FOOT FRANCE V TURQUIE =  =  = 2026-11-15 18:18
-130 10802 H 7200 = 15 9B C2 72 37 AA 45 26 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-FTC-ESB = EHF Champions League Women - =  = 2026-11-15 16:08
-130 10810 H 7200 = 66 4F EF A4 F2 91 40 C3 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-BUD-BVB = EHF Champions League Women - OTP Group Buducnost vs BV Borussia Dortmund =  = 2026-11-15 16:11
-130 12544 H 7200 = D6 0E 61 45 45 53 FA 92 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-SOL-KRI = EHF Champions League Women - Sola Håndballklubb vs RK Krim OTP Group Mercator =  = 2026-11-15 16:24
-130 12552 H 7200 = 30 03 20 53 25 AB C2 92 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ROU 050 = EHF Champions League Women - =  = 2026-11-15 16:27
-130 12552 H 7200 = 30 03 20 53 25 AB C2 92 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = backup = EHF Champions League Women - =  = 2026-11-15 18:06
-130 12552 H 7200 = 30 03 20 53 25 AB C2 92 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ROU 050 = EHF Champions League Women - =  = 2026-11-15 18:18
 160 12655 V 9875 = 15 11 CF F5 AE 79 14 3B = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Leipzig = German Frauen-Bundesliga - =  = 2026-11-15 18:12
 160 12643 V 9875 = 15 11 CF F5 AE 79 14 3B = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Nuernberg = German Frauen-Bundesliga - =  = 2026-11-15 18:13
 0 12509 H 7200 = 84 80 58 5C D0 E1 F2 A3 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4.2.0 = Fi09_GNVE =  =  = 2026-11-15 17:58
