@@ -2,6 +2,13 @@
 130 11066 V 14400 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = CYP-005_UNL M1_Main = UEFA Nations League - Cipro vs Montenegro =  = 2026-11-15 10:34
 130 11190 V 14400 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = HUN022-2-UNLM03 = UEFA Nations League - Belarus vs Albania =  = 2026-11-15 12:54
 160 11142 H 9874 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = BEL095 - 2 - UNLM6 =  =  = 2026-11-15 14:40
+160 11175 H 9875 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:0 = FIN-YLE-006 =  =  = 2026-11-15 15:05
+160 11154 H 9874 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = CRO-025 NTF M07 MAIN =  =  = 2026-11-15 15:05
+160 11166 H 9874 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = E-467 ENCODER 1 =  =  = 2026-11-15 15:41
+130 11208 V 14400 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = F563-1-UNLM6 = UEFA Nations League - =  = 2026-11-15 15:57
+160 10970 V 4800 = AB BA 26 8B DC AE 11 9B = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 16D ( 16E ) = 4.2.2 = POL-110 = Men's Handball Central League Poland =  = 2026-11-15 15:21
+130 11665 H 5000 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-GYOR = EHF Champions League Women - =  = 2026-11-15 15:41
+20 12646 V 5000 = B6 23 80 59 3B E3 CE EC = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Astra 2E/2F/2G ( 28.2E ) = HD | 4:2:0 = BEL119 =  =  = 2026-11-15 15:22
 160 12546 H 7200 = BC 20 26 02 11 15 CB F1 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4.2.0 = E-228 Main =  =  = 2026-11-15 14:24
 420 11150 V 5000 = 60 85 DB C0 07 C9 6A 3A = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA_907_B =  =  = 2026-11-15 13:14
 420 11489 V 7501 = 70 2D A7 44 60 37 7C 13 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unnamed =  =  = 2026-11-15 12:51
@@ -11,6 +18,9 @@
 130 11061 V 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-11-15 00:08
 130 12678 H 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 6 =  =  = 2026-11-15 00:56
 0 11537 H 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = HD | 4.2.0 = UFC PATH C PRI =  =  = 2026-11-15 04:56
+192 11561 V 7200 = D9 51 AB D5 CA 34 78 76 = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 = Grand Slam Darts =  =  = 2026-11-15 15:29
+160 10976 V 4800 = AB BA 26 8B DC AE 11 9B = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Eutelsat 16D ( 16E ) = 4.2.0 = pol-052_harm = Broadcast of the Holy Mass from the Church of the Annunciation of the Blessed Virgin Mary in Żelechów =  = 2026-11-15 15:16
+192 11502 V 7200 = D9 51 AB D5 CA 34 78 76 = SnookerBilliard LIVE Feed@ 7east 100.5°E = Astra 1N/1P ( 19.2E ) = HD | 4.2.0 =  = Champions of Champions Snooker =  = 2026-11-15 15:13
 130 12689 H 7199 = 84 D1 65 BA A4 81 CC F1 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-15 01:11
 160 10986 V 9600 = AB BA 26 8B DC AE 11 9B = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Eutelsat 16D ( 16E ) = 4.2.2 | HD = POL - 141 ENC1 =  =  = 2026-11-15 14:49
 30 11464 V 7200 = 3C C9 03 08 CB 3E CF D8 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Eutelsat 3B ( 3E ) = 4.2.2 = No name =  =  = 2026-11-15 14:56
