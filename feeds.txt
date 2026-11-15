@@ -1,3 +1,12 @@
+0 12509 H 7200 = 84 80 58 5C D0 E1 F2 A3 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. =  = 4.2.0 = Fi09_GNVE =  =  = 2026-11-15 17:58
+130 11636 V 7200 = 7E 12 09 99 4E 2D AA 25 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = unknown = CAF Women's Champions League =  = 2026-11-15 17:59
+1005 3945 H 7500 = NO KEY = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) =  =  =  =  = 2026-11-15 17:35
+420 11254 H 7199 = 3E 83 F2 B3 CA 53 9D BA = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD = Top10 =  =  = 2026-11-15 17:09
+130 11614 V 14240 = FF 42 AB EC CD 15 11 F3 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Nations Championship =  = 2026-11-15 17:23
+750 11040 V 7500 = A1 B2 C3 16 D4 E5 D6 8F = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = ABS 2/2A ( 75E ) = 4:2:0 = ITA-209 Main =  =  = 2026-11-15 17:19
+130 11684 H 7200 = 26 BA BA 9A 20 15 11 46 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.2 = D347 Stuttgart FEI =  =  = 2026-11-15 17:15
+420 11150 V 5000 = 60 85 DB C0 07 C9 6A 3A = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA_907_B =  =  = 2026-11-15 13:14
+130 10866 H 7200 = D7 A4 E9 64 C1 B6 38 AF = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E 073 MAIN = Greece Stoiximan GBL - Vikos vs Amarousiou =  = 2026-11-15 17:03
 160 12546 H 7200 = BC 20 26 02 11 15 CB F1 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4.2.0 = E-228 Main =  =  = 2026-11-15 14:24
 130 11626 V 7200 = 15 11 20 46 26 FA CA EA = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4.2.0 = E-73 =  =  = 2026-11-15 16:46
 130 10802 H 7200 = 15 9B C2 72 37 AA 45 26 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLW-FTC-ESB = EHF Champions League Women - =  = 2026-11-15 16:08
@@ -14,7 +23,6 @@
 130 11208 V 14400 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = F563-1-UNLM6 = UEFA Nations League - France vs Türkiye =  = 2026-11-15 15:57
 160 11130 H 9874 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = F33 - Enc2 =  =  = 2026-11-15 16:09
 20 12646 V 5000 = B6 23 80 59 3B E3 CE EC = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Astra 2E/2F/2G ( 28.2E ) = HD | 4:2:0 = BEL119 =  =  = 2026-11-15 15:22
-420 11150 V 5000 = 60 85 DB C0 07 C9 6A 3A = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA_907_B =  =  = 2026-11-15 13:14
 420 11489 V 7501 = 70 2D A7 44 60 37 7C 13 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unnamed =  =  = 2026-11-15 12:51
 130 11642 H 9875 = 95 D7 59 C5 86 71 99 90 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = LEVI_CLEAN_MAIN = Audi FIS Ski World Cup Levi =  = 2026-11-15 12:19
 130 11654 H 9875 = 21 24 07 4C 8E 13 60 01 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = LEVI_DIRTY_MAIN = Audi FIS Ski World Cup Levi =  = 2026-11-15 12:21
@@ -22,6 +30,7 @@
 130 11061 V 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-11-15 00:08
 130 12678 H 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 6 =  =  = 2026-11-15 00:56
 0 11537 H 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = HD | 4.2.0 = UFC PATH C PRI =  =  = 2026-11-15 04:56
+160 10973 V 9601 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = POL49 EN1 Katowice = Football: Betclic 2. Liga - match: GKS Tychy - Rekord Bielsko-Biała =  = 2026-11-15 17:03
 192 11561 V 7200 = D9 51 AB D5 CA 34 78 76 = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 = Grand Slam Darts =  =  = 2026-11-15 16:49
 215 10986 H 4935 = E8 6C F5 49 62 32 27 BB = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 21B ( 21.5E ) = HD = IAE-072-M CUBIC072 =  =  = 2026-11-15 16:27
 130 10829 V 7199 = FF DE D1 AE 11 4E 01 60 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 2 =  =  = 2026-11-15 13:18
