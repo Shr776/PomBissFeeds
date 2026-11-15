@@ -1,4 +1,5 @@
 130 11061 V 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-11-15 00:08
 130 12678 H 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 6 =  =  = 2026-11-15 00:56
+0 11537 H 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = HD | 4.2.0 = UFC PATH C PRI =  =  = 2026-11-15 04:56
 1005 3966 V 7200 = AB E2 32 BF AB E5 47 D7 = Baseball: MLB NPB LMB WBSC etc.. 7°E  10°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | HD = HD ENC-3a =  =  = 2026-11-15 04:40
 130 12689 H 7199 = 84 D1 65 BA A4 81 CC F1 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-15 01:11
