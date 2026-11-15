@@ -1,8 +1,9 @@
-130 10866 H 7200 = 15 11 AA D0 BB 20 26 01 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = Main E-285 = Liga Portugal 2 - =  = 2026-11-15 14:01
-420 11150 V 5000 = 60 85 DB C0 07 C9 6A 3A = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA_907_B =  =  = 2026-11-15 13:14
 130 11084 V 14400 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = LTU-005-MAIN-MATCH 02 = UEFA Nations League - Latvia vs Armenia =  = 2026-11-15 10:24
 130 11066 V 14400 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = CYP-005_UNL M1_Main = UEFA Nations League - Cipro vs Montenegro =  = 2026-11-15 10:34
 130 11190 V 14400 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = HUN022-2-UNLM03 = UEFA Nations League - Belarus vs Albania =  = 2026-11-15 12:54
+160 11142 H 9874 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = BEL095 - 2 - UNLM6 =  =  = 2026-11-15 14:40
+160 12546 H 7200 = BC 20 26 02 11 15 CB F1 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 16D ( 16E ) = 4.2.0 = E-228 Main =  =  = 2026-11-15 14:24
+420 11150 V 5000 = 60 85 DB C0 07 C9 6A 3A = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA_907_B =  =  = 2026-11-15 13:14
 420 11489 V 7501 = 70 2D A7 44 60 37 7C 13 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD = Unnamed =  =  = 2026-11-15 12:51
 130 11642 H 9875 = 95 D7 59 C5 86 71 99 90 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = LEVI_CLEAN_MAIN = Audi FIS Ski World Cup Levi =  = 2026-11-15 12:19
 130 11654 H 9875 = 21 24 07 4C 8E 13 60 01 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = LEVI_DIRTY_MAIN = Audi FIS Ski World Cup Levi =  = 2026-11-15 12:21
@@ -11,7 +12,8 @@
 130 12678 H 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 6 =  =  = 2026-11-15 00:56
 0 11537 H 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = HD | 4.2.0 = UFC PATH C PRI =  =  = 2026-11-15 04:56
 130 12689 H 7199 = 84 D1 65 BA A4 81 CC F1 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-15 01:11
-160 10986 V 9600 = AB BA 26 8B DC AE 11 9B = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Eutelsat 16D ( 16E ) = 4.2.0 | HD = POL - 141 ENC1 =  =  = 2026-11-15 13:27
+160 10986 V 9600 = AB BA 26 8B DC AE 11 9B = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Eutelsat 16D ( 16E ) = 4.2.2 | HD = POL - 141 ENC1 =  =  = 2026-11-15 14:49
+30 11464 V 7200 = 3C C9 03 08 CB 3E CF D8 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Eutelsat 3B ( 3E ) = 4.2.2 = No name =  =  = 2026-11-15 14:56
 420 11120 V 5000 = 55 E4 31 6A 07 C9 3C 0C = ITALY Feeds RAI  Mediaset (News Sports News TV Shows NOT Live Sports ie NOT Italian Football) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-15 13:19
 130 10829 V 7199 = FF DE D1 AE 11 4E 01 60 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 2 =  =  = 2026-11-15 13:18
 420 11144 V 5000 = 27 E3 48 52 07 CA 25 F6 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-15 13:16
