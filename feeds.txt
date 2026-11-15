@@ -1,3 +1,6 @@
+100 11165 V 7199 = BA 12 D5 A1 EA 52 F3 2F = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 10B ( 10E ) = 4:2:0 = Fox Cricket =  =  = 2026-11-15 10:38
+130 11084 V 14400 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = LTU-005-MAIN-MATCH 02 = UEFA Nations League - Latvia vs Armenia =  = 2026-11-15 10:24
+130 11066 V 14400 = 15 C1 9B 71 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = CYP-005_UNL M1_Main = UEFA Nations League - Cipro vs Montenegro =  = 2026-11-15 10:34
 130 11061 V 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) =  =  =  =  = 2026-11-15 00:08
 130 12678 H 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 6 =  =  = 2026-11-15 00:56
 0 11537 H 7200 = 55 7A 5A 29 21 46 42 A9 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = HD | 4.2.0 = UFC PATH C PRI =  =  = 2026-11-15 04:56
