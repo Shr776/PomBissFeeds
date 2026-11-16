@@ -11,6 +11,8 @@
 160 11165 H 9874 = 16 C1 9B 72 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = UKI_1086_M11_Main =  =  = 2026-11-16 15:37
 160 11139 H 9875 = 16 C1 9B 72 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = SUI76 -1UNLM9 =  =  = 2026-11-16 15:37
 160 11127 H 9875 = 16 C1 9B 72 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = D565 - 2 - UNLM7 =  =  = 2026-11-16 16:02
+70 11122 V 7200 = AB 42 D1 BE 07 C9 AF 7F = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 7C ( 7E ) =  = RAI ITA 645 A =  =  = 2026-11-16 21:09
+160 12655 V 9875 = 16 11 CD F4 AF 49 28 20 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Stuttgart = German Frauen-Bundesliga - =  = 2026-11-16 21:08
 420 11131 V 7200 = 1A 13 63 90 07 C9 E1 B1 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-16 20:53
 160 11182 H 19200 = 54 F0 C2 06 2C 35 AC 0D = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = VM5GVs1 CAF QL94 =  =  = 2026-11-16 14:00
 1005 3860 V 30000 = 54 F0 C2 06 2C 35 AC 0D = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = LEUK_Fi08 =  =  = 2026-11-16 14:17
@@ -32,5 +34,6 @@
 1005 3955 H 7500 = 61 F2 86 D9 90 A9 09 42 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-16 00:46
 1005 3946 H 7500 = A7 F3 D8 72 D1 09 B9 93 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-16 00:48
 1005 3975 V 7499 = 1F 01 B7 D7 04 10 28 3C = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 2 = American Football — NFL 2026/27 Matchweek 10 = Pittsburgh Steelers vs Cincinnati Bengals (@ Paycor Stadium) = 2026-11-16 04:47
+192 11572 V 7200 = D9 51 AB D5 CA 34 78 76 = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 | HD = Grand Slam Darts =  =  = 2026-11-16 22:00
 20 12511 H 14401 = 9C A4 51 91 CB AB 13 89 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-16 20:25
 100 11255 V 2399 = 20 26 FE 44 ED 17 19 1D = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 10B ( 10E ) = 4.2.0 = F419_MAIN =  =  = 2026-11-16 20:59
