@@ -10,6 +10,7 @@
 260 12606 H 7200 = 20 26 AB F1 CD 20 27 14 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Badr 4/5/6/7 ( 26E ) =  =  =  =  = 2026-11-17 21:58
 160 12621 H 7199 = 17 11 DA 02 AA 80 97 C1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = D-322 TX1 =  =  = 2026-11-17 22:24
 160 12640 H 7199 = 17 11 20 48 26 AB FE CF = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = ITA633_A =  =  = 2026-11-17 22:36
+160 12611 H 7200 = 8E 79 3E 45 82 89 BD C8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = Main E-285 =  =  = 2026-11-17 23:15
 130 11108 H 7200 = 57 DA 50 81 1E 4F 1C 89 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF-ELM-PEL-VFL YSM-016M =  =  = 2026-11-17 21:22
 130 12525 H 7200 = CB 51 65 81 2D 7F CA 76 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-IRU-LIM = EHF Europa League  - =  = 2026-11-17 21:23
 130 12552 H 7200 = 17 FE 57 6C 61 AC 20 2D = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = E380 - EHF M12 MAIN =  =  = 2026-11-17 21:28
