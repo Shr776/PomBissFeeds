@@ -1,4 +1,9 @@
 130 12688 H 7200 = 4E 5B 29 D2 6D D1 9A D8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:2 = TKS.TRT.M17 - A = BKT Eurocup - Turk Telekom Ankara vs La Laguna Tenerife =  = 2026-11-17 18:55
+130 11091 H 7200 = 20 26 FF 45 44 AA DD CB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = WPA D-518 Main = Baskeball Champions League - Herzliya vs Bonn =  = 2026-11-17 19:34
+130 12696 H 7200 = 17 D1 14 FC BA 9D 05 5C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-17 20:01
+130 10866 H 7200 = 65 D4 BB F4 98 1A 98 4A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = BiH-003-2 = EHF Europa League  - =  = 2026-11-17 19:08
+130 10829 V 7200 = 78 BB 51 84 CF 39 6A 72 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-TTH-TOR = EHF Europa League  - =  = 2026-11-17 19:53
+130 10838 V 7200 = C5 91 55 AB 00 9A 10 AA = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-TAT-VAL = EHF Europa League  - =  = 2026-11-17 19:57
 1005 3860 V 30000 = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = CAF_Path2_GVA_Fi02 =  =  = 2026-11-17 14:10
 30 3990 V  = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-17 15:52
 1005 3912 V 7200 = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = CAF_03_GVA_Fi05 =  =  = 2026-11-17 16:25
