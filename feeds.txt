@@ -1,5 +1,10 @@
 1005 3860 V 30000 = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = CAF_Path2_GVA_Fi02 =  =  = 2026-11-17 14:10
 30 3990 V  = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-17 15:52
+1005 3912 V 7200 = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = CAF_03_GVA_Fi05 =  =  = 2026-11-17 16:25
+30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 3B ( 3E ) = 4:2:0 = beIN SPORTS =  =  = 2026-11-17 16:33
+30 4180 V  = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-17 16:42
+160 11159 H 19200 = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 16D ( 16E ) = 4:2:0 = 8GVs1 CAF Path 7 =  =  = 2026-11-17 16:59
+130 11648 H 19200 = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = SERVICE 01 =  =  = 2026-11-17 17:01
 130 11614 V 14400 = 17 C1 9B 73 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = POL-142 M08 BACKUP =  =  = 2026-11-17 14:47
 160 12535 H 9875 = 17 C1 9B 73 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = Eutelsat 16D ( 16E ) = 4:2:2 = POL-143 M08 Backup =  =  = 2026-11-17 15:03
 130 11084 V 14400 = 17 C1 9B 73 AB 9A 11 56 = UEFA International Football (Euro  Qualifiers Friendlies PreSeason Continental Cup Hybrid Legends etc) Please state if 4:2:0 or 4:2:2 = HotBird 13F/13G ( 13E ) = 4:2:2 = uki1482 UNLM2 Bkp =  =  = 2026-11-17 15:28
