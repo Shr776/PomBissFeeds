@@ -1,13 +1,3 @@
-130 12688 H 7200 = 4E 5B 29 D2 6D D1 9A D8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:2 = TKS.TRT.M17 - A = BKT Eurocup - Turk Telekom Ankara vs La Laguna Tenerife =  = 2026-11-17 18:55
-130 11091 H 7200 = 20 26 FF 45 44 AA DD CB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = WPA D-518 Main = Baskeball Champions League - Herzliya vs Bonn =  = 2026-11-17 19:34
-130 12696 H 7200 = 17 D1 14 FC BA 9D 05 5C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-17 20:01
-130 10839 H 7200 = E8 D6 A3 61 F1 C9 27 E1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = E399 MAIN =  =  = 2026-11-17 20:21
-160 12592 H 7199 = NO KEY = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-17 20:38
-160 12592 H 7199 = 4F 5B C1 6B 2A D0 B3 AD = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  = EuroLeague - Maccabi Tel Aviv vs Olympiacos =  = 2026-11-17 20:41
-130 11081 H 7200 = A1 7F AB CB C3 20 26 09 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = LTU-005 main =  =  = 2026-11-17 21:18
-130 11067 H 7200 = 04 A8 9B 47 50 8C 15 F1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 315 MAIN = EuroLeague Basketball - Virtus Bologna vs Panathinaikos =  = 2026-11-17 21:31
-130 11675 H 7200 = 20 26 EC 32 CE 11 17 F6 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = BB EC Rostock =  =  = 2026-11-17 21:57
-260 12606 H 7200 = 20 26 AB F1 CD 20 27 14 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Badr 4/5/6/7 ( 26E ) =  =  =  =  = 2026-11-17 21:58
 1005 3860 V 30000 = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = CAF_Path2_GVA_Fi02 =  =  = 2026-11-17 14:10
 30 3990 V  = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-17 15:52
 1005 3912 V 7200 = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = CAF_03_GVA_Fi05 =  =  = 2026-11-17 16:25
@@ -21,6 +11,17 @@
 215 11590 H 7200 = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-11-17 20:21
 30 3990 V  = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-17 20:56
 215 11190 H 7200 = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-11-17 21:54
+1005 3912 V 7200 = DE BA E8 80 55 B1 F4 FA = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = AsiaSat 5 ( 100.5E ) = 4:2:0 = CAF_03_GVA_Fi05 =  =  = 2026-11-17 22:11
+130 12688 H 7200 = 4E 5B 29 D2 6D D1 9A D8 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:2 = TKS.TRT.M17 - A = BKT Eurocup - Turk Telekom Ankara vs La Laguna Tenerife =  = 2026-11-17 18:55
+130 11091 H 7200 = 20 26 FF 45 44 AA DD CB = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = WPA D-518 Main = Baskeball Champions League - Herzliya vs Bonn =  = 2026-11-17 19:34
+130 12696 H 7200 = 17 D1 14 FC BA 9D 05 5C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-17 20:01
+130 10839 H 7200 = E8 D6 A3 61 F1 C9 27 E1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = E399 MAIN =  =  = 2026-11-17 20:21
+160 12592 H 7199 = NO KEY = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-17 20:38
+160 12592 H 7199 = 4F 5B C1 6B 2A D0 B3 AD = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  = EuroLeague - Maccabi Tel Aviv vs Olympiacos =  = 2026-11-17 20:41
+130 11081 H 7200 = A1 7F AB CB C3 20 26 09 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = LTU-005 main =  =  = 2026-11-17 21:18
+130 11067 H 7200 = 04 A8 9B 47 50 8C 15 F1 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 315 MAIN = EuroLeague Basketball - Virtus Bologna vs Panathinaikos =  = 2026-11-17 21:31
+130 11675 H 7200 = 20 26 EC 32 CE 11 17 F6 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = BB EC Rostock =  =  = 2026-11-17 21:57
+260 12606 H 7200 = 20 26 AB F1 CD 20 27 14 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Badr 4/5/6/7 ( 26E ) =  =  =  =  = 2026-11-17 21:58
 130 11108 H 7200 = 57 DA 50 81 1E 4F 1C 89 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF-ELM-PEL-VFL YSM-016M =  =  = 2026-11-17 21:22
 130 12525 H 7200 = CB 51 65 81 2D 7F CA 76 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-IRU-LIM = EHF Europa League  - =  = 2026-11-17 21:23
 130 12543 H 7200 = 17 FE 57 6C 61 AC 20 2D = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF-ELM-SAV-PRE =  =  = 2026-11-17 21:28
