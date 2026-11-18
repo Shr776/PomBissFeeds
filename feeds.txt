@@ -1,6 +1,5 @@
 130 11628 H 7199 = 18 7A DF 71 5F FC 01 5C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-18 19:31
 130 12679 H 7199 = 18 11 20 49 26 AB CD 9E = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = B 191 DGI =  =  = 2026-11-18 19:49
-160 12647 H 7198 = 17 11 20 48 26 AB FE CF = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-18 20:06
 160 12656 H 7200 = 17 11 20 48 26 AB FE CF = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = TRENTO_NEPTUNAS_MAIN =  =  = 2026-11-18 20:28
 130 11666 H 7199 = EC CE 11 CB 18 EC CE D2 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = BB EuroCup Chemnitz =  =  = 2026-11-18 20:55
 130 10818 H 7200 = 20 26 FF 45 56 A1 2A 21 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = CRO-014 =  =  = 2026-11-18 20:58
@@ -11,15 +10,18 @@
 130 11676 H 7199 = 20 26 EC 32 CE 11 18 F7 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = BB SKYLINE FRANKFURT =  =  = 2026-11-18 21:26
 160 12511 V 7200 = 34 56 FF 89 34 CC 12 12 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = A1Pro Via1 = Baskeball Champions League - Unicaja vs Pardubice =  = 2026-11-18 21:37
 160 12638 H 7200 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.0 = BIH007 M =  =  = 2026-11-18 21:55
-130 10829 V 7200 = F2 81 19 8C 7A 8B C1 C6 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-AAH-BER = EHF Champions League - Aalborg Håndbold vs Füchse Berlin =  = 2026-11-18 18:57
-130 10838 V 7200 = 21 FE E2 01 F8 1B E5 F8 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF-CLM-PLO-VESZ =  =  = 2026-11-18 20:55
-100 10720 V 9600 = A1 9B 11 4D C2 6D 26 55 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Eutelsat 10B ( 10E ) = 4:2:2 = FEED 2 U.K =  =  = 2026-11-18 20:18
+130 12525 H 7200 = 18 11 DA 03 BC 20 26 02 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = F489 MAIN = BKT Eurocup - Cosea JL Bourg-en-Bresse vs Napoli Basketball =  = 2026-11-18 22:46
 130 11075 V 9874 = D1 45 D1 E7 BF C3 CA 4C = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = e413 via 1 =  =  = 2026-11-18 15:14
 130 11063 V 9874 = 0E EC E0 DA A3 42 FA DF = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = SWE-043 - M1 - UWCL =  =  = 2026-11-18 15:22
 130 11694 H 7200 = C8 1E 5A 40 74 F2 9B 01 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 2 = UEFA Women's Champions League - =  = 2026-11-18 16:54
 130 11087 V 9874 = 68 C1 E5 0E 77 07 2B A9 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-11-18 17:07
 130 11187 V 9875 = 12 09 18 33 5B BB 3D 53 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi12_GNVE = UEFA Women's Champions League - Juventus vs Leuven =  = 2026-11-18 17:21
 130 11685 H 7200 = A3 F7 19 B3 BC 8D 42 8B = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 1 = UEFA Women's Champions League - Hacken vs Manchester City =  = 2026-11-18 20:14
+130 12689 H 7199 = 7D 4C 13 DC AF E8 62 F9 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 4 =  =  = 2026-11-18 22:25
+130 12698 H 7199 = B9 51 6E 78 2D 4C 8A 03 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 5 =  =  = 2026-11-18 22:28
+130 10829 V 7200 = F2 81 19 8C 7A 8B C1 C6 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-AAH-BER = EHF Champions League - Aalborg Håndbold vs Füchse Berlin =  = 2026-11-18 18:57
+130 10838 V 7200 = 21 FE E2 01 F8 1B E5 F8 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 = EHF-CLM-PLO-VESZ =  =  = 2026-11-18 20:55
+100 10720 V 9600 = A1 9B 11 4D C2 6D 26 55 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Eutelsat 10B ( 10E ) = 4:2:2 = FEED 2 U.K =  =  = 2026-11-18 20:18
 130 10839 H 7200 = F9 E2 B5 90 C7 A3 14 7E = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 MAIN = Greece Volleyball League Women - =  = 2026-11-18 17:52
 216 10998 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main SAUDI065 =  =  = 2026-11-18 18:00
 1005 4007 H 7199 = E4 51 13 48 2B C3 24 12 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = FHD | 4.2.0 =  =  =  = 2026-11-18 14:54
