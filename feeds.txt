@@ -26,7 +26,6 @@
 216 10998 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main SAUDI065 =  =  = 2026-11-18 18:00
 1005 4007 H 7199 = E4 51 13 48 2B C3 24 12 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = FHD | 4.2.0 =  =  =  = 2026-11-18 14:54
 765 4027 H 7200 = DA EF FF C8 EE 32 65 85 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-11-18 07:00
-192 11572 V 7200 = D9 51 AB D5 CA 34 78 76 = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 | HD = Grand Slam Darts =  =  = 2026-11-18 23:37
 216 10988 H 7150 = C2 05 80 47 AC DA FB 81 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 21C ( 21.6E ) = 4.2.0 = SM1 =  =  = 2026-11-18 21:36
 19 11656 V 3333 = 41 4C 41 CE 52 41 42 D5 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = BulgariaSat 1 ( 1.9E ) = 4.2.0 = QAT_MAIN =  =  = 2026-11-18 18:53
 360 11171 V 7500 = AB AB 18 6E 11 20 26 57 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 36D ( 36E ) = 4.2.0 = Main =  =  = 2026-11-18 21:08
