@@ -1,8 +1,13 @@
+216 10998 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = Main SAUDI065 =  =  = 2026-11-18 18:00
+130 10839 H 7200 = F9 E2 B5 90 C7 A3 14 7E = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 MAIN = Greece Volleyball League Women - =  = 2026-11-18 17:52
 130 11075 V 9874 = D1 45 D1 E7 BF C3 CA 4C = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = e413 via 1 =  =  = 2026-11-18 15:14
 130 11063 V 9874 = 0E EC E0 DA A3 42 FA DF = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 = SWE-043 - M1 - UWCL =  =  = 2026-11-18 15:22
 130 11694 H 7200 = C8 1E 5A 40 74 F2 9B 01 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 2 = UEFA Women's Champions League - =  = 2026-11-18 16:54
+130 11087 V 9874 = 68 C1 E5 0E 77 07 2B A9 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-11-18 17:07
+130 11187 V 9875 = 12 09 18 33 5B BB 3D 53 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi12_GNVE = UEFA Women's Champions League - Juventus vs Leuven =  = 2026-11-18 17:21
 1005 4007 H 7199 = E4 51 13 48 2B C3 24 12 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = FHD | 4.2.0 =  =  =  = 2026-11-18 14:54
 1005 4115 H 7120 = NO KEY = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = AsiaSat 5 ( 100.5E ) =  = TXout-1 RXout-9 =  =  = 2026-11-18 13:25
 765 4027 H 7200 = DA EF FF C8 EE 32 65 85 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-11-18 07:00
+130 12609 V 9700 = E8 4F FF 36 CD 11 18 F6 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = HotBird 13F/13G ( 13E ) = 4:2:0 = CHL-CZE-PAR-SAI =  =  = 2026-11-18 17:41
 130 12583 V 7200 = B4 E8 A1 3D 3F 6C 72 1D = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 BISS-1 = BWF WORLD TOUR - LI-NING Hong Kong Open 2026 =  = 2026-11-18 11:36
 192 11572 V 7200 = D9 51 AB D5 CA 34 78 76 = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 | HD = Grand Slam Darts =  =  = 2026-11-18 01:25
