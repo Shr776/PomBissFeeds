@@ -1,7 +1,6 @@
 130 10818 H 7199 = 33 5C B1 40 7A 7D 1E 15 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-KCE-BAR =  =  = 2026-11-19 18:39
 130 10838 V 7199 = 75 A1 C2 D8 9C 81 74 91 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-GOG-MAG =  =  = 2026-11-19 18:44
 130 10847 V 7199 = 8F A5 F6 2A 5E C1 E1 00 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = E-94 - M10 - MAIN =  =  = 2026-11-19 20:42
-130 12525 H 7200 = 82 5A AD 89 19 D7 98 88 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-MTM-PSG = EHF Champions League - MT Melsungen vs Paris Saint-Germain =  = 2026-11-19 20:57
 1005 4164 H 7200 = D1 11 9E 80 01 FF 43 43 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = GCUK Enc 02 =  =  = 2026-11-19 18:24
 130 12525 H 7199 = 82 5A AD 89 19 D7 98 88 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-MTM-PSG =  =  = 2026-11-19 20:56
 130 12688 H 7200 = 58 FE B2 08 14 9A C7 75 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-19 20:27
