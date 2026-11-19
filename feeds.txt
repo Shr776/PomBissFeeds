@@ -1,13 +1,20 @@
+130 10818 H 7199 = 33 5C B1 40 7A 7D 1E 15 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-KCE-BAR =  =  = 2026-11-19 18:39
+130 10838 V 7199 = 75 A1 C2 D8 9C 81 74 91 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-GOG-MAG =  =  = 2026-11-19 18:44
+130 10847 V 7199 = 8F A5 F6 2A 5E C1 E1 00 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = E-94 - M10 - MAIN =  =  = 2026-11-19 20:42
+130 12525 H 7200 = 82 5A AD 89 19 D7 98 88 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-MTM-PSG = EHF Champions League - MT Melsungen vs Paris Saint-Germain =  = 2026-11-19 20:57
+1005 4164 H 7200 = D1 11 9E 80 01 FF 43 43 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = GCUK Enc 02 =  =  = 2026-11-19 18:24
+130 12525 H 7199 = 82 5A AD 89 19 D7 98 88 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-MTM-PSG =  =  = 2026-11-19 20:56
+130 12688 H 7200 = 58 FE B2 08 14 9A C7 75 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-19 20:27
+130 12680 H 7199 = D6 A9 37 B6 CE 81 F4 43 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 5 =  =  = 2026-11-19 20:31
+130 12698 H 7199 = F3 1D 7B 8B 68 C9 25 56 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 4 =  =  = 2026-11-19 20:32
+130 12609 V 7199 = 12 34 56 9C 78 91 23 2C = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-1 main INT =  =  = 2026-11-19 17:27
+130 12600 V 7199 = 12 34 56 9C 78 91 23 2C = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-2 supertennis main =  =  = 2026-11-19 17:32
+192 11562 V 7200 = AD 32 DD BC DA 93 8E FB = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = Astra 1N/1P ( 19.2E ) = 4:2:0 = CRO-020 Main =  =  = 2026-11-19 20:00
 260 11487 V 5000 = CC C7 77 0A CC C0 00 8C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Badr 4/5/6/7 ( 26E ) = 4.2.0 = Service 1 =  =  = 2026-11-19 16:05
 130 11609 V 7199 = DF 4F 08 36 63 69 C6 92 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-19 19:06
 160 12646 H 7199 = 22 F6 1A 32 C7 EB 19 CB = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16D ( 16E ) = 4:2:0 = CEV-KAP-MLA =  =  = 2026-11-19 18:57
-130 10818 H 7199 = 33 5C B1 40 7A 7D 1E 15 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-KCE-BAR =  =  = 2026-11-19 18:39
-130 10838 V 7199 = 75 A1 C2 D8 9C 81 74 91 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-GOG-MAG =  =  = 2026-11-19 18:44
-1005 4164 H 7200 = D1 11 9E 80 01 FF 43 43 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = GCUK Enc 02 =  =  = 2026-11-19 18:24
 130 11067 H 7199 = 64 C2 D1 F7 35 4B 26 A6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = sd | 4:2:0 = POWER SLAP A P =  =  = 2026-11-19 18:20
 160 12656 H 7200 = 64 C2 D1 F7 35 4B 26 A6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4.2.0 = POWER SLAP B P =  =  = 2026-11-19 18:22
-130 12609 V 7199 = 12 34 56 9C 78 91 23 2C = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-1 main INT =  =  = 2026-11-19 17:27
-130 12600 V 7199 = 12 34 56 9C 78 91 23 2C = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-2 supertennis main =  =  = 2026-11-19 17:32
 130 12547 H 15000 = 44 4A 22 B0 2C 11 1D 5A = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = TNT DR = Moto GP =  = 2026-11-19 14:30
 1005 4007 H 7199 = B5 12 CD 94 21 42 3A 9D = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = FHD | 4.2.0 =  =  =  = 2026-11-19 12:36
 1005 4165 H 7198 = 22 A6 53 1B 45 C1 E1 E7 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-11-19 12:37
