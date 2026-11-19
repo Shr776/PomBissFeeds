@@ -1,3 +1,4 @@
+160 12511 V 7200 = F5 76 42 AD 86 19 F2 91 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 =  = PRO D2 - Grenoble vs Provence =  = 2026-11-19 23:15
 130 12688 H 7200 = 58 FE B2 08 14 9A C7 75 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-19 20:27
 130 12680 H 7199 = D6 A9 37 B6 CE 81 F4 43 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 5 =  =  = 2026-11-19 20:31
 130 12698 H 7199 = F3 1D 7B 8B 68 C9 25 56 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC 4 =  =  = 2026-11-19 20:32
@@ -18,7 +19,7 @@
 1005 4007 H 7199 = B5 12 CD 94 21 42 3A 9D = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = FHD | 4.2.0 =  =  =  = 2026-11-19 12:36
 1005 4165 H 7198 = 22 A6 53 1B 45 C1 E1 E7 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 =  =  =  = 2026-11-19 12:37
 1005 3913 V 7200 = 31 2B E4 40 53 BA 34 41 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-19 14:14
-192 11572 V 7200 = D9 51 AB D5 CA 34 78 76 = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 | HD = Grand Slam Darts =  =  = 2026-11-19 22:26
+192 11572 V 7200 = D9 51 AB D5 CA 34 78 76 = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 | HD = Grand Slam Darts =  =  = 2026-11-19 23:38
 1130 11302 H 9600 = B8 0D 7C 41 8E F9 5E E5 = Equestrian ( Horse Racing Jumping Horsemanship) 23.5E  10°E  7°E 100.5°E (C BAND )  0.8°W  30°W = Palapa D ( 113E ) = 4.2.0 = SUI 067 MAIN =  =  = 2026-11-19 22:17
 70 12708 H 4166 = 19 AB 11 D5 CD 20 26 13 = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = Eutelsat 7C ( 7E ) = 4:2:0 =  =  =  = 2026-11-19 19:35
 130 10828 H 7199 = D1 11 9E 80 01 FF 43 43 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 02 =  =  = 2026-11-19 18:07
