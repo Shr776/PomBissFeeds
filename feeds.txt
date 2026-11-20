@@ -1,3 +1,4 @@
+130 11695 H 7199 = AD E4 62 F3 A4 2D 33 04 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-11-20 20:57
 70 11040 V 7500 = A1 B2 C3 16 D4 E5 D8 91 = BOXING all satellites feeds (10E .....) = Eutelsat 7C ( 7E ) = 4:2:0 | 4:2:2 = ITA209 Host Backup = TAF 14 - The Art of Fighting =  = 2026-11-20 21:38
 160 12634 V 14400 = F5 76 42 AD 93 20 F1 A4 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 =  = PRO D2 - Oyonnax vs Brive =  = 2026-11-20 22:16
 100 11305 V 7199 = D5 C1 6A 00 B3 F7 5E 08 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 10B ( 10E ) = 4:2:0 = SINTRA 1 MN =  =  = 2026-11-20 23:48
@@ -7,7 +8,6 @@
 130 11655 H 7119 = 11 DE 42 31 1A 99 31 E4 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = sd | 4:2:0 = Pitch =  =  = 2026-11-20 22:55
 130 11599 H 7199 = C2 26 5A 42 67 76 D1 AE = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 491 COUEO M =  =  = 2026-11-20 22:45
 130 11628 H 7199 = AB CD 12 8A 34 EF FF 22 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = F512 APL TOULOUSE MAIN =  =  = 2026-11-20 22:29
-160 11102 H 9874 = 20 26 FE 44 BA 21 11 EC = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 = D366_RTL_DIGI_Path2 =  =  = 2026-11-20 22:12
 160 12598 V 5000 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = Live Broadcasting Line 1 =  =  = 2026-11-20 21:49
 130 12693 H 30000 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = UFC PATH A B =  =  = 2026-11-20 16:10
 160 12644 H 30000 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = UFC PATH A P =  =  = 2026-11-20 16:34
@@ -16,7 +16,6 @@
 30 11185 H 5000 = CC C7 77 0A CC C0 00 8C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 3B ( 3E ) = 4.2.0 = Service-1 =  =  = 2026-11-20 14:08
 160 12608 H 4938 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-20 20:31
 130 11067 H 7199 = D1 0A D5 B0 EB 63 9E EC = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = EUROLEAGUE ROUND 13 MAIN =  =  = 2026-11-20 21:06
-130 11695 H 7199 = AD E4 62 F3 A4 2D 33 04 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-11-20 20:57
 160 10981 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = F4-1 4.5MH =  =  = 2026-11-20 18:30
 160 12655 V 9875 = 20 11 FA 2B CD 29 56 4C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Union Berlin = German Frauen-Bundesliga - Union Berlin vs Leverkusen =  = 2026-11-20 20:28
 0 11085 V 8020 = 12 D1 11 F4 20 CC 80 6C = BELGIAN FOOTBALL @ 7°E 10°E =  = HD =  =  =  = 2026-11-20 20:15
