@@ -1,8 +1,17 @@
 160 12630 H 7200 = F5 77 42 AE 87 20 F1 98 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 =  = PRO D2 - Montauban vs Agen =  = 2026-11-20 20:41
-160 12638 H 7200 = F5 12 42 49 90 20 F1 A1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = F511 PROD2 AURILLAC MAIN = PRO D2 - =  = 2026-11-20 21:00
-130 11695 H 7199 = AD E4 62 F3 A4 2D 33 04 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-11-20 20:57
+160 12638 H 7200 = F5 12 42 49 90 20 F1 A1 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = F511 PROD2 AURILLAC MAIN = PRO D2 - Aurillac vs Colomiers =  = 2026-11-20 21:00
+160 12656 H 7200 = F6 41 42 79 91 20 F1 A2 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = F576 PROD2 NEVERS MAIN = PRO D2 - Nevers vs Soyaux-Angouleme =  = 2026-11-20 21:04
+420 12713 V 7200 = F5 60 42 97 89 20 F1 9A = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-20 21:59
+160 12598 V 5000 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = Live Broadcasting Line 1 =  =  = 2026-11-20 21:49
+70 11040 V 7500 = A1 B2 C3 16 D4 E5 D8 91 = BOXING all satellites feeds (10E .....) = Eutelsat 7C ( 7E ) = 4:2:0 | 4:2:2 = ITA209 Host Backup = TAF 14 - The Art of Fighting =  = 2026-11-20 21:38
+130 12693 H 30000 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = UFC PATH A B =  =  = 2026-11-20 16:10
+160 12644 H 30000 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = UFC PATH A P =  =  = 2026-11-20 16:34
+1005 3972 H 7119 = F8 A7 FD 9C 39 FE C8 FF = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = NT_Service-2 =  =  = 2026-11-20 16:45
+1005 4163 V 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD =  =  =  = 2026-11-20 16:48
 30 11185 H 5000 = CC C7 77 0A CC C0 00 8C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 3B ( 3E ) = 4.2.0 = Service-1 =  =  = 2026-11-20 14:08
 160 12608 H 4938 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-20 20:31
+130 11067 H 7199 = D1 0A D5 B0 EB 63 9E EC = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = EUROLEAGUE ROUND 13 MAIN =  =  = 2026-11-20 21:06
+130 11695 H 7199 = AD E4 62 F3 A4 2D 33 04 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-11-20 20:57
 160 10981 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = F4-1 4.5MH =  =  = 2026-11-20 18:30
 160 12655 V 9875 = 20 11 FA 2B CD 29 56 4C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Union Berlin = German Frauen-Bundesliga - Union Berlin vs Leverkusen =  = 2026-11-20 20:28
 0 11085 V 8020 = 12 D1 11 F4 20 CC 80 6C = BELGIAN FOOTBALL @ 7°E 10°E =  = HD =  =  =  = 2026-11-20 20:15
@@ -14,13 +23,15 @@
 0 11497 V 9875 = A8 7F DE 05 3B C9 F6 FA = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) =  = HD =  =  =  = 2026-11-20 19:01
 400 11139 V 4400 = 11 C6 22 F9 69 87 79 69 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Express AM7 ( 40E ) = 4.2.0 = SNG 01 - Chain A =  =  = 2026-11-20 18:49
 130 11619 V 8020 = 19 62 08 83 2C 39 64 C9 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi11_GNVE =  =  = 2026-11-20 17:49
-130 12693 H 30000 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = UFC PATH A B =  =  = 2026-11-20 16:10
-160 12644 H 30000 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = UFC PATH A P =  =  = 2026-11-20 16:34
-1005 3972 H 7119 = F8 A7 FD 9C 39 FE C8 FF = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = NT_Service-2 =  =  = 2026-11-20 16:45
-1005 4163 V 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD =  =  =  = 2026-11-20 16:48
 130 12526 H 9874 = 4A 8B BE 93 BF 3D 0B 07 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = IPF =  =  = 2026-11-20 11:54
 765 4027 H 7200 = BA DE DD 75 CE FE ED D7 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-11-20 08:39
 1005 3965 V 7499 = 23 5A 89 06 70 C7 0E 45 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 11 = Indianapolis Colts vs Houston Texans (@ Reliant Stadium) = 2026-11-20 04:58
+160 10985 V 9601 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL 076 = Betclic 1. Liga - match: Miedź Legnica - ŁKS Łódź =  = 2026-11-20 21:59
+160 12648 H 7199 = 13 57 AB 15 CD 24 68 59 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = Eutelsat 16D ( 16E ) = 4:2:0 = EHF-ELM-TAT-VAL =  =  = 2026-11-20 21:26
+160 12511 V 7200 = 13 57 AB 15 CD 24 68 59 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = Eutelsat 16D ( 16E ) = 4:2:0 | HD = CHL-CZE-PLZ-HDC =  =  = 2026-11-20 21:29
+70 11062 V 14401 = CC AC AB 41 AC CA 26 9C = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 7C ( 7E ) =  =  =  =  = 2026-11-20 00:01
+420 12661 V 4800 = FE ED 10 FB 15 19 97 C5 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Türksat 3A/4A/5B/6A ( 42E ) = HD = FLY FEED 1 =  =  = 2026-11-20 20:02
+130 11060 V 4936 = CF C0 F0 7F E1 1F F6 F6 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = HotBird 13F/13G ( 13E ) = 4:2:0 = ANA-1 =  =  = 2026-11-20 21:14
 100 11247 H 7199 = 20 11 FC 2D BA 87 12 53 = SPORT Shows  Press Conference (News Awards  Magazine Shows eg Sky SportTransworldOmnisport) feeds = Eutelsat 10B ( 10E ) = 4:2:0 = D-452 =  =  = 2026-11-20 20:33
 160 10965 V 4800 = AB BA 26 8B DC AE 11 9B = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4.2.0 = POL-52 CM-5000 = Message from Poland =  = 2026-11-20 20:28
 160 10976 V 4800 = AB BA 26 8B DC AE 11 9B = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Eutelsat 16D ( 16E ) = 4.2.2 = POL-110 = Holy Mass from Poland =  = 2026-11-20 20:17
@@ -33,8 +44,6 @@
 260 11149 V 4400 = 22 A1 65 28 11 88 82 1B = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = SNG 07 - Chain A =  =  = 2026-11-20 18:35
 260 11601 H 3500 = B3 14 DF A6 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = ISH-ENC =  =  = 2026-11-20 18:48
 390 11466 H 5000 = 20 34 20 74 34 20 34 88 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Hellas Sat 3/4 ( 39E ) = 4:2:0 = KUW-004m =  =  = 2026-11-20 20:02
-70 11062 V 14401 = CC AC AB 41 AC CA 26 9C = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 7C ( 7E ) =  =  =  =  = 2026-11-20 00:01
-420 12661 V 4800 = FE ED 10 FB 15 19 97 C5 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Türksat 3A/4A/5B/6A ( 42E ) = HD = FLY FEED 1 =  =  = 2026-11-20 20:02
 160 11123 H 4936 = 52 B5 7C 83 66 D7 40 7D = MTVA Hungary Feeds = Eutelsat 16D ( 16E ) = 4:2:0 = MTVA SNG HUNGARY =  =  = 2026-11-20 19:46
 130 10819 H 7200 = FF BD D1 8D 12 0E 01 21 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4.2.0 | 4:2:0 = GCUK ENC 01 =  =  = 2026-11-20 08:37
 130 12592 V 7200 = FF DD D1 AD 12 0E 01 21 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Enc 10 =  =  = 2026-11-20 10:40
