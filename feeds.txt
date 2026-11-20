@@ -1,16 +1,22 @@
-1005 4007 H 7200 = F8 A7 FD 9C 39 FE C8 FF = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = NT_Service-1 =  =  = 2026-11-20 14:46
-130 11637 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ONE Friday Night =  =  = 2026-11-20 15:50
+130 12693 H 30000 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = UFC PATH A B =  =  = 2026-11-20 16:10
+160 12644 H 30000 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 = UFC PATH A P =  =  = 2026-11-20 16:34
+1005 3972 H 7119 = F8 A7 FD 9C 39 FE C8 FF = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = NT_Service-2 =  =  = 2026-11-20 16:45
+1005 4163 V 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 | SD =  =  =  = 2026-11-20 16:48
+130 11635 V 9875 = 41 15 C6 1C CD 8B 82 DA = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = NOR-035 MAIN = Kaufland FIS Ski Jumping World Cup - Lillehammer (NOR) =  = 2026-11-20 16:28
 100 3895 V  = EB 54 4F 8E D0 B1 DA 5B = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-20 15:08
 30 11185 H 5000 = CC C7 77 0A CC C0 00 8C = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 3B ( 3E ) = 4.2.0 = Service-1 =  =  = 2026-11-20 14:08
 130 12526 H 9874 = 4A 8B BE 93 BF 3D 0B 07 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = IPF =  =  = 2026-11-20 11:54
 765 4027 H 7200 = BA DE DD 75 CE FE ED D7 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Apstar 7 ( 76.5E ) = 4.2.0 =  =  =  = 2026-11-20 08:39
 1005 3965 V 7499 = 23 5A 89 06 70 C7 0E 45 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 11 = Indianapolis Colts vs Houston Texans (@ Reliant Stadium) = 2026-11-20 04:58
-260 11154 V 4439 = 66 A1 65 6C 59 77 82 52 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = JMP-MAIN =  =  = 2026-11-20 14:52
-260 11601 H 3500 = B1 14 DF A4 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = IQN media service =  =  = 2026-11-20 15:57
 130 10819 H 7200 = FF BD D1 8D 12 0E 01 21 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4.2.0 | 4:2:0 = GCUK ENC 01 =  =  = 2026-11-20 08:37
 130 12592 V 7200 = FF DD D1 AD 12 0E 01 21 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Enc 10 =  =  = 2026-11-20 10:40
 1005 3933 H 7200 = FF DD D1 AD 12 0E 01 21 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-20 11:20
 130 10828 H 7199 = FF 43 D1 13 12 0E 01 21 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK Enc 02 =  =  = 2026-11-20 15:04
 130 10829 V 7200 = FF 43 D1 13 12 0E 01 21 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4.2.0 = POL-100 BACKUP =  =  = 2026-11-20 15:11
+130 11634 V 9874 = 41 15 C6 1C CD 8B 82 DA = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = NOR-035 MAIN =  =  = 2026-11-20 16:22
+130 11634 V 9874 = 41 15 C6 1C CD 8B 82 DA = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = NOR-035 MAIN =  =  = 2026-11-20 16:32
+260 11154 V 4439 = 66 A1 65 6C 59 77 82 52 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = JMP-MAIN =  =  = 2026-11-20 14:52
+260 11601 H 3500 = B1 14 DF A4 BC CD FA 83 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = IQN media service =  =  = 2026-11-20 15:57
+260 11596 H 3500 = B1 14 DF A5 BC CD FA 84 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Badr 4/5/6/7 ( 26E ) = 4:2:0 = SNG1_IQB =  =  = 2026-11-20 16:52
 130 12583 V 7200 = 5D 9A 2F 26 7B 41 E3 9F = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 BISS-1 = BWF WORLD TOUR - LI-NING Hong Kong Open 2026 =  = 2026-11-20 05:55
 70 11062 V 14401 = CC AC AB 41 AC CA 26 9C = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 7C ( 7E ) =  =  =  =  = 2026-11-20 00:01
