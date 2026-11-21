@@ -1,15 +1,24 @@
-130 11070 V 7119 = 17 27 CD 0B CE 25 BB AE = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-21 15:34
+-80 12721 V 7200 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 8 West B ( 8W ) =  =  =  =  = 2026-11-21 00:22
+130 11595 H 14239 = 99 BA FD 50 AC 21 11 DE = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 | SD = BT_SES_4_SDI = Nations Championship - Scotland vs Japan / England vs New Zeland =  = 2026-11-21 16:54
+130 11087 V 9875 = 46 33 99 12 26 F4 16 30 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:2 = Fi03_ATORF = Audi FIS Ski World Cup - Women's Slalom, Gurgl (AUT) =  = 2026-11-21 12:11
+130 11635 V 9875 = B7 83 47 81 AE 32 15 F5 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = NOR-035 MAIN = FIS Ski Jumping World Cup - Lillehammer (NOR) =  = 2026-11-21 16:39
+0 11124 V 9873 = A8 7F DE 05 3B C9 F6 FA = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) =  = HD =  =  =  = 2026-11-21 16:52
 160 12655 V 9875 = 21 11 AD DF CB 92 65 C2 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL Eintr.Frankfurt = German Frauen-Bundesliga - =  = 2026-11-21 14:21
+1005 4159 V 70000 = NO KEY = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = 7GVs9 BULI 13 = M'gladbach  VS Dortmund =  = 2026-11-21 16:06
+160 12643 V 9875 = 21 11 AD DF CB 92 65 C2 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL FC Koln = German Frauen-Bundesliga - Koln vs Werder Bremen =  = 2026-11-21 16:10
+70 11066 V 9600 = BC 12 20 EE 26 21 11 58 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:2 = ITA727ENC 1 = Italy Serie B - Ascoli vs LR Vicenza =  = 2026-11-21 16:06
+130 11070 V 7119 = 17 27 CD 0B CE 25 BB AE = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-21 15:34
 130 11694 H 7200 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-21 13:45
 1005 3840 H 30000 = E9 AB 82 16 10 82 05 97 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 1 =  =  = 2026-11-21 07:04
 1005 3840 H 30000 = EE 27 26 3B 59 BB 56 6A = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 2 = Deportivo Alavés vs Deportivo La Coruña =  = 2026-11-21 13:13
-130 11087 V 9875 = 46 33 99 12 26 F4 16 30 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:2 = Fi03_ATORF = Audi FIS Ski World Cup - Women's Slalom, Gurgl (AUT) =  = 2026-11-21 12:11
 130 12527 H 9875 = 49 B0 04 FD 06 99 6B 0A = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = IPF = Moto GP =  = 2026-11-21 11:27
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-11-21 04:28
 130 11068 H 7199 = BA C2 34 B0 DA CE E1 89 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-21 02:43
 100 10721 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-21 02:02
 1005 3952 V 7200 = AB 25 D7 A7 8C 43 65 34 = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Live Boxing from Wales =  =  = 2026-11-21 01:13
--80 12721 V 7200 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 8 West B ( 8W ) =  =  =  =  = 2026-11-21 00:22
+130 11078 V 4936 = 52 B5 7C 83 66 D7 40 7D = MTVA Hungary Feeds = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-21 17:00
+160 10985 V 9601 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = POL-25 ENC1 = Betclic 1. Liga - match: Pogoń Grodzisk Mazowiecki - Arka Gdynia =  = 2026-11-21 16:59
+216 11594 H 5000 = FE ED 21 0C 11 20 26 57 = Table Tennis 7°E 100.5°E = Eutelsat 21C ( 21.6E ) = 4:2:0 =  =  =  = 2026-11-21 16:01
 216 11481 H 4937 = D2 34 96 9C 93 14 15 BC = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Eutelsat 21C ( 21.6E ) = 4.2.0 = JMP-MAIN =  =  = 2026-11-21 14:53
 130 10819 H 7200 = E0 1F FA F9 ED 11 21 1F = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4.2.0 | 4:2:0 = GCUK ENC 01 =  =  = 2026-11-21 10:07
 1005 3933 H 7200 = FF DD D1 AD 12 0E 01 21 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-21 10:11
