@@ -4,4 +4,8 @@
 100 10721 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-21 02:02
 1005 3952 V 7200 = AB 25 D7 A7 8C 43 65 34 = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Live Boxing from Wales =  =  = 2026-11-21 01:13
 -80 12721 V 7200 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 8 West B ( 8W ) =  =  =  =  = 2026-11-21 00:22
+130 10819 H 7200 = E0 1F FA F9 ED 11 21 1F = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4.2.0 | 4:2:0 = GCUK ENC 01 =  =  = 2026-11-21 10:07
+1005 3933 H 7200 = FF DD D1 AD 12 0E 01 21 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-21 10:11
+130 12592 V 7200 = FF DD D1 AD 12 0E 01 21 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4.2.0 = GCUK Enc 10 =  =  = 2026-11-21 10:12
+1005 12358 V 14397 = NO KEY = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = AsiaSat 5 ( 100.5E ) = 4:2:0 = Uname =  =  = 2026-11-21 10:05
 130 12583 V 7200 = E7 C3 6A 14 9D 18 F5 AA = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 BISS-1 = BWF WORLD TOUR - LI-NING Hong Kong Open 2026 =  = 2026-11-21 05:04
