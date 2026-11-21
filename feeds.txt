@@ -1,3 +1,13 @@
+100 10721 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-21 02:02
+130 12552 H 7200 = 96 FB A9 3A F2 6E EA 4A = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = 4:2:0 = KALAMATA V AEK = Greek Super League - Kalamata vs AEK =  = 2026-11-21 20:36
+130 11694 H 7200 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-21 13:45
+130 11067 H 7200 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = UFC PATH C P =  =  = 2026-11-21 17:24
+0 11104 H 9876 = 20 26 FE 44 BA 21 11 EC = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E =  = 4:2:0 = D366_RTL_DIGI_Path1 =  =  = 2026-11-21 20:35
+130 11070 V 7119 = 17 27 CD 0B CE 25 BB AE = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-21 15:34
+100 11291 H 7200 = CD 44 AB BC 52 99 4D 38 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 10B ( 10E ) = 4.2.0 =  =  =  = 2026-11-21 17:49
+1005 3984 V 7119 = 31 AA 29 04 00 EE 24 12 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = 4:2:0 = E5 BB 86 3C 6D 3B 55 8D =  =  = 2026-11-21 17:51
+130 11609 V 7120 = 31 AA 29 04 00 EE 24 12 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = wolves v charlton =  =  = 2026-11-21 18:10
+20 12633 H 7121 = AB BC BA 21 AC 12 21 DF = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-21 20:02
 160 11181 H 7199 = AB CD 12 8A 34 EF FF 22 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-21 19:39
 1005 3840 H 30000 = E9 AB 82 16 10 82 05 97 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 1 =  =  = 2026-11-21 07:04
 1005 3840 H 30000 = EE 27 26 3B 59 BB 56 6A = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 2 = Deportivo Alavés vs Deportivo La Coruña =  = 2026-11-21 13:13
@@ -35,19 +45,14 @@
 100 11255 H 7500 = A1 B2 C3 16 D4 E5 D8 91 = BOXING all satellites feeds (10E .....) = Eutelsat 10B ( 10E ) = 4.2.0 | 4.2.2 = ITA-349 Integr. =  =  = 2026-11-21 18:14
 130 10839 H 7200 = B4 A7 D9 34 F2 E6 31 09 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 MAIN = Greece Stoiximan GBL - Doxa Lefkadas vs Peristeri =  = 2026-11-21 18:02
 130 10839 H 7200 = B4 A7 D9 34 F2 E6 31 09 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 MAIN = Greece Stoiximan GBL - Paok vs Aris =  = 2026-11-21 18:11
-130 11070 V 7119 = 17 27 CD 0B CE 25 BB AE = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-21 15:34
-100 11291 H 7200 = CD 44 AB BC 52 99 4D 38 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 10B ( 10E ) = 4.2.0 =  =  =  = 2026-11-21 17:49
-1005 3984 V 7119 = 31 AA 29 04 00 EE 24 12 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = AsiaSat 5 ( 100.5E ) = 4:2:0 = E5 BB 86 3C 6D 3B 55 8D =  =  = 2026-11-21 17:51
-130 11609 V 7120 = 31 AA 29 04 00 EE 24 12 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = wolves v charlton =  =  = 2026-11-21 18:10
-20 12633 H 7121 = AB BC BA 21 AC 12 21 DF = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-21 20:02
 30 4010 V 7200 = 45 18 BE 1B 2A FA FE 22 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-21 18:04
 100 10718 V 7200 = A9 4D 1E 14 B5 3C F2 E3 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Eutelsat 10B ( 10E ) = 4.2.0 = SINTRA 1 MN =  =  = 2026-11-21 17:53
 260 11484 V 5000 = AA A1 23 6E BB B2 22 8F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Badr 4/5/6/7 ( 26E ) = 4:2:0 =  =  =  = 2026-11-21 17:41
-130 11694 H 7200 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-21 13:45
-130 11067 H 7200 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = UFC PATH C P =  =  = 2026-11-21 17:24
 130 12527 H 9875 = 49 B0 04 FD 06 99 6B 0A = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = IPF = Moto GP =  = 2026-11-21 11:27
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-11-21 04:28
-100 10721 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-21 02:02
+1005 12358 V 14397 = NO KEY = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = AsiaSat 5 ( 100.5E ) = 4:2:0 = Uname =  =  = 2026-11-21 10:05
+0 12691 V 29999 = A5 14 59 12 BB CB 14 9A = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All =  = HD =  =  =  = 2026-11-21 20:27
+216 11580 H 5000 = FE ED 21 0C 11 20 26 57 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21C ( 21.6E ) = 4:2:0 =  =  =  = 2026-11-21 20:08
 160 10985 V 9601 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = POL-25 ENC1 = Betclic 1. Liga - match: Pogoń Grodzisk Mazowiecki - Arka Gdynia =  = 2026-11-21 16:59
 160 10972 V 9600 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.0 = TVP POL-32  ENC 1 =  =  = 2026-11-21 18:57
 400 11155 V 4400 = 11 C6 22 F9 69 87 79 69 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Express AM7 ( 40E ) = 4.2.0 | hd = SNG 07 - Chain A =  =  = 2026-11-21 18:30
@@ -61,4 +66,3 @@
 1005 4007 H 7200 = E0 1F F4 F3 3D 11 21 6F = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 | 4.2.0 = GCUK Enc 02 =  =  = 2026-11-21 13:53
 160 4007 H 7200 = E0 1F F4 F3 3D 11 21 6F = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = Eutelsat 16D ( 16E ) = 4:2:0 = POL-100 MAIN =  =  = 2026-11-21 14:09
 130 12583 V 7200 = E7 C3 6A 14 9D 18 F5 AA = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 BISS-1 = BWF WORLD TOUR - LI-NING Hong Kong Open 2026 =  = 2026-11-21 12:25
-1005 12358 V 14397 = NO KEY = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = AsiaSat 5 ( 100.5E ) = 4:2:0 = Uname =  =  = 2026-11-21 10:05
