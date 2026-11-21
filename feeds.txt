@@ -1,4 +1,7 @@
+130 11684 H 7200 = 72 4C 9D 5B B4 35 06 EF = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-21 18:21
+130 10847 H 7200 = 72 4C 9D 5B B4 35 07 F0 = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = ENC 5 =  =  = 2026-11-21 21:08
 100 10721 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-21 02:02
+100 10721 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-21 20:51
 130 12552 H 7200 = 96 FB A9 3A F2 6E EA 4A = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = 4:2:0 = KALAMATA V AEK = Greek Super League - Kalamata vs AEK =  = 2026-11-21 20:36
 130 11694 H 7200 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-21 13:45
 130 11067 H 7200 = 99 CA 34 97 DB 67 24 66 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = UFC PATH C P =  =  = 2026-11-21 17:24
@@ -18,7 +21,7 @@
 192 11589 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4:2:2 = SNG =  =  = 2026-11-21 17:03
 192 11588 V 7200 = 03 41 30 74 09 02 01 0C = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 1N/1P ( 19.2E ) = 4:2:2 = SNG = German Regionalliga Nordost - Aue vs Babelsberg =  = 2026-11-21 17:38
 130 11622 V 9875 = 72 4F 7C 3D 6C A8 06 1A = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = HotBird 13F/13G ( 13E ) = 4.2.2 = D-408 ENC 1 =  =  = 2026-11-21 18:14
-160 10989 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = F4-2 4.5MH =  =  = 2026-11-21 19:10
+160 10979 H 3600 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = F4-2 4.5MH =  =  = 2026-11-21 19:10
 20 12624 H 7201 = 21 11 CA FC BE 68 77 9D = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Astra 2E/2F/2G ( 28.2E ) = HD =  =  =  = 2026-11-21 19:11
 130 11087 V 9875 = 46 33 99 12 26 F4 16 30 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:2 = Fi03_ATORF = Audi FIS Ski World Cup - Women's Slalom, Gurgl (AUT) =  = 2026-11-21 12:11
 130 11635 V 9875 = B7 83 47 81 AE 32 15 F5 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = NOR-035 MAIN = FIS Ski Jumping World Cup - Lillehammer (NOR) =  = 2026-11-21 16:39
@@ -40,7 +43,6 @@
 192 11587 V 7200 = 03 41 30 74 09 02 01 0C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Astra 1N/1P ( 19.2E ) =  =  =  =  = 2026-11-21 18:01
 192 11649 V 7200 = 03 41 30 74 09 02 01 0C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Astra 1N/1P ( 19.2E ) = HD = MMG-D185 HD Encoder 2 =  =  = 2026-11-21 18:02
 130 11650 H 14240 = CC FF A8 73 D8 21 11 0A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 6 =  =  = 2026-11-21 18:39
-130 11684 H 7200 = 72 4C 9D 5B B4 35 06 EF = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4.2.0 =  =  =  = 2026-11-21 18:21
 1005 3952 V 7200 = AB 25 D7 A7 8C 43 65 34 = BOXING all satellites feeds (10E .....) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Live Boxing from Wales =  =  = 2026-11-21 01:13
 100 11255 H 7500 = A1 B2 C3 16 D4 E5 D8 91 = BOXING all satellites feeds (10E .....) = Eutelsat 10B ( 10E ) = 4.2.0 | 4.2.2 = ITA-349 Integr. =  =  = 2026-11-21 18:14
 130 10839 H 7200 = B4 A7 D9 34 F2 E6 31 09 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 MAIN = Greece Stoiximan GBL - Doxa Lefkadas vs Peristeri =  = 2026-11-21 18:02
