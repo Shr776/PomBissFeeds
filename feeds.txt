@@ -15,6 +15,7 @@
 -80 12721 V 7200 = NO KEY = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 8 West B ( 8W ) =  =  =  =  = 2026-11-21 00:22
 130 11595 H 14239 = 99 BA FD 50 AC 21 11 DE = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 | SD = BT_SES_4_SDI = Nations Championship - Scotland vs Japan / England vs New Zeland =  = 2026-11-21 16:54
 70 11558 V 7198 = D5 8E A3 06 8D DC 53 BC = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:0 =  =  =  = 2026-11-21 17:53
+130 11650 H 14240 = CC FF A8 73 D8 21 11 0A = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 6 =  =  = 2026-11-21 18:39
 130 11632 H 14240 = D5 DC 62 13 6B 22 22 AF = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 | SD =  =  =  = 2026-11-21 18:48
 70 11513 H 4800 = 16 58 FE 6C ED 20 26 33 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 7C ( 7E ) = 4:2:2 = Ireland TF1 Rugby =  =  = 2026-11-21 19:01
 100 11276 V 7119 = CC FF A8 73 D8 21 11 0A = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 = Pitch NC- Ire v Safrica =  =  = 2026-11-21 19:03
@@ -54,10 +55,6 @@
 70 11066 V 9600 = BC 12 20 EE 26 21 11 58 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:2 = ITA727ENC 1 = Italy Serie B - Ascoli vs LR Vicenza =  = 2026-11-21 16:06
 100 11083 V 10000 = BC 12 20 EE 26 21 11 58 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = 4:2:2 = ITA727ENC2 = Italy Serie B - Ascoli vs LR Vicenza =  = 2026-11-21 18:45
 -80 12692 V 7200 = BC 12 20 EE 26 21 11 58 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = 8.0W = 4:2:2 = ITA 560 ASCOLI BACKUP = Italy Serie B - Ascoli vs LR Vicenza =  = 2026-11-21 18:54
-130 11068 H 7199 = BA C2 34 B0 DA CE E1 89 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-21 02:43
-192 11587 V 7200 = 03 41 30 74 09 02 01 0C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Astra 1N/1P ( 19.2E ) =  =  =  =  = 2026-11-21 18:01
-192 11649 V 7200 = 03 41 30 74 09 02 01 0C = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Astra 1N/1P ( 19.2E ) = HD = MMG-D185 HD Encoder 2 =  =  = 2026-11-21 18:02
-130 11650 H 14240 = CC FF A8 73 D8 21 11 0A = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 6 =  =  = 2026-11-21 18:39
 130 10839 H 7200 = B4 A7 D9 34 F2 E6 31 09 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 MAIN = Greece Stoiximan GBL - Doxa Lefkadas vs Peristeri =  = 2026-11-21 18:02
 130 10839 H 7200 = B4 A7 D9 34 F2 E6 31 09 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 MAIN = Greece Stoiximan GBL - Paok vs Aris =  = 2026-11-21 18:11
 30 4010 V 7200 = 45 18 BE 1B 2A FA FE 22 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-21 18:04
@@ -84,3 +81,4 @@
 130 11060 V 4936 = 52 B5 7C 83 66 D7 40 7D = MTVA Hungary Feeds = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-21 17:06
 216 11594 H 5000 = FE ED 21 0C 11 20 26 57 = Table Tennis 7°E 100.5°E = Eutelsat 21C ( 21.6E ) = 4:2:0 =  =  =  = 2026-11-21 16:01
 130 12583 V 7200 = E7 C3 6A 14 9D 18 F5 AA = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = BWF WF-A C1 BISS-1 = BWF WORLD TOUR - LI-NING Hong Kong Open 2026 =  = 2026-11-21 12:25
+130 11068 H 7199 = BA C2 34 B0 DA CE E1 89 = RowingSailing = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-21 02:43
