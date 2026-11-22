@@ -1,3 +1,6 @@
+-475 4042 H 10000 = 11 CD 79 57 53 EC A5 E4 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 1920x1080i | 4:2:2 | FHD =  =  =  = 2026-11-22 00:39
+130 10838 H 7200 = 11 CD 79 57 53 EC A5 E4 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-22 00:51
+100 10721 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-22 21:58
 192 12266 H 31428 = 12 99 DE 89 AF 2F 76 54 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = Astra 1N/1P ( 19.2E ) = 4:2:0 =  =  =  = 2026-11-22 17:29
 1005 3992 V 7500 = CC CF E5 80 24 63 E1 68 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = NFL INT PAL SVC 6 =  =  = 2026-11-22 19:16
 1005 3984 V 7500 = F8 42 9D D7 CE FC 26 F0 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-11-22 19:17
@@ -14,9 +17,6 @@
 160 12622 H 4936 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Europe AdmiralBet ABA League - Round 9 = Crvena Zvezda Meridianbet Cibona Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-22 15:48
 420 11687 V 7500 = A6 88 B5 E3 AD E0 CB 58 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 112 MAIN =  =  = 2026-11-22 18:33
 420 11067 V 7500 = 3B D9 18 2C C2 C7 54 DD = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-062 A =  =  = 2026-11-22 22:49
--475 4042 H 10000 = 11 CD 79 57 53 EC A5 E4 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 1920x1080i | 4:2:2 | FHD =  =  =  = 2026-11-22 00:39
-130 10838 H 7200 = 11 CD 79 57 53 EC A5 E4 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-22 00:51
-100 10721 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-22 21:58
 160 10975 H 3599 = 20 25 AE F3 EA 52 02 3E = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Germany2. Bundesliga - Round 12 = Cottbus Hertha Berlin Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-22 15:40
 160 12655 V 9875 = 22 11 BF F2 EC 18 35 39 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL = German Frauen-Bundesliga - =  = 2026-11-22 16:33
 160 12643 V 9875 = 22 11 BF F2 EC 18 35 39 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL RB Leipzig = German Frauen-Bundesliga - Leipzig vs Wolfsburg =  = 2026-11-22 18:16
