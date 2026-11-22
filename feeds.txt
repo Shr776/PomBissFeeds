@@ -1,3 +1,14 @@
+260 11484 V 5000 = AA A1 23 6E BB B2 22 8F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Badr 4/5/6/7 ( 26E ) = 4:2:0 =  =  =  = 2026-11-22 15:42
+0 12616 H 4937 = 20 10 20 50 25 20 26 6B = Handbal Biss Feed 10°E 16°E 3E  100.5°E =  =  =  =  =  = 2026-11-22 22:54
+130 10849 H 7200 = AB BA 20 85 26 11 22 59 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main = Liga Portugal 2 - Vizela vs Feirense =  = 2026-11-22 16:48
+130 11071 V 7199 = 55 4A A8 47 5C 5E B5 6F = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = backup  E-285 =  =  = 2026-11-22 22:53
+420 11687 V 7500 = C0 15 61 36 EE E1 E8 B7 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-22 13:13
+130 11590 H 7200 = AE 86 59 8D 80 77 3C 33 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE =  =  = 2026-11-22 13:59
+130 10840 H 7200 = D3 E8 C5 80 A1 F7 62 FA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = E399 MAIN =  =  = 2026-11-22 14:04
+130 11590 H 7200 = AE 86 59 8D 80 77 3C 33 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE =  =  = 2026-11-22 15:04
+160 12622 H 4936 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Europe AdmiralBet ABA League - Round 9 = Crvena Zvezda Meridianbet Cibona Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-22 15:48
+420 11687 V 7500 = A6 88 B5 E3 AD E0 CB 58 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 112 MAIN =  =  = 2026-11-22 18:33
+420 11067 V 7500 = 3B D9 18 2C C2 C7 54 DD = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR-062 A =  =  = 2026-11-22 22:49
 -475 4042 H 10000 = 11 CD 79 57 53 EC A5 E4 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 1920x1080i | 4:2:2 | FHD =  =  =  = 2026-11-22 00:39
 130 10838 H 7200 = 11 CD 79 57 53 EC A5 E4 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-22 00:51
 100 10721 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-22 21:58
@@ -26,12 +37,6 @@
 1005 3966 V 7500 = 58 9D 2A 1F C8 D9 9E 3F = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-11-22 19:29
 420 11624 V 7500 = E5 72 41 98 46 A3 15 FE = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = Tur 144 M =  =  = 2026-11-22 13:16
 1105 11051 V 7500 = 97 AC BD 00 1D 2F AF FB = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = ChinaSat 10 ( 110.5E ) = 4.2.2 = TUR-036 MAIN =  =  = 2026-11-22 19:09
-420 11687 V 7500 = C0 15 61 36 EE E1 E8 B7 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-22 13:13
-130 11590 H 7200 = AE 86 59 8D 80 77 3C 33 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE =  =  = 2026-11-22 13:59
-130 10840 H 7200 = D3 E8 C5 80 A1 F7 62 FA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = E399 MAIN =  =  = 2026-11-22 14:04
-130 11590 H 7200 = AE 86 59 8D 80 77 3C 33 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE =  =  = 2026-11-22 15:04
-160 12622 H 4936 = 20 10 20 50 25 20 26 6B = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Europe AdmiralBet ABA League - Round 9 = Crvena Zvezda Meridianbet Cibona Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-22 15:48
-420 11687 V 7500 = A6 88 B5 E3 AD E0 CB 58 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 112 MAIN =  =  = 2026-11-22 18:33
 130 11694 H 7200 = 72 4C 9D 5B B4 35 13 FC = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = ENC 5 =  =  = 2026-11-22 18:19
 30 4058 V 7200 = BC FA 22 D8 73 56 34 FD = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-22 07:48
 30 4041 V 7200 = A4 5D 12 13 34 56 78 02 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = SMAT - 2026 Mumbai DF 1 MAI =  =  = 2026-11-22 08:01
@@ -41,17 +46,16 @@
 0 11497 V 9875 = A8 7F DE 05 3B C9 F6 FA = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) =  = HD =  =  =  = 2026-11-22 14:00
 130 11635 V 9875 = D4 CF 29 CC E3 CA D7 84 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = NOR-035 MAIN = FIS Ski Jumping World Cup - Lillehammer (NOR) =  = 2026-11-22 14:05
 130 11635 V 9875 = D4 CF 29 CC E3 CA D7 84 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = NOR-035 MAIN = FIS Ski Jumping World Cup - Lillehammer (NOR) =  = 2026-11-22 16:51
-130 10849 H 7200 = AB BA 20 85 26 11 22 59 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main = Liga Portugal 2 - Vizela vs Feirense =  = 2026-11-22 16:48
 420 12703 V 10001 = 44 AA CA B8 33 C6 AC A5 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-22 14:09
 130 11213 V 7120 = 33 32 FE 63 26 B2 29 01 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = ptch  burnley v blackburn =  =  = 2026-11-22 14:58
 30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = Eutelsat 3B ( 3E ) = hd | 4:2:0 = beIN SPORTS =  =  = 2026-11-22 15:56
-260 11484 V 5000 = AA A1 23 6E BB B2 22 8F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Badr 4/5/6/7 ( 26E ) = 4:2:0 =  =  =  = 2026-11-22 15:42
 20 12640 V 5000 = B6 23 80 59 3B E3 CE EC = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Astra 2E/2F/2G ( 28.2E ) = HD | 4:2:0 = VRT BEL095 MAIN =  =  = 2026-11-22 13:54
 130 12527 H 9875 = 9B 0B 95 3B 0D F4 DF E0 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = IPF = Moto GP =  = 2026-11-22 11:50
-192 11572 V 7200 = D9 51 AB D5 CA 34 78 76 = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 | HD = Grand Slam Darts =  =  = 2026-11-22 22:01
 1220 3911 H 15000 = NO KEY = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = AsiaSat 9 ( 122E ) = 4:2:2 = IAC Path 2 =  =  = 2026-11-22 03:00
 1005 4005 V 7500 = 2A 6B 12 A7 F8 E1 1E F7 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-22 12:17
 70 11093 V 7200 = 15 58 35 A2 71 42 63 16 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 7C ( 7E ) = 4.2.2 = TzG = Dancing with the Stars.Poland. =  = 2026-11-22 21:50
+19 11674 H 1910 = 10 20 30 60 10 20 30 60 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = BulgariaSat 1 ( 1.9E ) = 4.2.0 = Gazzoul =  =  = 2026-11-22 22:12
+192 11572 V 7200 = D9 51 AB D5 CA 34 78 76 = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 | HD = Grand Slam Darts =  =  = 2026-11-22 22:01
 160 10985 V 9601 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL 48 ENC1 = Betclic 1. Liga - match: Lechia Gdańsk - Odra Opole =  = 2026-11-22 15:45
 160 10985 V 9601 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-011 = Betclic 2. Liga - match: Zawisza Bydgoszcz - Podhale Nowy Targ =  = 2026-11-22 21:23
 160 10973 V 9601 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = pol-053_enc2 = PKO BP Ekstraklasa - match: Wisła Płock - Legia Warsaw =  = 2026-11-22 21:33
