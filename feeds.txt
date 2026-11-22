@@ -1,7 +1,14 @@
+-8 10966 V 7500 = 12 D3 11 F6 22 CC 21 0F = BELGIAN FOOTBALL @ 7°E 10°E = Thor 5/6/7 ( 0.8W ) =  = HOL310 DAZN MAIN =  =  = 2026-11-22 20:53
+-8 10975 V 8020 = 12 D3 11 F6 22 CC 21 0F = BELGIAN FOOTBALL @ 7°E 10°E = Thor 5/6/7 ( 0.8W ) =  = unname =  =  = 2026-11-22 20:55
 1005 3840 H 30000 = 5A B1 CB D6 B4 88 4A 86 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 1 = Racing Santander vs Real Sociedad =  = 2026-11-22 07:40
 1005 3840 H 30001 = 0C 41 38 85 9E F4 4B DD = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 3 = Spain - LALIGA EA SPORTS Matchday 13 = FC Barcelona vs Villarreal CF = 2026-11-22 16:08
 1005 3840 H 30001 = 55 97 22 0E D2 9F BF 30 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 4 = Spain - LALIGA EA SPORTS Matchday 13 = Getafe CF vs Atlético de Madrid = 2026-11-22 16:09
 1005 3840 H 30000 = 81 7F D9 D9 FD 6D 15 7F = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 2 = Osasuna vs Malaga =  = 2026-11-22 19:54
+1005 3840 H 30001 = 1B BD 3D 15 2C 21 EB 38 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:2 | FHD = OVERON 2 = Spain - LALIGA EA SPORTS Matchday 13 = CA Osasuna vs Málaga CF = 2026-11-22 20:15
+130 10838 V 7200 = 33 CF 75 77 9E F1 96 25 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = hd =  =  =  = 2026-11-22 20:10
+130 11062 V 7199 = 74 63 80 57 11 EA 52 4D = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = POR 21 =  =  = 2026-11-22 18:09
+160 11189 H 7198 = AA BB 20 85 26 11 22 59 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Portugal Campeonato Nacional - Round 1 = Castelo Maia GC Benfica Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-22 19:23
+130 11599 H 7200 = 39 EC E8 0D AF 3C 5B 46 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 491 = Italy Superlega - Gas Sales Bluenergy Piacenza vs Sir Susa Scai Perugia =  = 2026-11-22 20:09
 70 11040 V 7500 = A1 B2 C3 16 D4 E5 D7 90 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = ita 493 A =  =  = 2026-11-22 17:29
 -80 12692 V 7199 = BC 12 20 EE 26 21 11 58 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 8 West B ( 8W ) = HD =  =  =  = 2026-11-22 19:35
 192 12266 H 31428 = 12 99 DE 89 AF 2F 76 54 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = Astra 1N/1P ( 19.2E ) = 4:2:0 =  =  =  = 2026-11-22 17:29
@@ -9,11 +16,8 @@
 1005 3984 V 7500 = F8 42 9D D7 CE FC 26 F0 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-11-22 19:17
 1005 3975 V 7500 = AF 12 EF B0 14 0D 31 52 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 2 =  =  = 2026-11-22 19:19
 1005 3966 V 7500 = 58 9D 2A 1F C8 D9 9E 3F = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-11-22 19:29
-130 11062 V 7199 = 74 63 80 57 11 EA 52 4D = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = POR 21 =  =  = 2026-11-22 18:09
-160 11189 H 7198 = AA BB 20 85 26 11 22 59 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Portugal Campeonato Nacional - Round 1 = Castelo Maia GC Benfica Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-22 19:23
 420 11624 V 7500 = E5 72 41 98 46 A3 15 FE = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = Tur 144 M =  =  = 2026-11-22 13:16
 1105 11051 V 7500 = 97 AC BD 00 1D 2F AF FB = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = ChinaSat 10 ( 110.5E ) = 4.2.2 = TUR-036 MAIN =  =  = 2026-11-22 19:09
-130 10829 V 7200 = 73 57 BD 87 C2 2E 7D 6D = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-11-22 18:40
 420 11687 V 7500 = C0 15 61 36 EE E1 E8 B7 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-22 13:13
 130 11590 H 7200 = AE 86 59 8D 80 77 3C 33 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE =  =  = 2026-11-22 13:59
 130 10840 H 7200 = D3 E8 C5 80 A1 F7 62 FA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = E399 MAIN =  =  = 2026-11-22 14:04
@@ -41,11 +45,12 @@
 130 12527 H 9875 = 9B 0B 95 3B 0D F4 DF E0 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = IPF = Moto GP =  = 2026-11-22 11:50
 -475 4042 H 10000 = 11 CD 79 57 53 EC A5 E4 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 1920x1080i | 4:2:2 | FHD =  =  =  = 2026-11-22 00:39
 130 10838 H 7200 = 11 CD 79 57 53 EC A5 E4 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-22 00:51
+215 11587 H 5000 = FE ED 22 0D 11 20 26 57 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21B ( 21.5E ) = 4:2:0 = MRC004-MAIN =  =  = 2026-11-22 18:24
+215 11587 H 5000 = FE ED 22 0D 11 20 26 57 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21B ( 21.5E ) = 4:2:0 = MRC004-MAIN =  =  = 2026-11-22 20:43
 215 11579 H 5000 = FE ED 22 0D 11 20 26 57 = FUTSAL Mini-football FEEDS (all competions FIFA UEFA National...) = Eutelsat 21B ( 21.5E ) = 4:2:0 | HD = M00-MRC007-Main =  =  = 2026-11-22 18:35
 160 12594 H 7198 = 13 57 AB 15 CD 24 68 59 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  =  =  = 2026-11-22 18:21
 160 12593 H 7200 = 13 57 AB 15 CD 24 68 59 = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = Eutelsat 16D ( 16E ) = 4:2:0 = CEV XTB KAP NAP =  =  = 2026-11-22 18:34
 160 11125 H 4938 = 52 B5 7C 83 66 D7 40 7D = Ice Hockey IIHF (Leagues-USCanada:NHL UK:Elite  Premier....etc): Excluding Regular 22°W USCanada SportsNet feeds = Eutelsat 16D ( 16E ) = 4:2:0 = MTVA SNG HUNGARY =  =  = 2026-11-22 18:34
-215 11587 H 5000 = FE ED 22 0D 11 20 26 57 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21B ( 21.5E ) = 4:2:0 = MRC004-MAIN =  =  = 2026-11-22 18:24
 160 12597 V 4936 = 20 10 20 50 25 20 26 6B = SERBIASRBIJA FOOTBALL (all Satellites) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Serbia Mozzart Bet Super Liga - Round 16 = IMT Novi Beograd Partizan Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-22 17:25
 160 10985 V 9601 = AB BA 26 8B DC AE 11 9B = Ekstraklasa League  (Polska Football) = Eutelsat 16D ( 16E ) = 4.2.2 = POL 48 ENC1 = Betclic 1. Liga - match: Lechia Gdańsk - Odra Opole =  = 2026-11-22 15:45
 420 11149 V 7200 = 7B 5C E3 BA 07 CA 32 03 = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-22 12:35
