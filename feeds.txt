@@ -1,3 +1,7 @@
+420 11687 V 7500 = C0 15 61 36 EE E1 E8 B7 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-22 13:13
+130 11590 H 7200 = AE 86 59 8D 80 77 3C 33 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE =  =  = 2026-11-22 13:59
+130 10840 H 7200 = D3 E8 C5 80 A1 F7 62 FA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = E399 MAIN =  =  = 2026-11-22 14:04
+130 11590 H 7200 = AE 86 59 8D 80 77 3C 33 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE =  =  = 2026-11-22 15:04
 130 11213 V 7120 = 33 32 FE 63 26 B2 29 01 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = ptch  burnley v blackburn =  =  = 2026-11-22 14:58
 130 11058 H 7200 = 72 4C 9D 5B B4 35 15 FE = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = IMG 1 EU =  =  = 2026-11-22 02:09
 130 11067 H 7200 = 72 4C 9D 5B B4 35 12 FB = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = IMG 2 EU =  =  = 2026-11-22 12:38
@@ -6,9 +10,6 @@
 130 11087 V 9875 = A1 11 4D FF 4A DC 40 66 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:2 = Fi03_ATORF_SOLD = Audi FIS Ski World Cup - Men's Slalom, Gurgl (AUT) =  = 2026-11-22 12:06
 0 11497 V 9875 = A8 7F DE 05 3B C9 F6 FA = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) =  = HD =  =  =  = 2026-11-22 14:00
 130 11635 V 9875 = D4 CF 29 CC E3 CA D7 84 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = NOR-035 MAIN = FIS Ski Jumping World Cup - Lillehammer (NOR) =  = 2026-11-22 14:05
-420 11687 V 7500 = C0 15 61 36 EE E1 E8 B7 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = E333 M =  =  = 2026-11-22 13:13
-130 11590 H 7200 = AE 86 59 8D 80 77 3C 33 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE =  =  = 2026-11-22 13:59
-130 10840 H 7200 = D3 E8 C5 80 A1 F7 62 FA = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4.2.0 = E399 MAIN =  =  = 2026-11-22 14:04
 20 12640 V 5000 = B6 23 80 59 3B E3 CE EC = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = Astra 2E/2F/2G ( 28.2E ) = HD | 4:2:0 = VRT BEL095 MAIN =  =  = 2026-11-22 13:54
 420 11624 V 7500 = E5 72 41 98 46 A3 15 FE = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = Tur 144 M =  =  = 2026-11-22 13:16
 30 4058 V 7200 = BC FA 22 D8 73 56 34 FD = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-22 07:48
@@ -18,9 +19,10 @@
 1005 3840 H 30000 = 5A B1 CB D6 B4 88 4A 86 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 1 = Racing Santander vs Real Sociedad =  = 2026-11-22 07:40
 -475 4042 H 10000 = 11 CD 79 57 53 EC A5 E4 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = SES 14 ( 47.5W ) = 1920x1080i | 4:2:2 | FHD =  =  =  = 2026-11-22 00:39
 130 10838 H 7200 = 11 CD 79 57 53 EC A5 E4 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-22 00:51
+420 11149 V 7200 = 7B 5C E3 BA 07 CA 32 03 = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-22 12:35
+160 10976 V 4800 = AB BA 26 8B DC AE 11 9B = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Eutelsat 16D ( 16E ) = 4.2.2 = POL138_A = Broadcast of the Holy Mass from the Church of the Holy Trinity, the sanctuary of Blessed Karolina Kózkówna in Zabawa =  = 2026-11-22 15:11
 130 12679 H 7200 = BA C2 34 B0 DA CE E1 89 = RowingSailing = HotBird 13F/13G ( 13E ) = 4.2.0 = ENC 6 =  =  = 2026-11-22 13:50
 420 11122 V 7200 = F3 4F FE 40 07 CA 7F 50 = Athletics Marathons etc (10°E 7°E 100.5°E.... etc) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-22 12:39
-420 11149 V 7200 = 7B 5C E3 BA 07 CA 32 03 = Religious Events pilgrimage Holy Mass email protected 10.0E30.5E feeds = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-22 12:35
 1220 3911 H 15000 = NO KEY = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = AsiaSat 9 ( 122E ) = 4:2:2 = IAC Path 2 =  =  = 2026-11-22 03:00
 1005 4005 V 7500 = 2A 6B 12 A7 F8 E1 1E F7 = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-22 12:17
 130 12584 V 7200 = 3F 1B 8E E8 52 A9 D6 D1 = Badminton (feed) @ Asiasat 100.5°EEutelsat 7°E etc.. = HotBird 13F/13G ( 13E ) = 4.2.0 = BWF WF-A C1 BISS-1 =  =  = 2026-11-22 08:56
