@@ -1,3 +1,8 @@
+192 12266 H 31428 = 12 99 DE 89 AF 2F 76 54 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = Astra 1N/1P ( 19.2E ) = 4:2:0 =  =  =  = 2026-11-22 17:29
+1005 3992 V 7500 = CC CF E5 80 24 63 E1 68 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = NFL INT PAL SVC 6 =  =  = 2026-11-22 19:16
+1005 3984 V 7500 = F8 42 9D D7 CE FC 26 F0 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-11-22 19:17
+1005 3975 V 7500 = AF 12 EF B0 14 0D 31 52 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 2 =  =  = 2026-11-22 19:19
+1005 3966 V 7500 = 58 9D 2A 1F C8 D9 9E 3F = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-11-22 19:29
 130 10849 H 7200 = AB BA 20 85 26 11 22 59 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = E-228 Main = Liga Portugal 2 - Vizela vs Feirense =  = 2026-11-22 16:48
 130 11071 V 7199 = 55 4A A8 47 5C 5E B5 6F = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = HotBird 13F/13G ( 13E ) = 4:2:0 = backup  E-285 =  =  = 2026-11-22 22:53
 260 11484 V 5000 = AA A1 23 6E BB B2 22 8F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Badr 4/5/6/7 ( 26E ) = 4:2:0 =  =  =  = 2026-11-22 15:42
@@ -30,11 +35,6 @@
 130 11599 H 7200 = 39 EC E8 0D AF 3C 5B 46 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA 491 = Italy Superlega - Gas Sales Bluenergy Piacenza vs Sir Susa Scai Perugia =  = 2026-11-22 20:09
 70 11040 V 7500 = A1 B2 C3 16 D4 E5 D7 90 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:0 = ita 493 A =  =  = 2026-11-22 17:29
 -80 12692 V 7199 = BC 12 20 EE 26 21 11 58 = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 8 West B ( 8W ) = HD =  =  =  = 2026-11-22 19:35
-192 12266 H 31428 = 12 99 DE 89 AF 2F 76 54 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = Astra 1N/1P ( 19.2E ) = 4:2:0 =  =  =  = 2026-11-22 17:29
-1005 3992 V 7500 = CC CF E5 80 24 63 E1 68 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = NFL INT PAL SVC 6 =  =  = 2026-11-22 19:16
-1005 3984 V 7500 = F8 42 9D D7 CE FC 26 F0 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-11-22 19:17
-1005 3975 V 7500 = AF 12 EF B0 14 0D 31 52 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 2 =  =  = 2026-11-22 19:19
-1005 3966 V 7500 = 58 9D 2A 1F C8 D9 9E 3F = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 1 =  =  = 2026-11-22 19:29
 420 11624 V 7500 = E5 72 41 98 46 A3 15 FE = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = Tur 144 M =  =  = 2026-11-22 13:16
 1105 11051 V 7500 = 97 AC BD 00 1D 2F AF FB = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = ChinaSat 10 ( 110.5E ) = 4.2.2 = TUR-036 MAIN =  =  = 2026-11-22 19:09
 130 11694 H 7200 = 72 4C 9D 5B B4 35 13 FC = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = ENC 5 =  =  = 2026-11-22 18:19
