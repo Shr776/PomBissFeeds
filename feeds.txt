@@ -1,3 +1,5 @@
+130 12609 V 7199 = 35 7D 2A DC 1E 60 EB 69 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC-1 main INT =  =  = 2026-11-23 19:47
+130 12600 V 7199 = 85 8B 6B 7B 87 D7 1F 7D = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC-2 supertennis main =  =  = 2026-11-23 19:48
 130 11068 H 7199 = 72 4C 9D 5B B4 35 16 FF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-23 18:23
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-11-23 18:21
 390 12634 V 7200 = A8 6E FF 15 12 B9 1D E8 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = Hellas Sat 3/4 ( 39E ) = hd = E394 BACK =  =  = 2026-11-23 17:04
@@ -22,7 +24,6 @@
 1005 3955 V 7500 = BE 67 E7 0C F7 32 86 AF = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 5 =  =  = 2026-11-23 00:49
 1005 3965 V 7500 = 87 8F 08 1E 6E F0 FB 59 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = NFL INT PAL SVC 7 =  =  = 2026-11-23 00:50
 1005 3975 V 7499 = F1 B9 17 C1 A9 27 8A 5A = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 2 = American Football — NFL Mexico City International Game 2026/27 Matchweek 11 = Minnesota Vikings vs San Francisco 49ers (@ Estadio Banorte) = 2026-11-23 04:50
-100 11291 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-11-23 01:29
 1130 11305 V 7200 = C1 B5 5E D4 A6 F3 78 11 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Palapa D ( 113E ) = 4.2.0 = SINTRA 1 MN =  =  = 2026-11-23 00:00
 70 12708 H 6667 = 19 AB 11 D5 CD 20 26 13 = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = Eutelsat 7C ( 7E ) = 4:2:0 =  =  =  = 2026-11-23 18:16
 260 11091 V 3600 = FA DD CB A2 BD DE 01 9C = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = OB-HD3 =  =  = 2026-11-23 17:39
