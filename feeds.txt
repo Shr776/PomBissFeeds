@@ -1,13 +1,14 @@
+130 11068 H 7199 = 72 4C 9D 5B B4 35 16 FF = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Weekly Eredivise Highlights =  = 2026-11-23 21:32
 260 11483 V 5000 = AA A1 23 6E BB B2 22 8F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Badr 4/5/6/7 ( 26E ) = 4:2:0 = Handball =  =  = 2026-11-23 20:49
 130 12535 H 7199 = AA AA 11 65 11 BB BB 87 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-11-23 20:33
 160 12655 V 9875 = 22 11 BF F2 EC 18 35 39 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL = CW: =  = 2026-11-23 20:11
 160 12655 V 9875 = 23 11 BA EE EC 18 35 39 = GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 16D ( 16E ) = 4:2:0 = FFBL FC Bayern = German Frauen-Bundesliga - Bayern vs Hoffenheim =  = 2026-11-23 20:17
 130 12609 V 7199 = 35 7D 2A DC 1E 60 EB 69 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC-1 main INT =  =  = 2026-11-23 19:47
 130 12600 V 7199 = 85 8B 6B 7B 87 D7 1F 7D = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC-2 supertennis main =  =  = 2026-11-23 19:48
-130 11068 H 7199 = 72 4C 9D 5B B4 35 16 FF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-23 18:23
 130 11058 H 7199 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU =  =  = 2026-11-23 18:21
 390 12634 V 7200 = A8 6E FF 15 12 B9 1D E8 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = Hellas Sat 3/4 ( 39E ) = hd = E394 BACK =  =  = 2026-11-23 17:04
 390 12634 V 7200 = A8 6E FF 15 12 B9 1D E8 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = Hellas Sat 3/4 ( 39E ) = hd = E394 BACK =  =  = 2026-11-23 18:14
+216 10988 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SAU-0165 =  =  = 2026-11-23 17:24
 216 10998 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = JEDDAH ENCODER 2 =  =  = 2026-11-23 18:03
 160 11143 H 7199 = 0C 51 70 CD 11 CC 35 12 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = UZB-TAS-002 =  =  = 2026-11-23 13:13
 160 11170 H 7199 = D6 30 E2 E8 64 0D 43 B4 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = QAT037 B =  =  = 2026-11-23 15:24
