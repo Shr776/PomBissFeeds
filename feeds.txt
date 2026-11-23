@@ -1,3 +1,5 @@
+100 11291 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-11-23 01:29
+100 10721 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4.2.0 = AFD =  =  = 2026-11-23 23:37
 130 11068 H 7199 = 72 4C 9D 5B B4 35 16 FF = HOLLANDNEDERLANDS FOOTBALL Eredivisie at 7°E 10°E-100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU = Weekly Eredivise Highlights =  = 2026-11-23 21:32
 260 11483 V 5000 = AA A1 23 6E BB B2 22 8F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Badr 4/5/6/7 ( 26E ) = 4:2:0 = Handball =  =  = 2026-11-23 20:49
 130 12535 H 7199 = AA AA 11 65 11 BB BB 87 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-11-23 20:33
@@ -29,9 +31,11 @@
 1005 3955 V 7500 = BE 67 E7 0C F7 32 86 AF = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 5 =  =  = 2026-11-23 00:49
 1005 3965 V 7500 = 87 8F 08 1E 6E F0 FB 59 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = NFL INT PAL SVC 7 =  =  = 2026-11-23 00:50
 1005 3975 V 7499 = F1 B9 17 C1 A9 27 8A 5A = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 2 = American Football — NFL Mexico City International Game 2026/27 Matchweek 11 = Minnesota Vikings vs San Francisco 49ers (@ Estadio Banorte) = 2026-11-23 04:50
-100 11291 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-11-23 01:29
 1130 11305 V 7200 = C1 B5 5E D4 A6 F3 78 11 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Palapa D ( 113E ) = 4.2.0 = SINTRA 1 MN =  =  = 2026-11-23 00:00
-260 12630 V 8500 = FA DD CB A2 BD DE 01 9C = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_BCKUP =  =  = 2026-11-23 20:46
-70 12708 H 6667 = 19 AB 11 D5 CD 20 26 13 = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = Eutelsat 7C ( 7E ) = 4:2:0 =  =  =  = 2026-11-23 18:16
+420 11080 V 7499 = A1 B2 C3 16 D4 E5 D6 8F = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-23 23:46
 160 10996 V 7500 = 77 93 52 5C 99 08 86 27 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Regular Polish News Feed =  = 2026-11-23 11:27
 160 11005 V 7500 = 77 93 52 5C 99 08 86 27 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Regular Polish News Feed =  = 2026-11-23 12:35
+420 11462 V 7200 = F1 6D A8 06 9B 11 CC 78 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-23 23:30
+420 11120 V 5001 = AB 97 5D 9F 07 C7 2C FA = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Türksat 3A/4A/5B/6A ( 42E ) = HD = ITA 889 A =  =  = 2026-11-23 23:43
+260 12630 V 8500 = FA DD CB A2 BD DE 01 9C = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_BCKUP =  =  = 2026-11-23 20:46
+70 12708 H 6667 = 19 AB 11 D5 CD 20 26 13 = Football Algeria  Ligue1  Ligue2 Mobilis  @Alcomsat 24.8W ( No Chat Only Key) = Eutelsat 7C ( 7E ) = 4:2:0 =  =  =  = 2026-11-23 18:16
