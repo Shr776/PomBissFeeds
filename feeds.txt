@@ -1,3 +1,4 @@
+1005 3840 H 30000 = CB A6 98 09 19 E8 86 87 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 1 = Levante vs Elche =  = 2026-11-23 14:52
 160 11143 H 7199 = 0C 51 70 CD 11 CC 35 12 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = UZB-TAS-002 =  =  = 2026-11-23 13:13
 1005 3944 H 7499 = 69 72 3F 1A 3A F9 DF 12 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 3 = American Football — NFL 2026/27 Matchweek 11 = New York Jets vs Los Angeles Chargers (@ SoFi Stadium) = 2026-11-23 00:41
 1005 3955 V 7500 = BE 67 E7 0C F7 32 86 AF = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 5 =  =  = 2026-11-23 00:49
