@@ -1,4 +1,5 @@
-30 4010 V 7200 = 86 F2 DC 54 E3 A4 32 B9 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-23 16:48
+216 10988 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SAU-0165 =  =  = 2026-11-23 17:24
+216 10998 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SAU-0165 =  =  = 2026-11-23 17:48
 160 11143 H 7199 = 0C 51 70 CD 11 CC 35 12 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = UZB-TAS-002 =  =  = 2026-11-23 13:13
 160 11170 H 7199 = D6 30 E2 E8 64 0D 43 B4 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = QAT037 B =  =  = 2026-11-23 15:24
 160 11162 H 7200 = 0C 4E 85 DF AF 81 8E BE = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = OMAN M =  =  = 2026-11-23 15:24
@@ -8,6 +9,12 @@
 160 11154 H 7199 = 8A DE 4F B7 D1 0B 04 E0 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = UAE074-B =  =  = 2026-11-23 16:00
 1005 4145 V 7200 = 8A DE 4F B7 D1 0B 04 E0 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = UAE074-B =  =  = 2026-11-23 16:00
 1005 3860 V 30000 = 0C 51 70 CD 11 CC 35 12 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = UZB-TAS-002 =  =  = 2026-11-23 16:15
+160 11189 H 7199 = 42 0E A4 F4 93 89 86 A2 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = IRQ014-M =  =  = 2026-11-23 17:41
+160 11180 H 7199 = 06 06 83 8F 51 76 26 ED = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = SAU-030-A =  =  = 2026-11-23 17:42
+1005 4172 V 7200 = 42 0E A4 F4 93 89 86 A2 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = IRQ014-M =  =  = 2026-11-23 17:42
+1005 3860 V 30000 = 06 06 83 8F 51 76 26 ED = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = SAU-030-A =  =  = 2026-11-23 17:46
+390 12634 V 7200 = A8 6E FF 15 12 B9 1D E8 = GreeceCyprusNorth Macedonia: Football Feeds 10°E 7°E 15°W 0.8°W... etc = Hellas Sat 3/4 ( 39E ) = hd = E394 BACK =  =  = 2026-11-23 17:04
+30 4010 V 7200 = 86 F2 DC 54 E3 A4 32 B9 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-23 16:48
 1005 3840 H 30000 = CB A6 98 09 19 E8 86 87 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 1 = Levante vs Elche =  = 2026-11-23 14:52
 1005 3944 H 7499 = 69 72 3F 1A 3A F9 DF 12 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 3 = American Football — NFL 2026/27 Matchweek 11 = New York Jets vs Los Angeles Chargers (@ SoFi Stadium) = 2026-11-23 00:41
 1005 3955 V 7500 = BE 67 E7 0C F7 32 86 AF = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 5 =  =  = 2026-11-23 00:49
@@ -15,5 +22,7 @@
 1005 3975 V 7499 = F1 B9 17 C1 A9 27 8A 5A = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 2 = American Football — NFL Mexico City International Game 2026/27 Matchweek 11 = Minnesota Vikings vs San Francisco 49ers (@ Estadio Banorte) = 2026-11-23 04:50
 100 11291 H 7500 = 66 C3 E9 12 A4 65 27 30 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 10B ( 10E ) = 4:2:0 = AFD =  =  = 2026-11-23 01:29
 1130 11305 V 7200 = C1 B5 5E D4 A6 F3 78 11 = PORTUGESE FOOTBALL @ 10°E 16°E Please state if 420 or 422 = Palapa D ( 113E ) = 4.2.0 = SINTRA 1 MN =  =  = 2026-11-23 00:00
+260 11091 V 3600 = FA DD CB A2 BD DE 01 9C = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = OB-HD3 =  =  = 2026-11-23 17:39
+260 12630 V 7500 = FA DD CB A2 BD DE 01 9C = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = egy-013 =  =  = 2026-11-23 17:48
 160 10996 V 7500 = 77 93 52 5C 99 08 86 27 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Regular Polish News Feed =  = 2026-11-23 11:27
 160 11005 V 7500 = 77 93 52 5C 99 08 86 27 = Eurovision NOS  Other NEWS Feeds (inc CHEVC POL but not Live Sports Events) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  = Regular Polish News Feed =  = 2026-11-23 12:35
