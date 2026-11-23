@@ -1,4 +1,5 @@
 160 10996 V 7498 = 77 93 52 5C 99 08 86 27 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  =  =  = 2026-11-23 11:27
+160 11005 V 7498 = 77 93 52 5C 99 08 86 27 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  =  =  = 2026-11-23 12:35
 1005 3944 H 7499 = 69 72 3F 1A 3A F9 DF 12 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 3 = American Football — NFL 2026/27 Matchweek 11 = New York Jets vs Los Angeles Chargers (@ SoFi Stadium) = 2026-11-23 00:41
 1005 3955 V 7500 = BE 67 E7 0C F7 32 86 AF = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 5 =  =  = 2026-11-23 00:49
 1005 3965 V 7500 = 87 8F 08 1E 6E F0 FB 59 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = NFL INT PAL SVC 7 =  =  = 2026-11-23 00:50
