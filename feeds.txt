@@ -1,3 +1,12 @@
+130 12592 V 7200 = D4 0E 54 36 5D 12 46 B5 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-SAV-BHC = EHF European League - IK Sävehof vs Bergischer HC =  = 2026-11-24 20:06
+130 10828 H 7200 = 62 0F C1 32 8D 40 2A F7 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-IZV-BUC = EHF European League - HC Izvidac vs CSM Bucuresti =  = 2026-11-24 20:27
+130 10820 H 7200 = 68 31 12 AB DF 9C FA 75 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SWE-043 EHF-ELM-MTH-VAL = EHF European League - Mors-Thy Håndbold vs Valur =  = 2026-11-24 20:35
+130 10829 V 7200 = B1 5B 51 5D CF 39 6A 72 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ROU 050 = EHF European League - ACS HC Buzau 2012 vs Fraikin BM. Granollers =  = 2026-11-24 21:01
+130 12552 H 7200 = 9B 31 A1 6D 69 5C 7D 42 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-HAM-ELV = EHF European League - =  = 2026-11-24 21:18
+130 11090 H 7199 = 18 63 12 8D DA A1 F9 74 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF EL Men VFL - LOG =  =  = 2026-11-24 21:25
+130 11667 H 7199 = 71 EA 12 6D 57 10 CC 33 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-CSM-LIM =  =  = 2026-11-24 21:34
+130 10847 V 7200 = 7F E5 36 9A DF 25 10 14 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-SRA-NEX = EHF European League - =  = 2026-11-24 21:39
+130 10839 H 7199 = FD FD 12 0C 96 3C 36 08 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-TOR-SLB =  =  = 2026-11-24 22:28
 130 11087 V 9875 = B2 2B 2A 07 73 EE 61 C2 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = UEFA Youth League - Arsenal U-19 vs Borussia Dortmund U-19 =  = 2026-11-24 13:35
 130 11591 H 9874 = AD 95 82 C4 46 93 03 DC = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE =  =  = 2026-11-24 14:38
 130 11077 V 4936 = 03 D4 73 4A D7 A5 F4 70 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 | HD =  = UEFA Champions League =  = 2026-11-24 15:36
@@ -8,14 +17,7 @@
 420 11478 V 6800 = 42 45 00 87 00 42 45 87 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR122A =  =  = 2026-11-24 20:09
 130 11086 V 9875 = 03 D4 73 4A D7 A5 F4 70 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-11-24 21:30
 130 11077 V 4936 = 03 D4 73 4A D7 A5 F4 70 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 | HD =  = UEFA Champions League =  = 2026-11-24 21:56
-130 12592 V 7200 = D4 0E 54 36 5D 12 46 B5 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-SAV-BHC = EHF European League - IK Sävehof vs Bergischer HC =  = 2026-11-24 20:06
-130 10828 H 7200 = 62 0F C1 32 8D 40 2A F7 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-IZV-BUC = EHF European League - HC Izvidac vs CSM Bucuresti =  = 2026-11-24 20:27
-130 10820 H 7200 = 68 31 12 AB DF 9C FA 75 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SWE-043 EHF-ELM-MTH-VAL = EHF European League - Mors-Thy Håndbold vs Valur =  = 2026-11-24 20:35
-130 10829 V 7200 = B1 5B 51 5D CF 39 6A 72 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ROU 050 = EHF European League - ACS HC Buzau 2012 vs Fraikin BM. Granollers =  = 2026-11-24 21:01
-130 12552 H 7200 = 9B 31 A1 6D 69 5C 7D 42 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-HAM-ELV = EHF European League - =  = 2026-11-24 21:18
-130 11090 H 7199 = 18 63 12 8D DA A1 F9 74 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF EL Men VFL - LOG =  =  = 2026-11-24 21:25
-130 11667 H 7199 = 71 EA 12 6D 57 10 CC 33 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-CSM-LIM =  =  = 2026-11-24 21:34
-130 10847 V 7200 = 7F E5 36 9A DF 25 10 14 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-SRA-NEX = EHF European League - =  = 2026-11-24 21:39
+130 10866 H 7199 = 15 04 77 90 77 40 51 08 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = OVERON E-415 FEED 1 =  =  = 2026-11-24 22:20
 100 11082 V 10001 = BC 13 20 EF 26 24 11 5B = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = HD =  =  =  = 2026-11-24 20:29
 70 11040 V 9601 = BC 13 20 EF 26 24 11 5B = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-11-24 20:31
 70 11527 H 7199 = 12 34 AB F1 CD 20 26 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = CRO-004 CEV CL Main =  =  = 2026-11-24 19:12
