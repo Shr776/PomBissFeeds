@@ -1,4 +1,13 @@
-130 12600 V 7199 = 2B F9 0D 31 DB 8A D3 38 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC-2 supertennis main =  =  = 2026-11-24 18:01
+130 10810 H 7200 = 91 5C 82 6F 5D 12 FB 6A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-PRE-SES = EHF European League - TATRAN Presov vs MRK Sesvete Triglav osiguranje =  = 2026-11-24 18:41
+130 10839 V 7199 = DE C5 51 F4 85 19 A0 3E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-TTH-KAR =  =  = 2026-11-24 18:51
+130 12544 H 7200 = 84 5C 72 52 EC 60 D1 1D = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-SLO-TAT = EHF European League - =  = 2026-11-24 18:59
+130 11087 V 9875 = B2 2B 2A 07 73 EE 61 C2 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = UEFA Youth League - Arsenal U-19 vs Borussia Dortmund U-19 =  = 2026-11-24 13:35
+130 11591 H 9874 = AD 95 82 C4 46 93 03 DC = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE =  =  = 2026-11-24 14:38
+130 11077 V 4936 = 03 D4 73 4A D7 A5 F4 70 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 | HD =  = UEFA Champions League =  = 2026-11-24 15:36
+130 11108 H 7200 = AB CD 15 8D 27 DC BA BD = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = Via 1 Overon =  =  = 2026-11-24 18:03
+130 10838 H 7200 = E2 D9 F5 B0 B1 A7 48 A0 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = MAIN CHAIN-1 BAKU MEDIA CEN =  =  = 2026-11-24 18:25
+130 12600 V 7199 = 2B F9 0D 31 DB 8A D3 38 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-2 supertennis main =  =  = 2026-11-24 18:01
+130 12609 V 7199 = E8 37 1F 3E A6 0F 57 0C = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC-1 main INT =  =  = 2026-11-24 18:02
 160 3860 V 30000 = 35 8F 8F 53 27 8F B2 68 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 | 4.2.0 = Service 1 =  =  = 2026-11-24 09:25
 160 11162 H 7200 = 71 68 84 5D 01 CF C3 93 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = Daejeon_VS_Beijing FC_M =  =  = 2026-11-24 09:28
 1005 3860 V 30000 = 41 C4 DE E3 41 23 3D A1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi15_LK =  =  = 2026-11-24 10:45
@@ -12,9 +21,6 @@
 30 4058 V 7200 = BC FA 22 D8 73 56 34 FD = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = SMAT-2026 DF-2 INDORE MAIN =  =  = 2026-11-24 11:22
 30 4010 V  = 3E 68 4C F5 E4 53 FC 33 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-24 16:47
 30 4010 V  = 3E 68 4C F5 E4 53 FC 33 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-24 16:55
-130 11087 V 9875 = B2 2B 2A 07 73 EE 61 C2 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = UEFA Youth League - Arsenal U-19 vs Borussia Dortmund U-19 =  = 2026-11-24 13:35
-130 11591 H 9874 = AD 95 82 C4 46 93 03 DC = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE =  =  = 2026-11-24 14:38
-130 11077 V 4936 = 03 D4 73 4A D7 A5 F4 70 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 | HD =  = UEFA Champions League =  = 2026-11-24 15:36
 216 10998 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SAU-045A =  =  = 2026-11-24 15:27
 216 11006 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SNG8A =  =  = 2026-11-24 15:28
 216 11689 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 | hd = SAU-012A =  =  = 2026-11-24 15:34
