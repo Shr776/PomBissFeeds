@@ -1,5 +1,8 @@
-1005 3860 V 30000 = 41 C4 DE E3 41 23 3D A1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi15_LK =  =  = 2026-11-24 10:45
 1005 4146 H 7200 = 95 06 9E 39 43 45 3C C4 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = TBS ADHOC ENC 3 =  =  = 2026-11-24 09:05
 160 3860 V 30000 = 35 8F 8F 53 27 8F B2 68 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 | 4.2.0 = Service 1 =  =  = 2026-11-24 09:25
 160 11162 H 7200 = 71 68 84 5D 01 CF C3 93 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = Daejeon_VS_Beijing FC_M =  =  = 2026-11-24 09:28
+160 12656 H 7200 = 11 5F 8B FB 1C 20 36 72 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = ENC-1 MAIN =  =  = 2026-11-24 11:41
+160 12647 H 7200 = 45 DA B1 D0 08 89 1D AE = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = TLCAT-002-2 =  =  = 2026-11-24 11:43
+30 4058 V 7200 = BC FA 22 D8 73 56 34 FD = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = SMAT-2026 DF-2 INDORE MAIN =  =  = 2026-11-24 11:22
+1005 3860 V 30000 = 41 C4 DE E3 41 23 3D A1 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi15_LK =  =  = 2026-11-24 10:45
 1005 3985 V 7499 = 7B 6C 27 0E 49 67 95 45 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 11 = Cincinnati Bengals vs Washington Commanders (@ Northwest Stadium) = 2026-11-24 05:32
