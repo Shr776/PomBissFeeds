@@ -1,12 +1,7 @@
-70 11527 H 7199 = 12 34 AB F1 CD 20 26 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = CRO-004 CEV CL Main =  =  = 2026-11-24 19:12
-130 12689 H 7199 = 4E 5B 29 D2 6D D1 9A D8 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:2 = Service-1 =  =  = 2026-11-24 19:23
-130 12680 H 7199 = 4E 5B 29 D2 6D D1 9A D8 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR 123 A =  =  = 2026-11-24 19:42
-130 10810 H 7200 = 91 5C 82 6F 5D 12 FB 6A = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-PRE-SES = EHF European League - TATRAN Presov vs MRK Sesvete Triglav osiguranje =  = 2026-11-24 18:41
-130 10839 V 7199 = DE C5 51 F4 85 19 A0 3E = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-TTH-KAR =  =  = 2026-11-24 18:51
-130 12544 H 7200 = 84 5C 72 52 EC 60 D1 1D = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-SLO-TAT = EHF European League - =  = 2026-11-24 18:59
-130 10801 H 7200 = 40 A5 43 28 65 A4 D1 DA = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-PEL-GDA YSM-016M = EHF European League - HC Eurofarm Pelister vs PGE Wybrzeze Gdansk =  = 2026-11-24 19:04
-130 11100 H 7200 = ED 67 93 E7 58 30 1F A7 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-FLE-AGU = EHF European League - =  = 2026-11-24 19:10
-130 12583 V 7199 = 8D 6A 6F 66 51 EC 78 B5 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF CLM KAD CHA =  =  = 2026-11-24 19:27
+130 12592 V 7200 = D4 0E 54 36 5D 12 46 B5 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-SAV-BHC = EHF European League - IK Sävehof vs Bergischer HC =  = 2026-11-24 20:06
+130 10828 H 7200 = 62 0F C1 32 8D 40 2A F7 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-IZV-BUC = EHF European League - HC Izvidac vs CSM Bucuresti =  = 2026-11-24 20:27
+130 10820 H 7200 = 68 31 12 AB DF 9C FA 75 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SWE-043 EHF-ELM-MTH-VAL = EHF European League - Mors-Thy Håndbold vs Valur =  = 2026-11-24 20:35
+130 10829 V 7200 = NO KEY = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ROU 050 = EHF European League - =  = 2026-11-24 21:01
 130 11087 V 9875 = B2 2B 2A 07 73 EE 61 C2 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = UEFA Youth League - Arsenal U-19 vs Borussia Dortmund U-19 =  = 2026-11-24 13:35
 130 11591 H 9874 = AD 95 82 C4 46 93 03 DC = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE =  =  = 2026-11-24 14:38
 130 11077 V 4936 = 03 D4 73 4A D7 A5 F4 70 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 | HD =  = UEFA Champions League =  = 2026-11-24 15:36
@@ -14,6 +9,13 @@
 130 10838 H 7200 = E2 D9 F5 B0 B1 A7 48 A0 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = MAIN CHAIN-1 BAKU MEDIA CEN =  =  = 2026-11-24 18:25
 30 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 3B ( 3E ) = hd | 4:2:0 = beIN SPORTS =  =  = 2026-11-24 19:10
 30 10978 H 7500 = BD 3A 14 0B F2 CC 59 17 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 3B ( 3E ) = hd | 4:2:0 | HD = RMA HD20 PERSO BEIN MENA MAIN =  =  = 2026-11-24 19:18
+420 11478 V 6800 = 42 45 00 87 00 42 45 87 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR122A =  =  = 2026-11-24 20:09
+130 11058 H 7200 = 12 3C AA F8 14 22 A3 D9 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = IMG 1 EU =  =  = 2026-11-24 20:40
+100 11082 V 10001 = BC 13 20 EF 26 24 11 5B = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = HD =  =  =  = 2026-11-24 20:29
+70 11040 V 9601 = BC 13 20 EF 26 24 11 5B = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-11-24 20:31
+70 11527 H 7199 = 12 34 AB F1 CD 20 26 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = CRO-004 CEV CL Main =  =  = 2026-11-24 19:12
+130 12689 H 7199 = 4E 5B 29 D2 6D D1 9A D8 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:2 = Service-1 =  =  = 2026-11-24 19:23
+130 12680 H 7199 = 4E 5B 29 D2 6D D1 9A D8 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR 123 A =  =  = 2026-11-24 19:42
 130 12600 V 7199 = 2B F9 0D 31 DB 8A D3 38 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-2 supertennis main =  =  = 2026-11-24 18:01
 130 12609 V 7199 = E8 37 1F 3E A6 0F 57 0C = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC-1 main INT =  =  = 2026-11-24 18:02
 160 3860 V 30000 = 35 8F 8F 53 27 8F B2 68 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 | 4.2.0 = Service 1 =  =  = 2026-11-24 09:25
@@ -33,3 +35,7 @@
 216 11006 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SNG8A =  =  = 2026-11-24 15:28
 216 11689 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 | hd = SAU-012A =  =  = 2026-11-24 15:34
 1005 3985 V 7499 = 7B 6C 27 0E 49 67 95 45 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 11 = Cincinnati Bengals vs Washington Commanders (@ Northwest Stadium) = 2026-11-24 05:32
+260 12630 V 3599 = FA DD CB A2 BD DE 02 9D = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = Unnamed =  =  = 2026-11-24 20:13
+260 12626 V 3599 = FA DD CB A2 BD DE 02 9D = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = EGY023_BCKUP =  =  = 2026-11-24 20:14
+260 12630 V 3599 = FA DD CB A2 BD DE 02 9D = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 = Unnamed =  =  = 2026-11-24 20:55
+260 12626 V 3599 = FA DD CB A2 BD DE 02 9D = Egyptian Football @10°E30.5°E Etc.. = Badr 4/5/6/7 ( 26E ) = 4:2:0 | HD = EGY023_BCKUP =  =  = 2026-11-24 20:56
