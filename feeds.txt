@@ -1,3 +1,14 @@
+130 12600 V 7199 = 2B F9 0D 31 DB 8A D3 38 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-2 supertennis main =  =  = 2026-11-24 18:01
+130 12609 V 7199 = E8 37 1F 3E A6 0F 57 0C = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC-1 main INT =  =  = 2026-11-24 18:02
+130 12601 V 7199 = 2B F9 0D 31 DB 8A D3 38 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 | HD =  = Davis Cup Finals 2026 SuperTennis Arena, Bologna, Italy =  = 2026-11-24 23:51
+100 11082 V 10001 = BC 13 20 EF 26 24 11 5B = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = HD =  =  =  = 2026-11-24 20:29
+70 11040 V 9601 = BC 13 20 EF 26 24 11 5B = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-11-24 20:31
+-80 12722 V 7200 = BC 13 20 EF 26 24 11 5B = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 8 West B ( 8W ) = HD =  =  =  = 2026-11-24 23:29
+70 11527 H 7199 = 12 34 AB F1 CD 20 26 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = CRO-004 CEV CL Main =  =  = 2026-11-24 19:12
+130 12689 H 7199 = 4E 5B 29 D2 6D D1 9A D8 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:2 = Service-1 =  =  = 2026-11-24 19:23
+130 12680 H 7199 = 4E 5B 29 D2 6D D1 9A D8 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR 123 A =  =  = 2026-11-24 19:42
+70 11093 V 7200 = 15 58 35 A2 71 42 63 16 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = POL-103_ch2 = Liga Tauron - Zawiercie vs Barkom =  = 2026-11-24 23:10
+130 12680 H 7119 = 52 18 AC 16 23 02 43 68 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-11-24 23:05
 130 12592 V 7200 = D4 0E 54 36 5D 12 46 B5 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-SAV-BHC = EHF European League - IK Sävehof vs Bergischer HC =  = 2026-11-24 20:06
 130 10828 H 7200 = 62 0F C1 32 8D 40 2A F7 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-IZV-BUC = EHF European League - HC Izvidac vs CSM Bucuresti =  = 2026-11-24 20:27
 130 10820 H 7200 = 68 31 12 AB DF 9C FA 75 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SWE-043 EHF-ELM-MTH-VAL = EHF European League - Mors-Thy Håndbold vs Valur =  = 2026-11-24 20:35
@@ -18,13 +29,6 @@
 130 11086 V 9875 = 03 D4 73 4A D7 A5 F4 70 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 =  =  =  = 2026-11-24 21:30
 130 11077 V 4936 = 03 D4 73 4A D7 A5 F4 70 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 | HD =  = UEFA Champions League =  = 2026-11-24 21:56
 130 10866 H 7199 = 15 04 77 90 77 40 51 08 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = OVERON E-415 FEED 1 =  =  = 2026-11-24 22:20
-100 11082 V 10001 = BC 13 20 EF 26 24 11 5B = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 10B ( 10E ) = HD =  =  =  = 2026-11-24 20:29
-70 11040 V 9601 = BC 13 20 EF 26 24 11 5B = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = HD =  =  =  = 2026-11-24 20:31
-70 11527 H 7199 = 12 34 AB F1 CD 20 26 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = CRO-004 CEV CL Main =  =  = 2026-11-24 19:12
-130 12689 H 7199 = 4E 5B 29 D2 6D D1 9A D8 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:2 = Service-1 =  =  = 2026-11-24 19:23
-130 12680 H 7199 = 4E 5B 29 D2 6D D1 9A D8 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR 123 A =  =  = 2026-11-24 19:42
-130 12600 V 7199 = 2B F9 0D 31 DB 8A D3 38 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-2 supertennis main =  =  = 2026-11-24 18:01
-130 12609 V 7199 = E8 37 1F 3E A6 0F 57 0C = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC-1 main INT =  =  = 2026-11-24 18:02
 160 3860 V 30000 = 35 8F 8F 53 27 8F B2 68 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 | 4.2.0 = Service 1 =  =  = 2026-11-24 09:25
 160 11162 H 7200 = 71 68 84 5D 01 CF C3 93 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = Daejeon_VS_Beijing FC_M =  =  = 2026-11-24 09:28
 1005 3860 V 30000 = 41 C4 DE E3 41 23 3D A1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi15_LK =  =  = 2026-11-24 10:45
