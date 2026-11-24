@@ -1,5 +1,5 @@
 130 11087 V 9875 = B2 2B 2A 07 73 EE 61 C2 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = UEFA Youth League - Arsenal U-19 vs Borussia Dortmund U-19 =  = 2026-11-24 13:35
-1005 4146 H 7200 = 95 06 9E 39 43 45 3C C4 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = TBS ADHOC ENC 3 =  =  = 2026-11-24 09:05
+130 11591 H 9874 = AD 95 82 C4 46 93 03 DC = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE =  =  = 2026-11-24 14:38
 160 3860 V 30000 = 35 8F 8F 53 27 8F B2 68 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 | 4.2.0 = Service 1 =  =  = 2026-11-24 09:25
 160 11162 H 7200 = 71 68 84 5D 01 CF C3 93 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = Daejeon_VS_Beijing FC_M =  =  = 2026-11-24 09:28
 1005 3860 V 30000 = 41 C4 DE E3 41 23 3D A1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi15_LK =  =  = 2026-11-24 10:45
