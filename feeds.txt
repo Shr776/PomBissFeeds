@@ -1,9 +1,6 @@
-130 11087 V 9875 = B2 2B 2A 07 73 EE 61 C2 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = UEFA Youth League - Arsenal U-19 vs Borussia Dortmund U-19 =  = 2026-11-24 13:35
-130 11591 H 9874 = AD 95 82 C4 46 93 03 DC = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE =  =  = 2026-11-24 14:38
-130 11077 V 4936 = 03 D4 73 4A D7 A5 F4 70 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 | HD =  = UEFA Champions League =  = 2026-11-24 15:36
-216 10998 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SAU-045A =  =  = 2026-11-24 15:27
-216 11006 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SNG8A =  =  = 2026-11-24 15:28
-216 11689 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 | hd = SAU-012A =  =  = 2026-11-24 15:34
+30 4058 V 7200 = BC FA 22 D8 73 56 34 FD = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = SMAT-2026 DF-2 INDORE MAIN =  =  = 2026-11-24 11:22
+30 4010 V  = 3E 68 4C F5 E4 53 FC 33 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-24 16:47
+30 4010 V  = 3E 68 4C F5 E4 53 FC 33 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-24 16:55
 160 3860 V 30000 = 35 8F 8F 53 27 8F B2 68 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 | 4.2.0 = Service 1 =  =  = 2026-11-24 09:25
 160 11162 H 7200 = 71 68 84 5D 01 CF C3 93 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = Daejeon_VS_Beijing FC_M =  =  = 2026-11-24 09:28
 1005 3860 V 30000 = 41 C4 DE E3 41 23 3D A1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi15_LK =  =  = 2026-11-24 10:45
@@ -12,5 +9,12 @@
 160 12638 H 7200 = 55 11 96 FC 2D 5B 30 B8 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = VNMVTV-002 =  =  = 2026-11-24 12:37
 160 12536 H 7199 = 41 C4 DE E3 41 23 3D A1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi15_LK =  =  = 2026-11-24 13:24
 160 3894 V 7200 = 9E 55 0E 01 DA ED 84 4B = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 | 4.2.0 = OMAN  B =  =  = 2026-11-24 15:33
-30 4058 V 7200 = BC FA 22 D8 73 56 34 FD = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = SMAT-2026 DF-2 INDORE MAIN =  =  = 2026-11-24 11:22
+160 11162 H 7200 = C3 7F 93 D5 79 B5 6C 9A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = Cubic073-A =  =  = 2026-11-24 16:31
+160 12536 H 7199 = 41 C4 DE E3 41 23 3D A1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi15_LK =  =  = 2026-11-24 16:51
+130 11087 V 9875 = B2 2B 2A 07 73 EE 61 C2 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = UEFA Youth League - Arsenal U-19 vs Borussia Dortmund U-19 =  = 2026-11-24 13:35
+130 11591 H 9874 = AD 95 82 C4 46 93 03 DC = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE =  =  = 2026-11-24 14:38
+130 11077 V 4936 = 03 D4 73 4A D7 A5 F4 70 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 | HD =  = UEFA Champions League =  = 2026-11-24 15:36
+216 10998 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SAU-045A =  =  = 2026-11-24 15:27
+216 11006 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 = SNG8A =  =  = 2026-11-24 15:28
+216 11689 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 | hd = SAU-012A =  =  = 2026-11-24 15:34
 1005 3985 V 7499 = 7B 6C 27 0E 49 67 95 45 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 1 = American Football — NFL 2026/27 Matchweek 11 = Cincinnati Bengals vs Washington Commanders (@ Northwest Stadium) = 2026-11-24 05:32
