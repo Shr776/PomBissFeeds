@@ -1,3 +1,4 @@
+130 12679 H 7119 = 52 88 CB A5 11 19 9A C4 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4.2.0 = Pitch Stoke v Millwall =  =  = 2026-11-25 23:53
 130 12679 H 7200 = 4E 5B 29 D2 6D D1 9A D8 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = TUR 123 A = CEV Champions League Volley Women - Vakifbank vs Asterix Avo =  = 2026-11-25 18:46
 70 10957 H 7200 = 25 11 AC E2 ED 20 26 33 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = BAV = Challenge Cup Volley Women - AEK vs Vallefoglia =  = 2026-11-25 20:04
 70 11093 V 7200 = 20 26 AB F1 CD 1E CA B5 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:2 = POL-058_ch1 = CEV Champions League Volley Women - Budowlani Lodz vs Galatasaray =  = 2026-11-25 20:22
