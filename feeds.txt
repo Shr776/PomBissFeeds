@@ -1,5 +1,6 @@
 160 11162 H 7200 = 00 D2 37 09 7A E7 A1 02 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = Fi02_NE2 =  =  = 2026-11-25 09:25
 160 12656 H 7200 = 57 2E 5C E1 83 03 94 1A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = Fi03_NE3 =  =  = 2026-11-25 09:39
+160 12537 H 7200 = 85 71 AB A1 B9 31 58 42 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = TBS ADHOC ENC 4 =  =  = 2026-11-25 10:25
 130 11058 H 7200 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = WWE NXT =  = 2026-11-25 06:02
 130 11087 V 9875 = F0 3D 34 61 40 AC C3 AF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GVA_Fi01 =  =  = 2026-11-25 05:56
 130 11591 H 7500 = 11 24 20 55 26 AA BB 8B = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = HotBird 13F/13G ( 13E ) = HD | 4.2.0 | SD = X20-01 SDI Enc 2 = Miss Universe 75TH 2026 =  = 2026-11-25 06:18
