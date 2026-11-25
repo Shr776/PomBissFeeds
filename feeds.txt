@@ -1,15 +1,12 @@
+30 3795 V  = AC B3 4B AA D1 3C CF DC = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-25 15:59
+1005 3886 V 7200 = 0C 50 AC 08 B1 0D 7B 39 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-25 15:57
+160 12629 H 7199 = 0C 50 AC 08 B1 0D 7B 39 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-25 15:58
 30 11176 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 3B ( 3E ) = 4.2.0 = SAU-0165 =  =  = 2026-11-25 14:50
+216 10988 H 7200 = DD 34 7D 8E 20 FD C2 DF = Saudi Arabia Football: Roshn Saudi LeagueYelo League Kings Cup...etc@ 7° E10° E 21.6° E36° E100.5°E = Eutelsat 21C ( 21.6E ) = 4.2.0 | hd = SAU-012A =  =  = 2026-11-25 15:21
 130 11087 V 9875 = F5 6C 8C ED 9B 41 77 53 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi13_GNVE = UEFA Youth League - =  = 2026-11-25 12:56
 130 11592 H 9875 = 54 1B E3 52 60 76 CB A1 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi14_GNVE = UEFA Youth League - =  = 2026-11-25 14:25
 130 11087 V 9875 = F0 3D 34 61 40 AC C3 AF = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = GVA_Fi01 =  =  = 2026-11-25 05:56
 160 12549 V 4799 = 15 58 35 A2 71 42 63 16 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:2 | HD =  =  =  = 2026-11-25 12:18
 160 10986 V 9598 = AB BA 26 8B DC AE 11 9B = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:2 | HD =  = Poland Polish Cup - 1/8-finals = Sroda Kleczew Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-25 13:25
-160 11162 H 7200 = 00 D2 37 09 7A E7 A1 02 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = Fi02_NE2 =  =  = 2026-11-25 09:25
-160 12656 H 7200 = 57 2E 5C E1 83 03 94 1A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = Fi03_NE3 =  =  = 2026-11-25 09:39
-160 12537 H 7200 = 85 71 AB A1 B9 31 58 42 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = TBS ADHOC ENC 4 =  =  = 2026-11-25 10:25
-160 12620 H 7200 = 7C A3 4D 6C 18 FE 36 4C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-11-25 11:41
-1005 3833 V 7200 = 7C A3 4D 6C 18 FE 36 4C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-25 11:41
-160 4164 H 7200 = F0 E6 3C 12 F4 77 D1 3C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 | 4:2:0 = Fi15_GNVE =  =  = 2026-11-25 13:17
-160 12611 H 7199 = F0 E6 3C 12 F4 77 D1 3C = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = Fi15_GNVE =  =  = 2026-11-25 13:19
 130 11058 H 7200 = 12 3C AA F8 14 22 A3 D9 = Wrestling: WWETNAAEWImpactWoSW... All Brands All Events (KEYS ONLY PLZ NO CHAT Use ENCRYPTION CHAT for CHAT) = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 1 EU = WWE NXT =  = 2026-11-25 06:02
 130 11591 H 7500 = 11 24 20 55 26 AA BB 8B = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = HotBird 13F/13G ( 13E ) = HD | 4.2.0 | SD = X20-01 SDI Enc 2 = Miss Universe 75TH 2026 =  = 2026-11-25 06:18
