@@ -1,25 +1,28 @@
+160 12630 V 7199 = C5 C7 2F BB A3 29 14 E0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  =  =  = 2026-11-26 16:24
+130 12526 H 7199 = C1 E9 A7 51 D5 F3 24 EC = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 MAIN =  =  = 2026-11-26 19:41
+260 12627 V 3500 = FD EA 55 3C 8A CB 00 55 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Badr 4/5/6/7 ( 26E ) = 4.2.0 | SD = ERTU SD1 2 =  =  = 2026-11-26 20:09
+130 12707 H 7199 = 81 3F 1A DA 1A 22 04 40 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = POR 21 =  =  = 2026-11-26 20:41
+160 10985 V 9600 = DC AE 11 9B 55 69 EF AD = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4.2.2 = POL-55 ENC2 =  =  = 2026-11-26 21:16
 130 11085 V 9874 = 49 24 22 8F 91 3F 39 09 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = GVA_Fi01 =  =  = 2026-11-26 03:26
 130 10844 H 14400 = 9B 29 A6 6A 3E 5C B5 4F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 | sd = ITA 415 Eur U21 FD Main =  =  = 2026-11-26 15:42
 70 11602 H 14400 = DA BA 25 B9 36 BA DA CA = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = hd | 4:2:0 = UKI 510 ENG v NZ main =  =  = 2026-11-26 17:15
 420 11191 V 7200 = B0 26 AB 81 CD 20 27 14 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-26 20:04
 750 10960 H 7500 = 51 3B 68 F4 8C 30 5E 1A = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = ABS 2/2A ( 75E ) = HD | 4.2.0 = beIN SPORT = EUROPA LEAGUE Olympiacos F.C Vs AC Milan =  = 2026-11-26 20:38
 1005 4031 V 9875 = 9B 29 A6 6A 3E 5C B5 4F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-26 21:02
-216 11667 H 6666 = A4 06 42 EC 0D 41 75 C3 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 21C ( 21.6E ) = 4.2.0 | HD = WDL Doha WF =  =  = 2026-11-26 17:54
+160 12653 H 17140 = BA DA 48 DC 75 FA DA 49 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 16D ( 16E ) = hd | 4:2:2 = NL2SAT FEED1 =  =  = 2026-11-26 21:13
+1005 3984 V 7500 = F8 42 9D D7 CE FC 26 F0 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 2 =  =  = 2026-11-26 21:05
+1005 3975 V 7500 = AF 12 EF B0 14 0D 31 52 = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 4:2:0 = Astra 1 Service 4 =  =  = 2026-11-26 21:06
 130 12696 H 7200 = 81 3F 1A DA 1A 22 04 40 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = ISL-RKS-002 - MAIN =  =  = 2026-11-26 20:51
-130 11666 H 7199 = 8F A5 F6 2A 5E C1 E1 00 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 | HD = EDS807HD.1 =  =  = 2026-11-26 20:57
 100 3904 H 3749 = E4 F0 17 EB A6 17 9A 57 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-26 20:58
 48 11485 V 5000 = AA A1 23 6E BB B2 22 8F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Astra 4A ( 4.8E ) = 4.2.0 = Handball =  =  = 2026-11-26 15:54
 130 10829 H 7199 = 82 5A AD 89 19 D7 98 88 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-PSG-PLO =  =  = 2026-11-26 17:36
 130 10838 V 7199 = 75 A1 C2 D8 9C 81 74 91 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-VES-AAH =  =  = 2026-11-26 18:49
-130 11676 H 7200 = 33 5C B1 40 7A 7D 1E 15 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-BER-MTM = EHF Champions League - =  = 2026-11-26 20:54
-160 12630 V 7199 = C5 C7 2F BB A3 29 14 E0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  =  =  = 2026-11-26 16:24
-130 12526 H 7199 = C1 E9 A7 51 D5 F3 24 EC = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = E394 MAIN =  =  = 2026-11-26 19:41
-260 12627 V 3500 = FD EA 55 3C 8A CB 00 55 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Badr 4/5/6/7 ( 26E ) = 4.2.0 | SD = ERTU SD1 2 =  =  = 2026-11-26 20:09
-130 12707 H 7199 = 81 3F 1A DA 1A 22 04 40 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = POR 21 =  =  = 2026-11-26 20:41
-160 12512 V 7199 = C5 C7 2F BB A3 29 14 E0 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Eutelsat 16D ( 16E ) = 4:2:0 = main1 =  =  = 2026-11-26 20:51
+130 11676 H 7200 = 33 5C B1 40 7A 7D 1E 15 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-BER-MTM = EHF Champions League - Füchse Berlin vs MT Melsungen =  = 2026-11-26 20:54
+130 11666 H 7199 = 8F A5 F6 2A 5E C1 E1 00 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 | HD = EDS807HD.1 =  =  = 2026-11-26 20:57
 70 11093 V 7200 = 20 26 AB F1 CD 1E CA B5 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 7C ( 7E ) = 4:2:0 = Polsat Sport = CEV Champions League Volley Women - Uni Opole Lodz vs Volley Mulhouse Alsace =  = 2026-11-26 20:04
 130 12610 V 7200 = FF EE D1 BE 12 6E 02 82 = VOLLYBALL FEEDS All Satellites KU Band C band = HotBird 13F/13G ( 13E ) = 4:2:0 = ITA832 = CEV Champions League Volley - Conegliano vs Novara =  = 2026-11-26 20:46
 130 11671 H 14997 = 44 4A 22 B0 2C 11 1D 5A = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = sd | 4:2:0 = TNT DR =  =  = 2026-11-26 13:14
+216 11667 H 6666 = A4 06 42 EC 0D 41 75 C3 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Eutelsat 21C ( 21.6E ) = 4.2.0 | HD = WDL Doha WF =  =  = 2026-11-26 17:54
 31 10988 H 7500 = A4 06 42 EC 0D 41 75 C3 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Eutelsat 3C ( 3.1E ) = 4.2.0 = QAT036 BACKUP =  =  = 2026-11-26 18:36
 160 11187 H 7199 = 6A 66 4A 1A 7A 4A 84 48 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = Eutelsat 16D ( 16E ) = 4:2:0 | HD = TVS UE1 HD Sendeweg1 =  =  = 2026-11-26 18:25
 100 3888 V  = 3F 07 BF 05 25 42 B8 1F = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-26 16:43
