@@ -1,3 +1,5 @@
+48 11485 V 5000 = AA A1 23 6E BB B2 22 8F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Astra 4A ( 4.8E ) = 4.2.0 = Handball =  =  = 2026-11-26 15:54
+130 10844 H 14400 = 9B 29 A6 6A 3E 5C B5 4F = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:2 = ITA 415 Eur U21 FD Main =  =  = 2026-11-26 15:42
 1005 3926 V 7200 = 04 20 61 85 B5 39 AC 9A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = AFC CL2 2026 Main =  =  = 2026-11-26 10:16
 1005 3808 H 7200 = D1 37 A9 B1 DF F8 04 DB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = 2026 AFC A =  =  = 2026-11-26 11:36
 160 12528 H 7200 = 79 D7 B9 09 28 40 CF 37 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = TLCAT-003 -01 =  =  = 2026-11-26 11:37
@@ -16,4 +18,5 @@
 30 4041 V 7200 = A4 5D 12 13 24 56 78 02 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = SMAT -Mumbai 2026 DF =  =  = 2026-11-26 08:06
 30 4058 V 7200 = BC FA 22 D8 73 56 34 FD = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 =  =  =  = 2026-11-26 08:23
 130 11085 V 9874 = 49 24 22 8F 91 3F 39 09 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = GVA_Fi01 =  =  = 2026-11-26 03:26
+130 10819 H 7200 = FD 56 AA FD BD 26 11 F4 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  = Andalucia Costa Del Sol - Open Espana 2026 =  = 2026-11-26 15:53
 130 10828 H 7200 = FF FD D1 CD 12 6E 01 81 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = GCUK ENC 02 =  =  = 2026-11-26 11:49
