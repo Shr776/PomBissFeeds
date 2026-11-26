@@ -1,3 +1,4 @@
+130 11671 H 14997 = 44 4A 22 B0 2C 11 1D 5A = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = sd | 4:2:0 = TNT DR =  =  = 2026-11-26 13:14
 1005 3926 V 7200 = 04 20 61 85 B5 39 AC 9A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = AFC CL2 2026 Main =  =  = 2026-11-26 10:16
 1005 3808 H 7200 = D1 37 A9 B1 DF F8 04 DB = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4:2:0 = 2026 AFC A =  =  = 2026-11-26 11:36
 160 12528 H 7200 = 79 D7 B9 09 28 40 CF 37 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 = TLCAT-003 -01 =  =  = 2026-11-26 11:37
@@ -6,6 +7,9 @@
 160 12647 H 7200 = 04 65 83 EC 48 CA 48 5A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4.2.0 =  =  =  = 2026-11-26 12:22
 160 12656 H 7199 = E0 64 04 48 3D 72 12 C1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = MYASTEKL-M =  =  = 2026-11-26 12:26
 160 11188 H 7199 = 93 DF E1 53 96 43 84 5D = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 =  =  =  = 2026-11-26 12:31
+160 11188 H 7199 = 93 DF E1 53 96 43 84 5D = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 =  = Gangwon FC vs Kitchee SC =  = 2026-11-26 13:05
+160 12656 H 7199 = E0 64 04 48 3D 72 12 C1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = MYASTEKL-M = Kuching City vs Phnom Penh Crown =  = 2026-11-26 13:06
+160 3926 V 7200 = 04 20 61 85 B5 39 AC 9A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = AFC CL2 2026 Main = Tampines Rovers vs Shanghai Shenhua =  = 2026-11-26 13:10
 130 12583 V 7200 = F1 8C 24 A1 31 D1 73 75 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-2 supertennis main = Davis Cup Finals 2026 =  = 2026-11-26 11:38
 130 12592 V 7200 = B0 9E DF 2D 06 5D D6 39 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC-1 main INT = Davis Cup Finals 2026 =  = 2026-11-26 11:39
 30 4041 V 7200 = A4 5D 12 13 24 56 78 02 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = SMAT -Mumbai 2026 DF =  =  = 2026-11-26 08:06
