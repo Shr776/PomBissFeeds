@@ -1,6 +1,10 @@
-216 11667 H 6666 = A4 06 42 EC 0D 41 75 C3 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 21C ( 21.6E ) = 4.2.0 | HD = WDL Doha WF =  =  = 2026-11-26 17:54
 48 11485 V 5000 = AA A1 23 6E BB B2 22 8F = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Astra 4A ( 4.8E ) = 4.2.0 = Handball =  =  = 2026-11-26 15:54
 130 10829 H 7199 = 82 5A AD 89 19 D7 98 88 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-ELM-PSG-PLO =  =  = 2026-11-26 17:36
+130 10838 V 7199 = 75 A1 C2 D8 9C 81 74 91 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = EHF-CLM-VES-AAH =  =  = 2026-11-26 18:49
+130 11671 H 14997 = 44 4A 22 B0 2C 11 1D 5A = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = sd | 4:2:0 = TNT DR =  =  = 2026-11-26 13:14
+31 10988 H 7500 = A4 06 42 EC 0D 41 75 C3 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Eutelsat 3C ( 3.1E ) = 4.2.0 = QAT036 BACKUP =  =  = 2026-11-26 18:36
+216 11667 H 6666 = A4 06 42 EC 0D 41 75 C3 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 21C ( 21.6E ) = 4.2.0 | HD = WDL Doha WF =  =  = 2026-11-26 17:54
+160 11187 H 7199 = 6A 66 4A 1A 7A 4A 84 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | HD = TVS UE1 HD Sendeweg1 =  =  = 2026-11-26 18:25
 130 11085 V 9874 = 49 24 22 8F 91 3F 39 09 = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:0 = GVA_Fi01 =  =  = 2026-11-26 03:26
 130 10844 H 14400 = 9B 29 A6 6A 3E 5C B5 4F = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = HotBird 13F/13G ( 13E ) = 4:2:2 | sd = ITA 415 Eur U21 FD Main =  =  = 2026-11-26 15:42
 70 11602 H 14400 = DA BA 25 B9 36 BA DA CA = UEFA CHAMPIONS LEAGUE EUROPA LEAGUE SUPER CUP U16 U17 U19 U21 etc 3.1°E 7°E 10°E 16°E 8°W 0.8°W... = Eutelsat 7C ( 7E ) = hd | 4:2:0 = UKI 510 ENG v NZ main =  =  = 2026-11-26 17:15
@@ -24,7 +28,6 @@
 160 12656 H 7199 = E0 64 04 48 3D 72 12 C1 = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = MYASTEKL-M = Kuching City vs Phnom Penh Crown =  = 2026-11-26 13:06
 160 3926 V 7200 = 04 20 61 85 B5 39 AC 9A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = Eutelsat 16D ( 16E ) = 4:2:0 = AFC CL2 2026 Main = Tampines Rovers vs Shanghai Shenhua =  = 2026-11-26 13:10
 1005 12647 H 7200 = 04 65 83 EC 48 CA 48 5A = ASIA FOOTBALL (eg AFC Qualifiers and Competitions) = AsiaSat 5 ( 100.5E ) = 4.2.0 | 4:2:0 = DSNG Backup = Svay Rieng Football Club - FC Machida Zelvia =  = 2026-11-26 14:45
-130 11671 H 14997 = 44 4A 22 B0 2C 11 1D 5A = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = sd | 4:2:0 = TNT DR =  =  = 2026-11-26 13:14
 130 12583 V 7200 = F1 8C 24 A1 31 D1 73 75 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-2 supertennis main = Davis Cup Finals 2026 =  = 2026-11-26 11:38
 130 12592 V 7200 = B0 9E DF 2D 06 5D D6 39 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = ENC-1 main INT = Davis Cup Finals 2026 =  = 2026-11-26 11:39
 390 11467 H 5000 = 20 00 20 40 00 20 00 20 = Middle East WANA West Asia North Africa inc UAE Football (excluding Saudi ArabiaMoroccoAlgeriaEgypt Leagues  Cups) = Hellas Sat 3/4 ( 39E ) = 4.2.0 = KUW-003B =  =  = 2026-11-26 17:21
