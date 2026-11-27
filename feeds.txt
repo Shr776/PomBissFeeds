@@ -1,3 +1,14 @@
+1005 3992 V 7200 = C9 75 C5 03 C8 2A E1 D3 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-27 09:30
+750 11685 V 3750 = 12 13 13 38 12 13 15 3A = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = Unname =  =  = 2026-11-27 14:22
+750 11685 V 3750 = 12 13 13 38 12 13 15 3A = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = Unname =  =  = 2026-11-27 18:03
+130 11686 H 7199 = C9 75 C5 03 C8 2A E1 D3 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = LAT-012 M =  =  = 2026-11-27 19:31
+130 12707 H 7199 = C9 75 C5 03 C8 2A E1 D3 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = EST-003 M =  =  = 2026-11-27 20:28
+192 11618 H 7200 = C9 75 C5 03 C8 2A E1 D3 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = Astra 1N/1P ( 19.2E ) = 4.2.0 = HOL324 WTT TX2 =  =  = 2026-11-27 21:41
+130 12688 H 7200 = C9 75 C5 03 C8 2A E1 D3 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = SWE-043 FIBA SWE-HUN =  =  = 2026-11-27 21:56
+100 3890 H 7200 = E7 D0 FC B3 23 85 1B C3 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 = TAN 005 MAIN =  =  = 2026-11-27 21:42
+130 10810 H 7199 = DC BA 27 BD 11 AB CD 89 = FRENCH FOOTBALL @ 3.1°E 7°E 10°E = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-27 21:36
+420 12692 V 7199 = F4 86 44 BE 50 27 F1 68 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-27 21:20
+160 12639 H 7199 = F6 42 44 7C 53 27 F1 6B = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = test =  =  = 2026-11-27 21:21
 1005 4006 H 7119 = 69 1C 4C D1 4D 8B 08 E0 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = NT_Service-1 =  =  = 2026-11-27 15:01
 130 11646 H 7119 = B4 6B B2 D1 29 AD 10 E6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight X feed =  =  = 2026-11-27 15:52
 130 11617 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight 180 =  =  = 2026-11-27 16:03
@@ -6,35 +17,24 @@
 130 11599 H 7199 = F2 34 AC D2 22 38 11 6B = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = Cage Warriors  BEC =  =  = 2026-11-27 20:49
 1005 3974 V 7119 = F2 34 AC D2 22 38 11 6B = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Cage Warriors  BEC =  =  = 2026-11-27 20:55
 130 11075 V 9874 = 09 7C D0 55 F2 F7 15 FE = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = FIN-006 Feed A =  =  = 2026-11-27 20:31
-1005 3992 V 7200 = C9 75 C5 03 C8 2A E1 D3 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-27 09:30
-750 11685 V 3750 = 12 13 13 38 12 13 15 3A = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = Unname =  =  = 2026-11-27 14:22
-750 11685 V 3750 = 12 13 13 38 12 13 15 3A = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = Unname =  =  = 2026-11-27 18:03
-130 11686 H 7199 = C9 75 C5 03 C8 2A E1 D3 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = LAT-012 M =  =  = 2026-11-27 19:31
-130 12707 H 7199 = C9 75 C5 03 C8 2A E1 D3 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = HotBird 13F/13G ( 13E ) = 4:2:0 = EST-003 M =  =  = 2026-11-27 20:28
 420 11624 V 7500 = 95 DE DD 50 9D 10 69 16 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 141 A =  =  = 2026-11-27 20:14
 160 12593 H 7198 = 13 57 AB 15 CD 24 68 59 = Handbal Biss Feed 10°E 16°E 3E  100.5°E = Eutelsat 16D ( 16E ) = 4:2:0 | HD = EHF-CLM-VES-AAH = Teams : = Eutelsat 16A @ 16.0E ( KU-BAND ) = 2026-11-27 20:01
 160 12528 H 7200 = 0A E6 7D 6D C3 87 7E C8 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16D ( 16E ) = 4:2:0 = Ita 863 Main = SuperLega Volleyball - Perugia vs Civitanova =  = 2026-11-27 00:18
 400 11140 V 4400 = 66 C6 99 C5 79 81 19 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Express AM7 ( 40E ) = 4.2.0 = SNG 01 - Chain A =  =  = 2026-11-27 19:25
 130 12527 H 9875 = 33 1B 1F 6D 0D E3 0C FC = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = IPF = Moto GP =  = 2026-11-27 10:48
 400 11128 V 4400 = 96 3A 59 29 69 11 C7 41 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Express AM7 ( 40E ) = 4.2.0 = UAE074-M =  =  = 2026-11-27 19:17
-130 11609 V 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 = AFLW =  =  = 2026-11-27 12:06
-160 12647 H 7200 = BA 31 51 3C CC A4 3E AE = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = World Clean Feed = HSBC SVNS =  = 2026-11-27 16:12
-100 11259 V 7119 = FD AA BB 62 C4 27 11 FC = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 10B ( 10E ) = 4:2:0 = Pitch Fiji v Italy World TX =  =  = 2026-11-27 18:37
-130 10844 V 14240 = FD AA BB 62 C4 27 11 FC = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-27 18:38
-1005 3860 V 30000 = 6A 66 4A 1A 7A 4A 84 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi18_GNVE =  =  = 2026-11-27 11:00
-160 11144 H 7200 = 6A 66 4A 1A 7A 4A 84 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4.2.0 | HD = TVS UE1 HD Sendeweg1 =  =  = 2026-11-27 12:04
-130 11693 H 7199 = BD F3 AE 5E 22 67 90 19 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-11-27 17:18
-70 10982 H 9800 = 16 27 FE 3B ED 20 26 33 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:0 = UKI-1852 C1 =  =  = 2026-11-27 18:03
-130 11187 V 9874 = 71 05 9A 10 A7 85 E5 11 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = SLQ-008 Main =  =  = 2026-11-27 18:20
+130 11187 V 9874 = 71 05 9A 10 A7 85 E5 11 = Cycling  Mountain Bike inc BMX Sporting Events 7ºE  10°E = HotBird 13F/13G ( 13E ) = 4:2:0 = SLQ-008 Main =  =  = 2026-11-27 18:20
 130 12583 V 7200 = 9C FC 8C 24 FB 09 B2 B6 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-2 supertennis main = Davis Cup Finals 2026 =  = 2026-11-27 17:37
 70 11141 V 7200 = 26 03 71 9A 07 CA 94 65 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = Eutelsat 7C ( 7E ) = 4:2:0 = RAI ITA 887 A = Davis Cup Finals 2026 =  = 2026-11-27 18:15
 30 4010 V 7200 = FE 2C 4B 75 DE 93 E4 55 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = INT LEAGUE T20 =  =  = 2026-11-27 18:07
+1005 3860 V 30000 = 6A 66 4A 1A 7A 4A 84 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi18_GNVE =  =  = 2026-11-27 11:00
+160 11144 H 7200 = 6A 66 4A 1A 7A 4A 84 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4.2.0 | HD = TVS UE1 HD Sendeweg1 =  =  = 2026-11-27 12:04
+70 10982 H 9800 = 16 27 FE 3B ED 20 26 33 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:0 = UKI-1852 C1 =  =  = 2026-11-27 18:03
+-50 4126 H 7200 = AB C4 CC 3B 88 AB C3 F6 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 5 West B ( 5W ) = 4:2:0 = EVENTOS1 =  =  = 2026-11-27 02:06
+130 11693 H 7199 = BD F3 AE 5E 22 67 90 19 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-11-27 17:18
 215 10994 H 7200 = BC BC 11 89 55 DE DE 11 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-11-27 14:52
-130 11685 H 7200 = BC BC 11 89 55 DE DE 11 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = MCR 005 MAIN =  =  = 2026-11-27 15:53
-130 11657 H 7199 = 3F 07 BF 05 25 42 B8 1F = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi16_GNVE =  =  = 2026-11-27 14:34
 1005 3840 H 30000 = 5E 64 A3 65 F0 FE 6B 59 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 1 = Levante vs Racing Santander =  = 2026-11-27 09:30
 1005 3975 V 7499 = F1 B9 17 C1 A9 27 8A 5A = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 3 = American Football — NFL 2026/27 Matchweek 12 = Kansas City Chiefs vs Buffalo Bills (@ Highmark Stadium) = 2026-11-27 05:08
--50 4126 H 7200 = AB C4 CC 3B 88 AB C3 F6 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 5 West B ( 5W ) = 4:2:0 = EVENTOS1 =  =  = 2026-11-27 02:06
 215 11578 H 5000 = FE ED 27 12 11 20 26 57 = Moroccan Football (Botola Pro) 21.5E16E10E 7E  3.1E... = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-11-27 20:34
 1220 4129 H 15000 = NO KEY = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = AsiaSat 9 ( 122E ) = 4:2:2 = IAC Path 2 =  =  = 2026-11-27 02:35
 100 3885 H  = EB 54 4F 8E D0 B1 DA 5B = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = Eutelsat 10B ( 10E ) = 4:2:0 =  =  =  = 2026-11-27 20:21
