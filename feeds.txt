@@ -1,3 +1,4 @@
+1005 3975 V 7499 = F1 B9 17 C1 A9 27 8A 5A = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 3 = American Football — NFL 2026/27 Matchweek 12 = Kansas City Chiefs vs Buffalo Bills (@ Highmark Stadium) = 2026-11-27 05:08
 -50 4126 H 7200 = AB C4 CC 3B 88 AB C3 F6 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 5 West B ( 5W ) = 4:2:0 = EVENTOS1 =  =  = 2026-11-27 02:06
 160 12528 H 7200 = 0A E6 7D 6D C3 87 7E C8 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16D ( 16E ) = 4:2:0 = Ita 863 Main = SuperLega Volleyball - Perugia vs Civitanova =  = 2026-11-27 00:18
 1220 4129 H 15000 = NO KEY = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = AsiaSat 9 ( 122E ) = 4:2:2 = IAC Path 2 =  =  = 2026-11-27 02:35
