@@ -1,3 +1,4 @@
+1005 4146 V 7200 = 2F 3C A1 0C AD A5 68 BA = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Service-1A =  =  = 2026-11-27 11:28
 1005 3860 V 30000 = 6A 66 4A 1A 7A 4A 84 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi18_GNVE =  =  = 2026-11-27 11:00
 130 12527 H 9875 = 33 1B 1F 6D 0D E3 0C FC = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = IPF = Moto GP =  = 2026-11-27 10:48
 1005 3992 V 7200 = C9 75 C5 03 C8 2A E1 D3 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-27 09:30
