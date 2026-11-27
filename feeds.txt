@@ -1,10 +1,13 @@
-1005 4006 H 7119 = 69 1C 4C D1 4D 8B 08 E0 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = NT_Service-1 =  =  = 2026-11-27 15:01
 215 10994 H 7200 = BC BC 11 89 55 DE DE 11 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-11-27 14:52
+130 11685 H 7200 = BC BC 11 89 55 DE DE 11 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = MCR 005 MAIN =  =  = 2026-11-27 15:53
+1005 4006 H 7119 = 69 1C 4C D1 4D 8B 08 E0 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = NT_Service-1 =  =  = 2026-11-27 15:01
+130 11646 H 7119 = B4 6B B2 D1 29 AD 10 E6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight X feed =  =  = 2026-11-27 15:52
+1005 4146 V 7200 = 2F 3C A1 0C AD A5 68 BA = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Service-1A =  =  = 2026-11-27 11:28
+130 11088 V 7200 = EA E6 5B 2B C6 02 18 E0 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = FIN-006 Feed B = FIS Cross-Country World Cup - Ruka (FIN) =  = 2026-11-27 14:02
+130 11075 V 9875 = E5 DF 87 4B 6F 6C C9 A4 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = FIN-006 Feed A = FIS Cross-Country World Cup - Ruka (FIN) =  = 2026-11-27 15:28
 130 11657 H 7199 = 3F 07 BF 05 25 42 B8 1F = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi16_GNVE =  =  = 2026-11-27 14:34
 1005 3992 V 7200 = C9 75 C5 03 C8 2A E1 D3 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-27 09:30
 750 11685 V 3750 = 12 13 13 38 12 13 15 3A = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = Unname =  =  = 2026-11-27 14:22
-1005 4146 V 7200 = 2F 3C A1 0C AD A5 68 BA = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Service-1A =  =  = 2026-11-27 11:28
-130 11088 V 7200 = EA E6 5B 2B C6 02 18 E0 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = FIN-006 Feed B = FIS Cross-Country World Cup - Ruka (FIN) =  = 2026-11-27 14:02
 130 11609 V 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 = AFLW =  =  = 2026-11-27 12:06
 1005 3860 V 30000 = 6A 66 4A 1A 7A 4A 84 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi18_GNVE =  =  = 2026-11-27 11:00
 160 11144 H 7200 = 6A 66 4A 1A 7A 4A 84 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4.2.0 | HD = TVS UE1 HD Sendeweg1 =  =  = 2026-11-27 12:04
@@ -13,6 +16,11 @@
 1005 3975 V 7499 = F1 B9 17 C1 A9 27 8A 5A = NFL (American football) Some NFL feeds also show other events beforeafter NFL Event = AsiaSat 5 ( 100.5E ) = 1920x1080i | 4:2:0 | FHD = Astra 1 Service 3 = American Football — NFL 2026/27 Matchweek 12 = Kansas City Chiefs vs Buffalo Bills (@ Highmark Stadium) = 2026-11-27 05:08
 -50 4126 H 7200 = AB C4 CC 3B 88 AB C3 F6 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 5 West B ( 5W ) = 4:2:0 = EVENTOS1 =  =  = 2026-11-27 02:06
 160 12528 H 7200 = 0A E6 7D 6D C3 87 7E C8 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16D ( 16E ) = 4:2:0 = Ita 863 Main = SuperLega Volleyball - Perugia vs Civitanova =  = 2026-11-27 00:18
+130 10819 H 7199 = FD 56 AA FD BD
+27
+11
+F5 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-27 15:57
+192 11427 H 7500 = AC AE 20 7A 35 AA EC CB = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 = Minehead Darts enc 1 =  =  = 2026-11-27 15:55
 130 10828 H 7199 = E0 1F FF FE CD 11 27 05 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU FS GP6 Tokyo =  =  = 2026-11-27 08:26
 1005 4164 H 7200 = E0 1F FF FE CD 11 27 05 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 = ISU FS GP6 Tokyo =  =  = 2026-11-27 09:28
 1220 4129 H 15000 = NO KEY = TV Shows-TeleshopInfomercialsGamingX-FactorBig BrotherDr WhoLove IslandEurovisionCelebThe VoiceTalent.. @ All = AsiaSat 9 ( 122E ) = 4:2:2 = IAC Path 2 =  =  = 2026-11-27 02:35
