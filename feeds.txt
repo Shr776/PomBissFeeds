@@ -1,3 +1,5 @@
+420 12692 V 7199 = F4 86 44 BE 50 27 F1 68 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-27 21:20
+160 12639 H 7199 = F6 42 44 7C 53 27 F1 6B = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = test =  =  = 2026-11-27 21:21
 130 11075 V 9874 = 09 7C D0 55 F2 F7 15 FE = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = FIN-006 Feed A =  =  = 2026-11-27 20:31
 130 11629 H 9874 = CE 11 23 02 ED 08 8C 81 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi15_GNVE =  =  = 2026-11-27 22:38
 130 11623 V 9874 = EE 4D B7 F2 BA 58 5B 6D = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi09_ GNVE =  =  = 2026-11-27 23:19
@@ -29,8 +31,6 @@
 100 3890 H 7200 = E7 D0 FC B3 23 85 1B C3 = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = Eutelsat 10B ( 10E ) = 4:2:0 = TAN 005 MAIN =  =  = 2026-11-27 21:42
 215 10994 H 7200 = BC BC 11 89 55 DE DE 11 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-11-27 14:52
 130 10810 H 7199 = DC BA 27 BD 11 AB CD 89 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-27 21:36
-420 12692 V 7199 = F4 86 44 BE 50 27 F1 68 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-27 21:20
-160 12639 H 7199 = F6 42 44 7C 53 27 F1 6B = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = test =  =  = 2026-11-27 21:21
 420 11624 V 7500 = 95 DE DD 50 9D 10 69 16 = Turkish Football Feeds (46E 42E 7E 4.8E 39E) = Türksat 3A/4A/5B/6A ( 42E ) = 4.2.2 = TUR 141 A =  =  = 2026-11-27 20:14
 160 12528 H 7200 = 0A E6 7D 6D C3 87 7E C8 = VOLLYBALL FEEDS All Satellites KU Band C band = Eutelsat 16D ( 16E ) = 4:2:0 = Ita 863 Main = SuperLega Volleyball - Perugia vs Civitanova =  = 2026-11-27 00:18
 400 11140 V 4400 = 66 C6 99 C5 79 81 19 13 = VOLLYBALL FEEDS All Satellites KU Band C band = Express AM7 ( 40E ) = 4.2.0 = SNG 01 - Chain A =  =  = 2026-11-27 19:25
