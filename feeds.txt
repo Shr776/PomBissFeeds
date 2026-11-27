@@ -1,5 +1,8 @@
 420 12692 V 7199 = F4 86 44 BE 50 27 F1 68 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Türksat 3A/4A/5B/6A ( 42E ) = HD =  =  =  = 2026-11-27 21:20
 160 12639 H 7199 = F6 42 44 7C 53 27 F1 6B = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = test =  =  = 2026-11-27 21:21
+160 12655 V 7200 = F5 10 44 49 54 27 F1 6C = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) =  = F-510 VALENCE main =  =  = 2026-11-27 22:09
+130 11075 V 9875 = E5 DF 87 4B 6F 6C C9 A4 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = FIN-006 Feed A = FIS Cross-Country World Cup - Ruka (FIN) =  = 2026-11-27 15:28
+130 11088 V 7199 = 09 7C D0 55 F2 F7 15 FE = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = FIN-006 Feed B =  =  = 2026-11-27 17:32
 130 11075 V 9874 = 09 7C D0 55 F2 F7 15 FE = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = FIN-006 Feed A =  =  = 2026-11-27 20:31
 130 11629 H 9874 = CE 11 23 02 ED 08 8C 81 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi15_GNVE =  =  = 2026-11-27 22:38
 130 11623 V 9874 = EE 4D B7 F2 BA 58 5B 6D = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi09_ GNVE =  =  = 2026-11-27 23:19
@@ -40,9 +43,6 @@
 130 12583 V 7200 = 9C FC 8C 24 FB 09 B2 B6 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = HotBird 13F/13G ( 13E ) = 4:2:2 = ENC-2 supertennis main = Davis Cup Finals 2026 =  = 2026-11-27 17:37
 70 11141 V 7200 = 26 03 71 9A 07 CA 94 65 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = Eutelsat 7C ( 7E ) = 4:2:0 = RAI ITA 887 A = Davis Cup Finals 2026 =  = 2026-11-27 18:15
 30 4010 V 7200 = FE 2C 4B 75 DE 93 E4 55 = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = INT LEAGUE T20 =  =  = 2026-11-27 18:07
-1005 3860 V 30000 = 6A 66 4A 1A 7A 4A 84 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi18_GNVE =  =  = 2026-11-27 11:00
-160 11144 H 7200 = 6A 66 4A 1A 7A 4A 84 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4.2.0 | HD = TVS UE1 HD Sendeweg1 =  =  = 2026-11-27 12:04
-70 10982 H 9800 = 16 27 FE 3B ED 20 26 33 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 7C ( 7E ) = 4:2:0 = UKI-1852 C1 =  =  = 2026-11-27 18:03
 -50 4126 H 7200 = AB C4 CC 3B 88 AB C3 F6 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = Eutelsat 5 West B ( 5W ) = 4:2:0 = EVENTOS1 =  =  = 2026-11-27 02:06
 130 11693 H 7199 = BD F3 AE 5E 22 67 90 19 = SOUTH AMERICAN FOOTBALL: ARGENTINA BRAZIL PARAGUAY CHILE (inc CONMEBOL Copa América) = HotBird 13F/13G ( 13E ) = 4:2:2 =  =  =  = 2026-11-27 17:18
 1005 3840 H 30000 = 5E 64 A3 65 F0 FE 6B 59 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 1 = Levante vs Racing Santander =  = 2026-11-27 09:30
@@ -60,6 +60,5 @@
 27
 11
 F5 = All Golf Feeds: World GolfAmericas Cupetc - 7°E 10°E 100.5°E ...etc = HotBird 13F/13G ( 13E ) = 4:2:0 =  =  =  = 2026-11-27 15:57
-192 11427 H 7500 = AC AE 20 7A 35 AA EC CB = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 = Minehead Darts enc 1 =  =  = 2026-11-27 15:55
 130 10828 H 7199 = E0 1F FF FE CD 11 27 05 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU FS GP6 Tokyo =  =  = 2026-11-27 08:26
 1005 4164 H 7200 = E0 1F FF FE CD 11 27 05 = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 = ISU FS GP6 Tokyo =  =  = 2026-11-27 09:28
