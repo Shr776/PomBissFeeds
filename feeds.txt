@@ -1,14 +1,16 @@
-215 10994 H 7200 = BC BC 11 89 55 DE DE 11 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-11-27 14:52
-130 11685 H 7200 = BC BC 11 89 55 DE DE 11 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = MCR 005 MAIN =  =  = 2026-11-27 15:53
+130 11609 V 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 = AFLW =  =  = 2026-11-27 12:06
+160 12647 H 7200 = BA 31 51 3C CC A4 3E AE = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) = 4:2:0 = World Clean Feed = HSBC SVNS =  = 2026-11-27 16:12
 1005 4006 H 7119 = 69 1C 4C D1 4D 8B 08 E0 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = NT_Service-1 =  =  = 2026-11-27 15:01
 130 11646 H 7119 = B4 6B B2 D1 29 AD 10 E6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight X feed =  =  = 2026-11-27 15:52
+130 11617 H 7119 = A3 6B A2 B0 29 BD 10 F6 = UFC  FFC  MMA Feeds 10°E 7°E  100.5°E = HotBird 13F/13G ( 13E ) = 4:2:0 = One Friday Fight 180 =  =  = 2026-11-27 16:03
+215 10994 H 7200 = BC BC 11 89 55 DE DE 11 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = Eutelsat 21B ( 21.5E ) = 4:2:0 =  =  =  = 2026-11-27 14:52
+130 11685 H 7200 = BC BC 11 89 55 DE DE 11 = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = HotBird 13F/13G ( 13E ) = 4.2.0 = MCR 005 MAIN =  =  = 2026-11-27 15:53
 1005 4146 V 7200 = 2F 3C A1 0C AD A5 68 BA = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Service-1A =  =  = 2026-11-27 11:28
 130 11088 V 7200 = EA E6 5B 2B C6 02 18 E0 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = FIN-006 Feed B = FIS Cross-Country World Cup - Ruka (FIN) =  = 2026-11-27 14:02
 130 11075 V 9875 = E5 DF 87 4B 6F 6C C9 A4 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = FIN-006 Feed A = FIS Cross-Country World Cup - Ruka (FIN) =  = 2026-11-27 15:28
 130 11657 H 7199 = 3F 07 BF 05 25 42 B8 1F = AFRICAN FOOTBALL (inc. CAF Africa Cup of Nations  Other CAF) 10°E 7°E etc..etc.. = HotBird 13F/13G ( 13E ) = 4:2:0 = Fi16_GNVE =  =  = 2026-11-27 14:34
 1005 3992 V 7200 = C9 75 C5 03 C8 2A E1 D3 = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = AsiaSat 5 ( 100.5E ) = 4:2:0 =  =  =  = 2026-11-27 09:30
 750 11685 V 3750 = 12 13 13 38 12 13 15 3A = Basketball (CBAWCBALNBTBLEuroleagueNBA...) Feeds (7°E10°E16°E62°E100.5°E  110.5°E) = ABS 2/2A ( 75E ) = 4.2.0 = Unname =  =  = 2026-11-27 14:22
-130 11609 V 7200 = 18 1C 34 68 47 30 1B 92 = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = HotBird 13F/13G ( 13E ) = 4.2.0 = AFLW =  =  = 2026-11-27 12:06
 1005 3860 V 30000 = 6A 66 4A 1A 7A 4A 84 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = AsiaSat 5 ( 100.5E ) = 4:2:0 = Fi18_GNVE =  =  = 2026-11-27 11:00
 160 11144 H 7200 = 6A 66 4A 1A 7A 4A 84 48 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4.2.0 | HD = TVS UE1 HD Sendeweg1 =  =  = 2026-11-27 12:04
 130 12527 H 9875 = 33 1B 1F 6D 0D E3 0C FC = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = IPF = Moto GP =  = 2026-11-27 10:48
