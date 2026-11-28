@@ -1,3 +1,4 @@
+130 12688 H 7120 = 25 3A 21 80 53 4B 26 C4 = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = hd | 4:2:0 = Pitch EFL West Brom v Bristol =  =  = 2026-11-28 18:05
 30 4010 V 7200 = 7D 28 C8 6D B4 4F 8A 8D = Cricket Feeds @ 100.5°E 10°E 68°E.... = Eutelsat 3B ( 3E ) = 4:2:0 = INT LEAGUE T20 =  =  = 2026-11-28 17:59
 0 11471 V 7499 = 13 D2 11 F6 28 CC 81 75 = BELGIAN FOOTBALL @ 7°E 10°E =  = HD =  =  =  = 2026-11-28 17:52
 70 11053 V 9600 = BC 14 20 F0 26 28 11 5F = ITALY FOOTBALL (If 4:2:2 or 4:2:0 please include this info in your post) = Eutelsat 7C ( 7E ) = 4:2:2 = ITA727ENC 1 = Italy Serie B - Ascoli vs Entella =  = 2026-11-28 14:40
@@ -34,7 +35,6 @@
 0 12713 V 7200 = F4 86 45 BF 01 28 F1 1A = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here =  = 4:2:0 =  =  =  = 2026-11-28 16:40
 1005 3808 H 7200 = CF A1 20 90 26 12 34 6C = FIFA Internationals FIFA World Cup 2014 2018 2022 2026  QualifiersFriendlies. World Club Championship.  (7°E10°E etc) = AsiaSat 5 ( 100.5E ) = 4:2:0 = Service-1 =  =  = 2026-11-28 16:20
 160 12527 H 4936 = 65 B5 6C 86 66 C7 40 6D = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = Eutelsat 16D ( 16E ) = 4:2:0 | HD =  =  =  = 2026-11-28 16:16
-130 12679 H 7120 = 23 89 FE AA 12 EE 2A 2A = ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E 23.5°E  10°E  7°E  100.5°E  0.8°WEST = HotBird 13F/13G ( 13E ) = 4:2:0 = Pitch - Preston V Norwich = Preston North End vs Norwich City =  = 2026-11-28 16:04
 130 12527 H 9875 = FC D0 65 31 6C ED 6D C6 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = IPF = Moto GP =  = 2026-11-28 10:32
 30 4031 V 7200 = DA DA 11 C5 43 DA DA F7 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Eutelsat 3B ( 3E ) = 4:2:0 = IRL 2026 GR. NOIDA MAIN =  =  = 2026-11-28 11:26
 750 3825 V 7500 = C5 A8 C1 2E B7 C5 C6 42 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = ABS 2/2A ( 75E ) = 4:2:0 = SPOTV MotoGP Main =  =  = 2026-11-28 15:18
