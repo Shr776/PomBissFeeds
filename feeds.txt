@@ -1,5 +1,7 @@
-130 11654 H 9875 = E5 E1 3B 01 2A 5E B3 3B = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = 2K12 Winterberg Main =  =  = 2026-11-28 10:49
 130 12527 H 9875 = FC D0 65 31 6C ED 6D C6 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = HotBird 13F/13G ( 13E ) = 4:2:0 = IPF = Moto GP =  = 2026-11-28 10:32
+30 4031 V 7200 = DA DA 11 C5 43 DA DA F7 = Motorsport (All CarMotorbike Racing inc Formula E F1 NASCAR RALLY Motorcross Speedway etc) @ All Satellites = Eutelsat 3B ( 3E ) = 4:2:0 = IRL 2026 GR. NOIDA MAIN =  =  = 2026-11-28 11:26
+130 11654 H 9875 = E5 E1 3B 01 2A 5E B3 3B = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = 2K12 Winterberg Main = Luge - Winterberg World Cup =  = 2026-11-28 10:49
+130 11088 V 7200 = C6 29 08 F7 B4 ED 43 E4 = Winter sport (Alpine SkiingBobsleighSnowboardSnow Polo...) = HotBird 13F/13G ( 13E ) = 4:2:0 = FIN-006 Feed B = FIS Cross-Country World Cup - Ruka (FIN) =  = 2026-11-28 11:02
 130 11067 H 7200 = BA C2 34 B0 DA CE E1 89 = Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed. = HotBird 13F/13G ( 13E ) = 4:2:0 = IMG 2 EU =  =  = 2026-11-28 10:22
 1005 3840 H 30000 = F6 08 43 41 B0 7C 49 75 = SPAIN FOOTBALL (Please include 4:2:0 or 4:2:2 info in your post) = AsiaSat 5 ( 100.5E ) = 4:2:2 = OVERON 1 = Málaga vs Athletic Club =  = 2026-11-28 10:20
 1005 3966 V 7200 = 65 7A CF AE 23 02 CB F0 = Tennis (ATPWTAFrance:Roland GarrosItaly:MastersEngland:WimbledonAustralian  US Open......) @ 3°E7°E10°E100.5°E = AsiaSat 5 ( 100.5E ) = 4:2:0 = Main =  =  = 2026-11-28 10:12
