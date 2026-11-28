@@ -1,2 +1,5 @@
 160 12647 V 7200 = F5 12 44 4B 55 27 F1 6D = Rugby feeds 30°W 10°E (4:2:2 4:2:0 as stated) Aussie Rules Football - Rugby  goes here = Eutelsat 16D ( 16E ) =  = F509 PROD2 NARBONNE main = PRO D2 - Narbonne vs Grenoble =  = 2026-11-28 00:46
+130 10828 H 7200 = D1 12 8E 71 01 FF ED ED = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU FS GP6 Tokyo = ISU Figure Skating Grand Prix 6 =  = 2026-11-28 05:44
+130 10848 V 7200 = D1 12 8E 71 01 FF DA DA = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = HotBird 13F/13G ( 13E ) = 4:2:0 = ISU ST WT4 Shanghai = ISU Short Track World Tour =  = 2026-11-28 05:52
+1005 4007 H 7200 = D1 12 8E 71 01 FF ED ED = Figure Skating Artistic Skating SPEED SKATING  Dance on Ice - KU BANDC BAND = AsiaSat 5 ( 100.5E ) = 4:2:0 = ISU FS GP6 Tokyo = ISU Figure Skating Grand Prix 6 =  = 2026-11-28 05:59
 192 11427 H 7500 = AC AE 20 7A 35 AA EC CB = Darts Tournaments 10°E7°E1°W = Astra 1N/1P ( 19.2E ) = 4:2:0 = Minehead Darts enc 1 =  =  = 2026-11-28 01:28
